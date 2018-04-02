@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ChinatownTour_v1.0</string>
+    <string name="transport_button">Transport</string>
+    <string name="food_button">Food</string>
+    <string name="hotel_button">Hotel</string>
+    <string name="poi_button">Points Of Interest</string>
+    <string name="history_button">History</string>
+    <string name="itinerary_button">Itinerary</string>
+</resources>
