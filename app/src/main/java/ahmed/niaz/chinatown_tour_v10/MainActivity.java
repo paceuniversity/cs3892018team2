@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
         food_lp_btn.setTextColor(Color.parseColor("#FFFFFF"));
 
         hotel_lp_btn = (Button) findViewById(R.id.hotel_landing_pg);
-        //hotel_lp_btn.setBackgroundColor(0xFFFF0000);
+        hotel_lp_btn.setBackgroundColor(0xFFFF0000);
         hotel_lp_btn.setTextColor(Color.parseColor("#FFFFFF"));
 
         poi_lp_btn = (Button) findViewById(R.id.poi_landing_pg);
