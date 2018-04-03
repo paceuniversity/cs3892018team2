@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="ahmed.niaz.chinatown_tour_v10.SettingsActivity">
+
+    <TextView
+        android:id="@+id/allow_location_textView"
+        android:layout_width="200dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="32dp"
+        android:gravity="center_vertical|left"
+        android:text="@string/allow_location_textview"
+        android:textAppearance="@style/TextAppearance.AppCompat"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Switch
+        android:id="@+id/allow_location_on_off_switch"
+        android:layout_width="0dp"
+        android:layout_height="45dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginStart="8dp"
+        android:switchTextAppearance="@style/TextAppearance.AppCompat"
+        android:textAppearance="@style/TextAppearance.AppCompat.Button"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="@+id/allow_location_textView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/allow_location_textView" />
+
+    <EditText
+        android:id="@+id/email_editText"
+        android:layout_width="0dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="24dp"
+        android:background="@null"
+        android:ems="10"
+        android:hint="@string/email_editText_hint"
+        android:inputType="textEmailAddress"
+        android:textAppearance="@style/TextAppearance.AppCompat"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="@+id/allow_location_on_off_switch"
+        app:layout_constraintStart_toStartOf="@+id/allow_location_textView"
+        app:layout_constraintTop_toBottomOf="@+id/allow_location_textView" />
+
+    <Spinner
+        android:id="@+id/language_spinner"
+        android:layout_width="0dp"
+        android:layout_height="45dp"
+        android:entries="@array/language"
+        app:layout_constraintEnd_toEndOf="@+id/language_change_textView"
+        app:layout_constraintStart_toStartOf="@+id/language_change_textView"
+        app:layout_constraintTop_toBottomOf="@+id/language_change_textView" />
+
+    <TextView
+        android:id="@+id/language_change_textView"
+        android:layout_width="0dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="24dp"
+        android:gravity="center_vertical|left"
+        android:text="@string/language_change_textview"
+        android:textAppearance="@style/TextAppearance.AppCompat"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="@+id/email_editText"
+        app:layout_constraintStart_toStartOf="@+id/email_editText"
+        app:layout_constraintTop_toBottomOf="@+id/email_editText" />
+
+</android.support.constraint.ConstraintLayout>
