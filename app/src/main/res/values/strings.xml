@@ -5,6 +5,9 @@
     <string name="transport_button">Transport</string>
     <string name="food_button">Food</string>
     <string name="hotel_button">Hotel</string>
+    <string name="poi_button">Points Of Interest</string>
+    <string name="history_button">History</string>
+    <string name="itinerary_button">Itinerary</string>
     
     <!-- Hotels -->
     <string name="hotel1_name">The Leon Hotel</string>
@@ -134,8 +137,93 @@
     <string name="hotel18_images">None</string>
     <string name="hotel18_website_link"> http://www.comfortinnles.com/ </string>
     <string name="hotel18_phone_number"> (212) 390-1533   </string>
-        
-    <string name="poi_button">Points Of Interest</string>
-    <string name="history_button">History</string>
-    <string name="itinerary_button">Itinerary</string>
+     
+     <!-- Activities -->
+    
+    
+    <!-- Activities Sub-Section: Shopping -->
+    
+    <String name="Activity1_name" >  </String>
+    <String name="Activity1_Static_Info" >  </String>
+    <String name="Activity1_description" >  </String>
+    <String name="Activit1_images" >  </String>
+    <String name="Activity1_address" >  </String>
+    <String name="Activity1_website_link" >  </String>
+    <String name="Activity1_phone_number" >  </String>
+    
+    <String name="Activity2_name" >  </String>
+    <String name="Activity2_Static_Info" >  </String>
+    <String name="Activity2_description" >  </String>
+    <String name="Activity2_images" >  </String>
+    <String name="Activity2_address" >  </String>
+    <String name="Activity2_website_link" >  </String>
+    <String name="Activity2_phone_number" >  </String>
+    
+    <String name="Activity3_name" >  </String>
+    <String name="Activity3_Static_Info" >  </String>
+    <String name="Activity3_description" >  </String>
+    <String name="Activity3_images" >  </String>
+    <String name="Activity3_address" >  </String>
+    <String name="Activity3_website_link" >  </String>
+    <String name="Activity3_phone_number" >  </String>
+    
+    <String name="Activity4_name" >  </String>
+    <String name="Activity4_Static_Info" >  </String>
+    <String name="Activity4_description" >  </String>
+    <String name="Activity4_images" >  </String>
+    <String name="Activity4_address" >  </String>
+    <String name="Activity4_website_link" >  </String>
+    <String name="Activity4_phone_number" >  </String>
+    
+    <String name="Activity5_name" >  </String>
+    <String name="Activity5_Static_Info" >  </String>
+    <String name="Activity5_description" >  </String>
+    <String name="Activity5_images" >  </String>
+    <String name="Activity5_address" >  </String>
+    <String name="Activity5_website_link" >  </String>
+    <String name="Activity5_phone_number" >  </String>
+    
+    <String name="Activity1_name" >  </String>
+    <String name="Activity1_Static_Info" >  </String>
+    <String name="Activity1_description" >  </String>
+    <String name="Activity_images" >  </String>
+    <String name="Activity_address" >  </String>
+    <String name="Activity_website_link" >  </String>
+    <String name="Activity_phone_number" >  </String>
+    
+    <String name="Activity6_name" >  </String>
+    <String name="Activity6_Static_Info" >  </String>
+    <String name="Activity6_description" >  </String>
+    <String name="Activity6_images" >  </String>
+    <String name="Activity6_address" >  </String>
+    <String name="Activity6_website_link" >  </String>
+    <String name="Activity6_phone_number" >  </String>
+    
+    <String name="Activity7_name" >  </String>
+    <String name="Activity7_Static_Info" >  </String>
+    <String name="Activity7_description" >  </String>
+    <String name="Activity7_images" >  </String>
+    <String name="Activity7_address" >  </String>
+    <String name="Activity7_website_link" >  </String>
+    <String name="Activity7_phone_number" >  </String>
+    
+    <String name="Activity8_name" >  </String>
+    <String name="Activity8_Static_Info" >  </String>
+    <String name="Activity8_description" >  </String>
+    <String name="Activity8_images" >  </String>
+    <String name="Activity8_address" >  </String>
+    <String name="Activity8_website_link" >  </String>
+    <String name="Activity8_phone_number" >  </String>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+     <!---- Food ---->
+ 
 </resources>
