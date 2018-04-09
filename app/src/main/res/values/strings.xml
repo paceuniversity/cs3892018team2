@@ -13,7 +13,8 @@
     Sleek, contemporary rooms offer complimentary Wi-Fi, iPod docks and flat-screen TVs, in addition to Keurig coffeemakers. Upgraded rooms and 1-bedroom suites add bridge or city views.
     Off-site parking is available for a fee.</string>
     <string name="hotel1_images"> </string>
-    <string name="hotel1_phone_website_link">http://www.leonhotelnyc.com/</string>
+    <string name="hotel1_website_link">http://www.leonhotelnyc.com/</string>
+    <string name="hotel1_phone_number">    </string>
 
     <string name="hotel2_name">Hotel Mimosa</string>
     <string name="hotel2_address">79 Division St, New York, NY 10002</string>
