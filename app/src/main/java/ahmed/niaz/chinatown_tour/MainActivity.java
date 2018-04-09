@@ -19,7 +19,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        /* BUTTON VARIABLE ASSIGNMENT */
 
         transport_lp_btn = (Button) findViewById(R.id.transport_landing_pg);
         transport_lp_btn.setBackgroundColor(0xFFFF0000);
