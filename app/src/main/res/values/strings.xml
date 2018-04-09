@@ -5,6 +5,9 @@
     <string name="transport_button">Transport</string>
     <string name="food_button">Food</string>
     <string name="hotel_button">Hotel</string>
+    <string name="poi_button">Points Of Interest</string>
+    <string name="history_button">History</string>
+    <string name="itinerary_button">Itinerary</string>
     
     <!-- Hotels -->
     <string name="hotel1_name">The Leon Hotel</string>
@@ -134,8 +137,89 @@
     <string name="hotel18_images">None</string>
     <string name="hotel18_website_link"> http://www.comfortinnles.com/ </string>
     <string name="hotel18_phone_number"> (212) 390-1533   </string>
-        
-    <string name="poi_button">Points Of Interest</string>
-    <string name="history_button">History</string>
-    <string name="itinerary_button">Itinerary</string>
+     
+     <!-- Activities -->
+    
+    
+    <!-- Activities Sub-Section: Shopping -->
+    
+    <String name="Activity1_shopping_name" >  </String>
+    <String name="Activity1_shopping_Static_Info" >  </String>
+    <String name="Activity1_shopping_description" >  </String>
+    <String name="Activit1_shopping_images" >  </String>
+    <String name="Activity1_shopping_address" >  </String>
+    <String name="Activity1_shopping_website_link" >  </String>
+    <String name="Activity1_shopping_phone_number" >  </String>
+    
+    <String name="Activity2_shopping_name" >  </String>
+    <String name="Activity2_shopping_Static_Info" >  </String>
+    <String name="Activity2_shopping_description" >  </String>
+    <String name="Activity2_shopping_images" >  </String>
+    <String name="Activity2_shopping_address" >  </String>
+    <String name="Activity2_shopping_website_link" >  </String>
+    <String name="Activity2_shopping_phone_number" >  </String>
+    
+    <String name="Activity3_shopping_name" >  </String>
+    <String name="Activity3_shopping_Static_Info" >  </String>
+    <String name="Activity3_shopping_description" >  </String>
+    <String name="Activity3_shopping_images" >  </String>
+    <String name="Activity3_shopping_address" >  </String>
+    <String name="Activity3_shopping_website_link" >  </String>
+    <String name="Activity3_shopping_phone_number" >  </String>
+    
+    <String name="Activity4_shopping_name" >  </String>
+    <String name="Activity4_shopping_Static_Info" >  </String>
+    <String name="Activity4_shopping_description" >  </String>
+    <String name="Activity4_shopping_images" >  </String>
+    <String name="Activity4_shopping_address" >  </String>
+    <String name="Activity4_shopping_website_link" >  </String>
+    <String name="Activity4_shopping_phone_number" >  </String>
+    
+    <String name="Activity5_shopping_name" >  </String>
+    <String name="Activity5_shopping_Static_Info" >  </String>
+    <String name="Activity5_shopping_description" >  </String>
+    <String name="Activity5_shopping_images" >  </String>
+    <String name="Activity5_shopping_address" >  </String>
+    <String name="Activity5_shopping_website_link" >  </String>
+    <String name="Activity5_shopping_phone_number" >  </String>
+    
+    <String name="Activity6_shopping_name" >  </String>
+    <String name="Activity6_shopping_Static_Info" >  </String>
+    <String name="Activity6_shopping_description" >  </String>
+    <String name="Activity6_shopping_images" >  </String>
+    <String name="Activity6_shopping_address" >  </String>
+    <String name="Activity6_shopping_website_link" >  </String>
+    <String name="Activity6_shopping_phone_number" >  </String>
+    
+    <String name="Activity7_shopping_name" >  </String>
+    <String name="Activity7_shopping_Static_Info" >  </String>
+    <String name="Activity7_shopping_description" >  </String>
+    <String name="Activity7_shopping_images" >  </String>
+    <String name="Activity7_shopping_address" >  </String>
+    <String name="Activity7_shopping_website_link" >  </String>
+    <String name="Activity7_shopping_phone_number" >  </String>
+    
+    <String name="Activity8_shopping_name" >  </String>
+    <String name="Activity8_shopping_Static_Info" >  </String>
+    <String name="Activity8_shopping_description" >  </String>
+    <String name="Activity8_shopping_images" >  </String>
+    <String name="Activity8_shopping_address" >  </String>
+    <String name="Activity8_shopping_website_link" >  </String>
+    <String name="Activity_shopping8_phone_number" >  </String>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+     <!---- Food ---->
+    
+    
+    
+    
+ 
 </resources>
