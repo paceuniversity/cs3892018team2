@@ -82,11 +82,11 @@ public class MainActivity extends AppCompatActivity {
         history_lp_btn = (Button) findViewById(R.id.history_landing_pg);
         history_lp_btn.setBackgroundColor(0xFFFF0000);
         history_lp_btn.setTextColor(Color.parseColor("#FFFFFF"));
-
-        // Starts SettingsActivity
-        public void openSettingsActivity() {
-            Intent intent = new Intent(this, SettingsActivity.class);
-            startActivity(intent);
         }
+
+    // Starts SettingsActivity
+    public void openSettingsActivity() {
+        Intent intent = new Intent(this, SettingsActivity.class);
+        startActivity(intent);
     }
 }
