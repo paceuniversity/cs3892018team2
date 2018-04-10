@@ -261,6 +261,7 @@
     <string name="activity15_address">Mott Street; between Canal and Beyard Streets</string>
 
     <!-- Activities Sub-Section: Shopping -->
+<<<<<<< HEAD
 
     <string name="Activity1_shopping_name">K. K. Discount Store  </string>
     <string name="Activity1_shopping_Static_Info"> No-frills stalwart stocking a variety of home goods &amp; Asian decor, from teapots to small furniture. </string>
@@ -272,6 +273,29 @@
 
     <string name="Activity2_shopping_name">T-Pop Shop NYC  </string>
     <string name="Activity2_shopping_Static_Info"> "T-Pop Shop is a trendsetting Online Second Hand Clothing Store, offering first-rate products and exceptional customer
+=======
+    
+<<<<<<< HEAD
+    <string name="Activity1_shopping_name" >  </string>
+    <string name="Activity1_shopping_Static_Info" >  </string>
+    <string name="Activity1_shopping_description" >  </string>
+    <string name="Activity1_shopping_images" >  </string>
+    <string name="Activity1_shopping_address" >  </string>
+    <string name="Activity1_shopping_website_link" >  </string>
+    <string name="Activity1_shopping_phone_number" >  </string>
+=======
+    <string name="Activity1_shopping_name" >K. K. Discount Store  </string>
+    <string name="Activity1_shopping_Static_Info" > No-frills stalwart stocking a variety of home goods &amp; Asian decor, from teapots to small furniture. </string>
+    <string name="Activity1_shopping_description" > Shopping </string>
+    <string name="Activit1_shopping_images" >  </string>
+    <string name="Activity1_shopping_address" > 78 Mulberry St, New York, NY 10013 </string>
+    <string name="Activity1_shopping_website_link" > http://www.kkdiscount.com/ </string>
+    <string name="Activity1_shopping_phone_number" > (212) 513-7043 </string>
+>>>>>>> 50a4e71b76adb3e4aebf2adc33fed4be845e326d
+    
+    <string name="Activity2_shopping_name" >T-Pop Shop NYC  </string>
+    <string name="Activity2_shopping_Static_Info" > "T-Pop Shop is a trendsetting Online Second Hand Clothing Store, offering first-rate products and exceptional customer 
+>>>>>>> c390755dbe5d83fcc6b931711f2b31ec661f845a
     service to shoppers from the comfort of their own homes" </string>
     <string name="Activity2_shopping_description">Shopping  </string>
     <string name="Activity2_shopping_images">  </string>
@@ -314,6 +338,7 @@
     <string name="Activity7_shopping_name">Chinatown Toy Store  </string>
     <string name="Activity7_shopping_Static_Info"> Come here for cute and cheap toys! So much product and easy to get lost in because of extremely cheap prices. Small stuffed
     animals (rilakkuma, doraemon, Totoro, Pokémon, etc) ranging from 3-5$ </string>
+<<<<<<< HEAD
     <string name="Activity7_shopping_description"> Shopping </string>
     <string name="Activity7_shopping_images">  </string>
     <string name="Activity7_shopping_address"> 83 Bayard St, New York, NY 10013 </string>
@@ -387,6 +412,94 @@
     <string name="Historical_siight9_website">www.chinatownsoup.nyc  </string>
 
 
+=======
+    <string name="Activity7_shopping_description" > Shopping </string>
+    <string name="Activity7_shopping_images" >  </string>
+    <string name="Activity7_shopping_address" > 83 Bayard St, New York, NY 10013 </string>
+    <string name="Activity7_shopping_website_link" > http://www.facebook.com/chinatowntoystore </string>
+    <string name="Activity7_shopping_phone_number" > N/a </string>
+    
+    <string name="Activity8_shopping_name" > Canal Street </string>
+    <string name="Activity8_shopping_Static_Info" > An open-street shopping experience with an open-air bazaar feel, complete with vendors willing to bargain  </string>
+    <string name="Activity8_shopping_description" >Shopping  </string>
+    <string name="Activity8_shopping_images" >  </string>
+<<<<<<< HEAD
+    <string name="Activity8_shopping_address" >  </string>
+    <string name="Activity8_shopping_website_link" >  </string>
+    <string name="Activity_shopping8_phone_number" >  </string>
+     <!--  Food -->
+=======
+    <string name="Activity8_shopping_address" > Canal Street New York, NY 10013  </string>
+    <string name="Activity8_shopping_website_link" > N/a </string>
+    <string name="Activity_shopping8_phone_number" > N/a </string>
+
+    
+     <!--  Historical Sights -->
+    
+    
+    <string name="Historical_siight1_name" >Mahayana Buddhist Temple  </string>
+    <string name="Historical_siight1_address" > 133 Canal St, New York, NY 10002 </string>
+    <string name="Historical_siight1_historical_information" > The Mahayana Buddhist Temple is free, open to the public and offers a large meditation area with plenty of space to rest and reflect under the gaze of a 16-foot-high golden Buddha. Just don\'t expect silence here; there\'s usually a festive sound track playing (this is New York City, after all). While the giant Buddha is the temple\'s main attraction, don\'t miss the series of intricate ivory carvings on display in the second-floor gift shop (none are for sale). </string>
+    <string name="Historical_siight1_images" >  </string>
+    <string name="Historical_siight1_website" >https://www.nycgo.com/arts-culture/mahayana-buddhist-temple  </string>
+    
+    <string name="Historical_siight2_name" > Museum of Chinese in America </string>
+    <string name="Historical_siight2_address" > 215 Centre St, New York, NY 10013 </string>
+    <string name="Historical_siight2_historical_information" > The Museum promotes dialogue and understanding among people of all cultural backgrounds, bringing 160 years of Chinese American history to vivid life through its innovative exhibitions, educational and cultural programs. </string>
+    <string name="Historical_siight2_images" >  </string>
+    <string name="Historical_siight2_website" > www.mocanyc.org </string>
+    
+    <string name="Historical_siight3_name" >The Five Points - Point 3  </string>
+    <string name="Historical_siight3_address" > 5111 Canal St, New York, NY 10002 </string>
+    <string name="Historical_siight3_historical_information" > Five Points (or The Five Points) was a 19th-century neighborhood in Lower  Manhattan, New York City. The neighborhood was generally defined as being bound by Centre Street to the west, the Bowery to the east, Canal Street to the  north, and Park Row to the south. </string>
+    <string name="Historical_siight3_images" >  </string>
+    <string name="Historical_siight3_website" > https://en.wikipedia.org/wiki/Five_Points,_Manhattan </string>
+    
+    <string name="Historical_siight4_name" >The Five Points - Point 2  </string>
+    <string name="Historical_siight4_address" > 160 Centre St, New York, NY 10013 </string>
+    <string name="Historical_siight4_historical_information" > Five Points (or The Five Points) was a 19th-century neighborhood in Lower  Manhattan, New York City. The neighborhood was generally defined as being bound by Centre Street to the west, the Bowery to the east, Canal Street to the  north, and Park Row to the south. </string>
+    <string name="Historical_siight4_images" >  </string>
+    <string name="Historical_siight4_website" > https://en.wikipedia.org/wiki/Five_Points,_Manhattan </string>
+    
+    <string name="Historical_siight5_name" >Jarmulowski Building  </string>
+<<<<<<< HEAD
+    <string name="Historical_siight5_address" >  </string>
+    <string name="Historical_siight5_historical_information" > The Jarmulowsky Bank Building is a 12-story building formerly housing the  Jarmulowsky Bank on the Lower East Side of Manhattan, New York City. Located  at Canal Street and Orchard Street, the Jarmulowsky Bank Building was built by  architects Rouse &amp; Goldstone in 1912, in Beaux-Arts style.  </string>
+=======
+    <string name="Historical_siight5_address" > 9 Orchard St, New York, NY 10002 </string>
+    <string name="Historical_siight5_historical_information" > The Jarmulowsky Bank Building is a 12-story building formerly housing the  Jarmulowsky Bank on the Lower East Side of Manhattan, New York City. Located  at Canal Street and Orchard Street, the Jarmulowsky Bank Building was built by  architects Rouse & Goldstone in 1912, in Beaux-Arts style.  </string>
+>>>>>>> f48bf10317e15ccafbce5600ce99f2bbaae9f03d
+    <string name="Historical_siight5_images" >  </string>
+    <string name="Historical_siight5_website" >https://en.wikipedia.org/wiki/Jarmulowsky_Bank_Building </string>
+    
+    <string name="Historical_siight6_name" > Edward Mooney House </string>
+    <string name="Historical_siight6_address" > 18 Bowery, New York, NY 10013 </string>
+    <string name="Historical_siight6_historical_information" >The Edward Mooney House located at 18 Bowery at the corner of Pell Street in  the Chinatown neighborhood of Manhattan, New York City was built between  1785 and 1789 for wealthy butcher Edward Mooney on land he purchased after it  was confiscated from British Loyalist James De Lancey. The Jarmulowsky Bank Building is a 12-story building formerly housing the  Jarmulowsky Bank on the Lower East Side of Manhattan, New York City. Located  at Canal Street and Orchard Street, the Jarmulowsky Bank Building was built by  architects Rouse &amp; Goldstone in 1912, in Beaux-Arts style.   </string>
+    <string name="Historical_siight6_images" >  </string>
+    <string name="Historical_siight6_website" > https://en.wikipedia.org/wiki/Edward_Mooney_House </string>
+    
+    <string name="Historical_siight7_name" > Pike Street Synagogue </string>
+    <string name="Historical_siight7_address" > 5 Pike St, New York, NY 10002 </string>
+    <string name="Historical_siight7_historical_information" > The Pike Street Synagogue, constructed in 1903-04 for the. Congregation Sons of Israel Kalwarie, is a rare surviving synagogue building from that period of New York\'s history when the. Lower East Side served as America\'s main portal for millions of Jewish immigrants.  </string>
+    <string name="Historical_siight7_images" >  </string>
+    <string name="Historical_siight7_website" > http://www.nyc.gov/html/lpc/downloads/pdf/reports/pikestreet.pdf </string>
+    
+    <string name="Historical_siight8_name" >Columbus Park  </string>
+    <string name="Historical_siight8_address" > 67 Mulberry St, New York, NY 10013 </string>
+    <string name="Historical_siight8_historical_information" > Columbus Park located in the heart of China Town is a great place to visit with the children and have a wonderful day. There is seating and swings with a safe area where the children could play. Most of the time you will run into musicians playing their music live.  </string>
+    <string name="Historical_siight8_images" >  </string>
+    <string name="Historical_siight8_website" > https://www.nycgovparks.org/parks/columbus-park-m015 </string>
+    
+    <string name="Historical_siight9_name" > Chinatown Soup </string>
+    <string name="Historical_siight9_address" > The fantasies and confusion one may harbor about the eastern terminus of Canal Street are understandable because Chinatown is the crossroads where the city\'s past and future meet. Here remains one of the few Manhattan communities that fosters a sense of respect for its history.16B Orchard Street (Canal Street) New York, NY 10002 </string>
+    <string name="Historical_siight9_historical_information" >  </string>
+    <string name="Historical_siight9_images" >  </string>
+    <string name="Historical_siight9_website" >www.chinatownsoup.nyc  </string>
+
+>>>>>>> 50a4e71b76adb3e4aebf2adc33fed4be845e326d
+    
+    
+>>>>>>> c390755dbe5d83fcc6b931711f2b31ec661f845a
     <!--  Food -->
 
 
