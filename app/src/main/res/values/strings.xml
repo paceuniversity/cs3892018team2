@@ -146,7 +146,7 @@
     <string name="Activity1_shopping_name" >  </string>
     <string name="Activity1_shopping_Static_Info" >  </string>
     <string name="Activity1_shopping_description" >  </string>
-    <string name="Activit1_shopping_images" >  </string>
+    <string name="Activity1_shopping_images" >  </string>
     <string name="Activity1_shopping_address" >  </string>
     <string name="Activity1_shopping_website_link" >  </string>
     <string name="Activity1_shopping_phone_number" >  </string>
@@ -206,8 +206,6 @@
     <string name="Activity8_shopping_address" >  </string>
     <string name="Activity8_shopping_website_link" >  </string>
     <string name="Activity_shopping8_phone_number" >  </string>
-
-    
      <!--  Food -->
     
     
