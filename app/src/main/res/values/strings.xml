@@ -356,8 +356,13 @@
     <string name="Historical_siight4_website" > https://en.wikipedia.org/wiki/Five_Points,_Manhattan </string>
     
     <string name="Historical_siight5_name" >Jarmulowski Building  </string>
+<<<<<<< HEAD
     <string name="Historical_siight5_address" >  </string>
     <string name="Historical_siight5_historical_information" > The Jarmulowsky Bank Building is a 12-story building formerly housing the  Jarmulowsky Bank on the Lower East Side of Manhattan, New York City. Located  at Canal Street and Orchard Street, the Jarmulowsky Bank Building was built by  architects Rouse &amp; Goldstone in 1912, in Beaux-Arts style.  </string>
+=======
+    <string name="Historical_siight5_address" > 9 Orchard St, New York, NY 10002 </string>
+    <string name="Historical_siight5_historical_information" > The Jarmulowsky Bank Building is a 12-story building formerly housing the  Jarmulowsky Bank on the Lower East Side of Manhattan, New York City. Located  at Canal Street and Orchard Street, the Jarmulowsky Bank Building was built by  architects Rouse & Goldstone in 1912, in Beaux-Arts style.  </string>
+>>>>>>> f48bf10317e15ccafbce5600ce99f2bbaae9f03d
     <string name="Historical_siight5_images" >  </string>
     <string name="Historical_siight5_website" >https://en.wikipedia.org/wiki/Jarmulowsky_Bank_Building </string>
     
