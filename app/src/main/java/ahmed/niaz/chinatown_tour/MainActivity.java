@@ -16,11 +16,22 @@ public class MainActivity extends AppCompatActivity {
     public Button activities_lp_btn;
     public Button itinerary_lp_btn;
     public Button history_lp_btn;
+    public ImageButton settings_btn;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        // Runs openSettingsActivity when the button "settings" is clicked
+        settings_btn = (ImageButton) findViewById(R.id.imageButton);
+        settings_btn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                openSettingsActivity();
+            }
+        });
+
 
         /* Main Menu Variables */
 
@@ -72,6 +83,10 @@ public class MainActivity extends AppCompatActivity {
         history_lp_btn.setBackgroundColor(0xFFFF0000);
         history_lp_btn.setTextColor(Color.parseColor("#FFFFFF"));
 
-
+        // Starts SettingsActivity
+        public void openSettingsActivity() {
+            Intent intent = new Intent(this, SettingsActivity.class);
+            startActivity(intent);
+        }
     }
 }
