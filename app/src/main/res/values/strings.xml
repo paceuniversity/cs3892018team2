@@ -260,8 +260,7 @@
     <string name="activity15_address">Mott Street; between Canal and Beyard Streets</string>
     
     <!-- Activities Sub-Section: Shopping -->
-    
-<<<<<<< HEAD
+
     <string name="Activity1_shopping_name" >  </string>
     <string name="Activity1_shopping_Static_Info" >  </string>
     <string name="Activity1_shopping_description" >  </string>
@@ -269,7 +268,7 @@
     <string name="Activity1_shopping_address" >  </string>
     <string name="Activity1_shopping_website_link" >  </string>
     <string name="Activity1_shopping_phone_number" >  </string>
-=======
+
     <string name="Activity1_shopping_name" >K. K. Discount Store  </string>
     <string name="Activity1_shopping_Static_Info" > No-frills stalwart stocking a variety of home goods &amp; Asian decor, from teapots to small furniture. </string>
     <string name="Activity1_shopping_description" > Shopping </string>
@@ -277,8 +276,7 @@
     <string name="Activity1_shopping_address" > 78 Mulberry St, New York, NY 10013 </string>
     <string name="Activity1_shopping_website_link" > http://www.kkdiscount.com/ </string>
     <string name="Activity1_shopping_phone_number" > (212) 513-7043 </string>
->>>>>>> 50a4e71b76adb3e4aebf2adc33fed4be845e326d
-    
+
     <string name="Activity2_shopping_name" >T-Pop Shop NYC  </string>
     <string name="Activity2_shopping_Static_Info" > "T-Pop Shop is a trendsetting Online Second Hand Clothing Store, offering first-rate products and exceptional customer 
     service to shoppers from the comfort of their own homes" </string>
@@ -333,12 +331,12 @@
     <string name="Activity8_shopping_Static_Info" > An open-street shopping experience with an open-air bazaar feel, complete with vendors willing to bargain  </string>
     <string name="Activity8_shopping_description" >Shopping  </string>
     <string name="Activity8_shopping_images" >  </string>
-<<<<<<< HEAD
+
     <string name="Activity8_shopping_address" >  </string>
     <string name="Activity8_shopping_website_link" >  </string>
     <string name="Activity_shopping8_phone_number" >  </string>
      <!--  Food -->
-=======
+
     <string name="Activity8_shopping_address" > Canal Street New York, NY 10013  </string>
     <string name="Activity8_shopping_website_link" > N/a </string>
     <string name="Activity_shopping8_phone_number" > N/a </string>
@@ -372,13 +370,12 @@
     <string name="Historical_siight4_website" > https://en.wikipedia.org/wiki/Five_Points,_Manhattan </string>
     
     <string name="Historical_siight5_name" >Jarmulowski Building  </string>
-<<<<<<< HEAD
+
     <string name="Historical_siight5_address" >  </string>
     <string name="Historical_siight5_historical_information" > The Jarmulowsky Bank Building is a 12-story building formerly housing the  Jarmulowsky Bank on the Lower East Side of Manhattan, New York City. Located  at Canal Street and Orchard Street, the Jarmulowsky Bank Building was built by  architects Rouse &amp; Goldstone in 1912, in Beaux-Arts style.  </string>
-=======
+
     <string name="Historical_siight5_address" > 9 Orchard St, New York, NY 10002 </string>
     <string name="Historical_siight5_historical_information" > The Jarmulowsky Bank Building is a 12-story building formerly housing the  Jarmulowsky Bank on the Lower East Side of Manhattan, New York City. Located  at Canal Street and Orchard Street, the Jarmulowsky Bank Building was built by  architects Rouse & Goldstone in 1912, in Beaux-Arts style.  </string>
->>>>>>> f48bf10317e15ccafbce5600ce99f2bbaae9f03d
     <string name="Historical_siight5_images" >  </string>
     <string name="Historical_siight5_website" >https://en.wikipedia.org/wiki/Jarmulowsky_Bank_Building </string>
     
@@ -406,8 +403,6 @@
     <string name="Historical_siight9_images" >  </string>
     <string name="Historical_siight9_website" >www.chinatownsoup.nyc  </string>
 
->>>>>>> 50a4e71b76adb3e4aebf2adc33fed4be845e326d
-    
     
     <!--  Food -->
     
