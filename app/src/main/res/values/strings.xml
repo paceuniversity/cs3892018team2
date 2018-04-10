@@ -21,7 +21,7 @@
 
     <string name="hotel2_name">Hotel Mimosa</string>
     <string name="hotel2_address">79 Division St, New York, NY 10002</string>
-    <string name="hotel2_description">Hotel Mimosa is located in the East Side neighborhood in New York City, just one mile from Ground Zero.All rooms include a flat-screen TV. The rooms have a private bathroom fitted with a bathtub or shower. Extras include free toiletries and a hairdryer. You will find a 24-hour front desk at the property. One World Trade Center is one mile from Hotel Mimosa, and National September 11 Memorial & Museum is 1.1 miles from the property. The nearest airport is LaGuardia Airport, 7 miles from Hotel Mimosa.</string>
+    <string name="hotel2_description">Hotel Mimosa is located in the East Side neighborhood in New York City, just one mile from Ground Zero.All rooms include a flat-screen TV. The rooms have a private bathroom fitted with a bathtub or shower. Extras include free toiletries and a hairdryer. You will find a 24-hour front desk at the property. One World Trade Center is one mile from Hotel Mimosa, and National September 11 Memorial &amp; Museum is 1.1 miles from the property. The nearest airport is LaGuardia Airport, 7 miles from Hotel Mimosa.</string>
     <string name="hotel2_images"> </string>
     <string name="hotel2_website_link">https://www.hotelmimosany.com/</string>
     <string name="hotel2_phone_number">  (212) 343-4243  </string>
@@ -42,14 +42,14 @@
 
     <string name="hotel5_name">Hotel 50 Bowery NYC</string>
     <string name="hotel5_address">50 Bowery, New York, NY 10013</string>
-    <string name="hotel5_description">https://www.delivery.com/cities/nyc/categories/restaurant/shanghai-asian-manor?utm_source=google&amp;utm_medium=list&amp;utm_campaign=places_order_now_btn</string>
+    <string name="hotel5_description">https://www.delivery.com/cities/nyc/categories/restaurant/shanghai-asian-manor?utm_source=google&amp;amp;utm_medium=list&amp;amp;utm_campaign=places_order_now_btn</string>
     <string name="hotel5_images">None</string>
     <string name="hotel5_website_link">https://www.jdvhotels.com/hotels/new-york/nyc/hotel-50-bowery-nyc</string>
     <string name="hotel5_phone_number"> (212) 508-8000   </string>
 
     <string name="hotel6_name">Best Western Bowery Hanbee Hotel</string>
     <string name="hotel6_address">231 Grand St, New York, NY 10013</string>
-    <string name="hotel6_description">https://www.delivery.com/cities/nyc/categories/restaurant/shanghai-asian-manor?utm_source=google&amp;utm_medium=list&amp;utm_campaign=places_order_now_btn</string>
+    <string name="hotel6_description">https://www.delivery.com/cities/nyc/categories/restaurant/shanghai-asian-manor?utm_source=google&amp;amp;utm_medium=list&amp;amp;utm_campaign=places_order_now_btn</string>
     <string name="hotel6_images">None</string>
     <string name="hotel6_website_link">http://www.bw-boweryhanbeehotel.com/</string>
     <string name="hotel6_phone_number"> (212) 925-1177   </string>
@@ -64,7 +64,7 @@
 
     <string name="hotel8_name">U.S. Pacific Hotel</string>
     <string name="hotel8_address">276 Canal St, New York, NY 10013</string>
-    <string name="hotel8_description">Located in the Bowery neighborhood in New York City, one mile from One World Trade Center, U.S. Pacific Hotel features air-conditioned rooms with free WiFi throughout the property. Each room is fitted with a flat-screen TV. Ground Zero is one mile from U.S. Pacific Hotel, and National September 11 Memorial & Museum is one mile away. LaGuardia Airport is 7 miles from the property. </string>
+    <string name="hotel8_description">Located in the Bowery neighborhood in New York City, one mile from One World Trade Center, U.S. Pacific Hotel features air-conditioned rooms with free WiFi throughout the property. Each room is fitted with a flat-screen TV. Ground Zero is one mile from U.S. Pacific Hotel, and National September 11 Memorial &amp; Museum is one mile away. LaGuardia Airport is 7 miles from the property. </string>
     <string name="hotel8_images">None</string>
     <string name="hotel8_website_link">http://sohogardenhotel.com/</string>
     <string name="hotel8_phone_number"> (212) 226-0300   </string>
@@ -83,7 +83,7 @@
     <string name="hotel9_website_link">http://tribecabluhotel.com/</string>
     <string name="hotel9_phone_number"> (212) 941-6106 </string>
 
-    <string name="hotel11_name">Fairfield Inn & Suites by Marriott New York Manhattan/Downtown</string>
+    <string name="hotel11_name">Fairfield Inn &amp; Suites by Marriott New York Manhattan/Downtown</string>
     <string name="hotel11_address">95 Henry St, New York, NY 10002</string>
     <string name="hotel11_description">Boasting brand-new, spacious rooms and suites, as well as a convenient location near the New York Stock Exchange, September 11 Memorial and One World Trade Center,  Fairfield Inn is the perfect place to explore Manhattan from.</string>
     <string name="hotel11_images">None</string>
@@ -143,72 +143,72 @@
     
     <!-- Activities Sub-Section: Shopping -->
     
-    <String name="Activity1_shopping_name" >  </String>
-    <String name="Activity1_shopping_Static_Info" >  </String>
-    <String name="Activity1_shopping_description" >  </String>
-    <String name="Activit1_shopping_images" >  </String>
-    <String name="Activity1_shopping_address" >  </String>
-    <String name="Activity1_shopping_website_link" >  </String>
-    <String name="Activity1_shopping_phone_number" >  </String>
+    <string name="Activity1_shopping_name" >  </string>
+    <string name="Activity1_shopping_Static_Info" >  </string>
+    <string name="Activity1_shopping_description" >  </string>
+    <string name="Activit1_shopping_images" >  </string>
+    <string name="Activity1_shopping_address" >  </string>
+    <string name="Activity1_shopping_website_link" >  </string>
+    <string name="Activity1_shopping_phone_number" >  </string>
     
-    <String name="Activity2_shopping_name" >  </String>
-    <String name="Activity2_shopping_Static_Info" >  </String>
-    <String name="Activity2_shopping_description" >  </String>
-    <String name="Activity2_shopping_images" >  </String>
-    <String name="Activity2_shopping_address" >  </String>
-    <String name="Activity2_shopping_website_link" >  </String>
-    <String name="Activity2_shopping_phone_number" >  </String>
+    <string name="Activity2_shopping_name" >  </string>
+    <string name="Activity2_shopping_Static_Info" >  </string>
+    <string name="Activity2_shopping_description" >  </string>
+    <string name="Activity2_shopping_images" >  </string>
+    <string name="Activity2_shopping_address" >  </string>
+    <string name="Activity2_shopping_website_link" >  </string>
+    <string name="Activity2_shopping_phone_number" >  </string>
     
-    <String name="Activity3_shopping_name" >  </String>
-    <String name="Activity3_shopping_Static_Info" >  </String>
-    <String name="Activity3_shopping_description" >  </String>
-    <String name="Activity3_shopping_images" >  </String>
-    <String name="Activity3_shopping_address" >  </String>
-    <String name="Activity3_shopping_website_link" >  </String>
-    <String name="Activity3_shopping_phone_number" >  </String>
+    <string name="Activity3_shopping_name" >  </string>
+    <string name="Activity3_shopping_Static_Info" >  </string>
+    <string name="Activity3_shopping_description" >  </string>
+    <string name="Activity3_shopping_images" >  </string>
+    <string name="Activity3_shopping_address" >  </string>
+    <string name="Activity3_shopping_website_link" >  </string>
+    <string name="Activity3_shopping_phone_number" >  </string>
     
-    <String name="Activity4_shopping_name" >  </String>
-    <String name="Activity4_shopping_Static_Info" >  </String>
-    <String name="Activity4_shopping_description" >  </String>
-    <String name="Activity4_shopping_images" >  </String>
-    <String name="Activity4_shopping_address" >  </String>
-    <String name="Activity4_shopping_website_link" >  </String>
-    <String name="Activity4_shopping_phone_number" >  </String>
+    <string name="Activity4_shopping_name" >  </string>
+    <string name="Activity4_shopping_Static_Info" >  </string>
+    <string name="Activity4_shopping_description" >  </string>
+    <string name="Activity4_shopping_images" >  </string>
+    <string name="Activity4_shopping_address" >  </string>
+    <string name="Activity4_shopping_website_link" >  </string>
+    <string name="Activity4_shopping_phone_number" >  </string>
     
-    <String name="Activity5_shopping_name" >  </String>
-    <String name="Activity5_shopping_Static_Info" >  </String>
-    <String name="Activity5_shopping_description" >  </String>
-    <String name="Activity5_shopping_images" >  </String>
-    <String name="Activity5_shopping_address" >  </String>
-    <String name="Activity5_shopping_website_link" >  </String>
-    <String name="Activity5_shopping_phone_number" >  </String>
+    <string name="Activity5_shopping_name" >  </string>
+    <string name="Activity5_shopping_Static_Info" >  </string>
+    <string name="Activity5_shopping_description" >  </string>
+    <string name="Activity5_shopping_images" >  </string>
+    <string name="Activity5_shopping_address" >  </string>
+    <string name="Activity5_shopping_website_link" >  </string>
+    <string name="Activity5_shopping_phone_number" >  </string>
     
-    <String name="Activity6_shopping_name" >  </String>
-    <String name="Activity6_shopping_Static_Info" >  </String>
-    <String name="Activity6_shopping_description" >  </String>
-    <String name="Activity6_shopping_images" >  </String>
-    <String name="Activity6_shopping_address" >  </String>
-    <String name="Activity6_shopping_website_link" >  </String>
-    <String name="Activity6_shopping_phone_number" >  </String>
+    <string name="Activity6_shopping_name" >  </string>
+    <string name="Activity6_shopping_Static_Info" >  </string>
+    <string name="Activity6_shopping_description" >  </string>
+    <string name="Activity6_shopping_images" >  </string>
+    <string name="Activity6_shopping_address" >  </string>
+    <string name="Activity6_shopping_website_link" >  </string>
+    <string name="Activity6_shopping_phone_number" >  </string>
     
-    <String name="Activity7_shopping_name" >  </String>
-    <String name="Activity7_shopping_Static_Info" >  </String>
-    <String name="Activity7_shopping_description" >  </String>
-    <String name="Activity7_shopping_images" >  </String>
-    <String name="Activity7_shopping_address" >  </String>
-    <String name="Activity7_shopping_website_link" >  </String>
-    <String name="Activity7_shopping_phone_number" >  </String>
+    <string name="Activity7_shopping_name" >  </string>
+    <string name="Activity7_shopping_Static_Info" >  </string>
+    <string name="Activity7_shopping_description" >  </string>
+    <string name="Activity7_shopping_images" >  </string>
+    <string name="Activity7_shopping_address" >  </string>
+    <string name="Activity7_shopping_website_link" >  </string>
+    <string name="Activity7_shopping_phone_number" >  </string>
     
-    <String name="Activity8_shopping_name" >  </String>
-    <String name="Activity8_shopping_Static_Info" >  </String>
-    <String name="Activity8_shopping_description" >  </String>
-    <String name="Activity8_shopping_images" >  </String>
-    <String name="Activity8_shopping_address" >  </String>
-    <String name="Activity8_shopping_website_link" >  </String>
-    <String name="Activity_shopping8_phone_number" >  </String>
+    <string name="Activity8_shopping_name" >  </string>
+    <string name="Activity8_shopping_Static_Info" >  </string>
+    <string name="Activity8_shopping_description" >  </string>
+    <string name="Activity8_shopping_images" >  </string>
+    <string name="Activity8_shopping_address" >  </string>
+    <string name="Activity8_shopping_website_link" >  </string>
+    <string name="Activity_shopping8_phone_number" >  </string>
 
     
-     <!---- Food ---->
+     <!--  Food -->
     
     
     
