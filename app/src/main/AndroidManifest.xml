@@ -19,6 +19,7 @@
         <activity android:name=".HotelActivity" />
         <activity android:name=".ItineraryActivity" />
         <activity android:name=".SettingsActivity" />
+        <activity android:name=".ActivitiesActivity"></activity>
     </application>
 
 </manifest>
