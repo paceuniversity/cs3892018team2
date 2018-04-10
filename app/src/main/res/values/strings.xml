@@ -23,14 +23,14 @@
 
     <string name="hotel2_name">Hotel Mimosa</string>
     <string name="hotel2_address">79 Division St, New York, NY 10002</string>
-    <string name="hotel2_description">Hotel Mimosa is located in the East Side neighborhood in New York City, just one mile from Ground Zero.All rooms include a flat-screen TV. The rooms have a private bathroom fitted with a bathtub or shower. Extras include free toiletries and a hairdryer. You will find a 24-hour front desk at the property. One World Trade Center is one mile from Hotel Mimosa, and National September 11 Memorial &amp; Museum is 1.1 miles from the property. The nearest airport is LaGuardia Airport, 7 miles from Hotel Mimosa.</string>
+    <string name="hotel2_description">Hotel Mimosa is located in the East Side neighborhood in New York City, just one mile from Ground Zero.All rooms include a flat-screen TV. The rooms have a private bathroom fitted with a bathtub or shower. Extras include free toiletries and a hairdryer. You will find a 24-hour front desk at the property. One World Trade Center is one mile from Hotel Mimosa, and National September 11 Memorial &amp;amp; Museum is 1.1 miles from the property. The nearest airport is LaGuardia Airport, 7 miles from Hotel Mimosa.</string>
     <string name="hotel2_images"> </string>
     <string name="hotel2_website_link">https://www.hotelmimosany.com/</string>
     <string name="hotel2_phone_number">  (212) 343-4243  </string>
 
     <string name="hotel3_name">Wyndham Garden Chinatown</string>
     <string name="hotel3_address">93 Bowery, New York, NY 10002</string>
-    <string name="hotel3_description">Relax in beautifully designed guest rooms and suites with contemporary furnishings, private balconies and floor to ceiling windows with stunning views of the city. Savor seasonal American cuisine at the Wu Room. A recipient of the TripAdvisor Certificate of Excellence, our modern Manhattan hotel features intimate event space, complimentary Wi-Fi, and a dynamic ambiance where you can meet, lounge and dine in the beautiful Big Apple. Located in an eclectic Lower Manhattan neighborhood, it's easy to explore local nightlife, walk to the trendy shops of SoHo, and dine in Little Italy. </string>
+    <string name="hotel3_description">Relax in beautifully designed guest rooms and suites with contemporary furnishings, private balconies and floor to ceiling windows with stunning views of the city. Savor seasonal American cuisine at the Wu Room. A recipient of the TripAdvisor Certificate of Excellence, our modern Manhattan hotel features intimate event space, complimentary Wi-Fi, and a dynamic ambiance where you can meet, lounge and dine in the beautiful Big Apple. Located in an eclectic Lower Manhattan neighborhood, it\'s easy to explore local nightlife, walk to the trendy shops of SoHo, and dine in Little Italy. </string>
     <string name="hotel3_images">None</string>
     <string name="hotel3_website_link">http://www.wyndhamgardenchinatownnyc.com/</string>
     <string name="hotel3_phone_number"> (646) 329-3400   </string>
@@ -44,14 +44,14 @@
 
     <string name="hotel5_name">Hotel 50 Bowery NYC</string>
     <string name="hotel5_address">50 Bowery, New York, NY 10013</string>
-    <string name="hotel5_description">https://www.delivery.com/cities/nyc/categories/restaurant/shanghai-asian-manor?utm_source=google&amp;amp;utm_medium=list&amp;amp;utm_campaign=places_order_now_btn</string>
+    <string name="hotel5_description">https://www.delivery.com/cities/nyc/categories/restaurant/shanghai-asian-manor?utm_source=google&amp;amp;amp;utm_medium=list&amp;amp;amp;utm_campaign=places_order_now_btn</string>
     <string name="hotel5_images">None</string>
     <string name="hotel5_website_link">https://www.jdvhotels.com/hotels/new-york/nyc/hotel-50-bowery-nyc</string>
     <string name="hotel5_phone_number"> (212) 508-8000   </string>
 
     <string name="hotel6_name">Best Western Bowery Hanbee Hotel</string>
     <string name="hotel6_address">231 Grand St, New York, NY 10013</string>
-    <string name="hotel6_description">https://www.delivery.com/cities/nyc/categories/restaurant/shanghai-asian-manor?utm_source=google&amp;amp;utm_medium=list&amp;amp;utm_campaign=places_order_now_btn</string>
+    <string name="hotel6_description">https://www.delivery.com/cities/nyc/categories/restaurant/shanghai-asian-manor?utm_source=google&amp;amp;amp;utm_medium=list&amp;amp;amp;utm_campaign=places_order_now_btn</string>
     <string name="hotel6_images">None</string>
     <string name="hotel6_website_link">http://www.bw-boweryhanbeehotel.com/</string>
     <string name="hotel6_phone_number"> (212) 925-1177   </string>
@@ -66,7 +66,7 @@
 
     <string name="hotel8_name">U.S. Pacific Hotel</string>
     <string name="hotel8_address">276 Canal St, New York, NY 10013</string>
-    <string name="hotel8_description">Located in the Bowery neighborhood in New York City, one mile from One World Trade Center, U.S. Pacific Hotel features air-conditioned rooms with free WiFi throughout the property. Each room is fitted with a flat-screen TV. Ground Zero is one mile from U.S. Pacific Hotel, and National September 11 Memorial &amp; Museum is one mile away. LaGuardia Airport is 7 miles from the property. </string>
+    <string name="hotel8_description">Located in the Bowery neighborhood in New York City, one mile from One World Trade Center, U.S. Pacific Hotel features air-conditioned rooms with free WiFi throughout the property. Each room is fitted with a flat-screen TV. Ground Zero is one mile from U.S. Pacific Hotel, and National September 11 Memorial &amp;amp; Museum is one mile away. LaGuardia Airport is 7 miles from the property. </string>
     <string name="hotel8_images">None</string>
     <string name="hotel8_website_link">http://sohogardenhotel.com/</string>
     <string name="hotel8_phone_number"> (212) 226-0300   </string>
@@ -80,12 +80,12 @@
     
     <string name="hotel9_name">Tribeca blu</string>
     <string name="hotel9_address">blu hotel, New York, NY 10013</string>
-    <string name="hotel9_description">Tribeca Blu sits on a busy downtown intersection of Canal Street and Broadway. The location does afford an urban feel with close proximity (walking distance) to trendy neighborhoods like SoHo and Tribeca. If that's not enough choice for food and drink, Chinatown and Little Italy are easy to get to via foot. Guests can also walk a bit farther to get to One World Trade Center and the 9/11 memorial, as well as West, Greenwich, and East Villages.</string>
+    <string name="hotel9_description">Tribeca Blu sits on a busy downtown intersection of Canal Street and Broadway. The location does afford an urban feel with close proximity (walking distance) to trendy neighborhoods like SoHo and Tribeca. If that\'s not enough choice for food and drink, Chinatown and Little Italy are easy to get to via foot. Guests can also walk a bit farther to get to One World Trade Center and the 9/11 memorial, as well as West, Greenwich, and East Villages.</string>
     <string name="hotel9_images">None</string>
     <string name="hotel9_website_link">http://tribecabluhotel.com/</string>
     <string name="hotel9_phone_number"> (212) 941-6106 </string>
 
-    <string name="hotel11_name">Fairfield Inn &amp; Suites by Marriott New York Manhattan/Downtown</string>
+    <string name="hotel11_name">Fairfield Inn &amp;amp; Suites by Marriott New York Manhattan/Downtown</string>
     <string name="hotel11_address">95 Henry St, New York, NY 10002</string>
     <string name="hotel11_description">Boasting brand-new, spacious rooms and suites, as well as a convenient location near the New York Stock Exchange, September 11 Memorial and One World Trade Center,  Fairfield Inn is the perfect place to explore Manhattan from.</string>
     <string name="hotel11_images">None</string>
@@ -101,7 +101,7 @@
 
     <string name="hotel13_name">New World Hotel</string>
     <string name="hotel13_address">101 Bowery #2, New York, NY 10002</string>
-    <string name="hotel13_description">Whether you're traveling for business or pleasure, New World Hotel offers a variety of room types to ensure comfort for your needs at low prices. Located at the heart of Chinatown, on Bowery, between Hester St. and Grand Street. New World Hotel puts the treasures of Chinatown at your fingertips. Special foods, items, and shops can be found on Canal Street, Mott Street, and Grand Street. </string>
+    <string name="hotel13_description">Whether you\'re traveling for business or pleasure, New World Hotel offers a variety of room types to ensure comfort for your needs at low prices. Located at the heart of Chinatown, on Bowery, between Hester St. and Grand Street. New World Hotel puts the treasures of Chinatown at your fingertips. Special foods, items, and shops can be found on Canal Street, Mott Street, and Grand Street. </string>
     <string name="hotel13_images">None</string>
     <string name="hotel13_website_link">http://worldhotelnyc.com/</string>
     <string name="hotel13_phone_number"> (212) 226-5522   </string>
@@ -236,7 +236,7 @@
         we learn the ruthless tactics of the first Mafia bosses of New York, the proud efforts of NYPD Liutenant
         Joe Petrosino’s fight against these thugs. Organized Crime as we know it was born on these streets.</string>
     <string name="activity12_type">walking tour</string>
-    <string name="activity12_address">meets at the corner of Mulberry &amp; Worth streets</string>
+    <string name="activity12_address">meets at the corner of Mulberry &amp;amp; Worth streets</string>
     <string name="activity12_website">nycgangstertours.com/</string>
     <string name="activity12_phonenumber">516-652-4527</string>
 
@@ -247,22 +247,22 @@
     <string name="activity13_website">transfigurationnyc.org</string>
     <string name="activity13_phonenumber">212-962-5157</string>
 
-    <string name="activity14_name">Lunar New Year Parade &amp; Festival</string>
+    <string name="activity14_name">Lunar New Year Parade &amp;amp; Festival</string>
     <string name="activity14_static">an annual celebration of the beginning of the turn of the
     Chinese lunisolar calendar; features all kinds of vendors, festivities, and food for all ages</string>
     <string name="activity14_type">parade</string>
     <string name="activity14_address">East Houston Street to Canal Street</string>
     <string name="activity14_website">betterchinatown.com/</string>
 
-    <string name="activity15_name">Autumn Mood Parade &amp; Festival</string>
+    <string name="activity15_name">Autumn Mood Parade &amp;amp; Festival</string>
     <string name="activity15_static">an annual celebration of the end of the autumn harvest; held on the
-    15th day of the 8th lunar month; features stage performances, cultural arts &amp; crafts, calligraphy, gift booths, moon cake tastings, etc.</string>
+    15th day of the 8th lunar month; features stage performances, cultural arts &amp;amp; crafts, calligraphy, gift booths, moon cake tastings, etc.</string>
     <string name="activity15_address">Mott Street; between Canal and Beyard Streets</string>
     
     <!-- Activities Sub-Section: Shopping -->
     
     <string name="Activity1_shopping_name" >K. K. Discount Store  </string>
-    <string name="Activity1_shopping_Static_Info" > No-frills stalwart stocking a variety of home goods & Asian decor, from teapots to small furniture. </string>
+    <string name="Activity1_shopping_Static_Info" > No-frills stalwart stocking a variety of home goods &amp; Asian decor, from teapots to small furniture. </string>
     <string name="Activity1_shopping_description" > Shopping </string>
     <string name="Activit1_shopping_images" >  </string>
     <string name="Activity1_shopping_address" > 78 Mulberry St, New York, NY 10013 </string>
@@ -287,7 +287,7 @@
     <string name="Activity3_shopping_phone_number" > (212) 233-2950 </string>
     
     <string name="Activity4_shopping_name" > Yùnhóng Chopsticks </string>
-    <string name="Activity4_shopping_Static_Info" > An excellent selection and display of various chopsticks. The selections range from simple children's, to elegant formal chopsticks.  </string>
+    <string name="Activity4_shopping_Static_Info" > An excellent selection and display of various chopsticks. The selections range from simple children\'s, to elegant formal chopsticks.  </string>
     <string name="Activity4_shopping_description" >Shopping  </string>
     <string name="Activity4_shopping_images" >  </string>
     <string name="Activity4_shopping_address" > 50 Mott St, New York, NY 10013 </string>
@@ -303,7 +303,7 @@
     <string name="Activity5_shopping_phone_number" > (212) 343-0663 </string>
     
     <string name="Activity6_shopping_name" > Pearl River Mart </string>
-    <string name="Activity6_shopping_Static_Info" >Eclectic emporium with 3-floors of Chinese apparel, accessories, housewares & furniture.  </string>
+    <string name="Activity6_shopping_Static_Info" >Eclectic emporium with 3-floors of Chinese apparel, accessories, housewares &amp; furniture.  </string>
     <string name="Activity6_shopping_description" > Shopping </string>
     <string name="Activity6_shopping_images" >  </string>
     <string name="Activity6_shopping_address" >395 Broadway, New York, NY 10013  </string>
@@ -333,7 +333,7 @@
     
     <string name="Historical_siight1_name" >Mahayana Buddhist Temple  </string>
     <string name="Historical_siight1_address" > 133 Canal St, New York, NY 10002 </string>
-    <string name="Historical_siight1_historical_information" > The Mahayana Buddhist Temple is free, open to the public and offers a large meditation area with plenty of space to rest and reflect under the gaze of a 16-foot-high golden Buddha. Just don't expect silence here; there's usually a festive sound track playing (this is New York City, after all). While the giant Buddha is the temple's main attraction, don't miss the series of intricate ivory carvings on display in the second-floor gift shop (none are for sale). </string>
+    <string name="Historical_siight1_historical_information" > The Mahayana Buddhist Temple is free, open to the public and offers a large meditation area with plenty of space to rest and reflect under the gaze of a 16-foot-high golden Buddha. Just don\'t expect silence here; there\'s usually a festive sound track playing (this is New York City, after all). While the giant Buddha is the temple\'s main attraction, don\'t miss the series of intricate ivory carvings on display in the second-floor gift shop (none are for sale). </string>
     <string name="Historical_siight1_images" >  </string>
     <string name="Historical_siight1_website" >https://www.nycgo.com/arts-culture/mahayana-buddhist-temple  </string>
     
@@ -357,19 +357,19 @@
     
     <string name="Historical_siight5_name" >Jarmulowski Building  </string>
     <string name="Historical_siight5_address" >  </string>
-    <string name="Historical_siight5_historical_information" > The Jarmulowsky Bank Building is a 12-story building formerly housing the  Jarmulowsky Bank on the Lower East Side of Manhattan, New York City. Located  at Canal Street and Orchard Street, the Jarmulowsky Bank Building was built by  architects Rouse & Goldstone in 1912, in Beaux-Arts style.  </string>
+    <string name="Historical_siight5_historical_information" > The Jarmulowsky Bank Building is a 12-story building formerly housing the  Jarmulowsky Bank on the Lower East Side of Manhattan, New York City. Located  at Canal Street and Orchard Street, the Jarmulowsky Bank Building was built by  architects Rouse &amp; Goldstone in 1912, in Beaux-Arts style.  </string>
     <string name="Historical_siight5_images" >  </string>
     <string name="Historical_siight5_website" >https://en.wikipedia.org/wiki/Jarmulowsky_Bank_Building </string>
     
     <string name="Historical_siight6_name" > Edward Mooney House </string>
     <string name="Historical_siight6_address" > 18 Bowery, New York, NY 10013 </string>
-    <string name="Historical_siight6_historical_information" >The Edward Mooney House located at 18 Bowery at the corner of Pell Street in  the Chinatown neighborhood of Manhattan, New York City was built between  1785 and 1789 for wealthy butcher Edward Mooney on land he purchased after it  was confiscated from British Loyalist James De Lancey. The Jarmulowsky Bank Building is a 12-story building formerly housing the  Jarmulowsky Bank on the Lower East Side of Manhattan, New York City. Located  at Canal Street and Orchard Street, the Jarmulowsky Bank Building was built by  architects Rouse & Goldstone in 1912, in Beaux-Arts style.   </string>
+    <string name="Historical_siight6_historical_information" >The Edward Mooney House located at 18 Bowery at the corner of Pell Street in  the Chinatown neighborhood of Manhattan, New York City was built between  1785 and 1789 for wealthy butcher Edward Mooney on land he purchased after it  was confiscated from British Loyalist James De Lancey. The Jarmulowsky Bank Building is a 12-story building formerly housing the  Jarmulowsky Bank on the Lower East Side of Manhattan, New York City. Located  at Canal Street and Orchard Street, the Jarmulowsky Bank Building was built by  architects Rouse &amp; Goldstone in 1912, in Beaux-Arts style.   </string>
     <string name="Historical_siight6_images" >  </string>
     <string name="Historical_siight6_website" > https://en.wikipedia.org/wiki/Edward_Mooney_House </string>
     
     <string name="Historical_siight7_name" > Pike Street Synagogue </string>
     <string name="Historical_siight7_address" > 5 Pike St, New York, NY 10002 </string>
-    <string name="Historical_siight7_historical_information" > The Pike Street Synagogue, constructed in 1903-04 for the. Congregation Sons of Israel Kalwarie, is a rare surviving synagogue building from that period of New York's history when the. Lower East Side served as America's main portal for millions of Jewish immigrants.  </string>
+    <string name="Historical_siight7_historical_information" > The Pike Street Synagogue, constructed in 1903-04 for the. Congregation Sons of Israel Kalwarie, is a rare surviving synagogue building from that period of New York\'s history when the. Lower East Side served as America\'s main portal for millions of Jewish immigrants.  </string>
     <string name="Historical_siight7_images" >  </string>
     <string name="Historical_siight7_website" > http://www.nyc.gov/html/lpc/downloads/pdf/reports/pikestreet.pdf </string>
     
@@ -380,7 +380,7 @@
     <string name="Historical_siight8_website" > https://www.nycgovparks.org/parks/columbus-park-m015 </string>
     
     <string name="Historical_siight9_name" > Chinatown Soup </string>
-    <string name="Historical_siight9_address" > The fantasies and confusion one may harbor about the eastern terminus of Canal Street are understandable because Chinatown is the crossroads where the city's past and future meet. Here remains one of the few Manhattan communities that fosters a sense of respect for its history.16B Orchard Street (Canal Street) New York, NY 10002 </string>
+    <string name="Historical_siight9_address" > The fantasies and confusion one may harbor about the eastern terminus of Canal Street are understandable because Chinatown is the crossroads where the city\'s past and future meet. Here remains one of the few Manhattan communities that fosters a sense of respect for its history.16B Orchard Street (Canal Street) New York, NY 10002 </string>
     <string name="Historical_siight9_historical_information" >  </string>
     <string name="Historical_siight9_images" >  </string>
     <string name="Historical_siight9_website" >www.chinatownsoup.nyc  </string>
