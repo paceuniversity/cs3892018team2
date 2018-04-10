@@ -2,6 +2,7 @@
     <string name="app_name">Chinatown_Tour</string>
 
     <!-- Main Layout -->
+    
     <string name="transport_button">Transport</string>
     <string name="food_button">Food</string>
     <string name="hotel_button">Hotel</string>
@@ -10,6 +11,7 @@
     <string name="itinerary_button">Itinerary</string>
     
     <!-- Hotels -->
+    
     <string name="hotel1_name">The Leon Hotel</string>
     <string name="hotel1_address">125 Canal St, New York, NY 10002</string>
     <string name="hotel1_description">Set at the foot of the Manhattan Bridge in Chinatown, this hip hotel with a midcentury-modern vibe is a 3-minute walk from the Grand Street subway station and an 8-minute walk from the Museum Of Chinese In America.
