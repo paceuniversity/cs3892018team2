@@ -2,6 +2,7 @@ package ahmed.niaz.chinatown_tour;
 
 import android.content.Intent;
 import android.graphics.Color;
+import android.media.Image;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -24,11 +25,20 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         // Runs openSettingsActivity when the button "settings" is clicked
-        settings_btn = (ImageButton) findViewById(R.id.imageButton);
+        settings_btn = (ImageButton) findViewById(R.id.setting_image_button);
         settings_btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 openSettingsActivity();
+            }
+        });
+
+        // Runs openActivitiesActivity when "Activities" is clicked
+        activities_lp_btn = (Button) findViewById(R.id.poi_landing_pg);
+        activities_lp_btn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                openActivitiesActivity();
             }
         });
 
@@ -87,6 +97,12 @@ public class MainActivity extends AppCompatActivity {
     // Starts SettingsActivity
     public void openSettingsActivity() {
         Intent intent = new Intent(this, SettingsActivity.class);
+        startActivity(intent);
+    }
+
+    // Starts ActivitiesActivity
+    public void openActivitiesActivity() {
+        Intent intent = new Intent(this, ActivitiesActivity.class);
         startActivity(intent);
     }
 }
