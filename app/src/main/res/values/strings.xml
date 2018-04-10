@@ -264,8 +264,8 @@
     <string name="Activity1_shopping_description" > Shopping </string>
     <string name="Activit1_shopping_images" >  </string>
     <string name="Activity1_shopping_address" > 78 Mulberry St, New York, NY 10013 </string>
-    <string name="Activity1_shopping_website_link" >  </string>
-    <string name="Activity1_shopping_phone_number" >  </string>
+    <string name="Activity1_shopping_website_link" > http://www.kkdiscount.com/ </string>
+    <string name="Activity1_shopping_phone_number" > (212) 513-7043 </string>
     
     <string name="Activity2_shopping_name" >T-Pop Shop NYC  </string>
     <string name="Activity2_shopping_Static_Info" > "T-Pop Shop is a trendsetting Online Second Hand Clothing Store, offering first-rate products and exceptional customer 
@@ -273,40 +273,40 @@
     <string name="Activity2_shopping_description" >Shopping  </string>
     <string name="Activity2_shopping_images" >  </string>
     <string name="Activity2_shopping_address" >59 Franklin St, New York, NY 10013  </string>
-    <string name="Activity2_shopping_website_link" >  </string>
-    <string name="Activity2_shopping_phone_number" >  </string>
+    <string name="Activity2_shopping_website_link" > http://www.tpopshop.nyc/ </string>
+    <string name="Activity2_shopping_phone_number" > (917) 582-0701 </string>
     
     <string name="Activity3_shopping_name" > Lun Hong Flower Shop </string>
     <string name="Activity3_shopping_Static_Info" > If you need flowers arrangements, this is the place to go! Reasonably priced, and beautiful selections to choose from! </string>
     <string name="Activity3_shopping_description" >Shopping  </string>
     <string name="Activity3_shopping_images" >  </string>
     <string name="Activity3_shopping_address" >50 Mulberry St, New York, NY 10013  </string>
-    <string name="Activity3_shopping_website_link" >  </string>
-    <string name="Activity3_shopping_phone_number" >  </string>
+    <string name="Activity3_shopping_website_link" > N/a </string>
+    <string name="Activity3_shopping_phone_number" > (212) 233-2950 </string>
     
     <string name="Activity4_shopping_name" > Yùnhóng Chopsticks </string>
     <string name="Activity4_shopping_Static_Info" > An excellent selection and display of various chopsticks. The selections range from simple children's, to elegant formal chopsticks.  </string>
     <string name="Activity4_shopping_description" >Shopping  </string>
     <string name="Activity4_shopping_images" >  </string>
     <string name="Activity4_shopping_address" > 50 Mott St, New York, NY 10013 </string>
-    <string name="Activity4_shopping_website_link" >  </string>
-    <string name="Activity4_shopping_phone_number" >  </string>
+    <string name="Activity4_shopping_website_link" > N/a </string>
+    <string name="Activity4_shopping_phone_number" > (212) 566-8828 </string>
     
     <string name="Activity5_shopping_name" > Magic Jewelry </string>
     <string name="Activity5_shopping_Static_Info" >An occult shop which specializes in feng shui, crystals, and horoscopes; the only place in the city that photographs and reads auras  </string>
     <string name="Activity5_shopping_description" >Shopping  </string>
     <string name="Activity5_shopping_images" >  </string>
     <string name="Activity5_shopping_address" > 238 Canal Street New York NY 10013 </string>
-    <string name="Activity5_shopping_website_link" >  </string>
-    <string name="Activity5_shopping_phone_number" >  </string>
+    <string name="Activity5_shopping_website_link" > N/a </string>
+    <string name="Activity5_shopping_phone_number" > (212) 343-0663 </string>
     
     <string name="Activity6_shopping_name" > Pearl River Mart </string>
     <string name="Activity6_shopping_Static_Info" >Eclectic emporium with 3-floors of Chinese apparel, accessories, housewares & furniture.  </string>
     <string name="Activity6_shopping_description" > Shopping </string>
     <string name="Activity6_shopping_images" >  </string>
     <string name="Activity6_shopping_address" >395 Broadway, New York, NY 10013  </string>
-    <string name="Activity6_shopping_website_link" >  </string>
-    <string name="Activity6_shopping_phone_number" >  </string>
+    <string name="Activity6_shopping_website_link" >http://www.pearlriver.com/  </string>
+    <string name="Activity6_shopping_phone_number" > (212) 431-4770 </string>
     
     <string name="Activity7_shopping_name" >Chinatown Toy Store  </string>
     <string name="Activity7_shopping_Static_Info" > "Come here for cute and cheap toys! So much product and easy to get lost in because of extremely cheap prices. Small stuffed 
@@ -314,16 +314,16 @@ animals (rilakkuma, doraemon, Totoro, Pokémon, etc) ranging from 3-5$" </string
     <string name="Activity7_shopping_description" > Shopping </string>
     <string name="Activity7_shopping_images" >  </string>
     <string name="Activity7_shopping_address" > 83 Bayard St, New York, NY 10013 </string>
-    <string name="Activity7_shopping_website_link" >  </string>
-    <string name="Activity7_shopping_phone_number" >  </string>
+    <string name="Activity7_shopping_website_link" > http://www.facebook.com/chinatowntoystore </string>
+    <string name="Activity7_shopping_phone_number" > N/a </string>
     
     <string name="Activity8_shopping_name" > Canal Street </string>
     <string name="Activity8_shopping_Static_Info" > An open-street shopping experience with an open-air bazaar feel, complete with vendors willing to bargain  </string>
     <string name="Activity8_shopping_description" >Shopping  </string>
     <string name="Activity8_shopping_images" >  </string>
     <string name="Activity8_shopping_address" > Canal Street New York, NY 10013  </string>
-    <string name="Activity8_shopping_website_link" >  </string>
-    <string name="Activity_shopping8_phone_number" >  </string>
+    <string name="Activity8_shopping_website_link" > N/a </string>
+    <string name="Activity_shopping8_phone_number" > N/a </string>
 
     
      <!--  Food -->
