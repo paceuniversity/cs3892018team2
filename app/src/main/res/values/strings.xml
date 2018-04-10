@@ -326,9 +326,74 @@
     <string name="Activity_shopping8_phone_number" > N/a </string>
 
     
-     <!--  Food -->
+     <!--  Historical Sights -->
     
     
+    <string name="Historical_siight1_name" >  </string>
+    <string name="Historical_siight1_address" >  </string>
+    <string name="Historical_siight1_historical_information" >  </string>
+    <string name="Historical_siight1_images" >  </string>
+    <string name="Historical_siight1_website" >  </string>
+    
+    <string name="Historical_siight2_name" >  </string>
+    <string name="Historical_siight2_address" >  </string>
+    <string name="Historical_siight2_historical_information" >  </string>
+    <string name="Historical_siight2_images" >  </string>
+    <string name="Historical_siight2_website" >  </string>
+    
+    <string name="Historical_siight3_name" >  </string>
+    <string name="Historical_siight3_address" >  </string>
+    <string name="Historical_siight3_historical_information" >  </string>
+    <string name="Historical_siight3_images" >  </string>
+    <string name="Historical_siight3_website" >  </string>
+    
+    <string name="Historical_siight4_name" >  </string>
+    <string name="Historical_siight4_address" >  </string>
+    <string name="Historical_siight4_historical_information" >  </string>
+    <string name="Historical_siight4_images" >  </string>
+    <string name="Historical_siight4_website" >  </string>
+    
+    <string name="Historical_siight5_name" >  </string>
+    <string name="Historical_siight5_address" >  </string>
+    <string name="Historical_siight5_historical_information" >  </string>
+    <string name="Historical_siight5_images" >  </string>
+    <string name="Historical_siight5_website" >  </string>
+    
+    <string name="Historical_siight6_name" >  </string>
+    <string name="Historical_siight6_address" >  </string>
+    <string name="Historical_siight6_historical_information" >  </string>
+    <string name="Historical_siight6_images" >  </string>
+    <string name="Historical_siight6_website" >  </string>
+    
+    <string name="Historical_siight7_name" >  </string>
+    <string name="Historical_siight7_address" >  </string>
+    <string name="Historical_siight7_historical_information" >  </string>
+    <string name="Historical_siight7_images" >  </string>
+    <string name="Historical_siight7_website" >  </string>
+    
+    <string name="Historical_siight8_name" >  </string>
+    <string name="Historical_siight8_address" >  </string>
+    <string name="Historical_siight8_historical_information" >  </string>
+    <string name="Historical_siight8_images" >  </string>
+    <string name="Historical_siight8_website" >  </string>
+    
+    <string name="Historical_siight9_name" >  </string>
+    <string name="Historical_siight9_address" >  </string>
+    <string name="Historical_siight9_historical_information" >  </string>
+    <string name="Historical_siight9_images" >  </string>
+    <string name="Historical_siight9_website" >  </string>
+    
+    <string name="Historical_siight10_name" >  </string>
+    <string name="Historical_siight10_address" >  </string>
+    <string name="Historical_siight10_historical_information" >  </string>
+    <string name="Historical_siight10_images" >  </string>
+    <string name="Historical_siight10_website" >  </string>
+    
+    
+    
+    
+    
+    <!--  Food -->
     
     
  
