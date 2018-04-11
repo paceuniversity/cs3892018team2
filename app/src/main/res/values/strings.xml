@@ -6,7 +6,7 @@
     <string name="transport_button">Transport</string>
     <string name="food_button">Food</string>
     <string name="hotel_button">Hotel</string>
-    <string name="poi_button">Points Of Interest</string>
+    <string name="activities_button">Activities</string>
     <string name="history_button">History</string>
     <string name="itinerary_button">Itinerary</string>
 
@@ -261,10 +261,8 @@
     <string name="activity15_address">Mott Street; between Canal and Beyard Streets</string>
 
     <!-- Activities Sub-Section: Shopping -->
-<<<<<<< HEAD
 
-=======
-<<<<<<< HEAD
+
 
     <string name="Activity1_shopping_name">K. K. Discount Store  </string>
     <string name="Activity1_shopping_Static_Info"> No-frills stalwart stocking a variety of home goods &amp; Asian decor, from teapots to small furniture. </string>
@@ -276,10 +274,7 @@
 
     <string name="Activity2_shopping_name">T-Pop Shop NYC  </string>
     <string name="Activity2_shopping_Static_Info"> "T-Pop Shop is a trendsetting Online Second Hand Clothing Store, offering first-rate products and exceptional customer
-=======
-    
-<<<<<<< HEAD
->>>>>>> a5d84f7b52863a756be36cd5d85e514f9bd071b1
+
     <string name="Activity1_shopping_name" >  </string>
     <string name="Activity1_shopping_Static_Info" >  </string>
     <string name="Activity1_shopping_description" >  </string>
@@ -298,7 +293,7 @@
 
     <string name="Activity2_shopping_name" >T-Pop Shop NYC  </string>
     <string name="Activity2_shopping_Static_Info" > "T-Pop Shop is a trendsetting Online Second Hand Clothing Store, offering first-rate products and exceptional customer 
->>>>>>> c390755dbe5d83fcc6b931711f2b31ec661f845a
+
     service to shoppers from the comfort of their own homes" </string>
     <string name="Activity2_shopping_description">Shopping  </string>
     <string name="Activity2_shopping_images">  </string>
@@ -341,7 +336,6 @@
     <string name="Activity7_shopping_name">Chinatown Toy Store  </string>
     <string name="Activity7_shopping_Static_Info"> Come here for cute and cheap toys! So much product and easy to get lost in because of extremely cheap prices. Small stuffed
     animals (rilakkuma, doraemon, Totoro, Pokémon, etc) ranging from 3-5$ </string>
-<<<<<<< HEAD
     <string name="Activity7_shopping_description"> Shopping </string>
     <string name="Activity7_shopping_images">  </string>
     <string name="Activity7_shopping_address"> 83 Bayard St, New York, NY 10013 </string>
@@ -414,6 +408,7 @@
     <string name="Historical_siight9_images">  </string>
     <string name="Historical_siight9_website">www.chinatownsoup.nyc  </string>
 
+<<<<<<< HEAD
 
 =======
     <string name="Activity7_shopping_description" > Shopping </string>
@@ -499,8 +494,144 @@
     <string name="Historical_siight9_website" >www.chinatownsoup.nyc  </string>
 
     
->>>>>>> c390755dbe5d83fcc6b931711f2b31ec661f845a
-    <!--  Food -->
 
+    <!-- Settings Layout -->
+    <string name="allow_location_textview">Allow Location</string>
+    <string name="email_editText_hint">Please enter your E-mail.</string>
+    <string name="language_change_textview">Change Language</string>
+    <string-array name="language">
+        <item>English</item>
+        <item>Spanish</item>
+        <item>Chinese(Simplified)</item>
+    </string-array>
+    <string name="feedback_textview">Feedback</string>
+    <string name="feedback_edittext">Please enter your feedback.</string>
+    <string name="submit_feedback_button">Submit Feedback</string>
+
+
+    <!-- Food Locations and Details -->
+    <!-- Restaruants -->
+    <string name="restaraunt1_name">Shanghai Asian Manor</string>
+    <string name="restaraunt1_address">21 Mott St, New York, NY 10013</string>
+    <string name="restaraunt1_menu">https://www.delivery.com/cities/nyc/categories/restaurant/shanghai-asian-manor?utm_source=google&amp;utm_medium=list&amp;utm_campaign=places_order_now_btn</string>
+    <string name="restaraunt1_website">None</string>
+    <string name="restaraunt1_phone_number">(212)766-6311</string>
+    <string name="restaraunt1_description">No-frills place offering a big menu of beyond-the-basics
+        Chinese dishes including soup dumplings.</string>
+
+    <string name="restaraunt2_name">Nom Wah Tea Parlor</string>
+    <string name="restaraunt2_address">13 Doyers St, New York, NY 10013 </string>
+    <string name="restaraunt2_menu">http://nomwah.com/chinatown</string>
+    <string name="restaraunt2_website">http://nomwah.com/chinatown</string>
+    <string name="restaraunt2_phone_number">(212) 962-6047</string>
+    <string name="restaraunt2_description">Vintage dim sum parlor dating back to 1920
+        with a drink menu that includes tea, beer and wine.</string>
+
+    <string name="restaraunt3_name">Great NY Noodletown</string>
+    <string name="restaraunt3_address">28 Bowery, New York, NY 10013</string>
+    <string name="restaraunt3_menu">http://places.singleplatform.com/great-ny-noodletown/menu?ref=google</string>
+    <string name="restaraunt3_website">None</string>
+    <string name="restaraunt3_phone_number">(212) 349-0923</string>
+    <string name="restaraunt3_description">Salt-baked seafood, handmade noodles,
+        soups and roast meat are served in a spartan setting.</string>
+
+    <string name="restaraunt4_name">Ping</string>
+    <string name="restaraunt4_address">22 Mott St, New York, NY 10013</string>
+    <string name="restaraunt4_menu">http://places.singleplatform.com/pings/menu?ref=google</string>
+    <string name="restaraunt4_website">None</string>
+    <string name="restaraunt4_phone_number">(212) 602-9988</string>
+    <string name="restaraunt4_description">Fish are plucked from tanks up front at
+        this Cantonese seafood spot also known for a dim sum lunch.</string>
+
+    <string name="restaraunt5_name">Tasty Had-Pulled Noodles</string>
+    <string name="restaraunt5_address">1 Doyers St, New York, NY 10013</string>
+    <string name="restaraunt5_menu">http://places.singleplatform.com/tasty-hand-pulled-noodles/menu?ref=google</string>
+    <string name="restaurant5_website">None</string>
+    <string name="restaraunt5_phone_number">(212) 791-1817</string>
+    <string name="restaraunt5_description">Chinese noodles are made by hand and served
+        in soups and stir-fries at this bustling, bare-bones spot.</string>
+
+    <!-- Fast Food -->
+    <string name="fast_food1_name">McDonalds</string>
+    <string name="fast_food1_adresss">262 Canal St, New York, NY 10013</string>
+    <string name="fast_food1_menu">https://www.mcdonalds.com/us/en-us/full-menu.html?cid=RF:YXT_LS:SI::MGBM</string>
+    <string name="fast_food1_website">https://www.mcdonalds.com/us/en-us/mobile-order-and-pay.html</string>
+    <string name="fast_food1_phone_number">(212) 941- 5823</string>
+    <string name="fast_food1_description">Classic, long-running fast-food chain known for its burgers,
+        fries and shakes. </string>
+
+    <string name="fast_food2_name">Wah Fung #1 Fast Food</string>
+    <string name="fast_food2_address">79 Chrystie St, New York, NY 10002</string>
+    <string name="fast_food2_menu">https://www.menuwithprice.com/menu/wah-fung-1-fast-food/</string>
+    <string name="fast_food2_website">None</string>
+    <string name="fast_food2_phone_number">(212) 925-5175</string>
+    <string name="fast_food2_description">An Asian fast food restaurant that has cheap eats
+        with lunch specials and can conveniently deliver right to your doorstep</string>
+
+    <string name="fast_food3_name">Hua Ji Pork Chop Fast Food</string>
+    <string name="fast_food3_address">7 Allen St, New York 10002</string>
+    <string name="fast_food3_menu">http://www.menupages.com/restaurants/hua-ji-pork-chop-fast-food/menu</string>
+    <string name="fast_food3_website">None</string>
+    <string name="fast_food3_phone_number">(212) 219-9876</string>
+    <string name="fast_food3_description">Tiny, modest Chinese counter-serve spot specializing in
+        pork chops over rice and quick snacks.</string>
+
+    <string name="fast_food4_name">Popeyes Louisiana Kitchen</string>
+    <string name="fast_food4_address">125 Canal St, New York, NY 10002</string>
+    <string name="fast_food4_menu">https://popeyes.com/menu/</string>
+    <string name="fast_food4_website">https://popeyes.com/</string>
+    <string name="fast_food4_phone_number">(212) 966-7077</string>
+    <string name="fast_food4_description">Louisiana-accented fast-food chain known for its
+        spicy fried chicken, biscuits and sides.</string>
+
+    <string name="fast_food5_name">May Wah Fast Food</string>
+    <string name="fast_food5_address">190 Hester St, New York, NY 10013</string>
+    <string name="fast_food5_menu">http://www.maywahfastfood.com/menu/</string>
+    <string name="fast_food5_website">http://www.maywahfastfood.com/</string>
+    <string name="fast_food5_phone_number">(212) 925-6428</string>
+    <string name="fast_food5_description">Straight from their website May Wah Fast Food specializes in soups, “over rice” dishes and noodle soups.
+        Popular “over rice” dishes include their Chicken Leg Over Rice and Pork Chop Over Rice.
+        Popular noodle soups include their Beef Noodle Soup and Shanghai Noodle Soup.</string>
+
+    <!-- Sweets -->
+    <string name="sweets1_name">The Sweet Life</string>
+    <string name="sweets1_address">63 Hester St, New York, NY 10002</string>
+    <string name="sweets1_menu">http://www.menupages.com/restaurants/the-sweet-life/menu</string>
+    <string name="sweets1_website">http://thesweetlifenyc.com/</string>
+    <string name="sweets1_phone_number">(212) 598-0092</string>
+    <string name="sweets1_description">Cozy candy shop offering classic sweet treats plus nuts,
+        dried fruit and house made chocolates.</string>
+
+    <string name="sweets2_name">Taiyaki NYC</string>
+    <string name="sweets2_address">119 Baxter St, New York, NY 10013</string>
+    <string name="sweets2_menu">https://www.facebook.com/pg/TaiyakiNYC/menu/</string>
+    <string name="sweets2_website"> https://taiyakinyc.com/</string>
+    <string name="sweets2_phone_number">(212) 966-2882</string>
+    <string name="sweets2_description">A Japanese ice cream shop serving inventive flavors
+        in a fish-shaped waffle cone. </string>
+
+    <string name="sweets3_name">Sweet Moment</string>
+    <string name="sweets3_address">106 Mott St, New York, NY 10013</string>
+    <string name="sweets3_menu">https://www.sweetmoment.nyc/menu</string>
+    <string name="sweets3_website">https://www.sweetmoment.nyc/</string>
+    <string name="sweets3_phone_number">(212) 226-8724</string>
+    <string name="sweets3_description">Funky dessert cafe with creative shaved ice concoctions and
+        waffles, plus craft coffee drinks and tea.</string>
+
+    <string name="sweets4_name">The Original Chinatown Ice Cream Factory</string>
+    <string name="sweets4_address">65 Bayard Street, New York, NY 10013</string>
+    <string name="sweets4_menu">http://www.chinatownicecreamfactory.com/ice-cream/</string>
+    <string name="sweets4_website">http://www.chinatownicecreamfactory.com/</string>
+    <string name="sweets4_phone_number">(212) 608-4170</string>
+    <string name="sweets4_description">The flavors range from familiar to exotic
+        (like lychee) at this compact ice-cream shop.</string>
+
+    <string name="sweets5_name">Fay Da Bakery</string>
+    <string name="sweets5_address">83 Mott St, New York, NY 10013</string>
+    <string name="sweets5_menu">http://fayda.com/shop/</string>
+    <string name="sweets5_website">http://fayda.com/</string>
+    <string name="sweets5_phone_number">(212) 791-3884</string>
+    <string name="sweets5_description">Chinese bakery for cakes, cookies and breads
+        also offering hot and cold specialty drinks.</string>
 
 </resources>

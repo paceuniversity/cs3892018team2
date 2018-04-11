@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "399348101027",
+    "firebase_url": "https://chinatowntour-a4016.firebaseio.com",
+    "project_id": "chinatowntour-a4016",
+    "storage_bucket": "chinatowntour-a4016.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399348101027:android:4dfb6974d56a0048",
+        "android_client_info": {
+          "package_name": "ahmed.niaz.chinatown_tour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399348101027-obfg2jrj7s6mnkpvf9rs35i58eo8utns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ahmed.niaz.chinatown_tour",
+            "certificate_hash": "c722d920b870bbe5970072b20b83aac61e2ea265"
+          }
+        },
+        {
+          "client_id": "399348101027-1klcb9acjc9lnesob59ngqga8m1ce8sf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPf7pXFKviiu8TPk8YGMAjyS7PqrRIq0E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399348101027-1klcb9acjc9lnesob59ngqga8m1ce8sf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

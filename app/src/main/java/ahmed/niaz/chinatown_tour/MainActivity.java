@@ -2,6 +2,7 @@ package ahmed.niaz.chinatown_tour;
 
 import android.content.Intent;
 import android.graphics.Color;
+import android.media.Image;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -16,17 +17,35 @@ public class MainActivity extends AppCompatActivity {
     public Button activities_lp_btn;
     public Button itinerary_lp_btn;
     public Button history_lp_btn;
+    public ImageButton settings_btn;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
+        settings_btn = (ImageButton) findViewById(R.id.setting_image_button);
+        settings_btn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this,SettingsActivity.class);
+                startActivity(intent);
+            }
+        });
+
         /* Main Menu Variables */
 
         transport_lp_btn = (Button) findViewById(R.id.transport_landing_pg);
         transport_lp_btn.setBackgroundColor(0xFFFF0000);
         transport_lp_btn.setTextColor(Color.parseColor("#FFFFFF"));
+        transport_lp_btn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this,TransportationActivity.class);
+                startActivity(intent);
+            }
+        });
 
 
 
@@ -52,6 +71,13 @@ public class MainActivity extends AppCompatActivity {
         activities_lp_btn = (Button) findViewById(R.id.poi_landing_pg);
         activities_lp_btn.setBackgroundColor(0xFFFF0000);
         activities_lp_btn.setTextColor(Color.parseColor("#FFFFFF"));
+        activities_lp_btn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this,ActivitiesActivity.class);
+                startActivity(intent);
+            }
+        });
 
 
 
@@ -71,7 +97,14 @@ public class MainActivity extends AppCompatActivity {
         history_lp_btn = (Button) findViewById(R.id.history_landing_pg);
         history_lp_btn.setBackgroundColor(0xFFFF0000);
         history_lp_btn.setTextColor(Color.parseColor("#FFFFFF"));
+        history_lp_btn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this,HistoryActivity.class);
+                startActivity(intent);
+            }
+        });
 
+        }
 
-    }
 }
