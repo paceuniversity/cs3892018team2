@@ -24,30 +24,28 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        // Runs openSettingsActivity when the button "settings" is clicked
+
         settings_btn = (ImageButton) findViewById(R.id.setting_image_button);
         settings_btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                openSettingsActivity();
+                Intent intent = new Intent(MainActivity.this,SettingsActivity.class);
+                startActivity(intent);
             }
         });
-
-        // Runs openActivitiesActivity when "Activities" is clicked
-        activities_lp_btn = (Button) findViewById(R.id.poi_landing_pg);
-        activities_lp_btn.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                openActivitiesActivity();
-            }
-        });
-
 
         /* Main Menu Variables */
 
         transport_lp_btn = (Button) findViewById(R.id.transport_landing_pg);
         transport_lp_btn.setBackgroundColor(0xFFFF0000);
         transport_lp_btn.setTextColor(Color.parseColor("#FFFFFF"));
+        transport_lp_btn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this,TransportationActivity.class);
+                startActivity(intent);
+            }
+        });
 
 
 
@@ -73,6 +71,13 @@ public class MainActivity extends AppCompatActivity {
         activities_lp_btn = (Button) findViewById(R.id.poi_landing_pg);
         activities_lp_btn.setBackgroundColor(0xFFFF0000);
         activities_lp_btn.setTextColor(Color.parseColor("#FFFFFF"));
+        activities_lp_btn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this,ActivitiesActivity.class);
+                startActivity(intent);
+            }
+        });
 
 
 
@@ -94,15 +99,4 @@ public class MainActivity extends AppCompatActivity {
         history_lp_btn.setTextColor(Color.parseColor("#FFFFFF"));
         }
 
-    // Starts SettingsActivity
-    public void openSettingsActivity() {
-        Intent intent = new Intent(this, SettingsActivity.class);
-        startActivity(intent);
-    }
-
-    // Starts ActivitiesActivity
-    public void openActivitiesActivity() {
-        Intent intent = new Intent(this, ActivitiesActivity.class);
-        startActivity(intent);
-    }
 }
