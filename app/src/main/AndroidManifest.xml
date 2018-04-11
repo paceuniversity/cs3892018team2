@@ -20,7 +20,8 @@
         <activity android:name=".ItineraryActivity" />
         <activity android:name=".SettingsActivity" />
         <activity android:name=".ActivitiesActivity" />
-        <activity android:name=".TransportationActivity"></activity>
+        <activity android:name=".TransportationActivity" />
+        <activity android:name=".HistoryActivity"></activity>
     </application>
 
 </manifest>
