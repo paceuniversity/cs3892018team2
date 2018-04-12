@@ -2,7 +2,6 @@ package ahmed.niaz.chinatown_tour;
 
 import android.content.Intent;
 import android.graphics.Color;
-import android.media.Image;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -22,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.main_menu);
 
 
         settings_btn = (ImageButton) findViewById(R.id.setting_image_button);

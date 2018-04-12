@@ -13,6 +13,6 @@ public class ItineraryActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.itinerary_activity);
+        setContentView(R.layout.itinerary);
     }
 }
