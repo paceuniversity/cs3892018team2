@@ -402,7 +402,7 @@
 
 
     <!-- Food Locations and Details -->
-    <!-- Restaruants -->
+    <!-- Restaurants -->
     <string name="restaurant1_name">Shanghai Asian Manor</string>
     <string name="restaurant1_address">21 Mott St, New York, NY 10013</string>
     <string name="restaurant1_menu">https://www.delivery.com/cities/nyc/categories/restaurant/shanghai-asian-manor?utm_source=google&amp;utm_medium=list&amp;utm_campaign=places_order_now_btn</string>
@@ -445,7 +445,7 @@
 
     <!-- Fast Food -->
     <string name="fast_food1_name">McDonalds</string>
-    <string name="fast_food1_addres">262 Canal St, New York, NY 10013</string>
+    <string name="fast_food1_address">262 Canal St, New York, NY 10013</string>
     <string name="fast_food1_menu">https://www.mcdonalds.com/us/en-us/full-menu.html?cid=RF:YXT_LS:SI::MGBM</string>
     <string name="fast_food1_website">https://www.mcdonalds.com/us/en-us/mobile-order-and-pay.html</string>
     <string name="fast_food1_phone_number">(212) 941- 5823</string>
