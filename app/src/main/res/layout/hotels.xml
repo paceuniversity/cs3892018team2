@@ -3,7 +3,9 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
 
     <include
         android:id="@+id/include"
@@ -13,35 +15,48 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <TextView
-        android:id="@+id/hotel_name"
-        android:layout_width="147dp"
-        android:layout_height="45dp"
-        android:layout_marginLeft="28dp"
-        android:layout_marginTop="8dp"
-        android:text="@string/hotel1_name"
-        android:textAppearance="@style/TextAppearance.AppCompat.Button"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/include" />
+    <RelativeLayout
+        android:layout_width="365dp"
+        android:layout_height="468dp"
+        android:layout_marginBottom="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent">
 
-    <ImageView
-        android:id="@+id/imageView2"
-        android:layout_width="321dp"
-        android:layout_height="254dp"
-        android:layout_marginLeft="28dp"
-        android:layout_marginTop="20dp"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/hotel_name"
-        app:srcCompat="@drawable/hotel1_image" />
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:text="TextView" />
 
-    <TextView
-        android:id="@+id/textView2"
-        android:layout_width="316dp"
-        android:layout_height="100dp"
-        android:layout_marginLeft="28dp"
-        android:layout_marginTop="20dp"
-        android:text="@string/hotel11_description"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView2" />
+        <ImageSwitcher
+            android:id="@+id/img_switcher"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_below="@+id/textView"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="72dp" />
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_below="@+id/img_switcher"
+            android:layout_marginEnd="18dp"
+            android:layout_marginTop="24dp"
+            android:text="Button" />
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/button3"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="22dp"
+            android:text="Button" />
+
+    </RelativeLayout>
 
 </android.support.constraint.ConstraintLayout>
