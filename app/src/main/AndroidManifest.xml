@@ -21,7 +21,8 @@
         <activity android:name=".SettingsActivity" />
         <activity android:name=".ActivitiesActivity" />
         <activity android:name=".TransportationActivity" />
-        <activity android:name=".HistoryActivity"></activity>
+        <activity android:name=".HistoryActivity" />
+        <activity android:name=".FoodActivity"></activity>
     </application>
 
 </manifest>

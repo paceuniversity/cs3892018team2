@@ -261,7 +261,27 @@
     <string name="activity15_address">Mott Street; between Canal and Beyard Streets</string>
 
     <!-- Activities Sub-Section: Shopping -->
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3d25517084db9a5cc4c11f85f2e1371ade4ad435
+    <string name="Activity1_shopping_name">K. K. Discount Store  </string>
+    <string name="Activity1_shopping_Static_Info"> No-frills stalwart stocking a variety of home goods &amp; Asian decor, from teapots to small furniture. </string>
+    <string name="Activity1_shopping_description"> Shopping </string>
+    <string name="Activity1_shopping_images">  </string>
+    <string name="Activity1_shopping_address"> 78 Mulberry St, New York, NY 10013 </string>
+    <string name="Activity1_shopping_website_link"> http://www.kkdiscount.com/ </string>
+    <string name="Activity1_shopping_phone_number"> (212) 513-7043 </string>
+
+    <string name="Activity2_shopping_name">T-Pop Shop NYC  </string>
+    <string name="Activity2_shopping_Static_Info"> "T-Pop Shop is a trendsetting Online Second Hand Clothing Store, offering first-rate products and exceptional customer
+    service to shoppers from the comfort of their own homes" </string>
+    <string name="Activity2_shopping_description">Shopping  </string>
+    <string name="Activity2_shopping_images">  </string>
+    <string name="Activity2_shopping_address">59 Franklin St, New York, NY 10013  </string>
+    <string name="Activity2_shopping_website_link"> http://www.tpopshop.nyc/ </string>
+
+    <string name="Activity2_shopping_phone_number"> (917) 582-0701 </string>
 
     <string name="Activity3_shopping_name"> Lun Hong Flower Shop </string>
     <string name="Activity3_shopping_Static_Info"> If you need flowers arrangements, this is the place to go! Reasonably priced, and beautiful selections to choose from! </string>
@@ -369,7 +389,6 @@
     <string name="Historical_sight9_historical_information">  </string>
     <string name="Historical_sight9_images">  </string>
     <string name="Historical_sight9_website">www.chinatownsoup.nyc  </string>
-
 
 
     <!-- Settings Layout -->
