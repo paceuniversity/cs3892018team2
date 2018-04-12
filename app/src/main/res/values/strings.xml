@@ -528,7 +528,7 @@
 
     <!-- Transportation -->
     <string name="train_notice">During weekends, trains may be subjected to change due to construction.</string>
-    <string name="mta_weekender"><a href="http://web.mta.info/weekender.html">Check the MTA Weekender</a></string>
+    <!-- <string name="mta_weekender"><a href="http://web.mta.info/weekender.html">Check the MTA Weekender</a></string> -->
 
     <string name="canal_street_station">Canal Street</string>
     <string name="canal_street_trains">N, Q, R, W, J, Z, M, 4, 6</string>
