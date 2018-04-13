@@ -1,21 +1,18 @@
 package ahmed.niaz.chinatown_tour;
 
-import android.app.ActionBar;
-import android.graphics.Color;
+import android.annotation.SuppressLint;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.Button;
-import android.widget.EditText;
 import android.widget.ImageSwitcher;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
-import android.widget.Toast;
 import android.widget.ViewSwitcher;
 
-import java.util.EventListener;
+import java.util.ArrayList;
 
 
 /**
@@ -24,22 +21,28 @@ import java.util.EventListener;
 
 public class HotelActivity extends AppCompatActivity {
 
-    // === CREATE CLASS VARIABLES ===
 
-    ImageSwitcher img_switcher;
-    Button btn_1;
-    Button btn_2;
+    // HOTEL 18 x 3
+    // ACTIVITY 15 x 1
+    // FOOD 15 x 1
+
+
+    // === CREATE VARIABLES ===
+
+    private ImageSwitcher img_switcher;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.hotels);
 
+
         // === INSTANTIATE VARIABLES ===
 
         img_switcher = (ImageSwitcher) findViewById(R.id.img_switcher);
-        btn_1 = (Button) findViewById(R.id.button3);
-        btn_2 = (Button) findViewById(R.id.button4);
+
+
 
         // === ADD A VIEW TO THE IMG SWITCHER ===
 
@@ -59,21 +62,28 @@ public class HotelActivity extends AppCompatActivity {
         Animation out = AnimationUtils.loadAnimation(this,android.R.anim.slide_out_right);
         img_switcher.setInAnimation(in);
         img_switcher.setOutAnimation(out);
+        img_switcher.setImageDrawable(getResources().getDrawable(R.drawable.hotel1_image1));
 
-        // === BUTTON EVENT LISTENERS ==
+        img_switcher.setOnTouchListener(new OnSwipeTouchListener(HotelActivity.this){
+            public void onSwipeTop(){
 
-        btn_1.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                img_switcher.setImageDrawable(getResources().getDrawable(R.drawable.ic_launcher_background));
             }
-        });
-        btn_2.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                img_switcher.setImageDrawable(getResources().getDrawable(R.drawable.ic_launcher_foreground));
+
+            public void onSwipeBot(){
+
             }
+
+            public void onSwipeLeft(){
+
+            }
+
+            public void onSwipeRight(){
+
+            }
+
+
         });
     }
+
 }
 
