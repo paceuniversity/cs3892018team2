@@ -51,6 +51,13 @@ public class MainActivity extends AppCompatActivity {
         food_lp_btn = (Button) findViewById(R.id.food_landing_pg);
         food_lp_btn.setBackgroundColor(0xFFFF0000);
         food_lp_btn.setTextColor(Color.parseColor("#FFFFFF"));
+        food_lp_btn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this,FoodActivity.class);
+                startActivity(intent);
+            }
+        });
 
 
 
