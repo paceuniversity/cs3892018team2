@@ -6,4 +6,12 @@
     android:layout_height="match_parent"
     tools:context="ahmed.niaz.chinatown_tour.FoodActivity">
 
+    <include
+        android:id="@+id/include2"
+        layout="@layout/custom_main_menu_header"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
 </android.support.constraint.ConstraintLayout>

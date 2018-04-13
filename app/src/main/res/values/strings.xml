@@ -277,7 +277,6 @@
     <string name="Activity2_shopping_images">  </string>
     <string name="Activity2_shopping_address">59 Franklin St, New York, NY 10013  </string>
     <string name="Activity2_shopping_website_link"> http://www.tpopshop.nyc/ </string>
-
     <string name="Activity2_shopping_phone_number"> (917) 582-0701 </string>
 
     <string name="Activity3_shopping_name"> Lun Hong Flower Shop </string>
@@ -403,7 +402,7 @@
 
 
     <!-- Food Locations and Details -->
-    <!-- Restaruants -->
+    <!-- Restaurants -->
     <string name="restaurant1_name">Shanghai Asian Manor</string>
     <string name="restaurant1_address">21 Mott St, New York, NY 10013</string>
     <string name="restaurant1_menu">https://www.delivery.com/cities/nyc/categories/restaurant/shanghai-asian-manor?utm_source=google&amp;utm_medium=list&amp;utm_campaign=places_order_now_btn</string>
@@ -446,7 +445,7 @@
 
     <!-- Fast Food -->
     <string name="fast_food1_name">McDonalds</string>
-    <string name="fast_food1_addres">262 Canal St, New York, NY 10013</string>
+    <string name="fast_food1_address">262 Canal St, New York, NY 10013</string>
     <string name="fast_food1_menu">https://www.mcdonalds.com/us/en-us/full-menu.html?cid=RF:YXT_LS:SI::MGBM</string>
     <string name="fast_food1_website">https://www.mcdonalds.com/us/en-us/mobile-order-and-pay.html</string>
     <string name="fast_food1_phone_number">(212) 941- 5823</string>
@@ -527,4 +526,19 @@
     <string name="sweets5_description">Chinese bakery for cakes, cookies and breads
         also offering hot and cold specialty drinks.</string>
 
+    <!-- Transportation -->
+    <string name="train_notice">During weekends, trains may be subjected to change due to construction.</string>
+    <!-- <string name="mta_weekender"><a href="http://web.mta.info/weekender.html">Check the MTA Weekender</a></string> -->
+
+    <string name="canal_street_station">Canal Street</string>
+    <string name="canal_street_trains">N, Q, R, W, J, Z, M, 4, 6</string>
+    <string name="canal_street_description">There are multiple way to get to the Canal Street subway station. It is a very large station that consists of many trains including the N, Q, R, W, J, Z, M, 4, and 6 train.</string>
+
+    <string name="east_broadway_station">East Broadway</string>
+    <string name="east_broadway_trains">F</string>
+    <string name="east_broadway_description">The only train that runs to East Broadway is the F train.</string>
+
+    <string name="grand_street_station">Grand Street</string>
+    <string name="grand_street_trains">B, D</string>
+    <string name="grand_street_description">During the week ends the B trains do not run. Only the D trains stop at this station.</string>
 </resources>
