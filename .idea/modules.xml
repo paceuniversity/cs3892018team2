@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Chinatown_Tour_Latest.iml" filepath="$PROJECT_DIR$/Chinatown_Tour_Latest.iml" />
-=======
->>>>>>> 45238db780c8ec6a7bd5f426fb72983cb6fc3e5a
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
