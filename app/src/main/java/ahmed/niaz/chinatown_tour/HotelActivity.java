@@ -1,6 +1,7 @@
 package ahmed.niaz.chinatown_tour;
 
 import android.annotation.SuppressLint;
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
@@ -22,14 +23,10 @@ import java.util.ArrayList;
 public class HotelActivity extends AppCompatActivity {
 
 
-    // HOTEL 18 x 3
-    // ACTIVITY 15 x 1
-    // FOOD 15 x 1
-
-
     // === CREATE VARIABLES ===
 
     private ImageSwitcher img_switcher;
+    private ImageView app_logo;
 
 
     @Override
@@ -41,8 +38,18 @@ public class HotelActivity extends AppCompatActivity {
         // === INSTANTIATE VARIABLES ===
 
         img_switcher = (ImageSwitcher) findViewById(R.id.img_switcher);
+        app_logo = (ImageView) findViewById(R.id.appIcon);
 
 
+        // === LINK APP ICON TO MAIN MENU ====
+
+        app_logo.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(HotelActivity.this,MainActivity.class);
+                startActivity(intent);
+            }
+        });
 
         // === ADD A VIEW TO THE IMG SWITCHER ===
 
@@ -63,6 +70,8 @@ public class HotelActivity extends AppCompatActivity {
         img_switcher.setInAnimation(in);
         img_switcher.setOutAnimation(out);
         img_switcher.setImageDrawable(getResources().getDrawable(R.drawable.hotel1_image1));
+
+        // === ON SWIPE LISTENER ===
 
         img_switcher.setOnTouchListener(new OnSwipeTouchListener(HotelActivity.this){
             public void onSwipeTop(){
