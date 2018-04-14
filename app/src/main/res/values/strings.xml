@@ -149,7 +149,7 @@
     <string name="activity1_type">museum</string>
     <string name="activity1_address">215 Centre Street</string>
     <string name="activity1_website">mocanyc.org</string>
-    <string name="activity1_phonenumber">212-619-4785</string>
+    <string name="activity1_phone_number">212-619-4785</string>
 
     <string name="activity2_name">Mayahana Temple Buddhist Association</string>
     <string name="activity2_static">NYC\'s largest Buddhist temple; provides services such as
@@ -158,7 +158,7 @@
     <string name="activity2_type">religious institution</string>
     <string name="activity2_address">133 Canal Street</string>
     <string name="activity2_website">mahayana.us</string>
-    <string name="activity2_phonenumber">212-925-8787</string>
+    <string name="activity2_phone_number">212-925-8787</string>
 
     <string name="activity3_name">Aji Ichiban</string>
     <string name="activity3_static">an Asian snack paradise for those wishing to satisfy their sweet
@@ -166,7 +166,7 @@
     <string name="activity3_type">confectionary shop</string>
     <string name="activity3_address">37 Mott Street</string>
     <string name="activity3_website">mocanyc.org</string>
-    <string name="activity3_phonenumber">212-233-7650</string>
+    <string name="activity3_phone_number">212-233-7650</string>
 
     <string name="activity4_name">Canal Street</string>
     <string name="activity4_static">a shopping experience with an open-air bazaar feel,
@@ -179,7 +179,7 @@
     <string name="activity5_type">bar</string>
     <string name="activity5_address">9 Doyers Street</string>
     <string name="activity5_website">apothekenyc.com</string>
-    <string name="activity5_phonenumber">212-406-0400</string>
+    <string name="activity5_phone_number">212-406-0400</string>
 
     <string name="activity6_name">Columbus Park</string>
     <string name="activity6_static">at the heart of Chinatown; has a basketball court,
@@ -187,7 +187,7 @@
     <string name="activity6_type">park</string>
     <string name="activity6_address">66 Mulberry Street</string>
     <string name="activity6_website">nycgovparks.org/parks/columbus-park-m015/</string>
-    <string name="activity6_phonenumber">212-406-0400</string>
+    <string name="activity6_phone_number">212-406-0400</string>
 
     <string name="activity7_name">Chinese Consolidated Benevolent Association</string>
     <string name="activity7_static">founded to serve and protect the interests of the Chinese people in
@@ -195,7 +195,7 @@
     <string name="activity7_type">community center</string>
     <string name="activity7_address">62 Mott Street</string>
     <string name="activity7_website">ccbanyc.org</string>
-    <string name="activity7_phonenumber">212-226-6280</string>
+    <string name="activity7_phone_number">212-226-6280</string>
 
     <string name="activity8_name">Magic Jewelry</string>
     <string name="activity8_static">an occult shop which specializes in feng shui,
@@ -203,14 +203,14 @@
     <string name="activity8_type">shopping</string>
     <string name="activity8_address">238 Canal Street</string>
     <string name="activity8_website">mocanyc.org</string>
-    <string name="activity8_phonenumber">212-343-0663</string>
+    <string name="activity8_phone_number">212-343-0663</string>
 
     <string name="activity9_name">Mmuseumm</string>
     <string name="activity9_static">a modern natural history museum located in a
     freight elevator; collection of unique artifacts</string>
     <string name="activity9_address">4 Cortlandt Alley</string>
     <string name="activity9_website">mmuseumm.com</string>
-    <string name="activity9_phonenumber">888-763-8839</string>
+    <string name="activity9_phone_number">888-763-8839</string>
 
     <string name="activity10_name">Up Stairs</string>
     <string name="activity10_static">located on the second floor of an apartment building;
@@ -218,7 +218,7 @@
     <string name="activity10_type">karaoke bar</string>
     <string name="activity10_address">59 Canal Street</string>
     <string name="activity10_website">mocanyc.org</string>
-    <string name="activity10_phonenumber">646-559-0098</string>
+    <string name="activity10_phone_number">646-559-0098</string>
 
     <string name="activity11_name">Zu Yuan</string>
     <string name="activity11_static">spend a day of relaxation and unwinding; provides spa
@@ -226,7 +226,7 @@
     <string name="activity11_type">spa</string>
     <string name="activity11_address">48 Mott Street</string>
     <string name="activity11_website">mocanyc.org</string>
-    <string name="activity11_phonenumber">212-587-8881</string>
+    <string name="activity11_phone_number">212-587-8881</string>
 
     <string name="activity12_name">NYC Gangster Tours</string>
     <string name="activity12_static">From the 1840’s through 1920’s, learn about the earlier era of
@@ -239,14 +239,14 @@
     <string name="activity12_type">walking tour</string>
     <string name="activity12_address">meets at the corner of Mulberry &amp;amp; Worth streets</string>
     <string name="activity12_website">nycgangstertours.com/</string>
-    <string name="activity12_phonenumber">516-652-4527</string>
+    <string name="activity12_phone_number">516-652-4527</string>
 
     <string name="activity13_name">Church of the Transfiguration</string>
     <string name="activity13_static">serves the Irish, German, Italian and, most recently, Chinese communities;
      Sunday masses are held in English, Mandarin, and Cantonese; houses a chinese school</string>
     <string name="activity13_address">29 Mott Street</string>
     <string name="activity13_website">transfigurationnyc.org</string>
-    <string name="activity13_phonenumber">212-962-5157</string>
+    <string name="activity13_phone_number">212-962-5157</string>
 
     <string name="activity14_name">Lunar New Year Parade &amp;amp; Festival</string>
     <string name="activity14_static">an annual celebration of the beginning of the turn of the
@@ -400,6 +400,12 @@
     <string name="feedback_edittext">Please enter your feedback.</string>
     <string name="submit_feedback_button">Submit Feedback</string>
 
+
+    <!-- Food -->
+    <!-- Category Names -->
+    <string name="category1_name">Restaurants</string>
+    <string name="category2_name">Fast Food</string>
+    <string name="category3_name">Sweets</string>
 
     <!-- Food Locations and Details -->
     <!-- Restaurants -->
