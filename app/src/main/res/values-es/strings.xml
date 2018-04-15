@@ -65,4 +65,13 @@
     <string name="category1_name">Restaurantes</string>
     <string name="category2_name">La comida rápida</string>
     <string name="category3_name">Dulces</string>
+    <string name="restaurant1_description">Sin lujos en el lugar ofrece un gran menú de \"más allá de la basics platos chinos incluyendo una sopa wonton.</string>
+    <string name="restaurant2_description">Vintage dim sum salón se remontan a 1920, con un menú de bebidas que incluye té, cerveza y vino.</string>
+    <string name="restaurant3_description">Sal de marisco cocido, handmade fideos, sopas y carnes asadas se sirven en un espartano.</string>
+    <string name="restaurant4_description">Los peces son rasgueadas desde tanques frente a este cantonés mariscos también conocido spot para un almuerzo dim sum.</string>
+    <string name="restaurant5_description">Las pastas chinas son hechas a mano y servidas en sopas y fríe y mezcla durante poco tiempo en este alboroto, punto de esencial.</string>
+    <string name="fast_food1_description">El clásico, cadena de comida rápida mucho tiempo que corre conocida para sus hamburguesas, fríe y licuados.</string>
+    <string name="fast_food2_description">Un restaurante de comida rápida de Asia que tiene comer barato con almuerzo especiales y pueden entregar convenientemente justo en su puerta</string>
+    <string name="fast_food3_description">Pequeño, modesto contador chino-servir spot especializada en chuletas de cerdo con arroz y bocadillos rápidos.</string>
+    <string name="fast_food4_description">Louisiana acentuados en cadena de comida rápida conocida por su picante pollo frito, galletas y lados.</string>
 </resources>
