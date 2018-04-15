@@ -74,4 +74,13 @@
     <string name="fast_food2_description">Un restaurante de comida rápida de Asia que tiene comer barato con almuerzo especiales y pueden entregar convenientemente justo en su puerta</string>
     <string name="fast_food3_description">Pequeño, modesto contador chino-servir spot especializada en chuletas de cerdo con arroz y bocadillos rápidos.</string>
     <string name="fast_food4_description">Louisiana acentuados en cadena de comida rápida conocida por su picante pollo frito, galletas y lados.</string>
+    <string name="fast_food5_description">Directamente desde su sitio web puede Wah Fast Food especializado en sopas, platos de arroz \"over\" y sopas de fideos. \"Más Populares\", platos de arroz incluyen su pierna de pollo con arroz y carne de cerdo picar sobre arroz. Las sopas de fideos populares incluyen su carne sopa de fideos y sopa de fideos de Shanghai.</string>
+    <string name="sweets1_description">La tienda de caramelo acogedora que ofrece a convites dulces clásicos más loco, frutas secas y casa hizo bombones.</string>
+    <string name="sweets2_description">Una tienda de helado japonesa que sirve sabores inventivos en un cono de gofre en forma de pescado.</string>
+    <string name="sweets3_description">la cafetería de postre de funky con mezcolanzas de hielo afeitadas creativas y gofres, más el café de arte bebe y té.</string>
+    <string name="sweets4_description">Los sabores se extienden de familiar a exótico (como el fruto del nefelio) en esta heladería compacta.</string>
+    <string name="sweets5_description">Panadería chino para tartas, galletas y panes también ofrece bebidas frías y calientes.</string>
+    <string name="train_notice">Durante los fines de semana, los trenes pueden estar sujetos a cambios debido a la construcción.</string>
+    <string name="canal_street_description">Hay varias vías para llegar a la estación de metro de Canal Street. Es una estación muy grande que consta de muchos trenes incluyendo el N, Q, R, W, Z, J, M, 4, y 6 de tren.</string>
+    <string name="east_broadway_description">El único tren que va hasta la East Broadway es la F tren.</string>
 </resources>
