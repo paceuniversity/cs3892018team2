@@ -259,7 +259,7 @@
     <!-- Activities Sub-Section: Shopping -->
 
     <string name="Activity1_shopping_name">K. K. Discount Store  </string>
-    <string name="Activity1_shopping_Static_Info"> No-frills stalwart stocking a variety of home goods &amp; Asian decor, from teapots to small furniture. </string>
+    <string name="Activity1_shopping_Static_Info">No-frills stalwart stocking a variety of home goods &amp; Asian decor, from teapots to small furniture.</string>
     <string name="Activity1_shopping_description"> Shopping </string>
     <string name="Activity1_shopping_images" translatable="false">  </string>
     <string name="Activity1_shopping_address"> 78 Mulberry St, New York, NY 10013 </string>
@@ -299,7 +299,7 @@
     <string name="Activity5_shopping_phone_number"> (212) 343-0663 </string>
 
     <string name="Activity6_shopping_name"> Pearl River Mart </string>
-    <string name="Activity6_shopping_Static_Info">Eclectic emporium with 3-floors of Chinese apparel, accessories, housewares &amp; furniture.  </string>
+    <string name="Activity6_shopping_Static_Info">Eclectic emporium with 3-floors of Chinese apparel, accessories, housewares &amp; furniture.</string>
     <string name="Activity6_shopping_description"> Shopping </string>
     <string name="Activity6_shopping_images" translatable="false">  </string>
     <string name="Activity6_shopping_address">395 Broadway, New York, NY 10013  </string>
@@ -352,14 +352,14 @@
     <string name="Historical_sight4_website" translatable="false"> https://en.wikipedia.org/wiki/Five_Points,_Manhattan </string>
 
     <string name="Historical_sight5_name">Jarmulowski Building  </string>
-    <string name="Historical_sight5_historical_information"> The Jarmulowsky Bank Building is a 12-story building formerly housing the  Jarmulowsky Bank on the Lower East Side of Manhattan, New York City. Located  at Canal Street and Orchard Street, the Jarmulowsky Bank Building was built by  architects Rouse &amp; Goldstone in 1912, in Beaux-Arts style.  </string>
+    <string name="Historical_sight5_historical_information">The Jarmulowsky Bank Building is a 12-story building formerly housing the Jarmulowsky Bank on the Lower East Side of Manhattan, New York City. Located at Canal Street and Orchard Street, the Jarmulowsky Bank Building was built by architects Rouse &amp; Goldstone in 1912, in Beaux-Arts style.</string>
     <string name="Historical_sight5_address"> 9 Orchard St, New York, NY 10002 </string>
     <string name="Historical_sight5_images" translatable="false">  </string>
     <string name="Historical_sight5_website" translatable="false">https://en.wikipedia.org/wiki/Jarmulowsky_Bank_Building </string>
 
     <string name="Historical_sight6_name"> Edward Mooney House </string>
     <string name="Historical_sight6_address"> 18 Bowery, New York, NY 10013 </string>
-    <string name="Historical_sight6_historical_information">The Edward Mooney House located at 18 Bowery at the corner of Pell Street in  the Chinatown neighborhood of Manhattan, New York City was built between  1785 and 1789 for wealthy butcher Edward Mooney on land he purchased after it  was confiscated from British Loyalist James De Lancey. The Jarmulowsky Bank Building is a 12-story building formerly housing the  Jarmulowsky Bank on the Lower East Side of Manhattan, New York City. Located  at Canal Street and Orchard Street, the Jarmulowsky Bank Building was built by  architects Rouse &amp; Goldstone in 1912, in Beaux-Arts style.   </string>
+    <string name="Historical_sight6_historical_information">The Edward Mooney House located at 18 Bowery at the corner of Pell Street in the Chinatown neighborhood of Manhattan, New York City was built between 1785 and 1789 for wealthy butcher Edward Mooney on land he purchased after it was confiscated from British Loyalist James De Lancey. The Jarmulowsky Bank Building is a 12-story building formerly housing the Jarmulowsky Bank on the Lower East Side of Manhattan, New York City. Located at Canal Street and Orchard Street, the Jarmulowsky Bank Building was built by architects Rouse &amp; Goldstone in 1912, in Beaux-Arts style.</string>
     <string name="Historical_sight6_images" translatable="false">  </string>
     <string name="Historical_sight6_website" translatable="false"> https://en.wikipedia.org/wiki/Edward_Mooney_House </string>
 
