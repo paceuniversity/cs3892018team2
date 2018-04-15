@@ -165,7 +165,6 @@
     tooth; sells a variety of dried foods, exotic hard-to-find savory treats, and nostalgic Western treats</string>
     <string name="activity3_type">confectionary shop</string>
     <string name="activity3_address">37 Mott Street</string>
-    <string name="activity3_website" translatable="false">mocanyc.org</string>
     <string name="activity3_phone_number">212-233-7650</string>
 
     <string name="activity4_name">Canal Street</string>
@@ -173,12 +172,12 @@
     complete with vendors willing to bargain </string>
     <string name="activity4_type">shopping</string>
 
-    <string name="activity5_name">Apotheke</string>
+    <string name="activity5_name" translatable="false">Apotheke</string>
     <string name="activity5_static">a bar inspired by European apothecaries and resembles
     a chemistry lab; offers over 250 cocktails, referred to as "prescriptions"</string>
     <string name="activity5_type">bar</string>
     <string name="activity5_address">9 Doyers Street</string>
-    <string name="activity5_website">apothekenyc.com</string>
+    <string name="activity5_website" translatable="false">apothekenyc.com</string>
     <string name="activity5_phone_number">212-406-0400</string>
 
     <string name="activity6_name">Columbus Park</string>
@@ -186,7 +185,7 @@
     playground, Astroturf field; The north is an area for mah-jongg and card players</string>
     <string name="activity6_type">park</string>
     <string name="activity6_address">66 Mulberry Street</string>
-    <string name="activity6_website">nycgovparks.org/parks/columbus-park-m015/</string>
+    <string name="activity6_website" translatable="false">nycgovparks.org/parks/columbus-park-m015/</string>
     <string name="activity6_phone_number">212-406-0400</string>
 
     <string name="activity7_name">Chinese Consolidated Benevolent Association</string>
@@ -194,7 +193,7 @@
     the New York metropolitan area; provides social services, language classes and cultural preservation activities</string>
     <string name="activity7_type">community center</string>
     <string name="activity7_address">62 Mott Street</string>
-    <string name="activity7_website">ccbanyc.org</string>
+    <string name="activity7_website" translatable="false">ccbanyc.org</string>
     <string name="activity7_phone_number">212-226-6280</string>
 
     <string name="activity8_name">Magic Jewelry</string>
@@ -202,14 +201,13 @@
     crystals, and horoscopes; the only place in the city that photographs and reads auras</string>
     <string name="activity8_type">shopping</string>
     <string name="activity8_address">238 Canal Street</string>
-    <string name="activity8_website">mocanyc.org</string>
     <string name="activity8_phone_number">212-343-0663</string>
 
-    <string name="activity9_name">Mmuseumm</string>
+    <string name="activity9_name" translatable="false">Mmuseumm</string>
     <string name="activity9_static">a modern natural history museum located in a
     freight elevator; collection of unique artifacts</string>
     <string name="activity9_address">4 Cortlandt Alley</string>
-    <string name="activity9_website">mmuseumm.com</string>
+    <string name="activity9_website" translatable="false">mmuseumm.com</string>
     <string name="activity9_phone_number">888-763-8839</string>
 
     <string name="activity10_name">Up Stairs</string>
@@ -217,7 +215,6 @@
     This small but lively bar enourages patrons to belt out to the classics while drinking brews on tap</string>
     <string name="activity10_type">karaoke bar</string>
     <string name="activity10_address">59 Canal Street</string>
-    <string name="activity10_website">mocanyc.org</string>
     <string name="activity10_phone_number">646-559-0098</string>
 
     <string name="activity11_name">Zu Yuan</string>
@@ -225,7 +222,6 @@
     and beauty services for face and body </string>
     <string name="activity11_type">spa</string>
     <string name="activity11_address">48 Mott Street</string>
-    <string name="activity11_website">mocanyc.org</string>
     <string name="activity11_phone_number">212-587-8881</string>
 
     <string name="activity12_name">NYC Gangster Tours</string>
@@ -238,14 +234,14 @@
         Joe Petrosino’s fight against these thugs. Organized Crime as we know it was born on these streets.</string>
     <string name="activity12_type">walking tour</string>
     <string name="activity12_address">meets at the corner of Mulberry &amp;amp; Worth streets</string>
-    <string name="activity12_website">nycgangstertours.com/</string>
+    <string name="activity12_website" translatable="false">nycgangstertours.com/</string>
     <string name="activity12_phone_number">516-652-4527</string>
 
     <string name="activity13_name">Church of the Transfiguration</string>
     <string name="activity13_static">serves the Irish, German, Italian and, most recently, Chinese communities;
      Sunday masses are held in English, Mandarin, and Cantonese; houses a chinese school</string>
     <string name="activity13_address">29 Mott Street</string>
-    <string name="activity13_website">transfigurationnyc.org</string>
+    <string name="activity13_website" translatable="false">transfigurationnyc.org</string>
     <string name="activity13_phone_number">212-962-5157</string>
 
     <string name="activity14_name">Lunar New Year Parade &amp;amp; Festival</string>
@@ -253,7 +249,7 @@
     Chinese lunisolar calendar; features all kinds of vendors, festivities, and food for all ages</string>
     <string name="activity14_type">parade</string>
     <string name="activity14_address">East Houston Street to Canal Street</string>
-    <string name="activity14_website">betterchinatown.com/</string>
+    <string name="activity14_website" translatable="false">betterchinatown.com/</string>
 
     <string name="activity15_name">Autumn Mood Parade &amp;amp; Festival</string>
     <string name="activity15_static">an annual celebration of the end of the autumn harvest; held on the
@@ -267,22 +263,22 @@
     <string name="Activity1_shopping_description"> Shopping </string>
     <string name="Activity1_shopping_images">  </string>
     <string name="Activity1_shopping_address"> 78 Mulberry St, New York, NY 10013 </string>
-    <string name="Activity1_shopping_website_link"> http://www.kkdiscount.com/ </string>
+    <string name="Activity1_shopping_website_link" translatable="false"> http://www.kkdiscount.com/ </string>
     <string name="Activity1_shopping_phone_number"> (212) 513-7043 </string>
 
     <string name="Activity2_shopping_name">T-Pop Shop NYC  </string>
     <string name="Activity2_shopping_Static_Info"> "T-Pop Shop is a trendsetting Online Second Hand Clothing Store, offering first-rate products and exceptional customer
     service to shoppers from the comfort of their own homes" </string>
     <string name="Activity2_shopping_description">Shopping  </string>
-    <string name="Activity2_shopping_images">  </string>
+    <string name="Activity2_shopping_images" translatable="false">  </string>
     <string name="Activity2_shopping_address">59 Franklin St, New York, NY 10013  </string>
-    <string name="Activity2_shopping_website_link"> http://www.tpopshop.nyc/ </string>
+    <string name="Activity2_shopping_website_link" translatable="false"> http://www.tpopshop.nyc/ </string>
     <string name="Activity2_shopping_phone_number"> (917) 582-0701 </string>
 
     <string name="Activity3_shopping_name"> Lun Hong Flower Shop </string>
     <string name="Activity3_shopping_Static_Info"> If you need flowers arrangements, this is the place to go! Reasonably priced, and beautiful selections to choose from! </string>
     <string name="Activity3_shopping_description">Shopping  </string>
-    <string name="Activity3_shopping_images">  </string>
+    <string name="Activity3_shopping_images" translatable="false">  </string>
     <string name="Activity3_shopping_address">50 Mulberry St, New York, NY 10013  </string>
     <string name="Activity3_shopping_website_link"> N/a </string>
     <string name="Activity3_shopping_phone_number"> (212) 233-2950 </string>
@@ -290,7 +286,7 @@
     <string name="Activity4_shopping_name"> Yùnhóng Chopsticks </string>
     <string name="Activity4_shopping_Static_Info"> An excellent selection and display of various chopsticks. The selections range from simple children\'s, to elegant formal chopsticks.  </string>
     <string name="Activity4_shopping_description">Shopping  </string>
-    <string name="Activity4_shopping_images">  </string>
+    <string name="Activity4_shopping_images" translatable="false">  </string>
     <string name="Activity4_shopping_address"> 50 Mott St, New York, NY 10013 </string>
     <string name="Activity4_shopping_website_link"> N/a </string>
     <string name="Activity4_shopping_phone_number"> (212) 566-8828 </string>
@@ -298,7 +294,7 @@
     <string name="Activity5_shopping_name"> Magic Jewelry </string>
     <string name="Activity5_shopping_Static_Info">An occult shop which specializes in feng shui, crystals, and horoscopes; the only place in the city that photographs and reads auras  </string>
     <string name="Activity5_shopping_description">Shopping  </string>
-    <string name="Activity5_shopping_images">  </string>
+    <string name="Activity5_shopping_images" translatable="false">  </string>
     <string name="Activity5_shopping_address"> 238 Canal Street New York NY 10013 </string>
     <string name="Activity5_shopping_website_link"> N/a </string>
     <string name="Activity5_shopping_phone_number"> (212) 343-0663 </string>
@@ -306,24 +302,24 @@
     <string name="Activity6_shopping_name"> Pearl River Mart </string>
     <string name="Activity6_shopping_Static_Info">Eclectic emporium with 3-floors of Chinese apparel, accessories, housewares &amp; furniture.  </string>
     <string name="Activity6_shopping_description"> Shopping </string>
-    <string name="Activity6_shopping_images">  </string>
+    <string name="Activity6_shopping_images" translatable="false">  </string>
     <string name="Activity6_shopping_address">395 Broadway, New York, NY 10013  </string>
-    <string name="Activity6_shopping_website_link">http://www.pearlriver.com/  </string>
+    <string name="Activity6_shopping_website_link" translatable="false">http://www.pearlriver.com/  </string>
     <string name="Activity6_shopping_phone_number"> (212) 431-4770 </string>
 
     <string name="Activity7_shopping_name">Chinatown Toy Store  </string>
     <string name="Activity7_shopping_Static_Info"> Come here for cute and cheap toys! So much product and easy to get lost in because of extremely cheap prices. Small stuffed
     animals (rilakkuma, doraemon, Totoro, Pokémon, etc) ranging from 3-5$ </string>
     <string name="Activity7_shopping_description"> Shopping </string>
-    <string name="Activity7_shopping_images">  </string>
+    <string name="Activity7_shopping_images" translatable="false">  </string>
     <string name="Activity7_shopping_address"> 83 Bayard St, New York, NY 10013 </string>
-    <string name="Activity7_shopping_website_link"> http://www.facebook.com/chinatowntoystore </string>
+    <string name="Activity7_shopping_website_link" translatable="false"> http://www.facebook.com/chinatowntoystore </string>
     <string name="Activity7_shopping_phone_number"> N/a </string>
 
     <string name="Activity8_shopping_name"> Canal Street </string>
     <string name="Activity8_shopping_Static_Info"> An open-street shopping experience with an open-air bazaar feel, complete with vendors willing to bargain  </string>
     <string name="Activity8_shopping_description">Shopping  </string>
-    <string name="Activity8_shopping_images">  </string>
+    <string name="Activity8_shopping_images" translatable="false">  </string>
     <string name="Activity8_shopping_address"> Canal Street New York, NY 10013  </string>
     <string name="Activity8_shopping_website_link"> N/a </string>
     <string name="Activity_shopping8_phone_number"> N/a </string>
@@ -335,56 +331,56 @@
     <string name="Historical_sight1_name">Mahayana Buddhist Temple  </string>
     <string name="Historical_sight1_address"> 133 Canal St, New York, NY 10002 </string>
     <string name="Historical_sight1_historical_information"> The Mahayana Buddhist Temple is free, open to the public and offers a large meditation area with plenty of space to rest and reflect under the gaze of a 16-foot-high golden Buddha. Just don\'t expect silence here; there\'s usually a festive sound track playing (this is New York City, after all). While the giant Buddha is the temple\'s main attraction, don\'t miss the series of intricate ivory carvings on display in the second-floor gift shop (none are for sale). </string>
-    <string name="Historical_sight1_images">  </string>
-    <string name="Historical_sight1_website">https://www.nycgo.com/arts-culture/mahayana-buddhist-temple  </string>
+    <string name="Historical_sight1_images" translatable="false">  </string>
+    <string name="Historical_sight1_website" translatable="false">https://www.nycgo.com/arts-culture/mahayana-buddhist-temple  </string>
 
     <string name="Historical_sight2_name"> Museum of Chinese in America </string>
     <string name="Historical_sight2_address"> 215 Centre St, New York, NY 10013 </string>
     <string name="Historical_sight2_historical_information"> The Museum promotes dialogue and understanding among people of all cultural backgrounds, bringing 160 years of Chinese American history to vivid life through its innovative exhibitions, educational and cultural programs. </string>
-    <string name="Historical_sight2_images">  </string>
-    <string name="Historical_sight2_website"> www.mocanyc.org </string>
+    <string name="Historical_sight2_images" translatable="false">  </string>
+    <string name="Historical_sight2_website" translatable="false"> www.mocanyc.org </string>
 
     <string name="Historical_sight3_name">The Five Points - Point 3  </string>
     <string name="Historical_sight3_address"> 5111 Canal St, New York, NY 10002 </string>
     <string name="Historical_sight3_historical_information"> Five Points (or The Five Points) was a 19th-century neighborhood in Lower  Manhattan, New York City. The neighborhood was generally defined as being bound by Centre Street to the west, the Bowery to the east, Canal Street to the  north, and Park Row to the south. </string>
-    <string name="Historical_sight3_images">  </string>
-    <string name="Historical_sight3_website"> https://en.wikipedia.org/wiki/Five_Points,_Manhattan </string>
+    <string name="Historical_sight3_images" translatable="false">  </string>
+    <string name="Historical_sight3_website" translatable="false"> https://en.wikipedia.org/wiki/Five_Points,_Manhattan </string>
 
     <string name="Historical_sight4_name">The Five Points - Point 2  </string>
     <string name="Historical_sight4_address"> 160 Centre St, New York, NY 10013 </string>
     <string name="Historical_sight4_historical_information"> Five Points (or The Five Points) was a 19th-century neighborhood in Lower  Manhattan, New York City. The neighborhood was generally defined as being bound by Centre Street to the west, the Bowery to the east, Canal Street to the  north, and Park Row to the south. </string>
-    <string name="Historical_sight4_images">  </string>
-    <string name="Historical_sight4_website"> https://en.wikipedia.org/wiki/Five_Points,_Manhattan </string>
+    <string name="Historical_sight4_images" translatable="false">  </string>
+    <string name="Historical_sight4_website" translatable="false"> https://en.wikipedia.org/wiki/Five_Points,_Manhattan </string>
 
     <string name="Historical_sight5_name">Jarmulowski Building  </string>
     <string name="Historical_sight5_historical_information"> The Jarmulowsky Bank Building is a 12-story building formerly housing the  Jarmulowsky Bank on the Lower East Side of Manhattan, New York City. Located  at Canal Street and Orchard Street, the Jarmulowsky Bank Building was built by  architects Rouse &amp; Goldstone in 1912, in Beaux-Arts style.  </string>
     <string name="Historical_sight5_address"> 9 Orchard St, New York, NY 10002 </string>
-    <string name="Historical_sight5_images">  </string>
-    <string name="Historical_sight5_website">https://en.wikipedia.org/wiki/Jarmulowsky_Bank_Building </string>
+    <string name="Historical_sight5_images" translatable="false">  </string>
+    <string name="Historical_sight5_website" translatable="false">https://en.wikipedia.org/wiki/Jarmulowsky_Bank_Building </string>
 
     <string name="Historical_sight6_name"> Edward Mooney House </string>
     <string name="Historical_sight6_address"> 18 Bowery, New York, NY 10013 </string>
     <string name="Historical_sight6_historical_information">The Edward Mooney House located at 18 Bowery at the corner of Pell Street in  the Chinatown neighborhood of Manhattan, New York City was built between  1785 and 1789 for wealthy butcher Edward Mooney on land he purchased after it  was confiscated from British Loyalist James De Lancey. The Jarmulowsky Bank Building is a 12-story building formerly housing the  Jarmulowsky Bank on the Lower East Side of Manhattan, New York City. Located  at Canal Street and Orchard Street, the Jarmulowsky Bank Building was built by  architects Rouse &amp; Goldstone in 1912, in Beaux-Arts style.   </string>
-    <string name="Historical_sight6_images">  </string>
-    <string name="Historical_sight6_website"> https://en.wikipedia.org/wiki/Edward_Mooney_House </string>
+    <string name="Historical_sight6_images" translatable="false">  </string>
+    <string name="Historical_sight6_website" translatable="false"> https://en.wikipedia.org/wiki/Edward_Mooney_House </string>
 
     <string name="Historical_sight7_name"> Pike Street Synagogue </string>
     <string name="Historical_sight7_address"> 5 Pike St, New York, NY 10002 </string>
     <string name="Historical_sight7_historical_information"> The Pike Street Synagogue, constructed in 1903-04 for the. Congregation Sons of Israel Kalwarie, is a rare surviving synagogue building from that period of New York\'s history when the. Lower East Side served as America\'s main portal for millions of Jewish immigrants.  </string>
-    <string name="Historical_sight7_images">  </string>
-    <string name="Historical_sight7_website"> http://www.nyc.gov/html/lpc/downloads/pdf/reports/pikestreet.pdf </string>
+    <string name="Historical_sight7_images" translatable="false">  </string>
+    <string name="Historical_sight7_website" translatable="false"> http://www.nyc.gov/html/lpc/downloads/pdf/reports/pikestreet.pdf </string>
 
     <string name="Historical_sight8_name">Columbus Park  </string>
     <string name="Historical_sight8_address"> 67 Mulberry St, New York, NY 10013 </string>
     <string name="Historical_sight8_historical_information"> Columbus Park located in the heart of China Town is a great place to visit with the children and have a wonderful day. There is seating and swings with a safe area where the children could play. Most of the time you will run into musicians playing their music live.  </string>
-    <string name="Historical_sight8_images">  </string>
-    <string name="Historical_sight8_website"> https://www.nycgovparks.org/parks/columbus-park-m015 </string>
+    <string name="Historical_sight8_images" translatable="false">  </string>
+    <string name="Historical_sight8_website" translatable="false"> https://www.nycgovparks.org/parks/columbus-park-m015 </string>
 
     <string name="Historical_sight9_name"> Chinatown Soup </string>
     <string name="Historical_sight9_address"> The fantasies and confusion one may harbor about the eastern terminus of Canal Street are understandable because Chinatown is the crossroads where the city\'s past and future meet. Here remains one of the few Manhattan communities that fosters a sense of respect for its history.16B Orchard Street (Canal Street) New York, NY 10002 </string>
     <string name="Historical_sight9_historical_information">  </string>
-    <string name="Historical_sight9_images">  </string>
-    <string name="Historical_sight9_website">www.chinatownsoup.nyc  </string>
+    <string name="Historical_sight9_images" translatable="false">  </string>
+    <string name="Historical_sight9_website" translatable="false">www.chinatownsoup.nyc  </string>
 
 
     <!-- Settings Layout -->
@@ -411,7 +407,7 @@
     <!-- Restaurants -->
     <string name="restaurant1_name">Shanghai Asian Manor</string>
     <string name="restaurant1_address">21 Mott St, New York, NY 10013</string>
-    <string name="restaurant1_menu">https://www.delivery.com/cities/nyc/categories/restaurant/shanghai-asian-manor?utm_source=google&amp;utm_medium=list&amp;utm_campaign=places_order_now_btn</string>
+    <string name="restaurant1_menu" translatable="false">https://www.delivery.com/cities/nyc/categories/restaurant/shanghai-asian-manor?utm_source=google&amp;utm_medium=list&amp;utm_campaign=places_order_now_btn</string>
     <string name="restaurant1_website">None</string>
     <string name="restaurant1_phone_number">(212)766-6311</string>
     <string name="restaurant1_description">No-frills place offering a big menu of beyond-the-basics
@@ -419,15 +415,15 @@
 
     <string name="restaurant2_name">Nom Wah Tea Parlor</string>
     <string name="restaurant2_address">13 Doyers St, New York, NY 10013 </string>
-    <string name="restaurant2_menu">http://nomwah.com/chinatown</string>
-    <string name="restaurant2_website">http://nomwah.com/chinatown</string>
+    <string name="restaurant2_menu" translatable="false">http://nomwah.com/chinatown</string>
+    <string name="restaurant2_website" translatable="false">http://nomwah.com/chinatown</string>
     <string name="restaurant2_phone_number">(212) 962-6047</string>
     <string name="restaurant2_description">Vintage dim sum parlor dating back to 1920
         with a drink menu that includes tea, beer and wine.</string>
 
     <string name="restaurant3_name">Great NY Noodletown</string>
     <string name="restaurant3_address">28 Bowery, New York, NY 10013</string>
-    <string name="restaurant3_menu">http://places.singleplatform.com/great-ny-noodletown/menu?ref=google</string>
+    <string name="restaurant3_menu" translatable="false">http://places.singleplatform.com/great-ny-noodletown/menu?ref=google</string>
     <string name="restaurant3_website">None</string>
     <string name="restaurant3_phone_number">(212) 349-0923</string>
     <string name="restaurant3_description">Salt-baked seafood, handmade noodles,
@@ -435,7 +431,7 @@
 
     <string name="restaurant4_name">Ping</string>
     <string name="restaurant4_address">22 Mott St, New York, NY 10013</string>
-    <string name="restaurant4_menu">http://places.singleplatform.com/pings/menu?ref=google</string>
+    <string name="restaurant4_menu" translatable="false">http://places.singleplatform.com/pings/menu?ref=google</string>
     <string name="restaurant4_website">None</string>
     <string name="restaurant4_phone_number">(212) 602-9988</string>
     <string name="restaurant4_description">Fish are plucked from tanks up front at
@@ -443,7 +439,7 @@
 
     <string name="restaurant5_name">Tasty Had-Pulled Noodles</string>
     <string name="restaurant5_address">1 Doyers St, New York, NY 10013</string>
-    <string name="restaurant5_menu">http://places.singleplatform.com/tasty-hand-pulled-noodles/menu?ref=google</string>
+    <string name="restaurant5_menu" translatable="false">http://places.singleplatform.com/tasty-hand-pulled-noodles/menu?ref=google</string>
     <string name="restaurant5_website">None</string>
     <string name="restaurant5_phone_number">(212) 791-1817</string>
     <string name="restaurant5_description">Chinese noodles are made by hand and served
@@ -452,15 +448,15 @@
     <!-- Fast Food -->
     <string name="fast_food1_name">McDonalds</string>
     <string name="fast_food1_address">262 Canal St, New York, NY 10013</string>
-    <string name="fast_food1_menu">https://www.mcdonalds.com/us/en-us/full-menu.html?cid=RF:YXT_LS:SI::MGBM</string>
-    <string name="fast_food1_website">https://www.mcdonalds.com/us/en-us/mobile-order-and-pay.html</string>
+    <string name="fast_food1_menu" translatable="false">https://www.mcdonalds.com/us/en-us/full-menu.html?cid=RF:YXT_LS:SI::MGBM</string>
+    <string name="fast_food1_website" translatable="false">https://www.mcdonalds.com/us/en-us/mobile-order-and-pay.html</string>
     <string name="fast_food1_phone_number">(212) 941- 5823</string>
     <string name="fast_food1_description">Classic, long-running fast-food chain known for its burgers,
         fries and shakes. </string>
 
     <string name="fast_food2_name">Wah Fung #1 Fast Food</string>
     <string name="fast_food2_address">79 Chrystie St, New York, NY 10002</string>
-    <string name="fast_food2_menu">https://www.menuwithprice.com/menu/wah-fung-1-fast-food/</string>
+    <string name="fast_food2_menu" translatable="false">https://www.menuwithprice.com/menu/wah-fung-1-fast-food/</string>
     <string name="fast_food2_website">None</string>
     <string name="fast_food2_phone_number">(212) 925-5175</string>
     <string name="fast_food2_description">An Asian fast food restaurant that has cheap eats
@@ -468,7 +464,7 @@
 
     <string name="fast_food3_name">Hua Ji Pork Chop Fast Food</string>
     <string name="fast_food3_address">7 Allen St, New York 10002</string>
-    <string name="fast_food3_menu">http://www.menupages.com/restaurants/hua-ji-pork-chop-fast-food/menu</string>
+    <string name="fast_food3_menu" translatable="false">http://www.menupages.com/restaurants/hua-ji-pork-chop-fast-food/menu</string>
     <string name="fast_food3_website">None</string>
     <string name="fast_food3_phone_number">(212) 219-9876</string>
     <string name="fast_food3_description">Tiny, modest Chinese counter-serve spot specializing in
@@ -476,16 +472,16 @@
 
     <string name="fast_food4_name">Popeyes Louisiana Kitchen</string>
     <string name="fast_food4_address">125 Canal St, New York, NY 10002</string>
-    <string name="fast_food4_menu">https://popeyes.com/menu/</string>
-    <string name="fast_food4_website">https://popeyes.com/</string>
+    <string name="fast_food4_menu" translatable="false">https://popeyes.com/menu/</string>
+    <string name="fast_food4_website" translatable="false">https://popeyes.com/</string>
     <string name="fast_food4_phone_number">(212) 966-7077</string>
     <string name="fast_food4_description">Louisiana-accented fast-food chain known for its
         spicy fried chicken, biscuits and sides.</string>
 
     <string name="fast_food5_name">May Wah Fast Food</string>
     <string name="fast_food5_address">190 Hester St, New York, NY 10013</string>
-    <string name="fast_food5_menu">http://www.maywahfastfood.com/menu/</string>
-    <string name="fast_food5_website">http://www.maywahfastfood.com/</string>
+    <string name="fast_food5_menu" translatable="false">http://www.maywahfastfood.com/menu/</string>
+    <string name="fast_food5_website" translatable="false">http://www.maywahfastfood.com/</string>
     <string name="fast_food5_phone_number">(212) 925-6428</string>
     <string name="fast_food5_description">Straight from their website May Wah Fast Food specializes in soups, “over rice” dishes and noodle soups.
         Popular “over rice” dishes include their Chicken Leg Over Rice and Pork Chop Over Rice.
@@ -494,40 +490,40 @@
     <!-- Sweets -->
     <string name="sweets1_name">The Sweet Life</string>
     <string name="sweets1_address">63 Hester St, New York, NY 10002</string>
-    <string name="sweets1_menu">http://www.menupages.com/restaurants/the-sweet-life/menu</string>
-    <string name="sweets1_website">http://thesweetlifenyc.com/</string>
+    <string name="sweets1_menu" translatable="false">http://www.menupages.com/restaurants/the-sweet-life/menu</string>
+    <string name="sweets1_website" translatable="false">http://thesweetlifenyc.com/</string>
     <string name="sweets1_phone_number">(212) 598-0092</string>
     <string name="sweets1_description">Cozy candy shop offering classic sweet treats plus nuts,
         dried fruit and house made chocolates.</string>
 
     <string name="sweets2_name">Taiyaki NYC</string>
     <string name="sweets2_address">119 Baxter St, New York, NY 10013</string>
-    <string name="sweets2_menu">https://www.facebook.com/pg/TaiyakiNYC/menu/</string>
-    <string name="sweets2_website"> https://taiyakinyc.com/</string>
+    <string name="sweets2_menu" translatable="false">https://www.facebook.com/pg/TaiyakiNYC/menu/</string>
+    <string name="sweets2_website" translatable="false"> https://taiyakinyc.com/</string>
     <string name="sweets2_phone_number">(212) 966-2882</string>
     <string name="sweets2_description">A Japanese ice cream shop serving inventive flavors
         in a fish-shaped waffle cone. </string>
 
     <string name="sweets3_name">Sweet Moment</string>
     <string name="sweets3_address">106 Mott St, New York, NY 10013</string>
-    <string name="sweets3_menu">https://www.sweetmoment.nyc/menu</string>
-    <string name="sweets3_website">https://www.sweetmoment.nyc/</string>
+    <string name="sweets3_menu" translatable="false">https://www.sweetmoment.nyc/menu</string>
+    <string name="sweets3_website" translatable="false">https://www.sweetmoment.nyc/</string>
     <string name="sweets3_phone_number">(212) 226-8724</string>
     <string name="sweets3_description">Funky dessert cafe with creative shaved ice concoctions and
         waffles, plus craft coffee drinks and tea.</string>
 
     <string name="sweets4_name">The Original Chinatown Ice Cream Factory</string>
     <string name="sweets4_address">65 Bayard Street, New York, NY 10013</string>
-    <string name="sweets4_menu">http://www.chinatownicecreamfactory.com/ice-cream/</string>
-    <string name="sweets4_website">http://www.chinatownicecreamfactory.com/</string>
+    <string name="sweets4_menu" translatable="false">http://www.chinatownicecreamfactory.com/ice-cream/</string>
+    <string name="sweets4_website" translatable="false">http://www.chinatownicecreamfactory.com/</string>
     <string name="sweets4_phone_number">(212) 608-4170</string>
     <string name="sweets4_description">The flavors range from familiar to exotic
         (like lychee) at this compact ice-cream shop.</string>
 
     <string name="sweets5_name">Fay Da Bakery</string>
     <string name="sweets5_address">83 Mott St, New York, NY 10013</string>
-    <string name="sweets5_menu">http://fayda.com/shop/</string>
-    <string name="sweets5_website">http://fayda.com/</string>
+    <string name="sweets5_menu" translatable="false">http://fayda.com/shop/</string>
+    <string name="sweets5_website" translatable="false">http://fayda.com/</string>
     <string name="sweets5_phone_number">(212) 791-3884</string>
     <string name="sweets5_description">Chinese bakery for cakes, cookies and breads
         also offering hot and cold specialty drinks.</string>
