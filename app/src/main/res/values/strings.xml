@@ -19,7 +19,7 @@
     Off-site parking is available for a fee.</string>
     <string name="hotel1_images" translatable="false"> </string>
     <string name="hotel1_website_link" translatable="false">http://www.leonhotelnyc.com/</string>
-    <string name="hotel1_phone_number"> (212) 390-8833   </string>
+    <string name="hotel1_phone_number" translatable="false"> (212) 390-8833   </string>
 
     <string name="hotel2_name">Hotel Mimosa</string>
     <string name="hotel2_address">79 Division St, New York, NY 10002</string>
@@ -279,7 +279,7 @@
     <string name="Activity3_shopping_description">Shopping  </string>
     <string name="Activity3_shopping_images" translatable="false">  </string>
     <string name="Activity3_shopping_address">50 Mulberry St, New York, NY 10013  </string>
-    <string name="Activity3_shopping_website_link"> N/a </string>
+    <string name="Activity3_shopping_website_link" translatable="false"> N/a </string>
     <string name="Activity3_shopping_phone_number"> (212) 233-2950 </string>
 
     <string name="Activity4_shopping_name"> Yùnhóng Chopsticks </string>
@@ -287,7 +287,7 @@
     <string name="Activity4_shopping_description">Shopping  </string>
     <string name="Activity4_shopping_images" translatable="false">  </string>
     <string name="Activity4_shopping_address"> 50 Mott St, New York, NY 10013 </string>
-    <string name="Activity4_shopping_website_link"> N/a </string>
+    <string name="Activity4_shopping_website_link" translatable="false"> N/a </string>
     <string name="Activity4_shopping_phone_number"> (212) 566-8828 </string>
 
     <string name="Activity5_shopping_name"> Magic Jewelry </string>
@@ -295,7 +295,7 @@
     <string name="Activity5_shopping_description">Shopping  </string>
     <string name="Activity5_shopping_images" translatable="false">  </string>
     <string name="Activity5_shopping_address"> 238 Canal Street New York NY 10013 </string>
-    <string name="Activity5_shopping_website_link"> N/a </string>
+    <string name="Activity5_shopping_website_link" translatable="false"> N/a </string>
     <string name="Activity5_shopping_phone_number"> (212) 343-0663 </string>
 
     <string name="Activity6_shopping_name"> Pearl River Mart </string>
@@ -313,15 +313,15 @@
     <string name="Activity7_shopping_images" translatable="false">  </string>
     <string name="Activity7_shopping_address"> 83 Bayard St, New York, NY 10013 </string>
     <string name="Activity7_shopping_website_link" translatable="false"> http://www.facebook.com/chinatowntoystore </string>
-    <string name="Activity7_shopping_phone_number"> N/a </string>
+    <string name="Activity7_shopping_phone_number" translatable="false"> N/a </string>
 
     <string name="Activity8_shopping_name"> Canal Street </string>
     <string name="Activity8_shopping_Static_Info"> An open-street shopping experience with an open-air bazaar feel, complete with vendors willing to bargain  </string>
     <string name="Activity8_shopping_description">Shopping  </string>
     <string name="Activity8_shopping_images" translatable="false">  </string>
     <string name="Activity8_shopping_address"> Canal Street New York, NY 10013  </string>
-    <string name="Activity8_shopping_website_link"> N/a </string>
-    <string name="Activity_shopping8_phone_number"> N/a </string>
+    <string name="Activity8_shopping_website_link" translatable="false"> N/a </string>
+    <string name="Activity_shopping8_phone_number" translatable="false"> N/a </string>
 
 
     <!--  Historical Sights -->
