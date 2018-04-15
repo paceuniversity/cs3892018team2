@@ -119,5 +119,20 @@
     <string name="activity2_name">Asociación budista del templo de Mayahana</string>
     <string name="activity6_name">Parque Columbus</string>
     <string name="activity7_name">Asociación benéfica consolidada china</string>
-    <string name="activity8_name">Joyería Mágica</string>
+    <string name="activity8_name">Magic Jewelry</string>
+    <string name="activity11_name">Zu Yuan</string>
+    <string name="activity10_name">Up Stairs</string>
+    <string name="activity12_name">NYC Gangster Tours</string>
+    <string name="activity14_name">Desfile y Festival del Año Nuevo Lunar</string>
+    <string name="activity15_name">Desfile y Festival de la Luna de Otoño</string>
+    <string name="Activity1_shopping_name">Tienda de descuentos K. K.</string>
+    <string name="Activity2_shopping_name">T-Pop Shop NYC</string>
+    <string name="Activity3_shopping_name">Tienda de flores Lun Hong</string>
+    <string name="Activity4_shopping_name">Yùnhóng Palilos</string>
+    <string name="Activity5_shopping_name">Magic Jewelry</string>
+    <string name="Activity7_shopping_name">Tienda de juguetes de Chinatown</string>
+    <string name="Historical_sight1_name">Templo budista Mahayana</string>
+    <string name="Historical_sight2_name">Museo de los chinos en América</string>
+    <string name="Historical_sight4_name">Los cinco puntos: punto 2</string>
+    <string name="Historical_sight5_name">Edificio Jarmulowski</string>
 </resources>

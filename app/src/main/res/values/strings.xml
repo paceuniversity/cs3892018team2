@@ -214,14 +214,14 @@
     <string name="activity10_static">located on the second floor of an apartment building;
     This small but lively bar enourages patrons to belt out to the classics while drinking brews on tap</string>
     <string name="activity10_type">karaoke bar</string>
-    <string name="activity10_address">59 Canal Street</string>
-    <string name="activity10_phone_number">646-559-0098</string>
+    <string name="activity10_address" translatable="false">59 Canal Street</string>
+    <string name="activity10_phone_number" translatable="false">646-559-0098</string>
 
     <string name="activity11_name">Zu Yuan</string>
     <string name="activity11_static">spend a day of relaxation and unwinding; provides spa
     and beauty services for face and body </string>
     <string name="activity11_type">spa</string>
-    <string name="activity11_address">48 Mott Street</string>
+    <string name="activity11_address" translatable="false">48 Mott Street</string>
     <string name="activity11_phone_number">212-587-8881</string>
 
     <string name="activity12_name">NYC Gangster Tours</string>
@@ -235,14 +235,14 @@
     <string name="activity12_type">walking tour</string>
     <string name="activity12_address">meets at the corner of Mulberry &amp;amp; Worth streets</string>
     <string name="activity12_website" translatable="false">nycgangstertours.com/</string>
-    <string name="activity12_phone_number">516-652-4527</string>
+    <string name="activity12_phone_number" translatable="false">516-652-4527</string>
 
     <string name="activity13_name">Church of the Transfiguration</string>
     <string name="activity13_static">serves the Irish, German, Italian and, most recently, Chinese communities;
      Sunday masses are held in English, Mandarin, and Cantonese; houses a chinese school</string>
-    <string name="activity13_address">29 Mott Street</string>
+    <string name="activity13_address" translatable="false">29 Mott Street</string>
     <string name="activity13_website" translatable="false">transfigurationnyc.org</string>
-    <string name="activity13_phone_number">212-962-5157</string>
+    <string name="activity13_phone_number" translatable="false">212-962-5157</string>
 
     <string name="activity14_name">Lunar New Year Parade &amp;amp; Festival</string>
     <string name="activity14_static">an annual celebration of the beginning of the turn of the
@@ -262,64 +262,64 @@
     <string name="Activity1_shopping_Static_Info">No-frills stalwart stocking a variety of home goods &amp; Asian decor, from teapots to small furniture.</string>
     <string name="Activity1_shopping_description"> Shopping </string>
     <string name="Activity1_shopping_images" translatable="false">  </string>
-    <string name="Activity1_shopping_address"> 78 Mulberry St, New York, NY 10013 </string>
+    <string name="Activity1_shopping_address" translatable="false"> 78 Mulberry St, New York, NY 10013 </string>
     <string name="Activity1_shopping_website_link" translatable="false"> http://www.kkdiscount.com/ </string>
-    <string name="Activity1_shopping_phone_number"> (212) 513-7043 </string>
+    <string name="Activity1_shopping_phone_number" translatable="false"> (212) 513-7043 </string>
 
     <string name="Activity2_shopping_name">T-Pop Shop NYC  </string>
     <string name="Activity2_shopping_Static_Info">T-Pop Shop is a trendsetting Online Second Hand Clothing Store, offering first-rate products and exceptional customer     service to shoppers from the comfort of their own homes</string>
     <string name="Activity2_shopping_description">Shopping  </string>
     <string name="Activity2_shopping_images" translatable="false">  </string>
-    <string name="Activity2_shopping_address">59 Franklin St, New York, NY 10013  </string>
+    <string name="Activity2_shopping_address" translatable="false">59 Franklin St, New York, NY 10013  </string>
     <string name="Activity2_shopping_website_link" translatable="false"> http://www.tpopshop.nyc/ </string>
-    <string name="Activity2_shopping_phone_number"> (917) 582-0701 </string>
+    <string name="Activity2_shopping_phone_number" translatable="false"> (917) 582-0701 </string>
 
     <string name="Activity3_shopping_name"> Lun Hong Flower Shop </string>
     <string name="Activity3_shopping_Static_Info"> If you need flowers arrangements, this is the place to go! Reasonably priced, and beautiful selections to choose from! </string>
     <string name="Activity3_shopping_description">Shopping  </string>
     <string name="Activity3_shopping_images" translatable="false">  </string>
-    <string name="Activity3_shopping_address">50 Mulberry St, New York, NY 10013  </string>
+    <string name="Activity3_shopping_address" translatable="false">50 Mulberry St, New York, NY 10013  </string>
     <string name="Activity3_shopping_website_link" translatable="false"> N/a </string>
-    <string name="Activity3_shopping_phone_number"> (212) 233-2950 </string>
+    <string name="Activity3_shopping_phone_number" translatable="false"> (212) 233-2950 </string>
 
     <string name="Activity4_shopping_name"> Yùnhóng Chopsticks </string>
     <string name="Activity4_shopping_Static_Info"> An excellent selection and display of various chopsticks. The selections range from simple children\'s, to elegant formal chopsticks.  </string>
     <string name="Activity4_shopping_description">Shopping  </string>
     <string name="Activity4_shopping_images" translatable="false">  </string>
-    <string name="Activity4_shopping_address"> 50 Mott St, New York, NY 10013 </string>
+    <string name="Activity4_shopping_address" translatable="false"> 50 Mott St, New York, NY 10013 </string>
     <string name="Activity4_shopping_website_link" translatable="false"> N/a </string>
-    <string name="Activity4_shopping_phone_number"> (212) 566-8828 </string>
+    <string name="Activity4_shopping_phone_number" translatable="false"> (212) 566-8828 </string>
 
     <string name="Activity5_shopping_name"> Magic Jewelry </string>
     <string name="Activity5_shopping_Static_Info">An occult shop which specializes in feng shui, crystals, and horoscopes; the only place in the city that photographs and reads auras  </string>
     <string name="Activity5_shopping_description">Shopping  </string>
     <string name="Activity5_shopping_images" translatable="false">  </string>
-    <string name="Activity5_shopping_address"> 238 Canal Street New York NY 10013 </string>
+    <string name="Activity5_shopping_address" translatable="false"> 238 Canal Street New York NY 10013 </string>
     <string name="Activity5_shopping_website_link" translatable="false"> N/a </string>
-    <string name="Activity5_shopping_phone_number"> (212) 343-0663 </string>
+    <string name="Activity5_shopping_phone_number" translatable="false"> (212) 343-0663 </string>
 
     <string name="Activity6_shopping_name"> Pearl River Mart </string>
     <string name="Activity6_shopping_Static_Info">Eclectic emporium with 3-floors of Chinese apparel, accessories, housewares &amp; furniture.</string>
     <string name="Activity6_shopping_description"> Shopping </string>
     <string name="Activity6_shopping_images" translatable="false">  </string>
-    <string name="Activity6_shopping_address">395 Broadway, New York, NY 10013  </string>
+    <string name="Activity6_shopping_address" translatable="false">395 Broadway, New York, NY 10013  </string>
     <string name="Activity6_shopping_website_link" translatable="false">http://www.pearlriver.com/  </string>
-    <string name="Activity6_shopping_phone_number"> (212) 431-4770 </string>
+    <string name="Activity6_shopping_phone_number" translatable="false"> (212) 431-4770 </string>
 
     <string name="Activity7_shopping_name">Chinatown Toy Store  </string>
     <string name="Activity7_shopping_Static_Info"> Come here for cute and cheap toys! So much product and easy to get lost in because of extremely cheap prices. Small stuffed
     animals (rilakkuma, doraemon, Totoro, Pokémon, etc) ranging from 3-5$ </string>
     <string name="Activity7_shopping_description"> Shopping </string>
     <string name="Activity7_shopping_images" translatable="false">  </string>
-    <string name="Activity7_shopping_address"> 83 Bayard St, New York, NY 10013 </string>
+    <string name="Activity7_shopping_address" translatable="false"> 83 Bayard St, New York, NY 10013 </string>
     <string name="Activity7_shopping_website_link" translatable="false"> http://www.facebook.com/chinatowntoystore </string>
     <string name="Activity7_shopping_phone_number" translatable="false"> N/a </string>
 
-    <string name="Activity8_shopping_name"> Canal Street </string>
+    <string name="Activity8_shopping_name" translatable="false"> Canal Street </string>
     <string name="Activity8_shopping_Static_Info"> An open-street shopping experience with an open-air bazaar feel, complete with vendors willing to bargain  </string>
     <string name="Activity8_shopping_description">Shopping  </string>
     <string name="Activity8_shopping_images" translatable="false">  </string>
-    <string name="Activity8_shopping_address"> Canal Street New York, NY 10013  </string>
+    <string name="Activity8_shopping_address" translatable="false"> Canal Street New York, NY 10013  </string>
     <string name="Activity8_shopping_website_link" translatable="false"> N/a </string>
     <string name="Activity_shopping8_phone_number" translatable="false"> N/a </string>
 
@@ -328,49 +328,49 @@
 
 
     <string name="Historical_sight1_name">Mahayana Buddhist Temple  </string>
-    <string name="Historical_sight1_address"> 133 Canal St, New York, NY 10002 </string>
+    <string name="Historical_sight1_address" translatable="false"> 133 Canal St, New York, NY 10002 </string>
     <string name="Historical_sight1_historical_information"> The Mahayana Buddhist Temple is free, open to the public and offers a large meditation area with plenty of space to rest and reflect under the gaze of a 16-foot-high golden Buddha. Just don\'t expect silence here; there\'s usually a festive sound track playing (this is New York City, after all). While the giant Buddha is the temple\'s main attraction, don\'t miss the series of intricate ivory carvings on display in the second-floor gift shop (none are for sale). </string>
     <string name="Historical_sight1_images" translatable="false">  </string>
     <string name="Historical_sight1_website" translatable="false">https://www.nycgo.com/arts-culture/mahayana-buddhist-temple  </string>
 
     <string name="Historical_sight2_name"> Museum of Chinese in America </string>
-    <string name="Historical_sight2_address"> 215 Centre St, New York, NY 10013 </string>
+    <string name="Historical_sight2_address" translatable="false"> 215 Centre St, New York, NY 10013 </string>
     <string name="Historical_sight2_historical_information"> The Museum promotes dialogue and understanding among people of all cultural backgrounds, bringing 160 years of Chinese American history to vivid life through its innovative exhibitions, educational and cultural programs. </string>
     <string name="Historical_sight2_images" translatable="false">  </string>
     <string name="Historical_sight2_website" translatable="false"> www.mocanyc.org </string>
 
     <string name="Historical_sight3_name">The Five Points - Point 3  </string>
-    <string name="Historical_sight3_address"> 5111 Canal St, New York, NY 10002 </string>
+    <string name="Historical_sight3_address" translatable="false"> 5111 Canal St, New York, NY 10002 </string>
     <string name="Historical_sight3_historical_information"> Five Points (or The Five Points) was a 19th-century neighborhood in Lower  Manhattan, New York City. The neighborhood was generally defined as being bound by Centre Street to the west, the Bowery to the east, Canal Street to the  north, and Park Row to the south. </string>
     <string name="Historical_sight3_images" translatable="false">  </string>
     <string name="Historical_sight3_website" translatable="false"> https://en.wikipedia.org/wiki/Five_Points,_Manhattan </string>
 
     <string name="Historical_sight4_name">The Five Points - Point 2  </string>
-    <string name="Historical_sight4_address"> 160 Centre St, New York, NY 10013 </string>
+    <string name="Historical_sight4_address" translatable="false"> 160 Centre St, New York, NY 10013 </string>
     <string name="Historical_sight4_historical_information"> Five Points (or The Five Points) was a 19th-century neighborhood in Lower  Manhattan, New York City. The neighborhood was generally defined as being bound by Centre Street to the west, the Bowery to the east, Canal Street to the  north, and Park Row to the south. </string>
     <string name="Historical_sight4_images" translatable="false">  </string>
     <string name="Historical_sight4_website" translatable="false"> https://en.wikipedia.org/wiki/Five_Points,_Manhattan </string>
 
     <string name="Historical_sight5_name">Jarmulowski Building  </string>
     <string name="Historical_sight5_historical_information">The Jarmulowsky Bank Building is a 12-story building formerly housing the Jarmulowsky Bank on the Lower East Side of Manhattan, New York City. Located at Canal Street and Orchard Street, the Jarmulowsky Bank Building was built by architects Rouse &amp; Goldstone in 1912, in Beaux-Arts style.</string>
-    <string name="Historical_sight5_address"> 9 Orchard St, New York, NY 10002 </string>
+    <string name="Historical_sight5_address" translatable="false"> 9 Orchard St, New York, NY 10002 </string>
     <string name="Historical_sight5_images" translatable="false">  </string>
     <string name="Historical_sight5_website" translatable="false">https://en.wikipedia.org/wiki/Jarmulowsky_Bank_Building </string>
 
     <string name="Historical_sight6_name"> Edward Mooney House </string>
-    <string name="Historical_sight6_address"> 18 Bowery, New York, NY 10013 </string>
+    <string name="Historical_sight6_address" translatable="false"> 18 Bowery, New York, NY 10013 </string>
     <string name="Historical_sight6_historical_information">The Edward Mooney House located at 18 Bowery at the corner of Pell Street in the Chinatown neighborhood of Manhattan, New York City was built between 1785 and 1789 for wealthy butcher Edward Mooney on land he purchased after it was confiscated from British Loyalist James De Lancey. The Jarmulowsky Bank Building is a 12-story building formerly housing the Jarmulowsky Bank on the Lower East Side of Manhattan, New York City. Located at Canal Street and Orchard Street, the Jarmulowsky Bank Building was built by architects Rouse &amp; Goldstone in 1912, in Beaux-Arts style.</string>
     <string name="Historical_sight6_images" translatable="false">  </string>
     <string name="Historical_sight6_website" translatable="false"> https://en.wikipedia.org/wiki/Edward_Mooney_House </string>
 
     <string name="Historical_sight7_name"> Pike Street Synagogue </string>
-    <string name="Historical_sight7_address"> 5 Pike St, New York, NY 10002 </string>
+    <string name="Historical_sight7_address" translatable="false"> 5 Pike St, New York, NY 10002 </string>
     <string name="Historical_sight7_historical_information"> The Pike Street Synagogue, constructed in 1903-04 for the. Congregation Sons of Israel Kalwarie, is a rare surviving synagogue building from that period of New York\'s history when the. Lower East Side served as America\'s main portal for millions of Jewish immigrants.  </string>
     <string name="Historical_sight7_images" translatable="false">  </string>
     <string name="Historical_sight7_website" translatable="false"> http://www.nyc.gov/html/lpc/downloads/pdf/reports/pikestreet.pdf </string>
 
     <string name="Historical_sight8_name">Columbus Park  </string>
-    <string name="Historical_sight8_address"> 67 Mulberry St, New York, NY 10013 </string>
+    <string name="Historical_sight8_address" translatable="false"> 67 Mulberry St, New York, NY 10013 </string>
     <string name="Historical_sight8_historical_information"> Columbus Park located in the heart of China Town is a great place to visit with the children and have a wonderful day. There is seating and swings with a safe area where the children could play. Most of the time you will run into musicians playing their music live.  </string>
     <string name="Historical_sight8_images" translatable="false">  </string>
     <string name="Historical_sight8_website" translatable="false"> https://www.nycgovparks.org/parks/columbus-park-m015 </string>
