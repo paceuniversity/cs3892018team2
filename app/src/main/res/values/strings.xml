@@ -261,14 +261,13 @@
     <string name="Activity1_shopping_name">K. K. Discount Store  </string>
     <string name="Activity1_shopping_Static_Info"> No-frills stalwart stocking a variety of home goods &amp; Asian decor, from teapots to small furniture. </string>
     <string name="Activity1_shopping_description"> Shopping </string>
-    <string name="Activity1_shopping_images">  </string>
+    <string name="Activity1_shopping_images" translatable="false">  </string>
     <string name="Activity1_shopping_address"> 78 Mulberry St, New York, NY 10013 </string>
     <string name="Activity1_shopping_website_link" translatable="false"> http://www.kkdiscount.com/ </string>
     <string name="Activity1_shopping_phone_number"> (212) 513-7043 </string>
 
     <string name="Activity2_shopping_name">T-Pop Shop NYC  </string>
-    <string name="Activity2_shopping_Static_Info"> "T-Pop Shop is a trendsetting Online Second Hand Clothing Store, offering first-rate products and exceptional customer
-    service to shoppers from the comfort of their own homes" </string>
+    <string name="Activity2_shopping_Static_Info">T-Pop Shop is a trendsetting Online Second Hand Clothing Store, offering first-rate products and exceptional customer     service to shoppers from the comfort of their own homes</string>
     <string name="Activity2_shopping_description">Shopping  </string>
     <string name="Activity2_shopping_images" translatable="false">  </string>
     <string name="Activity2_shopping_address">59 Franklin St, New York, NY 10013  </string>
