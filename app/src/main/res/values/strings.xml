@@ -23,7 +23,7 @@
 
     <string name="hotel2_name" translatable="false">Hotel Mimosa</string>
     <string name="hotel2_address" translatable="false">79 Division St, New York, NY 10002</string>
-    <string name="hotel2_description">Hotel Mimosa is located in the East Side neighborhood in New York City, just one mile from Ground Zero.All rooms include a flat-screen TV. The rooms have a private bathroom fitted with a bathtub or shower. Extras include free toiletries and a hairdryer. You will find a 24-hour front desk at the property. One World Trade Center is one mile from Hotel Mimosa, and National September 11 Memorial &amp;amp; Museum is 1.1 miles from the property. The nearest airport is LaGuardia Airport, 7 miles from Hotel Mimosa.</string>
+    <string name="hotel2_description">Hotel Mimosa is located in the East Side neighborhood in New York City, just one mile from Ground Zero.All rooms include a flat-screen TV. The rooms have a private bathroom fitted with a bathtub or shower. Extras include free toiletries and a hairdryer. You will find a 24-hour front desk at the property. One World Trade Center is one mile from Hotel Mimosa, and National September 11 Memorial &amp; Museum is 1.1 miles from the property. The nearest airport is LaGuardia Airport, 7 miles from Hotel Mimosa.</string>
     <string name="hotel2_images" translatable="false"> </string>
     <string name="hotel2_website_link" translatable="false">https://www.hotelmimosany.com/</string>
     <string name="hotel2_phone_number" translatable="false">  (212) 343-4243  </string>
@@ -222,7 +222,7 @@
     and beauty services for face and body </string>
     <string name="activity11_type">spa</string>
     <string name="activity11_address" translatable="false">48 Mott Street</string>
-    <string name="activity11_phone_number">212-587-8881</string>
+    <string name="activity11_phone_number" translatable="false">212-587-8881</string>
 
     <string name="activity12_name">NYC Gangster Tours</string>
     <string name="activity12_static">From the 1840’s through 1920’s, learn about the earlier era of
@@ -445,7 +445,7 @@
         in soups and stir-fries at this bustling, bare-bones spot.</string>
 
     <!-- Fast Food -->
-    <string name="fast_food1_name">McDonalds</string>
+    <string name="fast_food1_name">McDonald\'s</string>
     <string name="fast_food1_address" translatable="false">262 Canal St, New York, NY 10013</string>
     <string name="fast_food1_menu" translatable="false">https://www.mcdonalds.com/us/en-us/full-menu.html?cid=RF:YXT_LS:SI::MGBM</string>
     <string name="fast_food1_website" translatable="false">https://www.mcdonalds.com/us/en-us/mobile-order-and-pay.html</string>
@@ -473,7 +473,7 @@
     <string name="fast_food4_address" translatable="false">125 Canal St, New York, NY 10002</string>
     <string name="fast_food4_menu" translatable="false">https://popeyes.com/menu/</string>
     <string name="fast_food4_website" translatable="false">https://popeyes.com/</string>
-    <string name="fast_food4_phone_number">(212) 966-7077</string>
+    <string name="fast_food4_phone_number" translatable="false">(212) 966-7077</string>
     <string name="fast_food4_description">Louisiana-accented fast-food chain known for its
         spicy fried chicken, biscuits and sides.</string>
 
