@@ -115,4 +115,9 @@
     <string name="fast_food2_website">Ninguno</string>
     <string name="fast_food3_website">Ninguno</string>
     <string name="east_broadway_station">East Broadway</string>
+    <string name="activity1_name">Museo de los chinos en América</string>
+    <string name="activity2_name">Asociación budista del templo de Mayahana</string>
+    <string name="activity6_name">Parque Columbus</string>
+    <string name="activity7_name">Asociación benéfica consolidada china</string>
+    <string name="activity8_name">Joyería Mágica</string>
 </resources>
