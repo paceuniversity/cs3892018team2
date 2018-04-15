@@ -452,7 +452,7 @@
         fries and shakes. </string>
 
     <string name="fast_food2_name">Wah Fung #1 Fast Food</string>
-    <string name="fast_food2_address">79 Chrystie St, New York, NY 10002</string>
+    <string name="fast_food2_address" translatable="false">79 Chrystie St, New York, NY 10002</string>
     <string name="fast_food2_menu" translatable="false">https://www.menuwithprice.com/menu/wah-fung-1-fast-food/</string>
     <string name="fast_food2_website">None</string>
     <string name="fast_food2_phone_number" translatable="false">(212) 925-5175</string>
