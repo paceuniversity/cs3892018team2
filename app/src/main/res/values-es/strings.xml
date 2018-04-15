@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+    <!-- Buttons -->
     <string name="transport_button">Transporte</string>
     <string name="food_button">Alimento</string>
     <string name="hotel_button">Hotel</string>
     <string name="activities_button">Actividades</string>
     <string name="history_button">Historia</string>
     <string name="itinerary_button">Itinerario</string>
+
+    <!-- Hotel Descriptions -->
     <string name="hotel1_description">Juego en el pie del Puente de Manhattan en el Barrio chino, este hotel de cadera con un mediados de vibe moderno de siglo es un paseo de 3 minutos de la Magnífica estación de metro de la Calle y un paseo de 8 minutos del Museo de chino En América. Los cuartos lisos, contemporáneos ofrecen Wi-Fi elogioso, iPod muelles y TVs de pantalla llana, además de cafeteras Keurig. Los cuartos mejorados y los 1 mobiliarios de dormitorio añaden vistas de ciudad o puente. El aparcamiento fuera de sitio está disponible para unos honorarios.</string>
-    <string name="hotel2_description">&Amp;El Hotel Mimosa está situado en el barrio del East Side en Nueva York, a sólo 1,6 km de la Zona Cero.Todas las habitaciones incluyen una TV de pantalla plana. Las habitaciones tienen un cuarto de baño privado equipado con bañera o ducha. Extras incluyen artículos de tocador y secador de pelo. Usted encontrará una recepción abierta las 24 horas en la propiedad. El One World Trade Center está a 1,6 km del Hotel Mimosa y National Memorial del 11 de septiembre  Museum está a 1,1 km de la propiedad. El aeropuerto más cercano es el Aeropuerto de LaGuardia, a 7 millas del hotel Mimosa.</string>
+    <string name="hotel2_description">El Hotel Mimosa está situado en el barrio del East Side en Nueva York, a sólo 1,6 km de la Zona Cero.Todas las habitaciones incluyen una TV de pantalla plana. Las habitaciones tienen un cuarto de baño privado equipado con bañera o ducha. Extras incluyen artículos de tocador y secador de pelo. Usted encontrará una recepción abierta las 24 horas en la propiedad. El One World Trade Center está a 1,6 km del Hotel Mimosa y National Memorial del 11 de septiembre  Museum está a 1,1 km de la propiedad. El aeropuerto más cercano es el Aeropuerto de LaGuardia, a 7 millas del hotel Mimosa.</string>
     <string name="hotel3_description">Relájese en bellamente diseñadas habitaciones y suites con mobiliario contemporáneo, balcones privados y ventanales de suelo a techo con vistas impresionantes de la ciudad. Podrá saborear platos de la cocina americana de temporada en la Sala de Wu. El destinatario del certificado de excelencia de TripAdvisor, nuestro moderno hotel de Manhattan dispone de espacio para eventos íntimos, Wifi gratuito, y un ambiente dinámico donde usted puede conocer, salón y cene en la hermosa Big Apple. Ubicado en un barrio ecléctico Lower Manhattan, es fácil de explorar la vida nocturna local, a pie de las tiendas de moda de SoHo, y cenar en Little Italy.</string>
     <string name="hotel4_description">Domina el Parque Columbus, este moderno hotel está a 0,3 km de Chinatown de Little Italy y a 5 minutos a pie de la estación de metro más cercana. Las habitaciones y suites están decoradas en tonos neutros con muebles personalizados y ofrecen colchones con pillow-top, televisores de pantalla plana y mini refrigeradores; algunos incluyen terrazas y/o vistas de la ciudad. El acceso de alta velocidad a Internet está disponible. Los beneficios incluyen desayuno continental gratuito, un centro de negocios y un moderno vestíbulo con asientos. Varias opciones de comida casual y fina están a una cuadra del hotel.</string>
-    <string name="hotel5_description">Hotel 50 Bowery está situado en el barrio de Chinatown en New York City, a sólo 0,9 km de la Zona Cero. Los huéspedes pueden disfrutar del bar del hotel. Parking privado disponible en el hotel.Cada habitación de este hotel tiene aire acondicionado y una TV de pantalla plana. Algunas habitaciones tienen una zona de estar para su comodidad. Una terraza o balcón aparecen en ciertas habitaciones. Las habitaciones tienen un cuarto de baño privado. Para su comodidad, usted encontrará artículos de tocador y secador de pelo.encontrará una recepción abierta las 24 horas en la propiedad. One World Trade Centre está a 0,9 km del hotel Bowery, 50 y 11 de septiembre Nacional Memorial & Museum está a 0,9 km de distancia. El aeropuerto más cercano es el Aeropuerto de LaGuardia, a 7 millas del hotel 50 Bowery.</string>
+    <string name="hotel5_description">Hotel 50 Bowery está situado en el barrio de Chinatown en New York City, a sólo 0,9 km de la Zona Cero. Los huéspedes pueden disfrutar del bar del hotel. Parking privado disponible en el hotel.Cada habitación de este hotel tiene aire acondicionado y una TV de pantalla plana. Algunas habitaciones tienen una zona de estar para su comodidad. Una terraza o balcón aparecen en ciertas habitaciones. Las habitaciones tienen un cuarto de baño privado. Para su comodidad, usted encontrará artículos de tocador y secador de pelo.encontrará una recepción abierta las 24 horas en la propiedad. One World Trade Centre está a 0,9 km del hotel Bowery, 50 y 11 de septiembre Nacional Memorial &amp; Museum está a 0,9 km de distancia. El aeropuerto más cercano es el Aeropuerto de LaGuardia, a 7 millas del hotel 50 Bowery.</string>
     <string name="hotel6_description">Situado en el centro de Manhattan, este hotel está a pasos de Little Italy y a 400 metros de la estación de metro de Grand Street. Ofrece habitaciones con tv de pantalla plana y conexión Wi-Fi gratuita. Cada habitación en el Best Western Bowery Hanbee Hotel ofrece café. Cada habitación incluye TV por cable con películas en la habitación y una variedad de canales de TV internacionales. Un gimnasio y un centro de negocios están disponibles en el hotel. Best Western Bowery Hanbee Hotel también ofrece servicio de lavandería y una recepción abierta las 24 horas. Bowery Hanbee Hotel está a poca distancia a pie de las fabulosas tiendas de SoHo y la vibrante zona de Chinatown. El Ground Zero está a 1,6 km de distancia.</string>
     <string name="hotel7_description">En el Lower East Side de Manhattan, el Hotel 91 está a 5 minutos a pie de Chinatown y de la estación de metro East Broadway. Ofrece conexión por cable a internet gratuita y habitaciones con tv de pantalla plana con canales por cable. Las habitaciones incluyen escritorio, secador de pelo y radio despertador. Un servicio de activación está disponible. 91 Hotel ofrece una recepción abierta las 24 horas, cajero automático y servicio de lavandería. Little Italy está a 10 minutos a pie del Hotel 91 mientras Ground Zero y South Street Seaport están a 20 minutos. Puente de Brooklyn y Wall Street están a menos de 1,6 km de distancia.</string>
-    <string name="hotel8_description">&Amp;Situado en el barrio de Bowery en la Ciudad de Nueva York, a una milla del One World Trade Center, del Pacífico de los EE.UU. El hotel dispone de habitaciones con aire acondicionado y acceso gratuito a internet WiFi en toda la propiedad. Cada habitación está equipada con una TV de pantalla plana. El Ground Zero está a 1,6 km del hotel y del Pacífico de los EE.UU. National Memorial del 11 de septiembre  Museum está a 1,6 km de distancia. El aeropuerto LaGuardia está a 7 km de la propiedad.</string>
+    <string name="hotel8_description">Situado en el barrio de Bowery en la Ciudad de Nueva York, a una milla del One World Trade Center, del Pacífico de los EE.UU. El hotel dispone de habitaciones con aire acondicionado y acceso gratuito a internet WiFi en toda la propiedad. Cada habitación está equipada con una TV de pantalla plana. El Ground Zero está a 1,6 km del hotel y del Pacífico de los EE.UU. National Memorial del 11 de septiembre  Museum está a 1,6 km de distancia. El aeropuerto LaGuardia está a 7 km de la propiedad.</string>
     <string name="hotel10_description">El sol brillante hotel está en el centro de Chinatown y a una cuadra de la estación de metro Grand St.. El hotel ofrece acceso a Internet Wi-Fi y una recepción abierta las 24 horas.</string>
     <string name="hotel9_description">Tribeca Blu se asienta en una transitada intersección de Canal Street y Broadway. La ubicación no permitirse sentir urbano con la proximidad (caminando) modernos barrios como el SoHo y Tribeca. Si eso no es suficiente variedad para la comida y la bebida, Chinatown y Little Italy son fáciles de obtener a través de pie. Los huéspedes también pueden caminar un poco más lejos para llegar a One World Trade Center y el memorial 9/11, así como al Oeste, Greenwich, y East aldeas.</string>
     <string name="hotel11_description">Alardeando de nuevo, espaciosas habitaciones y suites, así como una ubicación conveniente cerca de la Bolsa de Valores de Nueva York, el 11 de septiembre Memorial y One World Trade Center, el Fairfield Inn es el lugar perfecto para explorar Manhattan.</string>
@@ -24,6 +28,8 @@
     <string name="hotel16_description">Manhattan Bowery Lodge está situado en Nueva York, a 400 metros de Little Italy y a 1,3 km de Puente de Brooklyn.Manhattan Bowery Lodge ofrece WiFi gratuita y una recepción 24 horas. El One World Trade Center está a 1,5 km de distancia, mientras que el Ground Zero está a 1,6 km de la propiedad. El aeropuerto más cercano es el Aeropuerto de LaGuardia, a 12 km de la propiedad.</string>
     <string name="hotel17_description">Bowery Grand Hotel le ofrece una habitación limpia y comodidades básicas y decidir por sí mismo dónde pasar el resto de dinero que has ahorrado en hotel de lujo. Minutos de Little Italy, las tiendas del centro de la ciudad y justo a la vuelta de la esquina del puente Williamsburg. El resto de la ciudad de Nueva York está a su disposición sólo pocas paradas de tren, dos de los cuales por la manera llegamos tan cerca de nuestro hotel, así que tienes que trabajar duro en la rueda de desplazamiento del mouse para hacerlos aparte de nosotros en Google Maps.</string>
     <string name="hotel18_description">El Comfort Inn Lower East Side está perfectamente ubicado en el corazón de Manhattan y es uno de los hoteles recientemente construido en la zona. La estación de metro está a sólo una manzana de distancia, poniendo a los huéspedes a poca distancia del centro de la ciudad, Wall Street y hotspots más populares de Nueva York como South Street Seaport, el World Trade Center, Little Italy y el Puente de Brooklyn Park y mucho más!</string>
+
+    <!-- Activity Descriptions -->
     <string name="activity1_static">Dedicado a presentar y la preservación de la historia, el patrimonio y la cultura de los inmigrantes chinos en los EE.UU.</string>
     <string name="activity2_static">El templo budista más grande del NYC; proporciona servicios tales como ceremonias oficiales durante los fines de semana, adivinación, bodas, y zonas para los amigos y las familias de los fallecidos a sus respetos</string>
     <string name="activity3_static">Un aperitivo asiático paraíso para quienes desean satisfacer su diente dulce; vende una variedad de alimentos secos, exóticos difíciles de encontrar dulces, salados y nostálgico Western trata</string>
@@ -39,6 +45,8 @@
     <string name="activity13_static">Sirve a los irlandeses, alemanes, italianos y, más recientemente, las comunidades chinas; misas dominicales se celebran en inglés, mandarín y cantonés; alberga una escuela de chino</string>
     <string name="activity14_static">Una celebración anual del inicio del giro del calendario lunisolar chino; cuenta con todo tipo de proveedores, festividades, y alimentos para todas las edades.</string>
     <string name="activity15_static">Una celebración anual de la final de la cosecha del otoño, celebrada el quince día del octavo mes lunar; funciones de espectáculos, artes culturales &amp; artesanía, caligrafía, don moon cake stands, degustaciones, etc.</string>
+
+    <!-- Shopping Descriptions -->
     <string name="Activity1_shopping_Static_Info">Sin lujos en el bastión stocking, una variedad de productos en casa &amp; decoración asiática, de teteras para pequeños muebles.</string>
     <string name="Activity2_shopping_Static_Info">T-Pop Shop Online de Solac es una tienda de ropa de segunda mano, ofreciendo productos de primera calidad y un excepcional servicio de atención al cliente a los compradores desde la comodidad de su propio hogar</string>
     <string name="Activity3_shopping_Static_Info">Si necesita arreglos florales, este es el lugar para ir! A un precio razonable, y la hermosa selecciones a elegir!</string>
@@ -47,6 +55,8 @@
     <string name="Activity6_shopping_Static_Info">Emporio ecléctica con 3 plantas chinas de prendas de vestir, accesorios, electrodomésticos y muebles.</string>
     <string name="Activity7_shopping_Static_Info">Vienen aquí para lindo y juguetes baratos! Tanto producto y fácil perderse debido a precios extremadamente bajos. Pequeños animales de peluche (rilakkuma, Doraemon, Totoro, Pokémon, etc) que oscila entre 3-5$</string>
     <string name="Activity8_shopping_Static_Info">Una experiencia de compras calle abierta con un bazar al aire libre se sienten, completa con proveedores dispuestos a negociar</string>
+
+    <!-- Historical Sights Information -->
     <string name="Historical_sight1_historical_information">El templo budista mahayana es libre, abierto al público y ofrece una gran zona de meditación con un montón de espacio para descansar y reflexionar, bajo la mirada de un 16-pie-alto Buda de oro. No esperes silencio aquí; usualmente hay una pista de sonido festivo jugando (esto es la ciudad de Nueva York, después de todo). Mientras que el Buda gigante es la atracción principal del templo, no se pierda la serie de intrincadas tallas de marfil en exhibición en la tienda de regalos en el segundo piso (no hay ninguno para la venta).</string>
     <string name="Historical_sight2_historical_information">El museo promueve el diálogo y la comprensión entre personas de todos los orígenes culturales, con lo que 160 años de historia americana chino en vivo la vida a través de sus innovadoras exposiciones, programas educativos y culturales.</string>
     <string name="Historical_sight3_historical_information">Cinco Puntos (o los Cinco Puntos) eran una vecindad del siglo diecinueve en Manhattan Inferior, Ciudad de Nueva York. La vecindad era generalmente definida como atado por la Calle de Centro al Oeste, el Bowery al este, Calle de Canal al norte, y Fila de Parque al sur.</string>
@@ -55,35 +65,50 @@
     <string name="Historical_sight6_historical_information">El Edward Mooney casa situada a 18 Bowery en la esquina de la calle Pell en el Chinatown de Manhattan, Ciudad de Nueva York fue construida entre 1785 y 1789 para los adinerados carnicero Edward Mooney sobre las tierras que ha adquirido después de haber sido confiscados del británico James leales De Lancey. El Banco Jarmulowsky es un edificio de 12 pisos que alberga el edificio del antiguo Banco Jarmulowsky en el Lower East Side de Manhattan, Ciudad de Nueva York. Ubicado en la calle Canal y la calle Orchard, el Banco Jarmulowsky edificio fue construido por los arquitectos Rouse &amp; Goldstone en 1912, en estilo Beaux-Arts.</string>
     <string name="Historical_sight7_historical_information">La Sinagoga de Pike Street, construido en 1903-04 por el. La Congregación de los hijos de Israel, es una rara Kalwarie sinagoga edificio superviviente de ese período de la historia de Nueva York cuando el. Lower East Side sirvió como America\'s portal principal para millones de inmigrantes judíos.</string>
     <string name="Historical_sight8_historical_information">Columbus Park situado en el corazón de Chinatown es un gran lugar para visitar con los niños y que tenga un día maravilloso. Hay asientos y columpios con un área segura donde los niños podían jugar. La mayor parte del tiempo que se ejecutará en los músicos tocando su música en vivo.</string>
-    <string name="Historical_sight9_address">Las fantasías y confusión uno puede albergar sobre el límite oriental de la Calle Canal, son comprensibles porque Chinatown es la encrucijada donde la ciudad del pasado y el futuro se reunirá. Aquí sigue siendo una de las pocas comunidades de Manhattan que fomenta un sentimiento de respeto por su historia.16B Orchard Street (la calle Canal) New York, NY 10002</string>
+
+    <!-- TextViews and Buttons -->
     <string name="allow_location_textview">Permitir la ubicación</string>
     <string name="email_editText_hint">Introduzca su dirección de correo electrónico.</string>
     <string name="language_change_textview">Cambiar idioma</string>
     <string name="feedback_textview">Comentarios</string>
     <string name="feedback_edittext">Por favor, introduzca sus comentarios.</string>
     <string name="submit_feedback_button">Enviar comentarios</string>
+
+    <!-- Points of View Categories -->
     <string name="category1_name">Restaurantes</string>
     <string name="category2_name">La comida rápida</string>
     <string name="category3_name">Dulces</string>
+
+    <!-- Restaurant Descriptions -->
     <string name="restaurant1_description">Sin lujos en el lugar ofrece un gran menú de \"más allá de la basics platos chinos incluyendo una sopa wonton.</string>
     <string name="restaurant2_description">Vintage dim sum salón se remontan a 1920, con un menú de bebidas que incluye té, cerveza y vino.</string>
     <string name="restaurant3_description">Sal de marisco cocido, handmade fideos, sopas y carnes asadas se sirven en un espartano.</string>
     <string name="restaurant4_description">Los peces son rasgueadas desde tanques frente a este cantonés mariscos también conocido spot para un almuerzo dim sum.</string>
     <string name="restaurant5_description">Las pastas chinas son hechas a mano y servidas en sopas y fríe y mezcla durante poco tiempo en este alboroto, punto de esencial.</string>
+
+    <!-- Fast Food Descriptions -->
     <string name="fast_food1_description">El clásico, cadena de comida rápida mucho tiempo que corre conocida para sus hamburguesas, fríe y licuados.</string>
     <string name="fast_food2_description">Un restaurante de comida rápida de Asia que tiene comer barato con almuerzo especiales y pueden entregar convenientemente justo en su puerta</string>
     <string name="fast_food3_description">Pequeño, modesto contador chino-servir spot especializada en chuletas de cerdo con arroz y bocadillos rápidos.</string>
     <string name="fast_food4_description">Louisiana acentuados en cadena de comida rápida conocida por su picante pollo frito, galletas y lados.</string>
     <string name="fast_food5_description">Directamente desde su sitio web puede Wah Fast Food especializado en sopas, platos de arroz \"over\" y sopas de fideos. \"Más Populares\", platos de arroz incluyen su pierna de pollo con arroz y carne de cerdo picar sobre arroz. Las sopas de fideos populares incluyen su carne sopa de fideos y sopa de fideos de Shanghai.</string>
+
+    <!-- Sweets Descriptions -->
     <string name="sweets1_description">La tienda de caramelo acogedora que ofrece a convites dulces clásicos más loco, frutas secas y casa hizo bombones.</string>
     <string name="sweets2_description">Una tienda de helado japonesa que sirve sabores inventivos en un cono de gofre en forma de pescado.</string>
     <string name="sweets3_description">la cafetería de postre de funky con mezcolanzas de hielo afeitadas creativas y gofres, más el café de arte bebe y té.</string>
     <string name="sweets4_description">Los sabores se extienden de familiar a exótico (como el fruto del nefelio) en esta heladería compacta.</string>
     <string name="sweets5_description">Panadería chino para tartas, galletas y panes también ofrece bebidas frías y calientes.</string>
+
+    <!-- Trains Descriptions & Notice -->
     <string name="train_notice">Durante los fines de semana, los trenes pueden estar sujetos a cambios debido a la construcción.</string>
     <string name="canal_street_description">Hay varias vías para llegar a la estación de metro de Canal Street. Es una estación muy grande que consta de muchos trenes incluyendo el N, Q, R, W, Z, J, M, 4, y 6 de tren.</string>
     <string name="east_broadway_description">El único tren que va hasta la East Broadway es la F tren.</string>
     <string name="grand_street_description">Durante la semana que termina el B los trenes no funcionan. Sólo la D trenes paran en esta estación.</string>
+
+    <!-- Activities -->
+
+    <!-- Activity Types -->
     <string name="activity1_type">Museo</string>
     <string name="activity2_type">Institución religiosa</string>
     <string name="activity3_type">Tienda de confitería</string>
@@ -94,12 +119,18 @@
     <string name="activity8_type">compras</string>
     <string name="activity10_type">karaoke bar</string>
     <string name="activity11_type">spa</string>
+
     <string name="activity12_type">excursión a pie</string>
     <string name="activity12_address">Se reúne en la esquina de las calles Mulberry y Worth</string>
+
     <string name="activity13_name">Iglesia de la Transfiguración</string>
+
     <string name="activity14_type">desfile</string>
     <string name="activity14_address">East Houston Street a Canal Street</string>
+
     <string name="activity15_address">Mott Street; entre las calles Canal y Beyard</string>
+
+    <!-- Shopping Description -->
     <string name="Activity1_shopping_description">Compras</string>
     <string name="Activity2_shopping_description">Compras</string>
     <string name="Activity3_shopping_description">Compras</string>
@@ -108,13 +139,18 @@
     <string name="Activity6_shopping_description">Compras</string>
     <string name="Activity7_shopping_description">Compras</string>
     <string name="Activity8_shopping_description">Compras</string>
+
+    <!-- Restaurant Website -->
     <string name="restaurant1_website">Ninguno</string>
     <string name="restaurant3_website">Ninguno</string>
     <string name="restaurant4_website">Ninguno</string>
     <string name="restaurant5_website">Ninguno</string>
     <string name="fast_food2_website">Ninguno</string>
     <string name="fast_food3_website">Ninguno</string>
+
     <string name="east_broadway_station">East Broadway</string>
+
+    <!-- Activity Names -->
     <string name="activity1_name">Museo de los chinos en América</string>
     <string name="activity2_name">Asociación budista del templo de Mayahana</string>
     <string name="activity6_name">Parque Columbus</string>
@@ -125,12 +161,16 @@
     <string name="activity12_name">NYC Gangster Tours</string>
     <string name="activity14_name">Desfile y Festival del Año Nuevo Lunar</string>
     <string name="activity15_name">Desfile y Festival de la Luna de Otoño</string>
+
+    <!-- Shopping Names -->
     <string name="Activity1_shopping_name">Tienda de descuentos K. K.</string>
     <string name="Activity2_shopping_name">T-Pop Shop NYC</string>
     <string name="Activity3_shopping_name">Tienda de flores Lun Hong</string>
     <string name="Activity4_shopping_name">Yùnhóng Palilos</string>
     <string name="Activity5_shopping_name">Magic Jewelry</string>
     <string name="Activity7_shopping_name">Tienda de juguetes de Chinatown</string>
+
+    <!-- Historical Sights Names -->
     <string name="Historical_sight1_name">Templo budista Mahayana</string>
     <string name="Historical_sight2_name">Museo de los chinos en América</string>
     <string name="Historical_sight4_name">Los cinco puntos: punto 2</string>
@@ -139,13 +179,17 @@
     <string name="Historical_sight7_name">Sinagoga de Pike Street</string>
     <string name="Historical_sight8_name">Parque de Columbus</string>
     <string name="Historical_sight9_name">Sopa de Chinatown</string>
+
+    <!-- Restaurant Names -->
     <string name="restaurant1_name">Shanghai Asian Manor</string>
     <string name="restaurant2_name">Nom Wah Tea Parlor</string>
     <string name="restaurant3_name">Great NY Noodletown</string>
     <string name="restaurant5_name">Fideos Sabrosos Tirados</string>
+
     <string name="fast_food2_name">Wah Fung *1 Comida Rápida</string>
     <string name="fast_food3_name">Hua Ji Comida Rápida de Chuleta de Cerdo</string>
     <string name="fast_food5_name">Comida Rápida de May Wah</string>
+
     <string name="sweets1_name">La Vida Dulce</string>
     <string name="sweets3_name">Momento Dulce</string>
     <string name="sweets4_name">La Fábrica de Helado de Barrio chino Original</string>

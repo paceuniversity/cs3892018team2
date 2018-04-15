@@ -376,6 +376,8 @@
     <string name="Historical_sight8_website" translatable="false"> https://www.nycgovparks.org/parks/columbus-park-m015 </string>
 
     <string name="Historical_sight9_name"> Chinatown Soup </string>
+    <string name="Historical_sight9_address" translatable="false"> 16B Orchard Street (Canal Street) New York, NY 10002 </string>
+    <string name="Historical_sight9_historical_information"> The fantasies and confusion one may harbor about the eastern terminus of Canal Street are understandable because Chinatown is the crossroads where the city\'s past and future meet. Here remains one of the few Manhattan communities that fosters a sense of respect for its history. </string>
     <string name="Historical_sight9_images" translatable="false">  </string>
     <string name="Historical_sight9_website" translatable="false">www.chinatownsoup.nyc  </string>
 
@@ -540,6 +542,5 @@
     <string name="grand_street_station" translatable="false">Grand Street</string>
     <string name="grand_street_trains" translatable="false">B, D</string>
     <string name="grand_street_description">During the week ends the B trains do not run. Only the D trains stop at this station.</string>
-    <string name="Historical_sight9_historical_information">The fantasies and confusion one may harbor about the eastern terminus of Canal Street are understandable because Chinatown is the crossroads where the city\'s past and future meet. Here remains one of the few Manhattan communities that fosters a sense of respect for its history.16B Orchard Street (Canal Street) New York, NY 10002</string>
-    <string name="Historical_sight9_address">16B Orchard Street (Canal Street) New York, NY 10002</string>
+
 </resources>
