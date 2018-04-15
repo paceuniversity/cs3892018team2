@@ -211,8 +211,7 @@
     <string name="activity9_phone_number" translatable="false">888-763-8839</string>
 
     <string name="activity10_name">Up Stairs</string>
-    <string name="activity10_static">located on the second floor of an apartment building;
-    This small but lively bar enourages patrons to belt out to the classics while drinking brews on tap</string>
+    <string name="activity10_static">located on the second floor of an apartment building;     This small but lively bar encourages patrons to belt out to the classics while drinking brews on tap</string>
     <string name="activity10_type">karaoke bar</string>
     <string name="activity10_address" translatable="false">59 Canal Street</string>
     <string name="activity10_phone_number" translatable="false">646-559-0098</string>
