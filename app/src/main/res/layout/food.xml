@@ -44,7 +44,12 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content">
 
+<<<<<<< HEAD
             <TextView
+=======
+
+  <TextView
+>>>>>>> 842ae01e22c51fa77a4cc578c777e99f673e0c2d
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_alignParentBottom="true"
