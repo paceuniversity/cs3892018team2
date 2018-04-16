@@ -63,7 +63,7 @@ public class MainActivity extends AppCompatActivity {
         hotel_lp_btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-               Intent intent = new Intent(MainActivity.this,HotelActivity.class);
+               Intent intent = new Intent(MainActivity.this,Hotel_Page_Creator.class);
               startActivity(intent);
             }
         });
