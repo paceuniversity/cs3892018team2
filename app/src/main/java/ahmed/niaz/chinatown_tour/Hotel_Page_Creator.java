@@ -32,13 +32,13 @@ public class Hotel_Page_Creator extends AppCompatActivity {
         setContentView(R.layout.specific_hotel_content);
 
 
-        // === INSTANTIATE VARIABLES ===
+        // Instantiate Variables
 
         img_switcher = (ImageSwitcher) findViewById(R.id.img_switcher);
         app_logo = (ImageView) findViewById(R.id.appIcon);
 
 
-        // === LINK APP ICON TO MAIN MENU ====
+        // L
 
         app_logo.setOnClickListener(new View.OnClickListener() {
             @Override

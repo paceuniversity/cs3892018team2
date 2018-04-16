@@ -24,7 +24,8 @@ public class ItineraryActivity extends AppCompatActivity {
 
         app_logo = (ImageView) findViewById(R.id.appIcon);
 
-        // === LINK APP ICON TO MAIN MENU ===
+        // Main Menu Link
+
         app_logo.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
