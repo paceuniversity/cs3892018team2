@@ -20,9 +20,20 @@
         <activity android:name=".ItineraryActivity" />
         <activity android:name=".SettingsActivity" />
         <activity android:name=".ActivitiesActivity" />
-        <activity android:name=".TransportationActivity" />
+        <activity
+            android:name=".TransportationActivity"
+            android:label="@string/title_activity_transportation"
+            android:theme="@style/AppTheme" />
         <activity android:name=".HistoryActivity" />
-        <activity android:name=".FoodActivity"></activity>
+        <activity android:name=".FoodActivity" />
+        <activity
+            android:name=".TransportTabsActivity"
+            android:label="@string/title_activity_transport_tabs"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".TransportActivity"
+            android:label="@string/title_activity_transport"
+            android:theme="@style/AppTheme" />
     </application>
 
 </manifest>
