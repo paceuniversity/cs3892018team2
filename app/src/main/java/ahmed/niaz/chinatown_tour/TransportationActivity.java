@@ -7,8 +7,7 @@ import android.view.View;
 import android.widget.ImageButton;
 import android.widget.ImageView;
 
-public class ActivitiesActivity extends AppCompatActivity {
-
+public class TransportationActivity extends AppCompatActivity {
 
     private ImageView app_logo;
     public ImageButton settings_btn;
@@ -16,16 +15,18 @@ public class ActivitiesActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activities);
+        setContentView(R.layout.transportation);
+
 
         app_logo = (ImageView) findViewById(R.id.appIcon);
 
-        // Main Menu Link
 
+        // Main Menu Link
+        
         app_logo.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(ActivitiesActivity.this,MainActivity.class);
+                Intent intent = new Intent(TransportationActivity.this,MainActivity.class);
                 startActivity(intent);
             }
         });
@@ -37,11 +38,12 @@ public class ActivitiesActivity extends AppCompatActivity {
         settings_btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(ActivitiesActivity.this,SettingsActivity.class);
+                Intent intent = new Intent(TransportationActivity.this,SettingsActivity.class);
                 startActivity(intent);
             }
         });
 
-
     }
+
+
 }

@@ -16,7 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".HotelActivity" />
+        <activity android:name=".Hotel_Page_Creator" />
+        <activity android:name=".HotelActivity"/>
         <activity android:name=".ItineraryActivity" />
         <activity android:name=".SettingsActivity" />
         <activity android:name=".ActivitiesActivity" />
@@ -26,6 +27,7 @@
             android:theme="@style/AppTheme" />
         <activity android:name=".HistoryActivity" />
         <activity android:name=".FoodActivity" />
+<<<<<<< HEAD
         <activity
             android:name=".TransportTabsActivity"
             android:label="@string/title_activity_transport_tabs"
@@ -34,6 +36,9 @@
             android:name=".TransportActivity"
             android:label="@string/title_activity_transport"
             android:theme="@style/AppTheme" />
+=======
+        <activity android:name=".CustomListAdapter"/>
+>>>>>>> e457060ba67cf979e9c8ee2ce516de960f719d20
     </application>
 
 </manifest>

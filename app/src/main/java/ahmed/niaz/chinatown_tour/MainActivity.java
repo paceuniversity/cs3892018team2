@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main_menu);
 
+        // Settings Icon Link
 
         settings_btn = (ImageButton) findViewById(R.id.setting_image_button);
         settings_btn.setOnClickListener(new View.OnClickListener() {
@@ -46,8 +47,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-
-
         food_lp_btn = (Button) findViewById(R.id.food_landing_pg);
         food_lp_btn.setBackgroundColor(0xFFFF0000);
         food_lp_btn.setTextColor(Color.parseColor("#FFFFFF"));
@@ -58,8 +57,6 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
-
-
 
         hotel_lp_btn = (Button) findViewById(R.id.hotel_landing_pg);
         hotel_lp_btn.setBackgroundColor(0xFFFF0000);
@@ -72,8 +69,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-
-
         activities_lp_btn = (Button) findViewById(R.id.poi_landing_pg);
         activities_lp_btn.setBackgroundColor(0xFFFF0000);
         activities_lp_btn.setTextColor(Color.parseColor("#FFFFFF"));
@@ -85,8 +80,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-
-
         itinerary_lp_btn = (Button) findViewById(R.id.itinerary_landing_pg);
         itinerary_lp_btn.setBackgroundColor(0xFFFF0000);
         itinerary_lp_btn.setTextColor(Color.parseColor("#FFFFFF"));
@@ -97,8 +90,6 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
-
-
 
         history_lp_btn = (Button) findViewById(R.id.history_landing_pg);
         history_lp_btn.setBackgroundColor(0xFFFF0000);
