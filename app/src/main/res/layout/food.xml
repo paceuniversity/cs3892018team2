@@ -44,12 +44,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content">
 
-            <android.support.v4.widget.CircleImageView
-                android:id="@+id/image_restaurant1"
-                android:layout_width="90dp"
-                android:layout_height="90dp"
-                android:scaleType="centerCrop"
-                android:layout_centerHorizontal="true"/>
+
   <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
