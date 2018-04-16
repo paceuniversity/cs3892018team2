@@ -22,7 +22,7 @@ public class TransportationActivity extends AppCompatActivity {
 
 
         // Main Menu Link
-        
+
         app_logo.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

@@ -21,7 +21,7 @@ public class Hotel_Page_Creator extends AppCompatActivity {
 
 
     // === CREATE VARIABLES ===
-
+    private int hotel_num;
     private ImageSwitcher img_switcher;
     private ImageView app_logo;
 
@@ -38,7 +38,7 @@ public class Hotel_Page_Creator extends AppCompatActivity {
         app_logo = (ImageView) findViewById(R.id.appIcon);
 
 
-        // L
+        //
 
         app_logo.setOnClickListener(new View.OnClickListener() {
             @Override
