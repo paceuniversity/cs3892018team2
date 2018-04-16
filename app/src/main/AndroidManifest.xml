@@ -23,7 +23,8 @@
         <activity android:name=".ActivitiesActivity" />
         <activity android:name=".TransportationActivity" />
         <activity android:name=".HistoryActivity" />
-        <activity android:name=".FoodActivity"></activity>
+        <activity android:name=".FoodActivity" />
+        <activity android:name=".CustomListAdapter"/>
     </application>
 
 </manifest>

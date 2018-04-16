@@ -29,7 +29,7 @@ public class Hotel_Page_Creator extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.hotel_page);
+        setContentView(R.layout.specific_hotel_content);
 
 
         // === INSTANTIATE VARIABLES ===
