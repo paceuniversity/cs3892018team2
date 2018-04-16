@@ -141,6 +141,55 @@
     <string name="hotel18_website_link" translatable="false"> http://www.comfortinnles.com/ </string>
     <string name="hotel18_phone_number" translatable="false"> (212) 390-1533   </string>
 
+    <string-array name="hotel_names">
+        <item>@string/hotel1_name </item>
+        <item>@string/hotel2_name </item>
+        <item>@string/hotel3_name </item>
+        <item>@string/hotel4_name </item>
+        <item>@string/hotel5_name </item>
+        <item>@string/hotel6_name </item>
+
+        <!--
+        <item>@string/hotel7_name </item>
+        <item>@string/hotel8_name </item>
+        <item>@string/hotel9_name </item>
+        <item>@string/hotel10_name </item>
+        <item>@string/hotel11_name </item>
+        <item>@string/hotel12_name </item>
+        <item>@string/hotel13_name </item>
+        <item>@string/hotel14_name </item>
+        <item>@string/hotel15_name </item>
+        <item>@string/hotel16_name </item>
+        <item>@string/hotel17_name </item>
+        <item>@string/hotel18_name </item>
+        -->
+    </string-array>
+
+    <string-array name="hotel_descriptions">
+        <item>@string/hotel1_description </item>
+        <item>@string/hotel2_description  </item>
+        <item>@string/hotel3_description  </item>
+        <item>@string/hotel4_description  </item>
+        <item>@string/hotel5_description  </item>
+        <item>@string/hotel6_description  </item>
+
+        <!--
+        <item>@string/hotel7_description  </item>
+        <item>@string/hotel8_description  </item>
+        <item>@string/hotel9_description  </item>
+        <item>@string/hotel10_description  </item>
+        <item>@string/hotel11_description  </item>
+        <item>@string/hotel12_description  </item>
+        <item>@string/hotel13_description  </item>
+        <item>@string/hotel14_description  </item>
+        <item>@string/hotel15_description  </item>
+        <item>@string/hotel16_description  </item>
+        <item>@string/hotel17_description  </item>
+        <item>@string/hotel18_description  </item>
+        -->
+
+    </string-array>
+
     <!-- Activities -->
 
     <string name="activity1_name">Museum of Chinese in America</string>

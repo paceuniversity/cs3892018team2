@@ -23,6 +23,7 @@ public class CustomListAdapter extends ArrayAdapter {
     //to store the list of countries
     private final String[] infoArray;
 
+
     public CustomListAdapter(Activity context, String[] nameArrayParam , String[] infoArrayParam, Integer[] imageIDArrayParam){
 
         super(context,R.layout.hotel_row , nameArrayParam);
@@ -31,6 +32,7 @@ public class CustomListAdapter extends ArrayAdapter {
         this.imageIDarray = imageIDArrayParam;
         this.nameArray = nameArrayParam;
         this.infoArray = infoArrayParam;
+
     }
 
     public View getView(int position, View view, ViewGroup parent) {

@@ -5,6 +5,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
+import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.ListView;
 
@@ -13,11 +14,12 @@ public class HotelActivity extends AppCompatActivity {
 
     private ImageView app_logo;
     ListView listView;
+    public ImageButton settings_btn;
 
     String[] nameArray = {"Octopus","Pig","Sheep","Rabbit","Snake","Spider"};
 
     String[] infoArray = {
-            "8 tentacled monster",
+            "Set at the foot of the Manhattan Bridge in Chinatown, this hip hotel with a midcentury-modern vibe is",
             "Delicious in rolls",
             "Great for jumpers",
             "Nice in a stew",
@@ -51,9 +53,26 @@ public class HotelActivity extends AppCompatActivity {
             }
         });
 
-        CustomListAdapter whatever = new CustomListAdapter(this, nameArray, infoArray, imageArray);
+        // List Creation
+
+        String[] names = getResources().getStringArray(R.array.hotel_names);
+        String[] descriptions = getResources().getStringArray(R.array.hotel_descriptions);
+
+        CustomListAdapter whatever = new CustomListAdapter(this, names, infoArray, imageArray);
         listView = (ListView) findViewById(R.id.listViewID);
         listView.setAdapter(whatever);
+
+
+        // Settings Icon Link
+
+        settings_btn = (ImageButton) findViewById(R.id.setting_image_button);
+        settings_btn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(HotelActivity.this,SettingsActivity.class);
+                startActivity(intent);
+            }
+        });
 
     }
 }

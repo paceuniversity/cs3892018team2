@@ -1,15 +1,16 @@
 package ahmed.niaz.chinatown_tour;
 
-import android.app.Activity;
 import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
+import android.widget.ImageButton;
 import android.widget.ImageView;
 
 public class FoodActivity extends AppCompatActivity {
 
     private ImageView app_logo;
+    public ImageButton settings_btn;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -26,5 +27,18 @@ public class FoodActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+
+
+        // Settings Icon Link
+
+        settings_btn = (ImageButton) findViewById(R.id.setting_image_button);
+        settings_btn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(FoodActivity.this,SettingsActivity.class);
+                startActivity(intent);
+            }
+        });
+
     }
 }

@@ -11,7 +11,7 @@
     <ImageView
         android:id="@+id/imageView1ID"
         android:layout_width="0dp"
-        android:layout_height="60dp"
+        android:layout_height="150dp"
         android:layout_weight="1"
         app:srcCompat="@drawable/hotel8_image2" />
 
@@ -24,19 +24,24 @@
 
         <TextView
             android:id="@+id/nameTextViewID"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_height="4dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="5dp"
             android:layout_weight="1"
             android:text="TextView"
-            android:textSize="24sp"
+            android:textSize="16sp"
+            android:gravity="center"
             android:textStyle="bold" />
 
         <TextView
             android:id="@+id/infoTextViewID"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="5dp"
             android:layout_weight="1"
             android:text="TextView"
-            android:textSize="18sp" />
+            android:textSize="12sp" />
     </LinearLayout>
 </LinearLayout>
