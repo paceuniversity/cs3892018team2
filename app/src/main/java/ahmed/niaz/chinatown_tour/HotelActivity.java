@@ -14,6 +14,7 @@ import android.widget.ImageSwitcher;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.ListView;
+import android.widget.TextView;
 import android.widget.ViewSwitcher;
 
 public class HotelActivity extends AppCompatActivity {
@@ -32,11 +33,13 @@ public class HotelActivity extends AppCompatActivity {
     private int img_two;
     private int img_three;
     private int description;
+    private int name;
     private int img_num;
 
     private ImageView navdot1;
     private ImageView navdot2;
     private ImageView navdot3;
+    private TextView spec_name;
 
     public void createHotelData(int x){
         switch (x) {
@@ -45,6 +48,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_one = R.drawable.hotel1_image1;
                 img_two = R.drawable.hotel1_image2;
                 img_three = R.drawable.hotel1_image3;
+                name = R.string.hotel1_name;
                 description = R.string.hotel1_description;
                 break;
 
@@ -53,6 +57,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_one = R.drawable.hotel2_image3;
                 img_two = R.drawable.hotel2_image2;
                 img_three = R.drawable.hotel2_image1;
+                name = R.string.hotel1_name;
                 description = R.string.hotel2_description;
                 break;
 
@@ -62,6 +67,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_one = R.drawable.hotel3_image1;
                 img_two = R.drawable.hotel3_image2;
                 img_three = R.drawable.hotel3_image3;
+                name = R.string.hotel1_name;
                 description = R.string.hotel3_description;
                 break;
 
@@ -71,6 +77,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_one = R.drawable.hotel4_image1;
                 img_two = R.drawable.hotel4_image2;
                 img_three = R.drawable.hotel4_image3;
+                name = R.string.hotel1_name;
                 description = R.string.hotel4_description;
                 break;
 
@@ -80,6 +87,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_one = R.drawable.hotel5_image1;
                 img_two = R.drawable.hotel5_image2;
                 img_three = R.drawable.hotel5_image3;
+                name = R.string.hotel1_name;
                 description = R.string.hotel5_description;
                 break;
 
@@ -89,6 +97,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_one = R.drawable.hotel6_image1;
                 img_two = R.drawable.hotel6_image2;
                 img_three = R.drawable.hotel6_image3;
+                name = R.string.hotel1_name;
                 description = R.string.hotel6_description;
                 break;
 
@@ -98,6 +107,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_one = R.drawable.hotel7_image1;
                 img_two = R.drawable.hotel7_image2;
                 img_three = R.drawable.hotel7_image3;
+                name = R.string.hotel1_name;
                 description = R.string.hotel7_description;
                 break;
 
@@ -107,6 +117,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_one = R.drawable.hotel8_image1;
                 img_two = R.drawable.hotel8_image2;
                 img_three = R.drawable.hotel8_image3;
+                name = R.string.hotel1_name;
                 description = R.string.hotel8_description;
                 break;
 
@@ -115,6 +126,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_one = R.drawable.hotel9_image1;
                 img_two = R.drawable.hotel9_image2;
                 img_three = R.drawable.hotel9_image3;
+                name = R.string.hotel1_name;
                 description = R.string.hotel9_description;
                 break;
 
@@ -123,6 +135,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_one = R.drawable.hotel10_image1;
                 img_two = R.drawable.hotel10_image2;
                 img_three = R.drawable.hotel10_image3;
+                name = R.string.hotel1_name;
                 description = R.string.hotel10_description;
                 break;
 
@@ -131,6 +144,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_one = R.drawable.hotel11_image1;
                 img_two = R.drawable.hotel11_image2;
                 img_three = R.drawable.hotel11_image3;
+                name = R.string.hotel1_name;
                 description = R.string.hotel11_description;
                 break;
 
@@ -139,6 +153,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_one = R.drawable.hotel12_image1;
                 img_two = R.drawable.hotel12_image2;
                 img_three = R.drawable.hotel12_image3;
+                name = R.string.hotel1_name;
                 description = R.string.hotel12_description;
                 break;
 
@@ -147,6 +162,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_one = R.drawable.hotel13_image1;
                 img_two = R.drawable.hotel13_image2;
                 img_three = R.drawable.hotel13_image3;
+                name = R.string.hotel1_name;
                 description = R.string.hotel13_description;
                 break;
 
@@ -155,6 +171,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_one = R.drawable.hotel14_image1;
                 img_two = R.drawable.hotel14_image2;
                 img_three = R.drawable.hotel14_image3;
+                name = R.string.hotel1_name;
                 description = R.string.hotel14_description;
                 break;
 
@@ -163,6 +180,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_one = R.drawable.hotel15_image1;
                 img_two = R.drawable.hotel15_image2;
                 img_three = R.drawable.hotel15_image3;
+                name = R.string.hotel1_name;
                 description = R.string.hotel15_description;
                 break;
 
@@ -171,6 +189,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_one = R.drawable.hotel16_image1;
                 img_two = R.drawable.hotel16_image2;
                 img_three = R.drawable.hotel16_image3;
+                name = R.string.hotel1_name;
                 description = R.string.hotel16_description;
                 break;
 
@@ -179,6 +198,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_one = R.drawable.hotel17_image1;
                 img_two = R.drawable.hotel17_image2;
                 img_three = R.drawable.hotel17_image3;
+                name = R.string.hotel1_name;
                 description = R.string.hotel17_description;
                 break;
 
@@ -187,6 +207,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_one = R.drawable.hotel18_image1;
                 img_two = R.drawable.hotel18_image2;
                 img_three = R.drawable.hotel18_image3;
+                name = R.string.hotel1_name;
                 description = R.string.hotel18_description;
                 break;
         }
@@ -257,6 +278,8 @@ public class HotelActivity extends AppCompatActivity {
 
                 img_switcher = (ImageSwitcher) findViewById(R.id.img_switcher);
                 app_logo = (ImageView) findViewById(R.id.appIcon);
+                spec_name = (TextView) findViewById(R.id.spec_hotel_name);
+
 
                 app_logo.setOnClickListener(new View.OnClickListener() {
                     @Override

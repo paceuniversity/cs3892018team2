@@ -600,7 +600,6 @@
     <string name="grand_street_station" translatable="false">Grand Street</string>
     <string name="grand_street_trains" translatable="false">B, D</string>
     <string name="grand_street_description">During the week ends the B trains do not run. Only the D trains stop at this station.</string>
-<<<<<<< HEAD
     <string name="title_activity_transport_tabs">TransportTabsActivity</string>
     <string name="action_settings">Settings</string>
     <string name="section_format">Hello World from section: %1$d</string>
@@ -613,11 +612,6 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
-=======
 
 
-    
-    
-    
->>>>>>> e457060ba67cf979e9c8ee2ce516de960f719d20
 </resources>
