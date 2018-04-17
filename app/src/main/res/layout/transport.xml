@@ -6,12 +6,21 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="ahmed.niaz.chinatown_tour.TransportActivity">
-    
-    <FrameLayout
+
+    <include
+        android:id="@+id/include2"
+        layout="@layout/custom_main_menu_header"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <android.support.constraint.ConstraintLayout
         android:id="@+id/fragment_containers"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_above="@id/transport_bottom_navigation"/>
+        android:layout_above="@id/transport_bottom_navigation">
+
+    </android.support.constraint.ConstraintLayout>
 
     <android.support.design.widget.BottomNavigationView
         android:id="@+id/transport_bottom_navigation"
