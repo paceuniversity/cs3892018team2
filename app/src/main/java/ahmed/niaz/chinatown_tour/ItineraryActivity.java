@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
+import android.widget.ImageButton;
 import android.widget.ImageView;
 
 /**
@@ -14,6 +15,7 @@ import android.widget.ImageView;
 public class ItineraryActivity extends AppCompatActivity {
 
     private ImageView app_logo;
+    public ImageButton settings_btn;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -22,7 +24,8 @@ public class ItineraryActivity extends AppCompatActivity {
 
         app_logo = (ImageView) findViewById(R.id.appIcon);
 
-        // === LINK APP ICON TO MAIN MENU ===
+        // Main Menu Link
+
         app_logo.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -32,6 +35,16 @@ public class ItineraryActivity extends AppCompatActivity {
         });
 
 
+        // Settings Icon Link
+
+        settings_btn = (ImageButton) findViewById(R.id.setting_image_button);
+        settings_btn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(ItineraryActivity.this,SettingsActivity.class);
+                startActivity(intent);
+            }
+        });
 
     }
 }

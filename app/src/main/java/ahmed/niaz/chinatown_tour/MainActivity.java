@@ -1,5 +1,6 @@
 package ahmed.niaz.chinatown_tour;
 
+import android.app.Activity;
 import android.content.Intent;
 import android.graphics.Color;
 import android.support.v7.app.AppCompatActivity;
@@ -23,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main_menu);
 
+        // Settings Icon Link
 
         settings_btn = (ImageButton) findViewById(R.id.setting_image_button);
         settings_btn.setOnClickListener(new View.OnClickListener() {
@@ -41,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
         transport_lp_btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this,TransportationActivity.class);
+                Intent intent = new Intent(MainActivity.this,TransportActivity.class);
                 startActivity(intent);
             }
         });
