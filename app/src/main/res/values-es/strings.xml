@@ -164,7 +164,6 @@
 
     <!-- Shopping Names -->
     <string name="Activity1_shopping_name">Tienda de descuentos K. K.</string>
-    <string name="Activity2_shopping_name">T-Pop Shop NYC</string>
     <string name="Activity3_shopping_name">Tienda de flores Lun Hong</string>
     <string name="Activity4_shopping_name">Yùnhóng Palilos</string>
     <string name="Activity5_shopping_name">Magic Jewelry</string>
@@ -200,4 +199,7 @@
     <string name="restaurant4_name">Ping</string>
     <string name="fast_food1_name">McDonald\'s</string>
     <string name="fast_food4_name">Popeyes Luisiana Kitchen</string>
+    <string name="app_name">Chinatown Tour</string>
+    <string name="Activity8_shopping_name">Canal Street</string>
+    <string name="Activity8_shopping_address">Canal Street</string>
 </resources>

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name" translatable="false">Chinatown_Tour</string>
+    <string name="app_name">Chinatown Tour</string>
 
     <!-- Main Layout -->
 
@@ -163,7 +163,7 @@
     <string name="activity3_name" translatable="false">Aji Ichiban</string>
     <string name="activity3_static">an Asian snack paradise for those wishing to satisfy their sweet
     tooth; sells a variety of dried foods, exotic hard-to-find savory treats, and nostalgic Western treats</string>
-    <string name="activity3_type">confectionary shop</string>
+    <string name="activity3_type">confectionery shop</string>
     <string name="activity3_address" translatable="false">37 Mott Street</string>
     <string name="activity3_phone_number" translatable="false">212-233-7650</string>
 
@@ -265,7 +265,7 @@
     <string name="Activity1_shopping_website_link" translatable="false"> http://www.kkdiscount.com/ </string>
     <string name="Activity1_shopping_phone_number" translatable="false"> (212) 513-7043 </string>
 
-    <string name="Activity2_shopping_name">T-Pop Shop NYC  </string>
+    <string name="Activity2_shopping_name" translatable="false">T-Pop Shop NYC  </string>
     <string name="Activity2_shopping_Static_Info">T-Pop Shop is a trendsetting Online Second Hand Clothing Store, offering first-rate products and exceptional customer     service to shoppers from the comfort of their own homes</string>
     <string name="Activity2_shopping_description">Shopping  </string>
     <string name="Activity2_shopping_images" translatable="false">  </string>
@@ -313,11 +313,11 @@
     <string name="Activity7_shopping_website_link" translatable="false"> http://www.facebook.com/chinatowntoystore </string>
     <string name="Activity7_shopping_phone_number" translatable="false"> N/a </string>
 
-    <string name="Activity8_shopping_name" translatable="false"> Canal Street </string>
+    <string name="Activity8_shopping_name"> Canal Street </string>
     <string name="Activity8_shopping_Static_Info"> An open-street shopping experience with an open-air bazaar feel, complete with vendors willing to bargain  </string>
     <string name="Activity8_shopping_description">Shopping  </string>
     <string name="Activity8_shopping_images" translatable="false">  </string>
-    <string name="Activity8_shopping_address" translatable="false"> Canal Street New York, NY 10013  </string>
+    <string name="Activity8_shopping_address"> Canal Street New York, NY 10013  </string>
     <string name="Activity8_shopping_website_link" translatable="false"> N/a </string>
     <string name="Activity_shopping8_phone_number" translatable="false"> N/a </string>
 
