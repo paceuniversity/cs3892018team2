@@ -50,7 +50,7 @@
         </ImageSwitcher>
 
         <ImageView
-            android:id="@+id/imageView5"
+            android:id="@+id/navDot1"
             android:layout_width="10dp"
             android:layout_height="10dp"
             android:layout_marginStart="148dp"
@@ -60,23 +60,23 @@
             app:srcCompat="@drawable/active_circle" />
 
         <ImageView
-            android:id="@+id/imageView6"
+            android:id="@+id/navDot2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="20dp"
             android:layout_marginTop="212dp"
             app:layout_constraintLeft_toLeftOf="parent"
-            app:layout_constraintStart_toEndOf="@+id/imageView5"
+            app:layout_constraintStart_toEndOf="@+id/navDot1"
             app:layout_constraintTop_toTopOf="@+id/img_switcher"
             app:srcCompat="@drawable/non_active_circle" />
 
         <ImageView
-            android:id="@+id/imageView7"
+            android:id="@+id/navDot3"
             android:layout_width="12dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="20dp"
             android:layout_marginTop="212dp"
-            app:layout_constraintStart_toEndOf="@+id/imageView6"
+            app:layout_constraintStart_toEndOf="@+id/navDot2"
             app:layout_constraintTop_toTopOf="@+id/img_switcher"
             app:srcCompat="@drawable/non_active_circle" />
 
