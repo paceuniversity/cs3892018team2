@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
         transport_lp_btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this,TransportationActivity.class);
+                Intent intent = new Intent(MainActivity.this,TransportActivity.class);
                 startActivity(intent);
             }
         });
