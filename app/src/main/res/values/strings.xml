@@ -398,43 +398,43 @@
     <string name="Historical_sight2_website" translatable="false"> www.mocanyc.org </string>
 
     <string name="Historical_sight3_name">The Five Points - Point 3  </string>
-    <string name="Historical_sight3_address" translatable="false"> 5111 Canal St, New York, NY 10002 </string>
+    <string name="Historical_sight3_address"> 5111 Canal St, New York, NY 10002 </string>
     <string name="Historical_sight3_historical_information"> Five Points (or The Five Points) was a 19th-century neighborhood in Lower  Manhattan, New York City. The neighborhood was generally defined as being bound by Centre Street to the west, the Bowery to the east, Canal Street to the  north, and Park Row to the south. </string>
     <string name="Historical_sight3_images" translatable="false">  </string>
     <string name="Historical_sight3_website" translatable="false"> https://en.wikipedia.org/wiki/Five_Points,_Manhattan </string>
 
     <string name="Historical_sight4_name">The Five Points - Point 2  </string>
-    <string name="Historical_sight4_address" translatable="false"> 160 Centre St, New York, NY 10013 </string>
+    <string name="Historical_sight4_address"> 160 Centre St, New York, NY 10013 </string>
     <string name="Historical_sight4_historical_information"> Five Points (or The Five Points) was a 19th-century neighborhood in Lower  Manhattan, New York City. The neighborhood was generally defined as being bound by Centre Street to the west, the Bowery to the east, Canal Street to the  north, and Park Row to the south. </string>
     <string name="Historical_sight4_images" translatable="false">  </string>
     <string name="Historical_sight4_website" translatable="false"> https://en.wikipedia.org/wiki/Five_Points,_Manhattan </string>
 
     <string name="Historical_sight5_name">Jarmulowski Building  </string>
     <string name="Historical_sight5_historical_information">The Jarmulowsky Bank Building is a 12-story building formerly housing the Jarmulowsky Bank on the Lower East Side of Manhattan, New York City. Located at Canal Street and Orchard Street, the Jarmulowsky Bank Building was built by architects Rouse &amp; Goldstone in 1912, in Beaux-Arts style.</string>
-    <string name="Historical_sight5_address" translatable="false"> 9 Orchard St, New York, NY 10002 </string>
+    <string name="Historical_sight5_address"> 9 Orchard St, New York, NY 10002 </string>
     <string name="Historical_sight5_images" translatable="false">  </string>
     <string name="Historical_sight5_website" translatable="false">https://en.wikipedia.org/wiki/Jarmulowsky_Bank_Building </string>
 
     <string name="Historical_sight6_name"> Edward Mooney House </string>
-    <string name="Historical_sight6_address" translatable="false"> 18 Bowery, New York, NY 10013 </string>
+    <string name="Historical_sight6_address"> 18 Bowery, New York, NY 10013 </string>
     <string name="Historical_sight6_historical_information">"The Edward Mooney House located at 18 Bowery at the corner of Pell Street in the Chinatown neighborhood of Manhattan, New York City was built between 1785 and 1789 for wealthy butcher Edward Mooney on land he purchased after it was confiscated from British Loyalist James De Lancey. "</string>
     <string name="Historical_sight6_images" translatable="false">  </string>
     <string name="Historical_sight6_website" translatable="false"> https://en.wikipedia.org/wiki/Edward_Mooney_House </string>
 
     <string name="Historical_sight7_name"> Pike Street Synagogue </string>
-    <string name="Historical_sight7_address" translatable="false"> 5 Pike St, New York, NY 10002 </string>
+    <string name="Historical_sight7_address"> 5 Pike St, New York, NY 10002 </string>
     <string name="Historical_sight7_historical_information"> The Pike Street Synagogue, constructed in 1903-04 for the. Congregation Sons of Israel Kalwarie, is a rare surviving synagogue building from that period of New York\'s history when the. Lower East Side served as America\'s main portal for millions of Jewish immigrants.  </string>
     <string name="Historical_sight7_images" translatable="false">  </string>
     <string name="Historical_sight7_website" translatable="false"> http://www.nyc.gov/html/lpc/downloads/pdf/reports/pikestreet.pdf </string>
 
     <string name="Historical_sight8_name">Columbus Park  </string>
-    <string name="Historical_sight8_address" translatable="false"> 67 Mulberry St, New York, NY 10013 </string>
+    <string name="Historical_sight8_address"> 67 Mulberry St, New York, NY 10013 </string>
     <string name="Historical_sight8_historical_information"> Columbus Park located in the heart of China Town is a great place to visit with the children and have a wonderful day. There is seating and swings with a safe area where the children could play. Most of the time you will run into musicians playing their music live.  </string>
     <string name="Historical_sight8_images" translatable="false">  </string>
     <string name="Historical_sight8_website" translatable="false"> https://www.nycgovparks.org/parks/columbus-park-m015 </string>
 
     <string name="Historical_sight9_name"> Chinatown Soup </string>
-    <string name="Historical_sight9_address" translatable="false"> 16B Orchard Street (Canal Street) New York, NY 10002 </string>
+    <string name="Historical_sight9_address"> 16B Orchard Street (Canal Street) New York, NY 10002 </string>
     <string name="Historical_sight9_historical_information"> The fantasies and confusion one may harbor about the eastern terminus of Canal Street are understandable because Chinatown is the crossroads where the city\'s past and future meet. Here remains one of the few Manhattan communities that fosters a sense of respect for its history. </string>
     <string name="Historical_sight9_images" translatable="false">  </string>
     <string name="Historical_sight9_website" translatable="false">www.chinatownsoup.nyc  </string>
@@ -463,7 +463,7 @@
     <!-- Food Locations and Details -->
     <!-- Restaurants -->
     <string name="restaurant1_name">Shanghai Asian Manor</string>
-    <string name="restaurant1_address" translatable="false">21 Mott St, New York, NY 10013</string>
+    <string name="restaurant1_address">21 Mott St, New York, NY 10013</string>
     <string name="restaurant1_menu" translatable="false">https://www.delivery.com/cities/nyc/categories/restaurant/shanghai-asian-manor?utm_source=google&amp;utm_medium=list&amp;utm_campaign=places_order_now_btn</string>
     <string name="restaurant1_website">None</string>
     <string name="restaurant1_phone_number" translatable="false">(212)766-6311</string>
@@ -471,7 +471,7 @@
         Chinese dishes including soup dumplings.</string>
 
     <string name="restaurant2_name">Nom Wah Tea Parlor</string>
-    <string name="restaurant2_address" translatable="false">13 Doyers St, New York, NY 10013 </string>
+    <string name="restaurant2_address">13 Doyers St, New York, NY 10013 </string>
     <string name="restaurant2_menu" translatable="false">http://nomwah.com/chinatown</string>
     <string name="restaurant2_website" translatable="false">http://nomwah.com/chinatown</string>
     <string name="restaurant2_phone_number" translatable="false">(212) 962-6047</string>
@@ -479,7 +479,7 @@
         with a drink menu that includes tea, beer and wine.</string>
 
     <string name="restaurant3_name">Great NY Noodletown</string>
-    <string name="restaurant3_address" translatable="false">28 Bowery, New York, NY 10013</string>
+    <string name="restaurant3_address">28 Bowery, New York, NY 10013</string>
     <string name="restaurant3_menu" translatable="false">http://places.singleplatform.com/great-ny-noodletown/menu?ref=google</string>
     <string name="restaurant3_website">None</string>
     <string name="restaurant3_phone_number" translatable="false">(212) 349-0923</string>
@@ -487,7 +487,7 @@
         soups and roast meat are served in a spartan setting.</string>
 
     <string name="restaurant4_name">Ping</string>
-    <string name="restaurant4_address" translatable="false">22 Mott St, New York, NY 10013</string>
+    <string name="restaurant4_address">22 Mott St, New York, NY 10013</string>
     <string name="restaurant4_menu" translatable="false">http://places.singleplatform.com/pings/menu?ref=google</string>
     <string name="restaurant4_website">None</string>
     <string name="restaurant4_phone_number" translatable="false">(212) 602-9988</string>
@@ -495,7 +495,7 @@
         this Cantonese seafood spot also known for a dim sum lunch.</string>
 
     <string name="restaurant5_name">Tasty Had-Pulled Noodles</string>
-    <string name="restaurant5_address" translatable="false">1 Doyers St, New York, NY 10013</string>
+    <string name="restaurant5_address">1 Doyers St, New York, NY 10013</string>
     <string name="restaurant5_menu" translatable="false">http://places.singleplatform.com/tasty-hand-pulled-noodles/menu?ref=google</string>
     <string name="restaurant5_website">None</string>
     <string name="restaurant5_phone_number" translatable="false">(212) 791-1817</string>
@@ -504,7 +504,7 @@
 
     <!-- Fast Food -->
     <string name="fast_food1_name">McDonald\'s</string>
-    <string name="fast_food1_address" translatable="false">262 Canal St, New York, NY 10013</string>
+    <string name="fast_food1_address">262 Canal St, New York, NY 10013</string>
     <string name="fast_food1_menu" translatable="false">https://www.mcdonalds.com/us/en-us/full-menu.html?cid=RF:YXT_LS:SI::MGBM</string>
     <string name="fast_food1_website" translatable="false">https://www.mcdonalds.com/us/en-us/mobile-order-and-pay.html</string>
     <string name="fast_food1_phone_number" translatable="false">(212) 941- 5823</string>
@@ -512,7 +512,7 @@
         fries and shakes. </string>
 
     <string name="fast_food2_name">Wah Fung #1 Fast Food</string>
-    <string name="fast_food2_address" translatable="false">79 Chrystie St, New York, NY 10002</string>
+    <string name="fast_food2_address">79 Chrystie St, New York, NY 10002</string>
     <string name="fast_food2_menu" translatable="false">https://www.menuwithprice.com/menu/wah-fung-1-fast-food/</string>
     <string name="fast_food2_website">None</string>
     <string name="fast_food2_phone_number" translatable="false">(212) 925-5175</string>
@@ -520,7 +520,7 @@
         with lunch specials and can conveniently deliver right to your doorstep</string>
 
     <string name="fast_food3_name">Hua Ji Pork Chop Fast Food</string>
-    <string name="fast_food3_address" translatable="false">7 Allen St, New York 10002</string>
+    <string name="fast_food3_address">7 Allen St, New York 10002</string>
     <string name="fast_food3_menu" translatable="false">http://www.menupages.com/restaurants/hua-ji-pork-chop-fast-food/menu</string>
     <string name="fast_food3_website">None</string>
     <string name="fast_food3_phone_number" translatable="false">(212) 219-9876</string>
@@ -528,7 +528,7 @@
         pork chops over rice and quick snacks.</string>
 
     <string name="fast_food4_name">Popeyes Louisiana Kitchen</string>
-    <string name="fast_food4_address" translatable="false">125 Canal St, New York, NY 10002</string>
+    <string name="fast_food4_address">125 Canal St, New York, NY 10002</string>
     <string name="fast_food4_menu" translatable="false">https://popeyes.com/menu/</string>
     <string name="fast_food4_website" translatable="false">https://popeyes.com/</string>
     <string name="fast_food4_phone_number" translatable="false">(212) 966-7077</string>
@@ -536,7 +536,7 @@
         spicy fried chicken, biscuits and sides.</string>
 
     <string name="fast_food5_name">May Wah Fast Food</string>
-    <string name="fast_food5_address" translatable="false">190 Hester St, New York, NY 10013</string>
+    <string name="fast_food5_address">190 Hester St, New York, NY 10013</string>
     <string name="fast_food5_menu" translatable="false">http://www.maywahfastfood.com/menu/</string>
     <string name="fast_food5_website" translatable="false">http://www.maywahfastfood.com/</string>
     <string name="fast_food5_phone_number" translatable="false">(212) 925-6428</string>
@@ -546,7 +546,7 @@
 
     <!-- Sweets -->
     <string name="sweets1_name">The Sweet Life</string>
-    <string name="sweets1_address" translatable="false">63 Hester St, New York, NY 10002</string>
+    <string name="sweets1_address">63 Hester St, New York, NY 10002</string>
     <string name="sweets1_menu" translatable="false">http://www.menupages.com/restaurants/the-sweet-life/menu</string>
     <string name="sweets1_website" translatable="false">http://thesweetlifenyc.com/</string>
     <string name="sweets1_phone_number" translatable="false">(212) 598-0092</string>
@@ -554,7 +554,7 @@
         dried fruit and house made chocolates.</string>
 
     <string name="sweets2_name" translatable="false">Taiyaki NYC</string>
-    <string name="sweets2_address" translatable="false">119 Baxter St, New York, NY 10013</string>
+    <string name="sweets2_address">119 Baxter St, New York, NY 10013</string>
     <string name="sweets2_menu" translatable="false">https://www.facebook.com/pg/TaiyakiNYC/menu/</string>
     <string name="sweets2_website" translatable="false"> https://taiyakinyc.com/</string>
     <string name="sweets2_phone_number" translatable="false">(212) 966-2882</string>
@@ -562,7 +562,7 @@
         in a fish-shaped waffle cone. </string>
 
     <string name="sweets3_name">Sweet Moment</string>
-    <string name="sweets3_address" translatable="false">106 Mott St, New York, NY 10013</string>
+    <string name="sweets3_address">106 Mott St, New York, NY 10013</string>
     <string name="sweets3_menu" translatable="false">https://www.sweetmoment.nyc/menu</string>
     <string name="sweets3_website" translatable="false">https://www.sweetmoment.nyc/</string>
     <string name="sweets3_phone_number" translatable="false">(212) 226-8724</string>
@@ -570,7 +570,7 @@
         waffles, plus craft coffee drinks and tea.</string>
 
     <string name="sweets4_name">The Original Chinatown Ice Cream Factory</string>
-    <string name="sweets4_address" translatable="false">65 Bayard Street, New York, NY 10013</string>
+    <string name="sweets4_address">65 Bayard Street, New York, NY 10013</string>
     <string name="sweets4_menu" translatable="false">http://www.chinatownicecreamfactory.com/ice-cream/</string>
     <string name="sweets4_website" translatable="false">http://www.chinatownicecreamfactory.com/</string>
     <string name="sweets4_phone_number" translatable="false">(212) 608-4170</string>
@@ -578,7 +578,7 @@
         (like lychee) at this compact ice-cream shop.</string>
 
     <string name="sweets5_name">Fay Da Bakery</string>
-    <string name="sweets5_address" translatable="false">83 Mott St, New York, NY 10013</string>
+    <string name="sweets5_address">83 Mott St, New York, NY 10013</string>
     <string name="sweets5_menu" translatable="false">http://fayda.com/shop/</string>
     <string name="sweets5_website" translatable="false">http://fayda.com/</string>
     <string name="sweets5_phone_number" translatable="false">(212) 791-3884</string>
@@ -589,7 +589,7 @@
     <string name="train_notice">During weekends, trains may be subjected to change due to construction.</string>
     <!-- <string name="mta_weekender"><a href="http://web.mta.info/weekender.html">Check the MTA Weekender</a></string> -->
 
-    <string name="canal_street_station" translatable="false">Canal Street</string>
+    <string name="canal_street_station">Canal Street</string>
     <string name="canal_street_trains" translatable="false">N, Q, R, W, J, Z, M, 4, 6</string>
     <string name="canal_street_description">There are multiple way to get to the Canal Street subway station. It is a very large station that consists of many trains including the N, Q, R, W, J, Z, M, 4, and 6 train.</string>
 
@@ -597,7 +597,7 @@
     <string name="east_broadway_trains" translatable="false">F</string>
     <string name="east_broadway_description">The only train that runs to East Broadway is the F train.</string>
 
-    <string name="grand_street_station" translatable="false">Grand Street</string>
+    <string name="grand_street_station">Grand Street</string>
     <string name="grand_street_trains" translatable="false">B, D</string>
     <string name="grand_street_description">During the week ends the B trains do not run. Only the D trains stop at this station.</string>
 
