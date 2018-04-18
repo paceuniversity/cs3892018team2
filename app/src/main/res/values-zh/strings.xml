@@ -189,7 +189,6 @@
     <string name="Historical_sight1_address">133运河 St, 纽约, 纽约州10002</string>
     <string name="Historical_sight2_address">215中心 St, 纽约, 纽约州10013</string>
     <string name="Historical_sight3_address">5111运河 St, 纽约, 纽约州10002</string>
-    <string name="Historical_sight4_address">160 Centre St, New York, NY 10013</string>
     <string name="Historical_sight6_address">18巴利, 纽约, 纽约州10013</string>
     <string name="Historical_sight7_address">5派克 St, 纽约, 纽约州10002</string>
     <string name="Historical_sight8_address">67桑 St, 纽约, 纽约州10013</string>
@@ -203,7 +202,6 @@
     <string name="restaurant1_description">提供一个超级基本的中国菜肴，包括汤饺子的大菜单没有多余的地方。</string>
     <string name="restaurant2_name">Nom Wah茶室</string>
     <string name="restaurant1_address">21 Mott St，纽约，NY 10013</string>
-    <string name="restaurant2_address">13 Doyers St, New York, NY 10013</string>
     <string name="restaurant2_description">复古点心店的历史可追溯至1920年，提供包括茶，啤酒和葡萄酒的饮品。</string>
     <string name="restaurant3_name">伟大的纽约州Noodletown</string>
     <string name="restaurant3_address">28 Bowery，纽约，NY 10013</string>
@@ -266,4 +264,8 @@
     <string name="title_home">家</string>
     <string name="title_dashboard">仪表板</string>
     <string name="title_notifications">通知</string>
+    <string name="Historical_sight5_address">9 Orchard St，纽约，NY 10002</string>
+    <string name="fast_food3_website">没有</string>
+    <string name="Historical_sight4_address">160 Centre St, New York, NY 10013</string>
+    <string name="restaurant2_address">13 Doyers St，纽约，NY 10013</string>
 </resources>
