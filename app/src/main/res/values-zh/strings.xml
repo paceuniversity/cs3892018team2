@@ -179,4 +179,11 @@
     <string name="activity10_address">59运河街</string>
     <string name="activity11_address">莫特街48号</string>
     <string name="activity13_address">莫特街29号</string>
+    <string name="Activity1_shopping_address">" 纽约州纽约10013号桑柏街78号 "</string>
+    <string name="Activity2_shopping_address">59 Franklin St，纽约，NY 10013</string>
+    <string name="Activity3_shopping_address">50 Mulberry St，纽约，NY 10013</string>
+    <string name="Activity4_shopping_address">50 Mott St，纽约，NY 10013</string>
+    <string name="Activity6_shopping_address">395百老汇, 纽约, 纽约州10013</string>
+    <string name="Activity5_shopping_address">238运河街道纽约 NY 10013</string>
+    <string name="Activity7_shopping_address">83, 纽约, 纽约州10013</string>
 </resources>
