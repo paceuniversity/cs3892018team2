@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_margin="1dp"
+    android:background="#f2f2f2"
     tools:context="ahmed.niaz.chinatown_tour.FoodActivity">
 
     <include
@@ -21,57 +22,40 @@
         android:layout_height="29dp"
         android:layout_alignParentStart="true"
         android:layout_below="@+id/include2"
-        android:layout_marginStart="13dp"
-        android:layout_marginTop="17dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
         android:text="@string/category1_name"
         android:textSize="20sp"
         android:textStyle="bold|italic"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/include2" />
 
-    <android.support.v7.widget.CardView
-        android:layout_width="120dp"
-        android:layout_height="120dp"
-        android:layout_alignStart="@+id/category1_title_restaurant"
-        android:layout_below="@+id/category1_title_restaurant"
-        app:cardCornerRadius="4dp"
-        app:cardMaxElevation="2dp"
-        android:layout_centerInParent="true">
+    <!-- Recycler View 1 Restaurants -->
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerview"
+        android:layout_width="348dp"
+        android:layout_height="137dp"
+        android:layout_marginStart="16dp"
+        android:orientation="horizontal"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/category1_title_restaurant">
 
-        <RelativeLayout
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
+    </android.support.v7.widget.RecyclerView>
 
-            <de.hdodenhof.circleimageview.CircleImageView
-                android:id="@+id/restaurant1_image"
-                android:layout_width="90dp"
-                android:layout_height="90dp"
-                android:scaleType="centerCrop"
-                android:layout_centerHorizontal="true"
-                android:src="@drawable/restaurant_1_front_image"/>
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="20dp"
-                android:text="@string/restaurant1_name"
-                android:layout_below="@+id/restaurant1_image"
-                android:layout_centerHorizontal="true"
-                android:gravity="center"
-                android:layout_marginTop="5dp"
-                android:textColor="#000"
-                android:layout_marginBottom="5dp"
-                android:autoSizeTextType="uniform"
-                android:autoSizeMinTextSize="8sp"
-                android:autoSizeMaxTextSize="15sp"/>
-
-        </RelativeLayout>
-
-    </android.support.v7.widget.CardView>
+    <TextView
+        android:id="@+id/category2_title_restaurant"
+        android:layout_width="144dp"
+        android:layout_height="29dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="9dp"
+        android:text="@string/category2_name"
+        android:textSize="20sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/recyclerview" />
 
 
-
-
-</RelativeLayout>
+</android.support.constraint.ConstraintLayout>
 
 
 
