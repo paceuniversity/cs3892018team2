@@ -6,7 +6,7 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="175"
+        android:layout_width="175dp"
         android:layout_height="160dp"
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
