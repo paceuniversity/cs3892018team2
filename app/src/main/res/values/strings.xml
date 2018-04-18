@@ -589,16 +589,16 @@
     <string name="train_notice">During weekends, trains may be subjected to change due to construction.</string>
     <!-- <string name="mta_weekender"><a href="http://web.mta.info/weekender.html">Check the MTA Weekender</a></string> -->
 
-    <string name="canal_street_station">Canal Street</string>
-    <string name="canal_street_trains" translatable="false">N, Q, R, W, J, Z, M, 4, 6</string>
-    <string name="canal_street_description">There are multiple way to get to the Canal Street subway station. It is a very large station that consists of many trains including the N, Q, R, W, J, Z, M, 4, and 6 train.</string>
+    <string name="canal_street_station">Canal Street Station</string>
+    <string name="canal_street_trains" translatable="false">Trains: N, Q, R, W, J, Z, M, 4, 6</string>
+    <string name="canal_street_description">There are multiple way to get to the Canal Street subway station. It is a very large station that consists of many trains.</string>
 
-    <string name="east_broadway_station">East Broadway</string>
-    <string name="east_broadway_trains" translatable="false">F</string>
+    <string name="east_broadway_station">East Broadway Station</string>
+    <string name="east_broadway_trains" translatable="false">Train: F</string>
     <string name="east_broadway_description">The only train that runs to East Broadway is the F train.</string>
 
-    <string name="grand_street_station">Grand Street</string>
-    <string name="grand_street_trains" translatable="false">B, D</string>
+    <string name="grand_street_station">Grand Street Station</string>
+    <string name="grand_street_trains" translatable="false">Trains: B, D</string>
     <string name="grand_street_description">During the week ends the B trains do not run. Only the D trains stop at this station.</string>
 
 </resources>
