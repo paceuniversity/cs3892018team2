@@ -12,8 +12,8 @@
 
     <!-- Hotels -->
 
-    <string name="hotel1_name" translatable="false">The Leon Hotel</string>
-    <string name="hotel1_address" translatable="false">125 Canal St, New York, NY 10002</string>
+    <string name="hotel1_name">The Leon Hotel</string>
+    <string name="hotel1_address">125 Canal St, New York, NY 10002</string>
     <string name="hotel1_description_preview"> Set at the foot of the Manhattan Bridge in Chinatown, this hip hotel with a midcentury-modern vibe...</string>
     <string name="hotel1_description">Set at the foot of the Manhattan Bridge in Chinatown, this hip hotel with a midcentury-modern vibe is a 3-minute walk from the Grand Street subway station and an 8-minute walk from the Museum Of Chinese In America.
     Sleek, contemporary rooms offer complimentary Wi-Fi, iPod docks and flat-screen TVs, in addition to Keurig coffeemakers. Upgraded rooms and 1-bedroom suites add bridge or city views.
@@ -22,48 +22,48 @@
     <string name="hotel1_website_link" translatable="false">http://www.leonhotelnyc.com/</string>
     <string name="hotel1_phone_number" translatable="false"> (212) 390-8833   </string>
 
-    <string name="hotel2_name" translatable="false">Hotel Mimosa</string>
+    <string name="hotel2_name">Hotel Mimosa</string>
     <string name="hotel2_description_preview"> Hotel Mimosa is located in the East Side neighborhood in New York City, just one mile from Ground Zero... </string>
-    <string name="hotel2_address" translatable="false">79 Division St, New York, NY 10002</string>
+    <string name="hotel2_address">79 Division St, New York, NY 10002</string>
     <string name="hotel2_description">Hotel Mimosa is located in the East Side neighborhood in New York City, just one mile from Ground Zero. All rooms include a flat-screen TV. The rooms have a private bathroom fitted with a bathtub or shower. Extras include free toiletries and a hairdryer. You will find a 24-hour front desk at the property. One World Trade Center is one mile from Hotel Mimosa, and National September 11 Memorial &amp; Museum is 1.1 miles from the property. The nearest airport is LaGuardia Airport, 7 miles from Hotel Mimosa.</string>
     <string name="hotel2_images" translatable="false"> </string>
     <string name="hotel2_website_link" translatable="false">https://www.hotelmimosany.com/</string>
     <string name="hotel2_phone_number" translatable="false">  (212) 343-4243  </string>
 
-    <string name="hotel3_name" translatable="false">Wyndham Garden Chinatown</string>
-    <string name="hotel3_address" translatable="false">93 Bowery, New York, NY 10002</string>
+    <string name="hotel3_name">Wyndham Garden Chinatown</string>
+    <string name="hotel3_address">93 Bowery, New York, NY 10002</string>
     <string name="hotel3_description_preview"> Relax in beautifully designed guest rooms and suites with contemporary furnishings, private balconies and floor to ceiling windows with stunning views of the city...</string>
     <string name="hotel3_description">Relax in beautifully designed guest rooms and suites with contemporary furnishings, private balconies and floor to ceiling windows with stunning views of the city. Savor seasonal American cuisine at the Wu Room. A recipient of the TripAdvisor Certificate of Excellence, our modern Manhattan hotel features intimate event space, complimentary Wi-Fi, and a dynamic ambiance where you can meet, lounge and dine in the beautiful Big Apple. Located in an eclectic Lower Manhattan neighborhood, it\'s easy to explore local nightlife, walk to the trendy shops of SoHo, and dine in Little Italy. </string>
     <string name="hotel3_images" translatable="false">None</string>
     <string name="hotel3_website_link" translatable="false">http://www.wyndhamgardenchinatownnyc.com/</string>
     <string name="hotel3_phone_number" translatable="false"> (646) 329-3400   </string>
 
-    <string name="hotel4_name" translatable="false">Hotel Mulberry</string>
-    <string name="hotel4_address" translatable="false">52 Mulberry St, New York, NY 10013</string>
+    <string name="hotel4_name">Hotel Mulberry</string>
+    <string name="hotel4_address">52 Mulberry St, New York, NY 10013</string>
     <string name="hotel4_description_preview"> Overlooking Columbus Park, this contemporary Chinatown hotel is 0.3 miles from Little Italy and a 5-minute walk from the nearest subway station...    </string>
     <string name="hotel4_description"> Overlooking Columbus Park, this contemporary Chinatown hotel is 0.3 miles from Little Italy and a 5-minute walk from the nearest subway station. Casual rooms and suites are decorated in a neutral palette with custom furnishings and offer pillow-top mattresses, flat-screen TVs and minifridges; some include terraces and/or city views. High-speed Internet access is available. Perks include free continental breakfast daily, a business center and a modern lobby with seating areas. Several fine and casual dining options are within a block of the hotel.</string>
     <string name="hotel4_images" translatable="false">None</string>
     <string name="hotel4_website_link" translatable="false">http://www.hotelmulberry.com/</string>
     <string name="hotel4_phone_number" translatable="false"> (212) 385-4633   </string>
 
-    <string name="hotel5_name" translatable="false">Hotel 50 Bowery NYC</string>
-    <string name="hotel5_address" translatable="false">50 Bowery, New York, NY 10013</string>
+    <string name="hotel5_name">Hotel 50 Bowery NYC</string>
+    <string name="hotel5_address">50 Bowery, New York, NY 10013</string>
     <string name="hotel5_description_preview">Hotel 50 Bowery is located in the Chinatown neighborhood in New York City, just 0.9 miles from Ground Zero... </string>
     <string name="hotel5_description">Hotel 50 Bowery is located in the Chinatown neighborhood in New York City, just 0.9 miles from Ground Zero. Guests can enjoy the on-site bar. Private parking is available on site.Each room at this hotel is air conditioned and has a flat-screen TV. Certain rooms have a sitting area for your convenience. A terrace or balcony are featured in certain rooms. The rooms have a private bathroom. For your comfort, you will find free toiletries and a hairdryer.You will find a 24-hour front desk at the property. One World Trade Center is 0.9 miles from Hotel 50 Bowery, and National September 11 Memorial &amp; Museum is 0.9 miles away. The nearest airport is LaGuardia Airport, 7 miles from Hotel 50 Bowery.</string>
     <string name="hotel5_images" translatable="false">None</string>
     <string name="hotel5_website_link" translatable="false">https://www.jdvhotels.com/hotels/new-york/nyc/hotel-50-bowery-nyc</string>
     <string name="hotel5_phone_number" translatable="false"> (212) 508-8000   </string>
 
-    <string name="hotel6_name" translatable="false">Best Western Bowery Hanbee Hotel</string>
-    <string name="hotel6_address" translatable="false">231 Grand St, New York, NY 10013</string>
+    <string name="hotel6_name">Best Western Bowery Hanbee Hotel</string>
+    <string name="hotel6_address">231 Grand St, New York, NY 10013</string>
     <string name="hotel6_description_preview">Located in downtown Manhattan, this hotel is steps from Little Italy and 400 feet from the Grand Street Subway station... </string>
     <string name="hotel6_description">Located in downtown Manhattan, this hotel is steps from Little Italy and 400 feet from the Grand Street Subway station. It features guest rooms with flat-screen TVs and free Wi-Fi. Every room at the Best Western Bowery Hanbee Hotel provides coffee facilities. Each includes cable TV with in-room movies and a variety of international TV channels. A gym and a business center are available at the hotel. Bowery Hanbee Best Western Hotel also offers laundry facilities and a 24-hour front desk. Bowery Hanbee Hotel is within walking distance of the fabulous shopping of SoHo and the vibrant Chinatown area. Ground Zero is one mile away. </string>
     <string name="hotel6_images" translatable="false">None</string>
     <string name="hotel6_website_link" translatable="false">http://www.bw-boweryhanbeehotel.com/</string>
     <string name="hotel6_phone_number" translatable="false"> (212) 925-1177   </string>
 
-    <string name="hotel7_name" translatable="false">Hotel 91</string>
-    <string name="hotel7_address" translatable="false">91 E Broadway, New York, NY 10002</string>
+    <string name="hotel7_name">Hotel 91</string>
+    <string name="hotel7_address">91 E Broadway, New York, NY 10002</string>
     <string name="hotel7_description_preview"> In Manhattan’s Lower East Side, Hotel 91 is a 5-minute walk from Chinatown and the East Broadway subway station...</string>
     <string name="hotel7_description">In Manhattan’s Lower East Side, Hotel 91 is a 5-minute walk from Chinatown and the East Broadway subway station. It offers free wired internet and rooms with flat-screen cable TVs. Guest rooms include desks, hairdryers and alarm clock radios. A wakeup service is available. Hotel 91 offers a 24-hour front desk, ATM, and laundry facilities. Little Italy is a 10-minute walk from Hotel 91 while Ground Zero and South Street Seaport are 20 minutes away. Brooklyn Bridge and Wall Street are less than one mile away.
     </string>
@@ -71,88 +71,88 @@
     <string name="hotel7_website_link" translatable="false">http://www.hotel91.com/</string>
     <string name="hotel7_phone_number" translatable="false"> (212) 266-6800   </string>
 
-    <string name="hotel8_name" translatable="false">U.S. Pacific Hotel</string>
-    <string name="hotel8_address" translatable="false">276 Canal St, New York, NY 10013</string>
+    <string name="hotel8_name">U.S. Pacific Hotel</string>
+    <string name="hotel8_address">276 Canal St, New York, NY 10013</string>
     <string name="hotel8_description_preview">Located in the Bowery neighborhood in New York City, one mile from One World Trade Center, U.S. Pacific Hotel features... </string>
     <string name="hotel8_description">Located in the Bowery neighborhood in New York City, one mile from One World Trade Center, U.S. Pacific Hotel features air-conditioned rooms with free WiFi throughout the property. Each room is fitted with a flat-screen TV. Ground Zero is one mile from U.S. Pacific Hotel, and National September 11 Memorial &amp;amp; Museum is one mile away. LaGuardia Airport is 7 miles from the property. </string>
     <string name="hotel8_images" translatable="false">None</string>
     <string name="hotel8_website_link" translatable="false">http://sohogardenhotel.com/</string>
     <string name="hotel8_phone_number" translatable="false"> (212) 226-0300   </string>
 
-    <string name="hotel9_name" translatable="false">Tribeca blu</string>
-    <string name="hotel9_address" translatable="false">blu hotel, New York, NY 10013</string>
+    <string name="hotel9_name">Tribeca blu</string>
+    <string name="hotel9_address">blu hotel, New York, NY 10013</string>
     <string name="hotel9_description_preview"> Tribeca Blu sits on a busy downtown intersection of Canal Street and Broadway. The location does afford an urban feel with ... </string>
     <string name="hotel9_description">Tribeca Blu sits on a busy downtown intersection of Canal Street and Broadway. The location does afford an urban feel with close proximity (walking distance) to trendy neighborhoods like SoHo and Tribeca. If that\'s not enough choice for food and drink, Chinatown and Little Italy are easy to get to via foot. Guests can also walk a bit farther to get to One World Trade Center and the 9/11 memorial, as well as West, Greenwich, and East Villages.</string>
     <string name="hotel9_images" translatable="false">None</string>
     <string name="hotel9_website_link" translatable="false">http://tribecabluhotel.com/</string>
     <string name="hotel9_phone_number" translatable="false"> (212) 941-6106 </string>
     
-    <string name="hotel10_name" translatable="false">Sun Bright Hotel</string>
-    <string name="hotel10_address" translatable="false"> 140 Hester St, New York, NY 10013</string>
+    <string name="hotel10_name">Sun Bright Hotel</string>
+    <string name="hotel10_address"> 140 Hester St, New York, NY 10013</string>
     <string name="hotel10_description_preview">The Sun Bright hotel is in the center of Chinatown and one block from Grand Subway Station. The hotel offers</string>
     <string name="hotel10_description">The Sun Bright hotel is in the center of Chinatown and one block from Grand Subway Station. The hotel offers Wi-Fi and a 24-hour front desk.</string>
     <string name="hotel10_images" translatable="false">None</string>
     <string name="hotel10_website_link" translatable="false">http://sunbrighthotelnyc.com/</string>
     <string name="hotel10_phone_number" translatable="false"> (212) 226-7070   </string>
 
-    <string name="hotel11_name" translatable="false">Fairfield Inn &amp;amp; Suites by Marriott New York Manhattan/Downtown</string>
-    <string name="hotel11_address" translatable="false">95 Henry St, New York, NY 10002</string>
-    <string name="hotel11_description_preview"> Broasting brand-new, spacious rooms and suites, as well as a convenient location near the New York Stock Exchange, September 11 Memorial...</string>
+    <string name="hotel11_name">Fairfield Inn &amp;amp; Suites by Marriott New York Manhattan/Downtown</string>
+    <string name="hotel11_address">95 Henry St, New York, NY 10002</string>
+    <string name="hotel11_description_preview">Boasting brand-new, spacious rooms and suites, as well as a convenient location near the New York Stock Exchange, September 11 Memorial...</string>
     <string name="hotel11_description">Boasting brand-new, spacious rooms and suites, as well as a convenient location near the New York Stock Exchange, September 11 Memorial and One World Trade Center,  Fairfield Inn is the perfect place to explore Manhattan from.</string>
     <string name="hotel11_images" translatable="false">None</string>
     <string name="hotel11_website_link" translatable="false">http://www.marriott.com/hotels/travel/nycfm-fairfield-inn-and-suites-new-york-manhattan-downtown-east/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2</string>
     <string name="hotel11_phone_number" translatable="false"> (212) 227-0709   </string>
 
-    <string name="hotel12_name" translatable="false">Hotel Richland New York</string>
-    <string name="hotel12_address" translatable="false">5 Allen St, New York, NY 10002</string>
+    <string name="hotel12_name">Hotel Richland New York</string>
+    <string name="hotel12_address">5 Allen St, New York, NY 10002</string>
     <string name="hotel12_description_preview">Sleep easy in a comfortable room. You can stay entertained with the free Wi-Fi, DVD player, an iPod docking station, and a... </string>
     <string name="hotel12_description">Sleep easy in a comfortable room. You can stay entertained with the free Wi-Fi, DVD player, an iPod docking station, and a flat screen HDTV with over 200 premium channels. If you need to get some work done, take advantage of the work desk and lamp in your room. In the morning, make yourself one of the assorted coffees with the in-room coffee maker.</string>
     <string name="hotel12_images" translatable="false">None</string>
     <string name="hotel12_website_link" translatable="false">http://hotelrichlandnewyork.com/contact/</string>
     <string name="hotel12_phone_number" translatable="false"> (212) 219-1018   </string>
 
-    <string name="hotel13_name" translatable="false">New World Hotel</string>
-    <string name="hotel13_address" translatable="false">101 Bowery #2, New York, NY 10002</string>
+    <string name="hotel13_name">New World Hotel</string>
+    <string name="hotel13_address">101 Bowery #2, New York, NY 10002</string>
     <string name="hotel13_description_preview">Whether you\'re traveling for business or pleasure, New World Hotel offers a variety of room types to ensure comfort for your needs at low prices...     </string>
     <string name="hotel13_description">Whether you\'re traveling for business or pleasure, New World Hotel offers a variety of room types to ensure comfort for your needs at low prices. Located at the heart of Chinatown, on Bowery, between Hester St. and Grand Street. New World Hotel puts the treasures of Chinatown at your fingertips. Special foods, items, and shops can be found on Canal Street, Mott Street, and Grand Street. </string>
     <string name="hotel13_images" translatable="false">None</string>
     <string name="hotel13_website_link" translatable="false">http://worldhotelnyc.com/</string>
     <string name="hotel13_phone_number" translatable="false"> (212) 226-5522   </string>
 
-    <string name="hotel14_name" translatable="false">Canal Loft Hotel</string>
-    <string name="hotel14_address" translatable="false">94 Canal St, New York, NY 10002</string>
+    <string name="hotel14_name">Canal Loft Hotel</string>
+    <string name="hotel14_address">94 Canal St, New York, NY 10002</string>
     <string name="hotel14_description_preview"> Boasting a shared lounge, Canal Loft Hotel is situated in New York in the New York State region, an 11-minute walk from Bloomingdales...</string>
     <string name="hotel14_description">Boasting a shared lounge, Canal Loft Hotel is situated in New York in the New York State region, an 11-minute walk from Bloomingdales. Around 1.2 km from Brooklyn Bridge, the property is also 1.6 km away from Ground Zero and offers free WiFi. The property is a 20-minute walk from One World Trade Center.</string>
     <string name="hotel14_images" translatable="false">None</string>
     <string name="hotel14_website_link" translatable="false">http://canal-loft-us.book.direct/en-gb</string>
     <string name="hotel14_phone_number" translatable="false"> (646) 882-0428   </string>
 
-    <string name="hotel15_name" translatable="false">Windsor Hotel</string>
-    <string name="hotel15_address" translatable="false">108 Forsyth St, New York, NY 10002</string>
+    <string name="hotel15_name">Windsor Hotel</string>
+    <string name="hotel15_address">108 Forsyth St, New York, NY 10002</string>
     <string name="hotel15_description_preview"> Windsor Hotels offer affordable and spacious rooms, each adored with modern amenities and decor. Little Italy is conveniently located...    </string>
     <string name="hotel15_description"> Windsor Hotels offer affordable and spacious rooms, each adored with modern amenities and decor. Little Italy is conveniently located within Chinatown and only a few hundred feet away from the hotel. This is also located minutes away from Wall Street, the SOHO District, and the gateway to the Statue of Liberty. In addition, convenient subway stations lead you to the glitter of Times Square, the glamour of the Theatre District, the famous Central Park, shopping at 5th Avenue, the events of Madison Square Garden, and the spirit of the Rockefeller Center. </string>
     <string name="hotel15_images" translatable="false">None</string>
     <string name="hotel15_website_link" translatable="false">http://windsorhotelnyc.com/?src=%2Findex2.html</string>
     <string name="hotel15_phone_number" translatable="false"> (212) 226-3009  </string>
 
-    <string name="hotel16_name" translatable="false">Manhattan Bowery Lodge</string>
-    <string name="hotel16_address" translatable="false">81 Bowery, New York, NY 10002</string>
+    <string name="hotel16_name">Manhattan Bowery Lodge</string>
+    <string name="hotel16_address">81 Bowery, New York, NY 10002</string>
     <string name="hotel16_description_preview"> Manhattan Bowery Lodge is situated in New York, 400 metres from Little Italy and 1.3 km from Brooklyn Bridge...</string>
     <string name="hotel16_description">Manhattan Bowery Lodge is situated in New York, 400 metres from Little Italy and 1.3 km from Brooklyn Bridge.Manhattan Bowery Lodge features free WiFi and a 24-hour front desk. One World Trade Center is 1.5 km away, while Ground Zero is 1.6 km from the property. The nearest airport is LaGuardia Airport, 12 km from the property.</string>
     <string name="hotel16_images" translatable="false">None</string>
     <string name="hotel16_website_link" translatable="false">http://manhattanbowerylodgeny.us/</string>
     <string name="hotel16_phone_number" translatable="false"> (917) 353-5617 </string>
 
-    <string name="hotel17_name" translatable="false">Bowery Grand Hotel</string>
-    <string name="hotel17_address" translatable="false">143 Bowery, New York, NY 10002</string>
+    <string name="hotel17_name">Bowery Grand Hotel</string>
+    <string name="hotel17_address">143 Bowery, New York, NY 10002</string>
     <string name="hotel17_description_preview">Bowery Grand Hotel provides you with clean room and basic amenities and you decide for yourself where to spend the rest of cash that you saved on fancy hotel... </string>
     <string name="hotel17_description">Bowery Grand Hotel provides you with clean room and basic amenities and you decide for yourself where to spend the rest of cash that you saved on fancy hotel. Minutes away from Little Italy, downtown shopping and right around the corner from Williamsburg Bridge. The rest of NYC is at your disposal just few train stops away, two of which by the way we got so close to our hotel so you have to work harder on your mouse scroll to make them apart from us at Google Maps.</string>
     <string name="hotel17_images" translatable="false">None</string>
     <string name="hotel17_website_link" translatable="false">http://bowerygrandhotel.com/</string>
     <string name="hotel17_phone_number" translatable="false">  (212) 226-6655  </string>
 
-    <string name="hotel18_name" translatable="false">Comfort Inn Lower East Side</string>
-    <string name="hotel18_address" translatable="false">154 Madison St, New York, NY 10002</string>
+    <string name="hotel18_name">Comfort Inn Lower East Side</string>
+    <string name="hotel18_address">154 Madison St, New York, NY 10002</string>
     <string name="hotel18_description_preview"> The Comfort Inn Lower East Side is perfectly located in the heart of Manhattan and is one of the newly built hotels in the area...</string>
     <string name="hotel18_description">The Comfort Inn Lower East Side is perfectly located in the heart of Manhattan and is one of the newly built hotels in the area. The subway station is only a short block away, putting guests within walking distance from downtown, Wall Street and popular New York City hotspots like South Street Seaport, The World Trade Center, Little Italy and the Brooklyn Bridge Park and much more!</string>
     <string name="hotel18_images" translatable="false">None</string>
