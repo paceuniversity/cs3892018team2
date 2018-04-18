@@ -86,7 +86,7 @@
     <string name="hotel9_images" translatable="false">None</string>
     <string name="hotel9_website_link" translatable="false">http://tribecabluhotel.com/</string>
     <string name="hotel9_phone_number" translatable="false"> (212) 941-6106 </string>
-    
+
     <string name="hotel10_name">Sun Bright Hotel</string>
     <string name="hotel10_address"> 140 Hester St, New York, NY 10013</string>
     <string name="hotel10_description_preview">The Sun Bright hotel is in the center of Chinatown and one block from Grand Subway Station. The hotel offers</string>
