@@ -471,6 +471,7 @@
         Chinese dishes including soup dumplings.</string>
 
     <string name="restaurant2_name">Nom Wah Tea Parlor</string>
+    <string name="restaurant2_address">13 Doyers St, New York, NY 10013</string>
     <string name="restaurant2_menu" translatable="false">http://nomwah.com/chinatown</string>
     <string name="restaurant2_website" translatable="false">http://nomwah.com/chinatown</string>
     <string name="restaurant2_phone_number" translatable="false">(212) 962-6047</string>
@@ -612,6 +613,5 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
-    <string name="restaurant2_address">13 Doyers St, New York, NY 10013</string>
 
 </resources>
