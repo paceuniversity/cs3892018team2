@@ -165,4 +165,18 @@
     <string name="hotel17_description_preview">格兰德大酒店为您提供干净的房间和基本的设施, 您自己决定在哪里花其余的现金, 您保存在豪华酒店..。</string>
     <string name="hotel18_name">舒适客栈下东区</string>
     <string name="hotel18_address">154麦迪逊 St, 纽约, 纽约州10002</string>
+    <string name="hotel18_description_preview">下东区舒适客栈坐落在曼哈顿的中心地带, 是新建成的酒店之一.....。</string>
+    <string name="activity1_name">美国华人博物馆</string>
+    <string name="activity1_address">215中心街</string>
+    <string name="activity2_address">运河街133号</string>
+    <string name="activity3_address">莫特街37号</string>
+    <string name="activity4_name">运河街</string>
+    <string name="activity5_address">9道尔街</string>
+    <string name="activity6_address">桑树街66号</string>
+    <string name="activity7_address">莫特街62号</string>
+    <string name="activity8_address">运河街238号</string>
+    <string name="activity9_address">4 Cortlandt胡同</string>
+    <string name="activity10_address">59运河街</string>
+    <string name="activity11_address">莫特街48号</string>
+    <string name="activity13_address">莫特街29号</string>
 </resources>
