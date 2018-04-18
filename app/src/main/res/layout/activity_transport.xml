@@ -12,6 +12,7 @@
         android:layout_height="70dp"
         layout="@layout/custom_main_menu_header" />
 
+
     <FrameLayout
         android:id="@+id/fragment_container"
         android:layout_width="match_parent"

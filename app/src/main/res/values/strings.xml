@@ -601,4 +601,12 @@
     <string name="grand_street_trains" translatable="false">Trains: B, D</string>
     <string name="grand_street_description">During the week ends the B trains do not run. Only the D trains stop at this station.</string>
 
+    <string name="m14a_bus">M14A Bus Route</string>
+    <string name="m14a_bus_description">If you are in West Village, Flatiron District, Gramacy Park or East Vilage you can take the M14A bus that will take you into the Lower East Side into Chinatown.</string>
+    
+    <string name="m21_bus">M21 Bus Route</string>
+    <string name="m21_bus_description">Depending on where you are from Hudson Square to the Lower East Side, you can take the M21 bus to get across Manhattan.</string>
+
+    <string name="m15_bus">M15 Bus Route</string>
+    <string name="m15_bus_description">You can take the M15 bus almost from anywhere in Manhattan. If you are in the west side of Manhattan you will have to walk east. This bus goes from Harlem to lower Manhattan. </string>
 </resources>
