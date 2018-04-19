@@ -86,7 +86,7 @@
     <string name="hotel9_images" translatable="false">None</string>
     <string name="hotel9_website_link" translatable="false">http://tribecabluhotel.com/</string>
     <string name="hotel9_phone_number" translatable="false"> (212) 941-6106 </string>
-    
+
     <string name="hotel10_name">Sun Bright Hotel</string>
     <string name="hotel10_address"> 140 Hester St, New York, NY 10013</string>
     <string name="hotel10_description_preview">The Sun Bright hotel is in the center of Chinatown and one block from Grand Subway Station. The hotel offers</string>
@@ -589,29 +589,24 @@
     <string name="train_notice">During weekends, trains may be subjected to change due to construction.</string>
     <!-- <string name="mta_weekender"><a href="http://web.mta.info/weekender.html">Check the MTA Weekender</a></string> -->
 
-    <string name="canal_street_station">Canal Street</string>
-    <string name="canal_street_trains" translatable="false">N, Q, R, W, J, Z, M, 4, 6</string>
-    <string name="canal_street_description">There are multiple way to get to the Canal Street subway station. It is a very large station that consists of many trains including the N, Q, R, W, J, Z, M, 4, and 6 train.</string>
+    <string name="canal_street_station">Canal Street Station</string>
+    <string name="canal_street_trains" translatable="false">Trains: N, Q, R, W, J, Z, M, 4, 6</string>
+    <string name="canal_street_description">There are multiple way to get to the Canal Street subway station. It is a very large station that consists of many trains.</string>
 
-    <string name="east_broadway_station">East Broadway</string>
-    <string name="east_broadway_trains" translatable="false">F</string>
+    <string name="east_broadway_station">East Broadway Station</string>
+    <string name="east_broadway_trains" translatable="false">Train: F</string>
     <string name="east_broadway_description">The only train that runs to East Broadway is the F train.</string>
 
-    <string name="grand_street_station">Grand Street</string>
-    <string name="grand_street_trains" translatable="false">B, D</string>
+    <string name="grand_street_station">Grand Street Station</string>
+    <string name="grand_street_trains" translatable="false">Trains: B, D</string>
     <string name="grand_street_description">During the week ends the B trains do not run. Only the D trains stop at this station.</string>
 
-    <string name="title_activity_transport_tabs">TransportTabsActivity</string>
-    <string name="action_settings">Settings</string>
-    <string name="section_format">Hello World from section: %1$d</string>
-    <string name="title_activity_transportation">TransportationActivity</string>
-    <string name="title_activity_transport">TransportActivity</string>
-    <string name="tab_text_1">Tab 1</string>
-    <string name="tab_text_2">Tab 2</string>
-    <string name="tab_text_3">Tab 3</string>
-    <string name="title_activity_trains_transport">TrainsTransportActivity</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="m14a_bus">M14A Bus Route</string>
+    <string name="m14a_bus_description">If you are in West Village, Flatiron District, Gramacy Park or East Vilage you can take the M14A bus that will take you into the Lower East Side into Chinatown.</string>
+    
+    <string name="m21_bus">M21 Bus Route</string>
+    <string name="m21_bus_description">Depending on where you are from Hudson Square to the Lower East Side, you can take the M21 bus to get across Manhattan.</string>
 
+    <string name="m15_bus">M15 Bus Route</string>
+    <string name="m15_bus_description">You can take the M15 bus almost from anywhere in Manhattan. If you are in the west side of Manhattan you will have to walk east. This bus goes from Harlem to lower Manhattan. </string>
 </resources>

@@ -2,32 +2,31 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/container"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="ahmed.niaz.chinatown_tour.TransportActivity">
 
     <include
-        android:id="@+id/include2"
-        layout="@layout/custom_main_menu_header"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        android:id="@+id/include"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        layout="@layout/custom_main_menu_header" />
 
-    <android.support.constraint.ConstraintLayout
-        android:id="@+id/fragment_containers"
+
+    <FrameLayout
+        android:id="@+id/fragment_container"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_above="@id/transport_bottom_navigation">
-
-    </android.support.constraint.ConstraintLayout>
-
+        android:layout_above="@+id/bottom_navigation"
+        android:layout_below="@id/include">
+    </FrameLayout>
+    
     <android.support.design.widget.BottomNavigationView
-        android:id="@+id/transport_bottom_navigation"
+        android:id="@+id/bottom_navigation"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        app:menu="@menu/navigation"/>
-
+        app:menu="@menu/transport_bottom_navigation_bar"
+        android:background="?android:attr/windowBackground"/>
 
 </RelativeLayout>
