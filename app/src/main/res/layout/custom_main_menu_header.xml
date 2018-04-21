@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?>
 
 <RelativeLayout
@@ -32,38 +31,3 @@
 
 
 </RelativeLayout>
-=======
-<?xml version="1.0" encoding="utf-8"?>
-
-<RelativeLayout
-
-    xmlns:android="http://schemas.android.com/apk/res/android"
-
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/main_toolbar"
-    android:layout_width="100dp"
-    android:layout_height="100dp"
-    android:background="@null">
-
-
-    <ImageView
-        android:id="@+id/appIcon"
-        android:layout_width="70dp"
-        android:layout_height="50dp"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentTop="true"
-        app:srcCompat="@drawable/chinatown_icon" />
-
-    <ImageButton
-        android:id="@+id/setting_image_button"
-        android:layout_width="40dp"
-        android:layout_height="40dp"
-        android:layout_alignParentStart="true"
-        android:layout_below="@+id/appIcon"
-        android:background="@null"
-        android:src="@drawable/settings_gear" />
-
-
-</RelativeLayout>
->>>>>>> 3dececda19d789fa2410e7e67b6b1cc42638178a
