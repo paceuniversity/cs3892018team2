@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="ahmed.niaz.chinatown_tour.SettingsActivity">
+
+    <include
+        android:id="@+id/include2"
+        layout="@layout/custom_main_menu_header"
+        app:layout_constraintBottom_toTopOf="@+id/transport_landing_pg"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/allow_location_textView"
+        android:layout_width="200dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:gravity="center_vertical|left"
+        android:text="@string/allow_location_textview"
+        android:textAppearance="@style/TextAppearance.AppCompat"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/include2" />
+
+    <Switch
+        android:id="@+id/allow_location_on_off_switch"
+        android:layout_width="0dp"
+        android:layout_height="45dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:switchTextAppearance="@style/TextAppearance.AppCompat"
+        android:textAppearance="@style/TextAppearance.AppCompat.Button"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="@+id/allow_location_textView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/allow_location_textView" />
+
+    <EditText
+        android:id="@+id/email_editText"
+        android:layout_width="0dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="8dp"
+        android:background="@null"
+        android:ems="10"
+        android:hint="@string/email_editText_hint"
+        android:inputType="textEmailAddress"
+        android:textAppearance="@style/TextAppearance.AppCompat"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="@+id/feedback_textView"
+        app:layout_constraintStart_toStartOf="@+id/feedback_textView"
+        app:layout_constraintTop_toBottomOf="@+id/feedback_textView" />
+
+    <Spinner
+        android:id="@+id/language_spinner"
+        android:layout_width="0dp"
+        android:layout_height="45dp"
+        android:entries="@array/language"
+        app:layout_constraintEnd_toEndOf="@+id/language_change_textView"
+        app:layout_constraintStart_toStartOf="@+id/language_change_textView"
+        app:layout_constraintTop_toBottomOf="@+id/language_change_textView" />
+
+    <TextView
+        android:id="@+id/language_change_textView"
+        android:layout_width="0dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="8dp"
+        android:gravity="center_vertical|left"
+        android:text="@string/language_change_textview"
+        android:textAppearance="@style/TextAppearance.AppCompat"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="@+id/allow_location_on_off_switch"
+        app:layout_constraintStart_toStartOf="@+id/allow_location_textView"
+        app:layout_constraintTop_toBottomOf="@+id/allow_location_textView" />
+
+    <Button
+        android:id="@+id/submit_feedback_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:text="@string/submit_feedback_button"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/feedback_editText"
+        app:layout_constraintStart_toStartOf="@+id/feedback_editText" />
+
+    <TextView
+        android:id="@+id/feedback_textView"
+        android:layout_width="0dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="16dp"
+        android:gravity="center_horizontal|center_vertical"
+        android:text="@string/feedback_textview"
+        android:textAlignment="center"
+        android:textAppearance="@style/TextAppearance.AppCompat"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="@+id/language_spinner"
+        app:layout_constraintStart_toStartOf="@+id/language_spinner"
+        app:layout_constraintTop_toBottomOf="@+id/language_spinner" />
+
+    <EditText
+        android:id="@+id/feedback_editText"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@null"
+        android:ems="10"
+        android:gravity="top"
+        android:hint="@string/feedback_edittext"
+        app:layout_constraintBottom_toTopOf="@+id/submit_feedback_button"
+        app:layout_constraintEnd_toEndOf="@+id/feedback_textView"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/feedback_textView"
+        app:layout_constraintTop_toBottomOf="@+id/email_editText"
+        app:layout_constraintVertical_bias="1.0" />
+
+
+</android.support.constraint.ConstraintLayout>

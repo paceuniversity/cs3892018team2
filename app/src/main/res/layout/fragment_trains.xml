@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/canal_street_station_image"
+            android:layout_width="168dp"
+            android:layout_height="163dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/canal_street_station" />
+
+        <TextView
+            android:id="@+id/canal_street_station_description_textView"
+            android:layout_width="188dp"
+            android:layout_height="89dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:inputType="textMultiLine"
+            android:text="@string/canal_street_description"
+            android:textAlignment="textStart"
+            android:textAppearance="@style/TextAppearance.AppCompat"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.272"
+            app:layout_constraintStart_toEndOf="@+id/canal_street_station_image"
+            app:layout_constraintTop_toBottomOf="@+id/canal_street_station_trains_textView" />
+
+        <TextView
+            android:id="@+id/canal_street_station_trains_textView"
+            android:layout_width="188dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:text="@string/canal_street_trains"
+            android:textAlignment="textStart"
+            android:textAppearance="@style/TextAppearance.AppCompat"
+            android:textSize="14sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/canal_street_station_image"
+            app:layout_constraintTop_toBottomOf="@+id/canal_street_station_textView" />
+
+        <TextView
+            android:id="@+id/canal_street_station_textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:text="@string/canal_street_station"
+            android:textAlignment="textStart"
+            android:textAppearance="@style/TextAppearance.AppCompat"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/canal_street_station_image"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/east_broadway_station_image"
+            android:layout_width="190dp"
+            android:layout_height="132dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginTop="16dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/canal_street_station_image"
+            app:srcCompat="@drawable/east_broadway_station" />
+
+        <TextView
+            android:id="@+id/east_broadway_station_textView"
+            android:layout_width="171dp"
+            android:layout_height="45dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="16dp"
+            android:text="@string/east_broadway_station"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toStartOf="@+id/east_broadway_station_image"
+            app:layout_constraintHorizontal_bias="0.8"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/canal_street_station_image" />
+
+        <TextView
+            android:id="@+id/east_broadway_station_trains_textView"
+            android:layout_width="76dp"
+            android:layout_height="22dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:text="@string/east_broadway_trains"
+            android:textAppearance="@style/TextAppearance.AppCompat"
+            app:layout_constraintEnd_toStartOf="@+id/east_broadway_station_image"
+            app:layout_constraintHorizontal_bias="0.507"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/east_broadway_station_textView" />
+
+        <TextView
+            android:id="@+id/east_broadway_station_description_textView"
+            android:layout_width="147dp"
+            android:layout_height="53dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:inputType="textMultiLine"
+            android:text="@string/east_broadway_description"
+            android:textAppearance="@style/TextAppearance.AppCompat"
+            app:layout_constraintEnd_toStartOf="@+id/east_broadway_station_image"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/east_broadway_station_trains_textView" />
+
+        <ImageView
+            android:id="@+id/grand_street_station_image"
+            android:layout_width="185dp"
+            android:layout_height="131dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="16dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/east_broadway_station_description_textView"
+            app:srcCompat="@drawable/grand_street_station" />
+
+        <TextView
+            android:id="@+id/grand_street_station_textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="16dp"
+            android:text="@string/grand_street_station"
+            android:textAppearance="@style/TextAppearance.AppCompat"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/grand_street_station_image"
+            app:layout_constraintTop_toBottomOf="@+id/east_broadway_station_description_textView" />
+
+        <TextView
+            android:id="@+id/grand_street_station_trains_textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:text="@string/grand_street_trains"
+            android:textAppearance="@style/TextAppearance.AppCompat"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/grand_street_station_image"
+            app:layout_constraintTop_toBottomOf="@+id/grand_street_station_textView" />
+
+        <TextView
+            android:id="@+id/grand_street_station_description"
+            android:layout_width="171dp"
+            android:layout_height="70dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:text="@string/grand_street_description"
+            android:textAppearance="@style/TextAppearance.AppCompat"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/grand_street_station_image"
+            app:layout_constraintTop_toBottomOf="@+id/grand_street_station_trains_textView" />
+
+    </android.support.constraint.ConstraintLayout>
+
+
+</ScrollView>

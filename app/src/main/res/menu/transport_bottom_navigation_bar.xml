@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_trains"
+        android:icon="@drawable/train_tab_icon"
+        android:title="Trains"></item>
+
+    <item
+        android:id="@+id/nav_busses"
+        android:icon="@drawable/bus_tab_icon"
+        android:title="Busses"></item>
+
+</menu>
