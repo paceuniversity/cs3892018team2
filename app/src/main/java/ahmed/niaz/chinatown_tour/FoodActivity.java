@@ -27,7 +27,7 @@ public class FoodActivity extends AppCompatActivity {
 
         app_logo = (ImageView) findViewById(R.id.appIcon);
 
-        // Main Menu Link
+        // === Main Menu Link ===
 
         app_logo.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -38,7 +38,7 @@ public class FoodActivity extends AppCompatActivity {
         });
 
 
-        // Settings Icon Link
+        // === Settings Icon Link ===
 
         settings_btn = (ImageButton) findViewById(R.id.setting_image_button);
         settings_btn.setOnClickListener(new View.OnClickListener() {
@@ -49,7 +49,7 @@ public class FoodActivity extends AppCompatActivity {
             }
         });
 
-        //calling getRestaurants
+        // === Calling getRestaurants ===
         getRestaurants();
 
     }

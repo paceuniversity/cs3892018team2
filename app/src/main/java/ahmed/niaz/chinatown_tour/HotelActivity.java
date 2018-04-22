@@ -311,6 +311,7 @@ public class HotelActivity extends AppCompatActivity {
                             img_switcher.setImageDrawable(getResources().getDrawable(img_two));
                             img_num = 2;
 
+
                             navdot2.setImageDrawable(getResources().getDrawable(R.drawable.active_circle));
                             navdot1.setImageDrawable(getResources().getDrawable(R.drawable.non_active_circle));
 
@@ -323,6 +324,8 @@ public class HotelActivity extends AppCompatActivity {
                             navdot2.setImageDrawable(getResources().getDrawable(R.drawable.non_active_circle));
                         }
                     }
+
+                    // === ON SWIPE LISTENER ===
 
                     public void onSwipeRight(){
                         if (img_num == 3){
@@ -346,7 +349,6 @@ public class HotelActivity extends AppCompatActivity {
                 });
             }
         });
-
 
         // === SETTINGS ICON LINK ===
 

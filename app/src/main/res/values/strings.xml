@@ -609,4 +609,5 @@
 
     <string name="m15_bus">M15 Bus Route</string>
     <string name="m15_bus_description">You can take the M15 bus almost from anywhere in Manhattan. If you are in the west side of Manhattan you will have to walk east. This bus goes from Harlem to lower Manhattan. </string>
-</resources>
+
+    </resources>
