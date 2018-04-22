@@ -180,7 +180,7 @@
         <item>@string/hotel18_name </item>
     </string-array>
 
-    <string-array name="hotel_descriptions">
+    <string-array name="hotel_descriptions_preview">
         <item>@string/hotel1_description_preview  </item>
         <item>@string/hotel2_description_preview  </item>
         <item>@string/hotel3_description_preview  </item>

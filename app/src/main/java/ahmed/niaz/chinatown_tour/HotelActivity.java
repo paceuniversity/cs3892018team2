@@ -17,203 +17,187 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.ViewSwitcher;
 
+import org.w3c.dom.Text;
+
 public class HotelActivity extends AppCompatActivity {
 
-    /* Hotel Landing Page Variables */
+    // === LANDING PAGE WIDGETS ===
 
     private ImageView app_logo;
     private ListView listView;
     private ImageButton settings_btn;
     private ImageSwitcher img_switcher;
 
-    /* Specific Page Variables */
+    // === SPECIFIC PAGE VARIABLES ===
 
-    private int page;
+    private int name;
     private int img_one;
     private int img_two;
     private int img_three;
     private int description;
-    private int name;
     private int img_num;
+
+    // === SPECIFIC PAGE WIDGETS ===
 
     private ImageView navdot1;
     private ImageView navdot2;
     private ImageView navdot3;
     private TextView spec_name;
+    private TextView spec_description;
+
+
+    // === SWITCH DEPENDING ON ITEM CLICKED ===
 
     public void createHotelData(int x){
         switch (x) {
             case 1:
-                page = R.string.hotel1_name;
+                name = R.string.hotel1_name;
                 img_one = R.drawable.hotel1_image1;
                 img_two = R.drawable.hotel1_image2;
                 img_three = R.drawable.hotel1_image3;
-                name = R.string.hotel1_name;
                 description = R.string.hotel1_description;
                 break;
 
             case 2:
-                page = R.string.hotel2_name;
+                name = R.string.hotel2_name;
                 img_one = R.drawable.hotel2_image3;
                 img_two = R.drawable.hotel2_image2;
                 img_three = R.drawable.hotel2_image1;
-                name = R.string.hotel1_name;
                 description = R.string.hotel2_description;
                 break;
 
-
             case 3:
-                page = R.string.hotel2_name;
+                name = R.string.hotel3_name;
                 img_one = R.drawable.hotel3_image1;
                 img_two = R.drawable.hotel3_image2;
                 img_three = R.drawable.hotel3_image3;
-                name = R.string.hotel1_name;
                 description = R.string.hotel3_description;
                 break;
 
-
             case 4:
-                page = R.string.hotel2_name;
+                name = R.string.hotel4_name;
                 img_one = R.drawable.hotel4_image1;
                 img_two = R.drawable.hotel4_image2;
                 img_three = R.drawable.hotel4_image3;
-                name = R.string.hotel1_name;
                 description = R.string.hotel4_description;
                 break;
 
-
             case 5:
-                page = R.string.hotel2_name;
+                name = R.string.hotel5_name;
                 img_one = R.drawable.hotel5_image1;
                 img_two = R.drawable.hotel5_image2;
                 img_three = R.drawable.hotel5_image3;
-                name = R.string.hotel1_name;
                 description = R.string.hotel5_description;
                 break;
 
-
             case 6:
-                page = R.string.hotel6_name;
+                name = R.string.hotel6_name;
                 img_one = R.drawable.hotel6_image1;
                 img_two = R.drawable.hotel6_image2;
                 img_three = R.drawable.hotel6_image3;
-                name = R.string.hotel1_name;
                 description = R.string.hotel6_description;
                 break;
 
-
             case 7:
-                page = R.string.hotel2_name;
+                name = R.string.hotel3_name;
                 img_one = R.drawable.hotel7_image1;
                 img_two = R.drawable.hotel7_image2;
                 img_three = R.drawable.hotel7_image3;
-                name = R.string.hotel1_name;
                 description = R.string.hotel7_description;
                 break;
 
-
             case 8:
-                page = R.string.hotel2_name;
+                name = R.string.hotel8_name;
                 img_one = R.drawable.hotel8_image1;
                 img_two = R.drawable.hotel8_image2;
                 img_three = R.drawable.hotel8_image3;
-                name = R.string.hotel1_name;
                 description = R.string.hotel8_description;
                 break;
 
             case 9:
-                page = R.string.hotel2_name;
+                name = R.string.hotel9_name;
                 img_one = R.drawable.hotel9_image1;
                 img_two = R.drawable.hotel9_image2;
                 img_three = R.drawable.hotel9_image3;
-                name = R.string.hotel1_name;
                 description = R.string.hotel9_description;
                 break;
 
             case 10:
-                page = R.string.hotel10_name;
+                name = R.string.hotel10_name;
                 img_one = R.drawable.hotel10_image1;
                 img_two = R.drawable.hotel10_image2;
                 img_three = R.drawable.hotel10_image3;
-                name = R.string.hotel1_name;
                 description = R.string.hotel10_description;
                 break;
 
             case 11:
-                page = R.string.hotel2_name;
-                img_one = R.drawable.hotel11_image1;
-                img_two = R.drawable.hotel11_image2;
-                img_three = R.drawable.hotel11_image3;
-                name = R.string.hotel1_name;
-                description = R.string.hotel11_description;
+                name = R.string.hotel11_name;
+                img_one = R.drawable.hotel1_image1;
+                img_two = R.drawable.hotel1_image2;
+                img_three = R.drawable.hotel1_image3;
+                description = R.string.hotel1_description;
                 break;
 
             case 12:
-                page = R.string.hotel2_name;
+                name = R.string.hotel12_name;
                 img_one = R.drawable.hotel12_image1;
                 img_two = R.drawable.hotel12_image2;
                 img_three = R.drawable.hotel12_image3;
-                name = R.string.hotel1_name;
                 description = R.string.hotel12_description;
                 break;
 
             case 13:
-                page = R.string.hotel2_name;
+                name = R.string.hotel3_name;
                 img_one = R.drawable.hotel13_image1;
                 img_two = R.drawable.hotel13_image2;
                 img_three = R.drawable.hotel13_image3;
-                name = R.string.hotel1_name;
                 description = R.string.hotel13_description;
                 break;
 
             case 14:
-                page = R.string.hotel2_name;
+                name = R.string.hotel3_name;
                 img_one = R.drawable.hotel14_image1;
                 img_two = R.drawable.hotel14_image2;
                 img_three = R.drawable.hotel14_image3;
-                name = R.string.hotel1_name;
                 description = R.string.hotel14_description;
                 break;
 
             case 15:
-                page = R.string.hotel2_name;
+                name = R.string.hotel15_name;
                 img_one = R.drawable.hotel15_image1;
                 img_two = R.drawable.hotel15_image2;
                 img_three = R.drawable.hotel15_image3;
-                name = R.string.hotel1_name;
                 description = R.string.hotel15_description;
                 break;
 
             case 16:
-                page = R.string.hotel2_name;
+                name = R.string.hotel16_name;
                 img_one = R.drawable.hotel16_image1;
                 img_two = R.drawable.hotel16_image2;
                 img_three = R.drawable.hotel16_image3;
-                name = R.string.hotel1_name;
                 description = R.string.hotel16_description;
                 break;
 
             case 17:
-                page = R.string.hotel2_name;
+                name = R.string.hotel17_name;
                 img_one = R.drawable.hotel17_image1;
                 img_two = R.drawable.hotel17_image2;
                 img_three = R.drawable.hotel17_image3;
-                name = R.string.hotel1_name;
                 description = R.string.hotel17_description;
                 break;
 
             case 18:
-                page = R.string.hotel2_name;
+                name = R.string.hotel18_name;
                 img_one = R.drawable.hotel18_image1;
                 img_two = R.drawable.hotel18_image2;
                 img_three = R.drawable.hotel18_image3;
-                name = R.string.hotel1_name;
                 description = R.string.hotel18_description;
                 break;
-        }
 
-        Log.i("INFO", " " + img_two + " ");
+        }
     }
+
+    // === ON CREATE ===
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -221,7 +205,7 @@ public class HotelActivity extends AppCompatActivity {
         setContentView(R.layout.hotel_landing);
 
 
-        // Main Menu Link
+        // === Main Menu Link ===
 
         app_logo = (ImageView) findViewById(R.id.appIcon);
         app_logo.setOnClickListener(new View.OnClickListener() {
@@ -233,7 +217,7 @@ public class HotelActivity extends AppCompatActivity {
         });
 
 
-        // List Variable Creations
+        // === LIST PARAMETER CREATION ===
 
         Integer[] imageArray = {
                 R.drawable.hotel1_image1,
@@ -257,17 +241,17 @@ public class HotelActivity extends AppCompatActivity {
         };
 
         String[] names = getResources().getStringArray(R.array.hotel_names);
-        String[] descriptions = getResources().getStringArray(R.array.hotel_descriptions);
+        String[] descriptions = getResources().getStringArray(R.array.hotel_descriptions_preview);
 
 
-        // List Creation
+        // === LIST CREATION ===
 
         CustomListAdapter whatever = new CustomListAdapter(this, names, descriptions, imageArray);
         listView = (ListView) findViewById(R.id.listViewID);
         listView.setAdapter(whatever);
 
 
-        // Add Event Listener to Every View
+        // === ADD EVENT LISTENER TO EVERY VIEW ===
 
         listView.setOnItemClickListener(new OnItemClickListener() {
             @SuppressLint("ClickableViewAccessibility")
@@ -276,10 +260,12 @@ public class HotelActivity extends AppCompatActivity {
                 createHotelData(position+1);
                 setContentView(R.layout.specific_hotel_content);
 
+                // === ASSIGN INFO TO SPECIFIC PAGE WIDGETS ===
+
                 img_switcher = (ImageSwitcher) findViewById(R.id.img_switcher);
                 app_logo = (ImageView) findViewById(R.id.appIcon);
                 spec_name = (TextView) findViewById(R.id.spec_hotel_name);
-
+                spec_description = (TextView) findViewById(R.id.spec_hotel_description);
 
                 app_logo.setOnClickListener(new View.OnClickListener() {
                     @Override
@@ -301,12 +287,20 @@ public class HotelActivity extends AppCompatActivity {
                     }
                 });
 
-                img_switcher.setImageDrawable(getResources().getDrawable(img_one));
-                img_num = 1;
+                // === ASSIGN PAGE VARIABLES TO WIDGETS ===
 
-                navdot1 = (ImageView) findViewById(R.id.navDot1);
-                navdot2 = (ImageView) findViewById(R.id.navDot2);
-                navdot3 = (ImageView) findViewById(R.id.navDot3);
+                     spec_name.setText(name);
+                     spec_description.setText(description);
+                     img_switcher.setImageDrawable(getResources().getDrawable(img_one));
+
+                     // === IMG WHEEL ITERATION VARIABLE ===
+                     img_num = 1;
+
+                      // === IMAGE SCROLL DOTS ===
+
+                     navdot1 = (ImageView) findViewById(R.id.navDot1);
+                     navdot2 = (ImageView) findViewById(R.id.navDot2);
+                     navdot3 = (ImageView) findViewById(R.id.navDot3);
 
                 // === ON SWIPE LISTENER ===
 
@@ -354,7 +348,7 @@ public class HotelActivity extends AppCompatActivity {
         });
 
 
-        // Settings Icon Link
+        // === SETTINGS ICON LINK ===
 
         settings_btn = (ImageButton) findViewById(R.id.setting_image_button);
         settings_btn.setOnClickListener(new View.OnClickListener() {
@@ -364,7 +358,6 @@ public class HotelActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
-
     }
 }
 
