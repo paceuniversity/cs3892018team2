@@ -15,7 +15,7 @@ import java.util.ArrayList;
 public class FoodActivity extends AppCompatActivity {
 
     //Instance Variables
-    private ArrayList<String> restaurantNames = new ArrayList<>();
+    private ArrayList<Integer> restaurantNames = new ArrayList<>();
     private ArrayList<Integer> restaurantImages = new ArrayList<>();
     private ImageView app_logo;
     public ImageButton settings_btn;
@@ -59,19 +59,19 @@ public class FoodActivity extends AppCompatActivity {
     //Adding images and names into both ArrayLists
     private void getRestaurants(){
         restaurantImages.add(R.drawable.restaurant_1_front_image);
-        restaurantNames.add("Shanghai Asian Manor");
+        restaurantNames.add(R.string.restaurant1_name);
 
         restaurantImages.add(R.drawable.restaurant_2_front_image);
-        restaurantNames.add("Nom Wah Tea Parlor");
+        restaurantNames.add(R.string.restaurant2_name);
 
         restaurantImages.add(R.drawable.restaurant_3_front_image);
-        restaurantNames.add("Great NY Noodletown");
+        restaurantNames.add(R.string.restaurant3_name);
 
         restaurantImages.add(R.drawable.restaurant_4_front_image);
-        restaurantNames.add("Ping");
+        restaurantNames.add(R.string.restaurant4_name);
 
         restaurantImages.add(R.drawable.restaurant_5_front_image);
-        restaurantNames.add("Tasty Had-Pulled Noodles");
+        restaurantNames.add(R.string.restaurant5_name);
 
         initRecycleView();
     }
