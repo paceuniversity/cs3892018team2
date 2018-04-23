@@ -25,10 +25,10 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
 
     //Data Variables
     private ArrayList<String> restaurantNames = new ArrayList<>();
-    private ArrayList<String> restaurantImages = new ArrayList<>();
+    private ArrayList<Integer> restaurantImages = new ArrayList<>();
     private Context rContext;
 
-    public RecyclerViewAdapter(Context context, ArrayList<String> names, ArrayList<String> images){
+    public RecyclerViewAdapter(Context context, ArrayList<String> names, ArrayList<Integer> images){
         restaurantNames = names;
         restaurantImages = images;
         rContext = context;

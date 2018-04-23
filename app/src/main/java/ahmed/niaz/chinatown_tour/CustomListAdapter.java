@@ -14,13 +14,10 @@ public class CustomListAdapter extends ArrayAdapter {
     //to reference the Activity
     private final Activity context;
 
-    //to store the animal images
     private final Integer[] imageIDarray;
 
-    //to store the list of countries
     private final String[] nameArray;
 
-    //to store the list of countries
     private final String[] infoArray;
 
 
