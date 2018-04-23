@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ahmed.niaz.chinatown_tour">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".HotelActivity" />
+        <activity android:name=".ItineraryActivity" />
+        <activity android:name=".SettingsActivity" />
+        <activity android:name=".ActivitiesActivity" />
+        <activity
+            android:name=".TransportationActivity"
+            android:label="@string/title_activity_transportation"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".HistoryActivity" />
+        <activity android:name=".FoodActivity" />
+        <activity
+            android:name=".TransportTabsActivity"
+            android:label="@string/title_activity_transport_tabs"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".TransportActivity"
+            android:label="@string/title_activity_transport"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".CustomListAdapter" />
+    </application>
+
+</manifest>
