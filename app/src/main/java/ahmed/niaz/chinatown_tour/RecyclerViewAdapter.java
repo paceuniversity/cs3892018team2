@@ -24,11 +24,11 @@ import static android.content.ContentValues.TAG;
 public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapter.ViewHolder>{
 
     //Data Variables
-    private ArrayList<String> restaurantNames = new ArrayList<>();
+    private ArrayList<Integer> restaurantNames = new ArrayList<>();
     private ArrayList<Integer> restaurantImages = new ArrayList<>();
     private Context rContext;
 
-    public RecyclerViewAdapter(Context context, ArrayList<String> names, ArrayList<Integer> images){
+    public RecyclerViewAdapter(Context context, ArrayList<Integer> names, ArrayList<Integer> images){
         restaurantNames = names;
         restaurantImages = images;
         rContext = context;
