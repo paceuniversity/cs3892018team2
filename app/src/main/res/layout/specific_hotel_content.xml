@@ -72,17 +72,29 @@
                 android:id="@+id/navDot1"
                 android:layout_width="10dp"
                 android:layout_height="10dp"
+<<<<<<< HEAD
                 android:layout_marginStart="152dp"
                 app:layout_constraintStart_toStartOf="@+id/img_switcher"
                 app:layout_constraintTop_toTopOf="@+id/navDot2"
+=======
+                android:layout_marginStart="140dp"
+                android:layout_marginTop="300dp"
+                app:layout_constraintStart_toStartOf="@+id/img_switcher"
+                app:layout_constraintTop_toTopOf="@+id/img_switcher"
+>>>>>>> e270bda5bbad283101259eabb22fe8c25ea44430
                 app:srcCompat="@drawable/active_circle" />
 
             <ImageView
                 android:id="@+id/navDot2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+<<<<<<< HEAD
                 android:layout_marginStart="4dp"
                 android:layout_marginTop="308dp"
+=======
+                android:layout_marginStart="30dp"
+                android:layout_marginTop="310dp"
+>>>>>>> e270bda5bbad283101259eabb22fe8c25ea44430
                 app:layout_constraintLeft_toLeftOf="parent"
                 app:layout_constraintStart_toEndOf="@+id/navDot1"
                 app:layout_constraintTop_toBottomOf="@+id/spec_hotel_name"
@@ -92,9 +104,16 @@
                 android:id="@+id/navDot3"
                 android:layout_width="12dp"
                 android:layout_height="wrap_content"
+<<<<<<< HEAD
                 android:layout_marginStart="4dp"
                 app:layout_constraintStart_toEndOf="@+id/navDot2"
                 app:layout_constraintTop_toTopOf="@+id/navDot2"
+=======
+                android:layout_marginStart="28dp"
+                android:layout_marginTop="300dp"
+                app:layout_constraintStart_toEndOf="@+id/navDot2"
+                app:layout_constraintTop_toTopOf="@+id/img_switcher"
+>>>>>>> e270bda5bbad283101259eabb22fe8c25ea44430
                 app:srcCompat="@drawable/non_active_circle" />
 
             <TextView
@@ -112,26 +131,43 @@
                 android:id="@+id/button2"
                 android:layout_width="50dp"
                 android:layout_height="38dp"
+<<<<<<< HEAD
                 android:layout_marginStart="60dp"
                 android:background="@drawable/map_btn_img"
                 app:layout_constraintStart_toStartOf="parent"
+=======
+                android:layout_marginEnd="48dp"
+                android:background="@drawable/map_btn_img"
+                app:layout_constraintEnd_toStartOf="@+id/button3"
+>>>>>>> e270bda5bbad283101259eabb22fe8c25ea44430
                 app:layout_constraintTop_toTopOf="@+id/button3" />
 
             <Button
                 android:id="@+id/button3"
                 android:layout_width="52dp"
                 android:layout_height="38dp"
+<<<<<<< HEAD
                 android:layout_marginStart="30dp"
                 android:layout_marginTop="40dp"
                 android:background="@drawable/website_btn_img"
                 app:layout_constraintStart_toEndOf="@+id/button2"
+=======
+                android:layout_marginStart="12dp"
+                android:layout_marginTop="32dp"
+                android:background="@drawable/website_btn_img"
+                app:layout_constraintStart_toStartOf="@+id/navDot1"
+>>>>>>> e270bda5bbad283101259eabb22fe8c25ea44430
                 app:layout_constraintTop_toBottomOf="@+id/navDot2" />
 
             <Button
                 android:id="@+id/button4"
                 android:layout_width="43dp"
                 android:layout_height="41dp"
+<<<<<<< HEAD
                 android:layout_marginStart="30dp"
+=======
+                android:layout_marginStart="48dp"
+>>>>>>> e270bda5bbad283101259eabb22fe8c25ea44430
                 android:background="@drawable/phone_btn_img"
                 app:layout_constraintStart_toEndOf="@+id/button3"
                 app:layout_constraintTop_toTopOf="@+id/button3" />
