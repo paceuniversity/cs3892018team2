@@ -139,6 +139,7 @@
                 app:layout_constraintStart_toEndOf="@+id/hotel_web_icon"
                 app:layout_constraintTop_toTopOf="@+id/hotel_web_icon" />
 
+
         </android.support.constraint.ConstraintLayout>
     </ScrollView>
 
