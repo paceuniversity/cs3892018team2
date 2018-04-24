@@ -16,6 +16,7 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.ListView;
 import android.widget.TextView;
+import android.widget.Toast;
 import android.widget.ViewSwitcher;
 
 public class HotelActivity extends AppCompatActivity {
@@ -36,6 +37,7 @@ public class HotelActivity extends AppCompatActivity {
     private int description;
     private int img_num;
     private String url;
+    private String phone;
 
     // === SPECIFIC PAGE WIDGETS ===
 
@@ -60,6 +62,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_three = R.drawable.hotel1_image3;
                 description = R.string.hotel1_description;
                 url = getString(R.string.hotel1_website_link);
+                phone = getString(R.string.hotel1_phone_number);
                 break;
 
             case 2:
@@ -69,6 +72,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_three = R.drawable.hotel2_image1;
                 description = R.string.hotel2_description;
                 url = getString(R.string.hotel2_website_link);
+                phone = getString(R.string.hotel2_phone_number);
                 break;
 
             case 3:
@@ -78,6 +82,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_three = R.drawable.hotel3_image3;
                 description = R.string.hotel3_description;
                 url = getString(R.string.hotel3_website_link);
+                phone = getString(R.string.hotel3_phone_number);
                 break;
 
             case 4:
@@ -87,6 +92,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_three = R.drawable.hotel4_image3;
                 description = R.string.hotel4_description;
                 url = getString(R.string.hotel4_website_link);
+                phone = getString(R.string.hotel4_phone_number);
                 break;
 
             case 5:
@@ -96,6 +102,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_three = R.drawable.hotel5_image3;
                 description = R.string.hotel5_description;
                 url = getString(R.string.hotel5_website_link);
+                phone = getString(R.string.hotel5_phone_number);
                 break;
 
             case 6:
@@ -105,6 +112,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_three = R.drawable.hotel6_image3;
                 description = R.string.hotel6_description;
                 url = getString(R.string.hotel6_website_link);
+                phone = getString(R.string.hotel6_phone_number);
                 break;
 
             case 7:
@@ -114,6 +122,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_three = R.drawable.hotel7_image3;
                 description = R.string.hotel7_description;
                 url = getString(R.string.hotel7_website_link);
+                phone = getString(R.string.hotel7_phone_number);
                 break;
 
             case 8:
@@ -123,6 +132,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_three = R.drawable.hotel8_image3;
                 description = R.string.hotel8_description;
                 url = getString(R.string.hotel8_website_link);
+                phone = getString(R.string.hotel8_phone_number);
                 break;
 
             case 9:
@@ -132,6 +142,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_three = R.drawable.hotel9_image3;
                 description = R.string.hotel9_description;
                 url = getString(R.string.hotel9_website_link);
+                phone = getString(R.string.hotel9_phone_number);
                 break;
 
             case 10:
@@ -141,6 +152,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_three = R.drawable.hotel10_image3;
                 description = R.string.hotel10_description;
                 url = getString(R.string.hotel10_website_link);
+                phone = getString(R.string.hotel10_phone_number);
                 break;
 
             case 11:
@@ -150,6 +162,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_three = R.drawable.hotel1_image3;
                 description = R.string.hotel1_description;
                 url = getString(R.string.hotel11_website_link);
+                phone = getString(R.string.hotel11_phone_number);
                 break;
 
             case 12:
@@ -159,6 +172,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_three = R.drawable.hotel12_image3;
                 description = R.string.hotel12_description;
                 url = getString(R.string.hotel12_website_link);
+                phone = getString(R.string.hotel12_phone_number);
                 break;
 
             case 13:
@@ -168,6 +182,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_three = R.drawable.hotel13_image3;
                 description = R.string.hotel13_description;
                 url = getString(R.string.hotel13_website_link);
+                phone = getString(R.string.hotel13_phone_number);
                 break;
 
             case 14:
@@ -177,6 +192,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_three = R.drawable.hotel14_image3;
                 description = R.string.hotel14_description;
                 url = getString(R.string.hotel14_website_link);
+                phone = getString(R.string.hotel14_phone_number);
                 break;
 
             case 15:
@@ -186,6 +202,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_three = R.drawable.hotel15_image3;
                 description = R.string.hotel15_description;
                 url = getString(R.string.hotel15_website_link);
+                phone = getString(R.string.hotel15_phone_number);
                 break;
 
             case 16:
@@ -195,6 +212,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_three = R.drawable.hotel16_image3;
                 description = R.string.hotel16_description;
                 url = getString(R.string.hotel16_website_link);
+                phone = getString(R.string.hotel16_phone_number);
                 break;
 
             case 17:
@@ -204,6 +222,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_three = R.drawable.hotel17_image3;
                 description = R.string.hotel17_description;
                 url = getString(R.string.hotel17_website_link);
+                phone = getString(R.string.hotel17_phone_number);
                 break;
 
             case 18:
@@ -213,6 +232,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_three = R.drawable.hotel18_image3;
                 description = R.string.hotel18_description;
                 url = getString(R.string.hotel18_website_link);
+                phone = getString(R.string.hotel18_phone_number);
                 break;
 
         }
@@ -281,6 +301,17 @@ public class HotelActivity extends AppCompatActivity {
                 createHotelData(position+1);
                 setContentView(R.layout.specific_hotel_content);
 
+                // === MAIN MENU LINK ===
+
+                app_logo.setOnClickListener(new View.OnClickListener() {
+                    @Override
+                    public void onClick(View v) {
+                        Intent intent = new Intent(HotelActivity.this,MainActivity.class);
+                        startActivity(intent);
+                    }
+                });
+
+
                 // === ASSIGN INFO TO SPECIFIC PAGE WIDGETS ===
 
                 app_logo = (ImageView) findViewById(R.id.appIcon);
@@ -291,11 +322,11 @@ public class HotelActivity extends AppCompatActivity {
                 spec_description = (TextView) findViewById(R.id.spec_hotel_description);
 
 
-                // === MAP / WEB / PHONE ICONS ===
+                // === MAP / WEB / PHONE ICONS AND TOAST ===
                 map_btn = (Button) findViewById(R.id.hotel_map_icon);
                 web_btn = (Button) findViewById(R.id.hotel_web_icon);
                 phone_btn = (Button) findViewById(R.id.hotel_phone_icon);
-
+                final Toast phone_toast = Toast.makeText(getApplicationContext(), phone, Toast.LENGTH_SHORT);
 
                 web_btn.setOnClickListener(new View.OnClickListener() {
                     @Override
@@ -306,13 +337,13 @@ public class HotelActivity extends AppCompatActivity {
                     }
                 });
 
-                app_logo.setOnClickListener(new View.OnClickListener() {
+                phone_btn.setOnClickListener(new View.OnClickListener() {
                     @Override
-                    public void onClick(View v) {
-                        Intent intent = new Intent(HotelActivity.this,MainActivity.class);
-                        startActivity(intent);
+                    public void onClick(View view) {
+                        phone_toast.show();
                     }
                 });
+
 
                 // === ADD A VIEW TO THE IMG SWITCHER ===
 
