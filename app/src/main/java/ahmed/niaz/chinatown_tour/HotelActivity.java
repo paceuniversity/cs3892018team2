@@ -35,6 +35,7 @@ public class HotelActivity extends AppCompatActivity {
     private int img_three;
     private int description;
     private int img_num;
+    private String url;
 
     // === SPECIFIC PAGE WIDGETS ===
 
@@ -58,6 +59,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_two = R.drawable.hotel1_image2;
                 img_three = R.drawable.hotel1_image3;
                 description = R.string.hotel1_description;
+                url = getString(R.string.hotel1_website_link);
                 break;
 
             case 2:
@@ -66,6 +68,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_two = R.drawable.hotel2_image2;
                 img_three = R.drawable.hotel2_image1;
                 description = R.string.hotel2_description;
+                url = getString(R.string.hotel2_website_link);
                 break;
 
             case 3:
@@ -74,6 +77,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_two = R.drawable.hotel3_image2;
                 img_three = R.drawable.hotel3_image3;
                 description = R.string.hotel3_description;
+                url = getString(R.string.hotel3_website_link);
                 break;
 
             case 4:
@@ -82,6 +86,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_two = R.drawable.hotel4_image2;
                 img_three = R.drawable.hotel4_image3;
                 description = R.string.hotel4_description;
+                url = getString(R.string.hotel4_website_link);
                 break;
 
             case 5:
@@ -90,6 +95,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_two = R.drawable.hotel5_image2;
                 img_three = R.drawable.hotel5_image3;
                 description = R.string.hotel5_description;
+                url = getString(R.string.hotel5_website_link);
                 break;
 
             case 6:
@@ -98,6 +104,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_two = R.drawable.hotel6_image2;
                 img_three = R.drawable.hotel6_image3;
                 description = R.string.hotel6_description;
+                url = getString(R.string.hotel6_website_link);
                 break;
 
             case 7:
@@ -106,6 +113,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_two = R.drawable.hotel7_image2;
                 img_three = R.drawable.hotel7_image3;
                 description = R.string.hotel7_description;
+                url = getString(R.string.hotel7_website_link);
                 break;
 
             case 8:
@@ -114,6 +122,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_two = R.drawable.hotel8_image2;
                 img_three = R.drawable.hotel8_image3;
                 description = R.string.hotel8_description;
+                url = getString(R.string.hotel8_website_link);
                 break;
 
             case 9:
@@ -122,6 +131,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_two = R.drawable.hotel9_image2;
                 img_three = R.drawable.hotel9_image3;
                 description = R.string.hotel9_description;
+                url = getString(R.string.hotel9_website_link);
                 break;
 
             case 10:
@@ -130,6 +140,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_two = R.drawable.hotel10_image2;
                 img_three = R.drawable.hotel10_image3;
                 description = R.string.hotel10_description;
+                url = getString(R.string.hotel10_website_link);
                 break;
 
             case 11:
@@ -138,6 +149,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_two = R.drawable.hotel1_image2;
                 img_three = R.drawable.hotel1_image3;
                 description = R.string.hotel1_description;
+                url = getString(R.string.hotel11_website_link);
                 break;
 
             case 12:
@@ -146,6 +158,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_two = R.drawable.hotel12_image2;
                 img_three = R.drawable.hotel12_image3;
                 description = R.string.hotel12_description;
+                url = getString(R.string.hotel12_website_link);
                 break;
 
             case 13:
@@ -154,6 +167,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_two = R.drawable.hotel13_image2;
                 img_three = R.drawable.hotel13_image3;
                 description = R.string.hotel13_description;
+                url = getString(R.string.hotel13_website_link);
                 break;
 
             case 14:
@@ -162,6 +176,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_two = R.drawable.hotel14_image2;
                 img_three = R.drawable.hotel14_image3;
                 description = R.string.hotel14_description;
+                url = getString(R.string.hotel14_website_link);
                 break;
 
             case 15:
@@ -170,6 +185,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_two = R.drawable.hotel15_image2;
                 img_three = R.drawable.hotel15_image3;
                 description = R.string.hotel15_description;
+                url = getString(R.string.hotel15_website_link);
                 break;
 
             case 16:
@@ -178,6 +194,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_two = R.drawable.hotel16_image2;
                 img_three = R.drawable.hotel16_image3;
                 description = R.string.hotel16_description;
+                url = getString(R.string.hotel16_website_link);
                 break;
 
             case 17:
@@ -186,6 +203,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_two = R.drawable.hotel17_image2;
                 img_three = R.drawable.hotel17_image3;
                 description = R.string.hotel17_description;
+                url = getString(R.string.hotel17_website_link);
                 break;
 
             case 18:
@@ -194,6 +212,7 @@ public class HotelActivity extends AppCompatActivity {
                 img_two = R.drawable.hotel18_image2;
                 img_three = R.drawable.hotel18_image3;
                 description = R.string.hotel18_description;
+                url = getString(R.string.hotel18_website_link);
                 break;
 
         }
@@ -281,7 +300,7 @@ public class HotelActivity extends AppCompatActivity {
                 web_btn.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
-                        Uri uri = Uri.parse("http://www.google.com"); // missing 'http://' will cause crashed
+                        Uri uri = Uri.parse(url); // missing 'http://' will cause crashed
                         Intent intent = new Intent(Intent.ACTION_VIEW, uri);
                         startActivity(intent);
                     }
