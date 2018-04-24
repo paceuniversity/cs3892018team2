@@ -2,31 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
-<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/cs3892018team2.iml" filepath="$PROJECT_DIR$/cs3892018team2.iml" />
-=======
-<<<<<<< HEAD
-      <module fileurl="file://C:\Users\jason\cs3892018team2\Chinatown_Tour.iml" filepath="C:\Users\jason\cs3892018team2\Chinatown_Tour.iml" />
-      <module fileurl="file://C:\jason\cs3892018team2\Chinatown_Tour_Latest.iml" filepath="C:\jason\cs3892018team2\Chinatown_Tour_Latest.iml" />
-=======
-      <module fileurl="file://$PROJECT_DIR$/Chinatown_Tour.iml" filepath="$PROJECT_DIR$/Chinatown_Tour.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-<<<<<<< HEAD
-=======
-=======
-      <module fileurl="file://$PROJECT_DIR$/../../../jason/cs3892018team2/Chinatown_Tour_Latest.iml" filepath="$PROJECT_DIR$/../../../jason/cs3892018team2/Chinatown_Tour_Latest.iml" />
->>>>>>> 40c1ab199adcb607b79b50e4691c1a86eb9120bc
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cs3892018team2.iml" filepath="$PROJECT_DIR$/cs3892018team2.iml" />
->>>>>>> e270bda5bbad283101259eabb22fe8c25ea44430
->>>>>>> 67b6925588d7f1fb5a3a2fba41ce8292dc304971
->>>>>>> cc488f456de8cc113b2ed4fbbd33597313ed625a
-=======
-      <module fileurl="file://$PROJECT_DIR$/Chinatown_Tour.iml" filepath="$PROJECT_DIR$/Chinatown_Tour.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
->>>>>>> a06cab5affc5f946df4a06e23d3c1289f25ebb24
     </modules>
   </component>
 </project>
