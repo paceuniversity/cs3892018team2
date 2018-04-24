@@ -3,12 +3,13 @@ package ahmed.niaz.chinatown_tour;
 
 import android.annotation.SuppressLint;
 import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-import android.util.Log;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
+import android.widget.Button;
 import android.widget.ImageButton;
 import android.widget.ImageSwitcher;
 import android.widget.ImageView;
@@ -16,8 +17,6 @@ import android.widget.LinearLayout;
 import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.ViewSwitcher;
-
-import org.w3c.dom.Text;
 
 public class HotelActivity extends AppCompatActivity {
 
@@ -44,6 +43,9 @@ public class HotelActivity extends AppCompatActivity {
     private ImageView navdot3;
     private TextView spec_name;
     private TextView spec_description;
+    private Button map_btn;
+    private Button web_btn;
+    private Button phone_btn;
 
 
     // === SWITCH DEPENDING ON ITEM CLICKED ===
@@ -262,10 +264,28 @@ public class HotelActivity extends AppCompatActivity {
 
                 // === ASSIGN INFO TO SPECIFIC PAGE WIDGETS ===
 
-                img_switcher = (ImageSwitcher) findViewById(R.id.img_switcher);
                 app_logo = (ImageView) findViewById(R.id.appIcon);
+                img_switcher = (ImageSwitcher) findViewById(R.id.img_switcher);
+
+                // === NAME AND DESCRIPTION
                 spec_name = (TextView) findViewById(R.id.spec_hotel_name);
                 spec_description = (TextView) findViewById(R.id.spec_hotel_description);
+
+
+                // === MAP / WEB / PHONE ICONS ===
+                map_btn = (Button) findViewById(R.id.hotel_map_icon);
+                web_btn = (Button) findViewById(R.id.hotel_web_icon);
+                phone_btn = (Button) findViewById(R.id.hotel_phone_icon);
+
+
+                web_btn.setOnClickListener(new View.OnClickListener() {
+                    @Override
+                    public void onClick(View v) {
+                        Uri uri = Uri.parse("http://www.google.com"); // missing 'http://' will cause crashed
+                        Intent intent = new Intent(Intent.ACTION_VIEW, uri);
+                        startActivity(intent);
+                    }
+                });
 
                 app_logo.setOnClickListener(new View.OnClickListener() {
                     @Override
