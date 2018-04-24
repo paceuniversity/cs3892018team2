@@ -15,8 +15,15 @@ import java.util.ArrayList;
 public class FoodActivity extends AppCompatActivity {
 
     //Instance Variables
+    //Restaurant Variables
     private ArrayList<Integer> restaurantNames = new ArrayList<>();
     private ArrayList<Integer> restaurantImages = new ArrayList<>();
+
+    //Fast Food Variables
+    private ArrayList<Integer> fastFoodNames = new ArrayList<>();
+    private ArrayList<Integer> fastFoodImages = new ArrayList<>();
+
+    //App Logo and Settings Variables
     private ImageView app_logo;
     public ImageButton settings_btn;
 
@@ -51,12 +58,13 @@ public class FoodActivity extends AppCompatActivity {
             }
         });
 
-        // === Calling getRestaurants ===
+        // === Calling getRestaurants, getFastFood, and getSweets ===
         getRestaurants();
+        getFastFood();
 
     }
 
-    //Adding images and names into both ArrayLists
+    //Adding images and names into Restaurant ArrayList
     private void getRestaurants(){
         restaurantImages.add(R.drawable.restaurant_1_front_image);
         restaurantNames.add(R.string.restaurant1_name);
@@ -76,12 +84,44 @@ public class FoodActivity extends AppCompatActivity {
         initRecycleView();
     }
 
+    //Adding images and names into Fast Food ArrayList
+    private void getFastFood(){
+        fastFoodImages.add(R.drawable.fast_food_1_front_image);
+        fastFoodNames.add(R.string.fast_food1_name);
+
+        fastFoodImages.add(R.drawable.fast_food_2_front_image);
+        fastFoodNames.add(R.string.fast_food2_name);
+
+        fastFoodImages.add(R.drawable.fast_food_3_front_image);
+        fastFoodNames.add(R.string.fast_food3_name);
+
+        fastFoodImages.add(R.drawable.fast_food_4_front_image);
+        fastFoodNames.add(R.string.fast_food4_name);
+
+        fastFoodImages.add(R.drawable.fast_food_5_front_image);
+        fastFoodNames.add(R.string.fast_food5_name);
+
+        initFFRecycleView();
+    }
+
+    //These methods create the recycler view to be made so the string values get attached to them
+    //Restaurant Recycler Viewer
     private void initRecycleView(){
         LinearLayoutManager layoutManager = new LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, false);
         RecyclerView recyclerView = findViewById(R.id.recyclerview);
         recyclerView.setLayoutManager(layoutManager);
         RecyclerViewAdapter adapter = new RecyclerViewAdapter(this, restaurantNames, restaurantImages);
         recyclerView.setAdapter(adapter);
+    }
+
+    //Fast Food Recycler Viewer
+    private void initFFRecycleView(){
+        LinearLayoutManager layoutManager2 = new LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, false);
+        RecyclerView recyclerViewFF = findViewById(R.id.recyclerview2);
+        recyclerViewFF.setLayoutManager(layoutManager2);
+        RecyclerViewAdapter adapterFF = new RecyclerViewAdapter(this, fastFoodNames, fastFoodImages);
+        recyclerViewFF.setAdapter(adapterFF);
+
     }
 
 
