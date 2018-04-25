@@ -82,6 +82,7 @@
 
     <!-- Recycler View 3 Sweets -->
     <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerview3"
         android:layout_width="348dp"
         android:layout_height="125dp"
         android:layout_marginStart="16dp"
