@@ -38,6 +38,7 @@ public class HotelActivity extends AppCompatActivity {
     private int img_num;
     private String url;
     private String phone;
+    private String map_url;
 
     // === SPECIFIC PAGE WIDGETS ===
 
@@ -63,6 +64,7 @@ public class HotelActivity extends AppCompatActivity {
                 description = R.string.hotel1_description;
                 url = getString(R.string.hotel1_website_link);
                 phone = getString(R.string.hotel1_phone_number);
+                map_url = getString(R.string.hotel1_maplink);
                 break;
 
             case 2:
@@ -73,6 +75,7 @@ public class HotelActivity extends AppCompatActivity {
                 description = R.string.hotel2_description;
                 url = getString(R.string.hotel2_website_link);
                 phone = getString(R.string.hotel2_phone_number);
+                map_url = getString(R.string.hotel2_maplink);
                 break;
 
             case 3:
@@ -83,6 +86,7 @@ public class HotelActivity extends AppCompatActivity {
                 description = R.string.hotel3_description;
                 url = getString(R.string.hotel3_website_link);
                 phone = getString(R.string.hotel3_phone_number);
+                map_url = getString(R.string.hotel3_maplink);
                 break;
 
             case 4:
@@ -93,6 +97,7 @@ public class HotelActivity extends AppCompatActivity {
                 description = R.string.hotel4_description;
                 url = getString(R.string.hotel4_website_link);
                 phone = getString(R.string.hotel4_phone_number);
+                map_url = getString(R.string.hotel4_maplink);
                 break;
 
             case 5:
@@ -103,6 +108,7 @@ public class HotelActivity extends AppCompatActivity {
                 description = R.string.hotel5_description;
                 url = getString(R.string.hotel5_website_link);
                 phone = getString(R.string.hotel5_phone_number);
+                map_url = getString(R.string.hotel5_maplink);
                 break;
 
             case 6:
@@ -113,6 +119,7 @@ public class HotelActivity extends AppCompatActivity {
                 description = R.string.hotel6_description;
                 url = getString(R.string.hotel6_website_link);
                 phone = getString(R.string.hotel6_phone_number);
+                map_url = getString(R.string.hotel6_maplink);
                 break;
 
             case 7:
@@ -123,6 +130,7 @@ public class HotelActivity extends AppCompatActivity {
                 description = R.string.hotel7_description;
                 url = getString(R.string.hotel7_website_link);
                 phone = getString(R.string.hotel7_phone_number);
+                map_url = getString(R.string.hotel7_maplink);
                 break;
 
             case 8:
@@ -133,6 +141,7 @@ public class HotelActivity extends AppCompatActivity {
                 description = R.string.hotel8_description;
                 url = getString(R.string.hotel8_website_link);
                 phone = getString(R.string.hotel8_phone_number);
+                map_url = getString(R.string.hotel8_maplink);
                 break;
 
             case 9:
@@ -143,6 +152,7 @@ public class HotelActivity extends AppCompatActivity {
                 description = R.string.hotel9_description;
                 url = getString(R.string.hotel9_website_link);
                 phone = getString(R.string.hotel9_phone_number);
+                map_url = getString(R.string.hotel9_maplink);
                 break;
 
             case 10:
@@ -153,6 +163,7 @@ public class HotelActivity extends AppCompatActivity {
                 description = R.string.hotel10_description;
                 url = getString(R.string.hotel10_website_link);
                 phone = getString(R.string.hotel10_phone_number);
+                map_url = getString(R.string.hotel10_maplink);
                 break;
 
             case 11:
@@ -163,6 +174,7 @@ public class HotelActivity extends AppCompatActivity {
                 description = R.string.hotel1_description;
                 url = getString(R.string.hotel11_website_link);
                 phone = getString(R.string.hotel11_phone_number);
+                map_url = getString(R.string.hotel11_maplink);
                 break;
 
             case 12:
@@ -173,6 +185,7 @@ public class HotelActivity extends AppCompatActivity {
                 description = R.string.hotel12_description;
                 url = getString(R.string.hotel12_website_link);
                 phone = getString(R.string.hotel12_phone_number);
+                map_url = getString(R.string.hotel12_maplink);
                 break;
 
             case 13:
@@ -183,6 +196,7 @@ public class HotelActivity extends AppCompatActivity {
                 description = R.string.hotel13_description;
                 url = getString(R.string.hotel13_website_link);
                 phone = getString(R.string.hotel13_phone_number);
+                map_url = getString(R.string.hotel13_maplink);
                 break;
 
             case 14:
@@ -193,6 +207,7 @@ public class HotelActivity extends AppCompatActivity {
                 description = R.string.hotel14_description;
                 url = getString(R.string.hotel14_website_link);
                 phone = getString(R.string.hotel14_phone_number);
+                map_url = getString(R.string.hotel14_maplink);
                 break;
 
             case 15:
@@ -203,6 +218,7 @@ public class HotelActivity extends AppCompatActivity {
                 description = R.string.hotel15_description;
                 url = getString(R.string.hotel15_website_link);
                 phone = getString(R.string.hotel15_phone_number);
+                map_url = getString(R.string.hotel15_maplink);
                 break;
 
             case 16:
@@ -213,6 +229,7 @@ public class HotelActivity extends AppCompatActivity {
                 description = R.string.hotel16_description;
                 url = getString(R.string.hotel16_website_link);
                 phone = getString(R.string.hotel16_phone_number);
+                map_url = getString(R.string.hotel16_maplink);
                 break;
 
             case 17:
@@ -223,6 +240,7 @@ public class HotelActivity extends AppCompatActivity {
                 description = R.string.hotel17_description;
                 url = getString(R.string.hotel17_website_link);
                 phone = getString(R.string.hotel17_phone_number);
+                map_url = getString(R.string.hotel17_maplink);
                 break;
 
             case 18:
@@ -233,6 +251,7 @@ public class HotelActivity extends AppCompatActivity {
                 description = R.string.hotel18_description;
                 url = getString(R.string.hotel18_website_link);
                 phone = getString(R.string.hotel18_phone_number);
+                map_url = getString(R.string.hotel18_maplink);
                 break;
 
         }
@@ -327,6 +346,15 @@ public class HotelActivity extends AppCompatActivity {
                 web_btn = (Button) findViewById(R.id.hotel_web_icon);
                 phone_btn = (Button) findViewById(R.id.hotel_phone_icon);
                 final Toast phone_toast = Toast.makeText(getApplicationContext(), phone, Toast.LENGTH_SHORT);
+
+                map_btn.setOnClickListener(new View.OnClickListener() {
+                    @Override
+                    public void onClick(View v) {
+                        Uri uri = Uri.parse(map_url); // missing 'http://' will cause crashed
+                        Intent intent = new Intent(Intent.ACTION_VIEW, uri);
+                        startActivity(intent);
+                    }
+                });
 
                 web_btn.setOnClickListener(new View.OnClickListener() {
                     @Override
