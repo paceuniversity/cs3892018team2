@@ -1,13 +1,13 @@
 package ahmed.niaz.chinatown_tour;
 
 import android.content.Context;
+import android.content.Intent;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
 
@@ -27,6 +27,7 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
     private ArrayList<Integer> restaurantNames = new ArrayList<>();
     private ArrayList<Integer> restaurantImages = new ArrayList<>();
     private Context rContext;
+
 
     public RecyclerViewAdapter(Context context, ArrayList<Integer> names, ArrayList<Integer> images){
         restaurantNames = names;
@@ -56,7 +57,10 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
         holder.image.setOnClickListener(new View.OnClickListener(){
             public void onClick(View view){
                 Log.d(TAG, "onClick: clicked on an image" + restaurantNames.get(position));
-                Toast.makeText(rContext, restaurantNames.get(position), Toast.LENGTH_SHORT).show();
+               /*Toast.makeText(rContext, restaurantNames.get(position), Toast.LENGTH_SHORT).show(); */
+                Intent intent = new Intent (view.getContext(), SpecificFoodActivity.class);
+                rContext.startActivity(intent);
+
             }
             });
     }

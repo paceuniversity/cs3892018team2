@@ -47,6 +47,7 @@
             android:screenOrientation="portrait"/>
         <activity android:name=".CustomListAdapter"
             android:screenOrientation="portrait"/>
+        <activity android:name=".SpecificFoodActivity"/>
     </application>
 
 </manifest>
