@@ -69,7 +69,7 @@ public class FoodActivity extends AppCompatActivity {
 
     }
 
-    //Adding images and names into Restaurant ArrayList
+    // == Adding images and names into Restaurant ArrayList ==
     private void getRestaurants(){
         restaurantImages.add(R.drawable.restaurant_1_front_image);
         restaurantNames.add(R.string.restaurant1_name);
@@ -89,7 +89,7 @@ public class FoodActivity extends AppCompatActivity {
         initRecycleView();
     }
 
-    //Adding images and names into Fast Food ArrayList
+    // == Adding images and names into Fast Food ArrayList ==
     private void getFastFood(){
         fastFoodImages.add(R.drawable.fast_food_5_front_image);
         fastFoodNames.add(R.string.fast_food5_name);
@@ -109,6 +109,7 @@ public class FoodActivity extends AppCompatActivity {
         initFFRecycleView();
     }
 
+    // == Adding images and names into the Sweets ArrayList ==
     private void getSweets(){
         sweetsImage.add(R.drawable.sweets_1_front_image);
         sweetsName.add(R.string.sweets1_name);
@@ -128,8 +129,8 @@ public class FoodActivity extends AppCompatActivity {
         initSRecycleView();
     }
 
-    //These methods create the recycler view to be made so the string values get attached to them
-    //Restaurant Recycler Viewer
+    // == These methods create the recycler view to be made so the string values get attached to them ==
+    // == Restaurant Recycler Viewer ==
     private void initRecycleView(){
         LinearLayoutManager layoutManager = new LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, false);
         RecyclerView recyclerView = findViewById(R.id.recyclerview);
@@ -138,7 +139,7 @@ public class FoodActivity extends AppCompatActivity {
         recyclerView.setAdapter(adapter);
     }
 
-    //Fast Food Recycler Viewer
+    // == Fast Food Recycler Viewer ==
     private void initFFRecycleView(){
         LinearLayoutManager layoutManager2 = new LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, false);
         RecyclerView recyclerViewFF = findViewById(R.id.recyclerview2);
@@ -148,7 +149,7 @@ public class FoodActivity extends AppCompatActivity {
 
     }
 
-    //Sweets Recycler Viewer
+    // == Sweets Recycler Viewer ==
     private void initSRecycleView(){
         LinearLayoutManager layoutManager3 = new LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, false);
         RecyclerView recyclerViewS = findViewById(R.id.recyclerview3);
