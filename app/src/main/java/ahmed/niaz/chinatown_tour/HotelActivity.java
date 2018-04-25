@@ -342,8 +342,8 @@ public class HotelActivity extends AppCompatActivity {
 
 
                 // === MAP / WEB / PHONE ICONS AND TOAST ===
-                map_btn = (Button) findViewById(R.id.hotel_map_icon);
-                web_btn = (Button) findViewById(R.id.hotel_web_icon);
+                map_btn = (Button) findViewById(R.id.food_map_icon);
+                web_btn = (Button) findViewById(R.id.food_web_icon);
                 phone_btn = (Button) findViewById(R.id.hotel_phone_icon);
                 final Toast phone_toast = Toast.makeText(getApplicationContext(), phone, Toast.LENGTH_SHORT);
 

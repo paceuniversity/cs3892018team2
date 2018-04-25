@@ -57,12 +57,10 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
         holder.image.setOnClickListener(new View.OnClickListener(){
             public void onClick(View view){
                 Log.d(TAG, "onClick: clicked on an image" + restaurantNames.get(position));
-               /*Toast.makeText(rContext, restaurantNames.get(position), Toast.LENGTH_SHORT).show(); */
                 Intent intent = new Intent (view.getContext(), SpecificFoodActivity.class);
                 rContext.startActivity(intent);
-
             }
-            });
+        });
     }
 
     @Override

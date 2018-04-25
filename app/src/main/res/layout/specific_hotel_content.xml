@@ -113,22 +113,22 @@
                 app:layout_constraintTop_toBottomOf="@+id/img_switcher" />
 
             <Button
-                android:id="@+id/hotel_map_icon"
+                android:id="@+id/food_map_icon"
                 android:layout_width="35dp"
                 android:layout_height="32dp"
                 android:layout_marginStart="60dp"
                 android:background="@drawable/map_btn_img"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toTopOf="@+id/hotel_web_icon" />
+                app:layout_constraintTop_toTopOf="@+id/food_web_icon" />
 
             <Button
-                android:id="@+id/hotel_web_icon"
+                android:id="@+id/food_web_icon"
                 android:layout_width="35dp"
                 android:layout_height="32dp"
                 android:layout_marginStart="62dp"
                 android:layout_marginTop="40dp"
                 android:background="@drawable/website_btn_img"
-                app:layout_constraintStart_toEndOf="@+id/hotel_map_icon"
+                app:layout_constraintStart_toEndOf="@+id/food_map_icon"
                 app:layout_constraintTop_toBottomOf="@+id/navDot2" />
 
             <Button
@@ -137,8 +137,8 @@
                 android:layout_height="32dp"
                 android:layout_marginStart="62dp"
                 android:background="@drawable/phone_btn_img"
-                app:layout_constraintStart_toEndOf="@+id/hotel_web_icon"
-                app:layout_constraintTop_toTopOf="@+id/hotel_web_icon" />
+                app:layout_constraintStart_toEndOf="@+id/food_web_icon"
+                app:layout_constraintTop_toTopOf="@+id/food_web_icon" />
 
 
         </android.support.constraint.ConstraintLayout>
