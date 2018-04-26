@@ -481,6 +481,7 @@
     <string name="category3_name">Sweets</string>
 
     <!-- Food Locations and Details -->
+
     <!-- Restaurants -->
     <string name="restaurant1_name">Shanghai Asian Manor</string>
     <string name="restaurant1_address">21 Mott St, New York, NY 10013</string>
@@ -521,6 +522,57 @@
     <string name="restaurant5_phone_number" translatable="false">(212) 791-1817</string>
     <string name="restaurant5_description">Chinese noodles are made by hand and served
         in soups and stir-fries at this bustling, bare-bones spot.</string>
+
+
+
+    <string-array name="restaurant_name_array">
+        <item>@string/restaurant1_name</item>
+        <item>@string/restaurant2_name</item>
+        <item>@string/restaurant3_name</item>
+        <item>@string/restaurant4_name</item>
+        <item>@string/restaurant5_name</item>
+    </string-array>
+
+    <string-array name="restaurant_address_array">
+        <item>@string/restaurant1_address</item>
+        <item>@string/restaurant2_address</item>
+        <item>@string/restaurant3_address</item>
+        <item>@string/restaurant4_address</item>
+        <item>@string/restaurant5_address</item>
+    </string-array>
+
+    <string-array name="restaurant_menu_array">
+        <item>@string/restaurant1_menu</item>
+        <item>@string/restaurant2_menu</item>
+        <item>@string/restaurant3_menu</item>
+        <item>@string/restaurant4_menu</item>
+        <item>@string/restaurant5_menu</item>
+    </string-array>
+
+    <string-array name="restaurant_website_array">
+        <item>@string/restaurant1_website</item>
+        <item>@string/restaurant2_website</item>
+        <item>@string/restaurant3_website</item>
+        <item>@string/restaurant4_website</item>
+        <item>@string/restaurant5_website</item>
+    </string-array>
+
+    <string-array name="restaurant_description_array">
+        <item>@string/restaurant1_description</item>
+        <item>@string/restaurant2_description</item>
+        <item>@string/restaurant3_description</item>
+        <item>@string/restaurant4_description</item>
+        <item>@string/restaurant5_description</item>
+    </string-array>
+
+    <string-array name="restaurant_phone_array">
+        <item>@string/restaurant1_phone_number</item>
+        <item>@string/restaurant2_phone_number</item>
+        <item>@string/restaurant3_phone_number</item>
+        <item>@string/restaurant4_phone_number</item>
+        <item>@string/restaurant5_phone_number</item>
+    </string-array>
+
 
     <!-- Fast Food -->
     <string name="fast_food1_name">McDonald\'s</string>
