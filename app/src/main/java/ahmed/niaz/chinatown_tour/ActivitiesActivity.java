@@ -4,11 +4,15 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
+import android.widget.ExpandableListView;
 import android.widget.ImageButton;
 import android.widget.ImageView;
 
-public class ActivitiesActivity extends AppCompatActivity {
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
 
+public class ActivitiesActivity extends AppCompatActivity {
 
     private ImageView app_logo;
     public ImageButton settings_btn;
@@ -21,7 +25,6 @@ public class ActivitiesActivity extends AppCompatActivity {
         app_logo = (ImageView) findViewById(R.id.appIcon);
 
         // === Main Menu Link ===
-
         app_logo.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -30,9 +33,7 @@ public class ActivitiesActivity extends AppCompatActivity {
             }
         });
 
-
         // === Settings Icon Link ===
-
         settings_btn = (ImageButton) findViewById(R.id.setting_image_button);
         settings_btn.setOnClickListener(new View.OnClickListener() {
             @Override
