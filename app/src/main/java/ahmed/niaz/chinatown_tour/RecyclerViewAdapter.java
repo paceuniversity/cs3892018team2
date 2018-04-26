@@ -11,7 +11,6 @@ import android.widget.TextView;
 import com.bumptech.glide.Glide;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 import de.hdodenhof.circleimageview.CircleImageView;
 
@@ -69,7 +68,10 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
                /* Intent intent = new Intent (view.getContext(), SpecificFoodActivity.class);
                 rContext.startActivity(intent);
                 */
-                Log.i("1FFFFFFFFFFFFFFFFFF", Arrays.toString(restaurantNames.toArray()));
+                Log.i("POSITION", (" " + position + " "));
+                Log.i("ARRAY SIZE", (" " + restaurantNames.size() + " "));
+                Log.i("INDEX", ( " " + restaurantNames.indexOf(restaurantNames.get(position)) + " "));
+
             }
         });
     }
