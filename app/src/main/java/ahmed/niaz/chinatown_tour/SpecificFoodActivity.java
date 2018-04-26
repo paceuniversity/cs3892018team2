@@ -31,6 +31,8 @@ public class SpecificFoodActivity extends AppCompatActivity {
 
 
 
+
+
         // Settings Icon Link
 
         settings_btn = (ImageButton) findViewById(R.id.setting_image_button);

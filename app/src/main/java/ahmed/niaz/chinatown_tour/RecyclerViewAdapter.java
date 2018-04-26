@@ -1,7 +1,6 @@
 package ahmed.niaz.chinatown_tour;
 
 import android.content.Context;
-import android.content.Intent;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 import android.view.LayoutInflater;
@@ -12,6 +11,7 @@ import android.widget.TextView;
 import com.bumptech.glide.Glide;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 
 import de.hdodenhof.circleimageview.CircleImageView;
 
@@ -27,6 +27,14 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
     private ArrayList<Integer> restaurantNames = new ArrayList<>();
     private ArrayList<Integer> restaurantImages = new ArrayList<>();
     private Context rContext;
+
+    //==== SPECIFIC FOOD VARIABLES ===
+
+    public int spec_img;
+    public int spec_foodname;
+    public int spec_foodmenu_link;
+    public int spec_foodmap_link;
+    public int spec_foodweb_link;
 
 
     public RecyclerViewAdapter(Context context, ArrayList<Integer> names, ArrayList<Integer> images){
@@ -52,13 +60,16 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
                 .load(restaurantImages.get(position))
                 .into(holder.image);
         holder.name.setText(restaurantNames.get(position));
-        
+
+
         //This just prints out a toast when clicking on an image good testing to help setup info page
         holder.image.setOnClickListener(new View.OnClickListener(){
             public void onClick(View view){
-                Log.d(TAG, "onClick: clicked on an image" + restaurantNames.get(position));
-                Intent intent = new Intent (view.getContext(), SpecificFoodActivity.class);
+               // Log.d(TAG, "onClick: clicked on an image" + restaurantNames.get(position));
+               /* Intent intent = new Intent (view.getContext(), SpecificFoodActivity.class);
                 rContext.startActivity(intent);
+                */
+                Log.i("1FFFFFFFFFFFFFFFFFF", Arrays.toString(restaurantNames.toArray()));
             }
         });
     }
