@@ -19,7 +19,7 @@ public class TransportActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_transport);
+        setContentView(R.layout.transport);
 
         app_logo = (ImageView) findViewById(R.id.appIcon);
 
@@ -52,6 +52,7 @@ public class TransportActivity extends AppCompatActivity {
                 new TrainsFragment()).commit();
     }
 
+    // Calls the corresponding fragment for whichever method of transport is selected
     private BottomNavigationView.OnNavigationItemSelectedListener navListener = new
             BottomNavigationView.OnNavigationItemSelectedListener() {
         @Override

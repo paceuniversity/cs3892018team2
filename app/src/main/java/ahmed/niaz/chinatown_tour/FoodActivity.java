@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
+import android.util.Log;
 import android.view.View;
 import android.widget.ImageButton;
 import android.widget.ImageView;
@@ -78,11 +79,12 @@ public class FoodActivity extends AppCompatActivity {
         restaurantImages.add(R.drawable.restaurant_3_front_image);
         restaurantNames.add(R.string.restaurant3_name);
 
+        restaurantImages.add(R.drawable.restaurant_4_front_image);
+        restaurantNames.add(R.string.restaurant4_name);
+
         restaurantImages.add(R.drawable.restaurant_5_front_image);
         restaurantNames.add(R.string.restaurant5_name);
 
-        restaurantImages.add(R.drawable.restaurant_4_front_image);
-        restaurantNames.add(R.string.restaurant4_name);
 
         initRecycleView();
     }

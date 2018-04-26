@@ -24,6 +24,10 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
 
     //Data Variables
     private ArrayList<Integer> restaurantNames = new ArrayList<>();
+    private ArrayList<Integer> matchRestaurant = new ArrayList<Integer>();
+    private ArrayList<Integer> matchFastFood = new ArrayList<Integer>();
+    private ArrayList<Integer> matchSweets = new ArrayList<Integer>();
+
     private ArrayList<Integer> restaurantImages = new ArrayList<>();
     private Context rContext;
 
@@ -54,6 +58,28 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
     public void onBindViewHolder(ViewHolder holder, final int position) {
         Log.d(TAG, "onCreateViewHolder: called"); //for debugging
 
+        // === TO MATCH POSITION AND FOOD OPTION
+
+        // === RESTAURANTS
+        matchRestaurant.add(2131624369);
+        matchRestaurant.add(2131624375);
+        matchRestaurant.add(2131624381);
+        matchRestaurant.add(2131624387);
+        matchRestaurant.add( 2131624393);
+        // === FAST FOOD
+       matchFastFood.add(2131624191);
+       matchFastFood.add(2131624173 );
+       matchFastFood.add(2131624179);
+       matchFastFood.add(2131624185);
+       matchFastFood.add(2131624167);
+        // === SWEETS
+        matchSweets.add(2131624403);
+        matchSweets.add(2131624409);
+        matchSweets.add(2131624415);
+        matchSweets.add(2131624421);
+        matchSweets.add(2131624427);
+
+
         Glide.with(rContext)
                 .asBitmap()
                 .load(restaurantImages.get(position))
@@ -68,9 +94,14 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
                /* Intent intent = new Intent (view.getContext(), SpecificFoodActivity.class);
                 rContext.startActivity(intent);
                 */
+<<<<<<< HEAD
                 Log.i("POSITION", (" " + position + " "));
                 Log.i("ARRAY SIZE", (" " + restaurantNames.size() + " "));
                 Log.i("INDEX", ( " " + restaurantNames.indexOf(restaurantNames.get(position)) + " "));
+=======
+               int matching_var = (restaurantNames.get(position)%10000)/100;
+                Log.i("POSITION", (" " +  matching_var + " "));
+>>>>>>> b9ab1e06244196ff346318d956647d5761ea89f2
 
             }
         });
