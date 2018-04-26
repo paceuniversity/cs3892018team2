@@ -34,7 +34,7 @@
     <android.support.v7.widget.RecyclerView
         android:id="@+id/recyclerview"
         android:layout_width="348dp"
-        android:layout_height="137dp"
+        android:layout_height="125dp"
         android:layout_marginStart="16dp"
         android:orientation="horizontal"
         app:layout_constraintStart_toStartOf="parent"
@@ -42,6 +42,7 @@
 
     </android.support.v7.widget.RecyclerView>
 
+    <!-- Fast Food Text View -->
     <TextView
         android:id="@+id/category2_title_restaurant"
         android:layout_width="144dp"
@@ -53,6 +54,42 @@
         android:textStyle="bold|italic"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/recyclerview" />
+
+    <!-- Recycler Viewer 2 Fast Food -->
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerview2"
+        android:layout_width="348dp"
+        android:layout_height="125dp"
+        android:layout_marginStart="16dp"
+        android:orientation="horizontal"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/category2_title_restaurant">
+
+    </android.support.v7.widget.RecyclerView>
+
+    <!-- Sweets Text View -->
+    <TextView
+        android:id="@+id/category3_title_restaurant"
+        android:layout_width="144dp"
+        android:layout_height="29dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="9dp"
+        android:text="@string/category3_name"
+        android:textSize="20sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/recyclerview2" />
+
+    <!-- Recycler View 3 Sweets -->
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerview3"
+        android:layout_width="348dp"
+        android:layout_height="125dp"
+        android:layout_marginStart="16dp"
+        android:orientation="horizontal"
+        app:layout_constraintTop_toBottomOf="@id/category3_title_restaurant"
+        app:layout_constraintStart_toStartOf="parent">
+    </android.support.v7.widget.RecyclerView>
 
 
 </android.support.constraint.ConstraintLayout>

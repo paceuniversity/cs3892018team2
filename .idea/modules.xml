@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Chinatown_Tour.iml" filepath="$PROJECT_DIR$/Chinatown_Tour.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chinatown_Tour_Latest.iml" filepath="$PROJECT_DIR$/Chinatown_Tour_Latest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../../jason/cs3892018team2/Chinatown_Tour_Latest.iml" filepath="$PROJECT_DIR$/../../../jason/cs3892018team2/Chinatown_Tour_Latest.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cs3892018team2.iml" filepath="$PROJECT_DIR$/cs3892018team2.iml" />
     </modules>
   </component>
 </project>

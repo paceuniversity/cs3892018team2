@@ -21,6 +21,7 @@
     <string name="hotel1_images" translatable="false"> </string>
     <string name="hotel1_website_link" translatable="false">http://www.leonhotelnyc.com/</string>
     <string name="hotel1_phone_number" translatable="false"> (212) 390-8833   </string>
+    <string name="hotel1_maplink">https://goo.gl/maps/BQLSoVjoVpA2 </string>
 
     <string name="hotel2_name">Hotel Mimosa</string>
     <string name="hotel2_description_preview"> Hotel Mimosa is located in the East Side neighborhood in New York City, just one mile from Ground Zero... </string>
@@ -29,6 +30,7 @@
     <string name="hotel2_images" translatable="false"> </string>
     <string name="hotel2_website_link" translatable="false">https://www.hotelmimosany.com/</string>
     <string name="hotel2_phone_number" translatable="false">  (212) 343-4243  </string>
+    <string name="hotel2_maplink">https://goo.gl/maps/iMHEMe8qv4P2</string>
 
     <string name="hotel3_name">Wyndham Garden Chinatown</string>
     <string name="hotel3_address">93 Bowery, New York, NY 10002</string>
@@ -37,6 +39,7 @@
     <string name="hotel3_images" translatable="false">None</string>
     <string name="hotel3_website_link" translatable="false">http://www.wyndhamgardenchinatownnyc.com/</string>
     <string name="hotel3_phone_number" translatable="false"> (646) 329-3400   </string>
+    <string name="hotel3_maplink">https://goo.gl/maps/zvMyrbDsDqt</string>
 
     <string name="hotel4_name">Hotel Mulberry</string>
     <string name="hotel4_address">52 Mulberry St, New York, NY 10013</string>
@@ -45,6 +48,7 @@
     <string name="hotel4_images" translatable="false">None</string>
     <string name="hotel4_website_link" translatable="false">http://www.hotelmulberry.com/</string>
     <string name="hotel4_phone_number" translatable="false"> (212) 385-4633   </string>
+    <string name="hotel4_maplink"> https://goo.gl/maps/V1tHt73LCsR2 </string>
 
     <string name="hotel5_name">Hotel 50 Bowery NYC</string>
     <string name="hotel5_address">50 Bowery, New York, NY 10013</string>
@@ -53,6 +57,7 @@
     <string name="hotel5_images" translatable="false">None</string>
     <string name="hotel5_website_link" translatable="false">https://www.jdvhotels.com/hotels/new-york/nyc/hotel-50-bowery-nyc</string>
     <string name="hotel5_phone_number" translatable="false"> (212) 508-8000   </string>
+    <string name="hotel5_maplink">https://goo.gl/maps/1NQrfZ6Kntv </string>
 
     <string name="hotel6_name">Best Western Bowery Hanbee Hotel</string>
     <string name="hotel6_address">231 Grand St, New York, NY 10013</string>
@@ -61,6 +66,7 @@
     <string name="hotel6_images" translatable="false">None</string>
     <string name="hotel6_website_link" translatable="false">http://www.bw-boweryhanbeehotel.com/</string>
     <string name="hotel6_phone_number" translatable="false"> (212) 925-1177   </string>
+    <string name="hotel6_maplink"> https://goo.gl/maps/e9N2TbeY6N92 </string>
 
     <string name="hotel7_name">Hotel 91</string>
     <string name="hotel7_address">91 E Broadway, New York, NY 10002</string>
@@ -70,6 +76,7 @@
     <string name="hotel7_images" translatable="false">None</string>
     <string name="hotel7_website_link" translatable="false">http://www.hotel91.com/</string>
     <string name="hotel7_phone_number" translatable="false"> (212) 266-6800   </string>
+    <string name="hotel7_maplink">https://goo.gl/maps/Yq4ZQci14fC2 </string>
 
     <string name="hotel8_name">U.S. Pacific Hotel</string>
     <string name="hotel8_address">276 Canal St, New York, NY 10013</string>
@@ -78,6 +85,7 @@
     <string name="hotel8_images" translatable="false">None</string>
     <string name="hotel8_website_link" translatable="false">http://sohogardenhotel.com/</string>
     <string name="hotel8_phone_number" translatable="false"> (212) 226-0300   </string>
+    <string name="hotel8_maplink">https://goo.gl/maps/AbKNTXSW2rw </string>
 
     <string name="hotel9_name">Tribeca blu</string>
     <string name="hotel9_address">blu hotel, New York, NY 10013</string>
@@ -86,6 +94,7 @@
     <string name="hotel9_images" translatable="false">None</string>
     <string name="hotel9_website_link" translatable="false">http://tribecabluhotel.com/</string>
     <string name="hotel9_phone_number" translatable="false"> (212) 941-6106 </string>
+    <string name="hotel9_maplink">https://goo.gl/maps/BQLSoVjoVpA2 </string>
 
     <string name="hotel10_name">Sun Bright Hotel</string>
     <string name="hotel10_address"> 140 Hester St, New York, NY 10013</string>
@@ -94,6 +103,7 @@
     <string name="hotel10_images" translatable="false">None</string>
     <string name="hotel10_website_link" translatable="false">http://sunbrighthotelnyc.com/</string>
     <string name="hotel10_phone_number" translatable="false"> (212) 226-7070   </string>
+    <string name="hotel10_maplink">https://goo.gl/maps/8ZGVYEnrwCn</string>
 
     <string name="hotel11_name">Fairfield Inn &amp;amp; Suites by Marriott New York Manhattan/Downtown</string>
     <string name="hotel11_address">95 Henry St, New York, NY 10002</string>
@@ -102,6 +112,7 @@
     <string name="hotel11_images" translatable="false">None</string>
     <string name="hotel11_website_link" translatable="false">http://www.marriott.com/hotels/travel/nycfm-fairfield-inn-and-suites-new-york-manhattan-downtown-east/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2</string>
     <string name="hotel11_phone_number" translatable="false"> (212) 227-0709   </string>
+    <string name="hotel11_maplink"> https://goo.gl/maps/FsaYYk6TqDs </string>
 
     <string name="hotel12_name">Hotel Richland New York</string>
     <string name="hotel12_address">5 Allen St, New York, NY 10002</string>
@@ -110,6 +121,7 @@
     <string name="hotel12_images" translatable="false">None</string>
     <string name="hotel12_website_link" translatable="false">http://hotelrichlandnewyork.com/contact/</string>
     <string name="hotel12_phone_number" translatable="false"> (212) 219-1018   </string>
+    <string name="hotel12_maplink"> https://goo.gl/maps/oSSxEpFuKbD2 </string>
 
     <string name="hotel13_name">New World Hotel</string>
     <string name="hotel13_address">101 Bowery #2, New York, NY 10002</string>
@@ -118,6 +130,7 @@
     <string name="hotel13_images" translatable="false">None</string>
     <string name="hotel13_website_link" translatable="false">http://worldhotelnyc.com/</string>
     <string name="hotel13_phone_number" translatable="false"> (212) 226-5522   </string>
+    <string name="hotel13_maplink"> https://goo.gl/maps/fdnJfSTmTeJ2 </string>
 
     <string name="hotel14_name">Canal Loft Hotel</string>
     <string name="hotel14_address">94 Canal St, New York, NY 10002</string>
@@ -126,6 +139,8 @@
     <string name="hotel14_images" translatable="false">None</string>
     <string name="hotel14_website_link" translatable="false">http://canal-loft-us.book.direct/en-gb</string>
     <string name="hotel14_phone_number" translatable="false"> (646) 882-0428   </string>
+    <string name="hotel14_maplink"> https://goo.gl/maps/bKWBf83AXKy</string>
+
 
     <string name="hotel15_name">Windsor Hotel</string>
     <string name="hotel15_address">108 Forsyth St, New York, NY 10002</string>
@@ -134,6 +149,7 @@
     <string name="hotel15_images" translatable="false">None</string>
     <string name="hotel15_website_link" translatable="false">http://windsorhotelnyc.com/?src=%2Findex2.html</string>
     <string name="hotel15_phone_number" translatable="false"> (212) 226-3009  </string>
+    <string name="hotel15_maplink"> https://goo.gl/maps/YRKaAjctjDt </string>
 
     <string name="hotel16_name">Manhattan Bowery Lodge</string>
     <string name="hotel16_address">81 Bowery, New York, NY 10002</string>
@@ -142,6 +158,7 @@
     <string name="hotel16_images" translatable="false">None</string>
     <string name="hotel16_website_link" translatable="false">http://manhattanbowerylodgeny.us/</string>
     <string name="hotel16_phone_number" translatable="false"> (917) 353-5617 </string>
+    <string name="hotel16_maplink"> https://goo.gl/maps/RuTDdi7Kwa82</string>
 
     <string name="hotel17_name">Bowery Grand Hotel</string>
     <string name="hotel17_address">143 Bowery, New York, NY 10002</string>
@@ -150,6 +167,8 @@
     <string name="hotel17_images" translatable="false">None</string>
     <string name="hotel17_website_link" translatable="false">http://bowerygrandhotel.com/</string>
     <string name="hotel17_phone_number" translatable="false">  (212) 226-6655  </string>
+    <string name="hotel17_maplink"> https://goo.gl/maps/S6hwohQNpXD2 </string>
+
 
     <string name="hotel18_name">Comfort Inn Lower East Side</string>
     <string name="hotel18_address">154 Madison St, New York, NY 10002</string>
@@ -158,6 +177,7 @@
     <string name="hotel18_images" translatable="false">None</string>
     <string name="hotel18_website_link" translatable="false"> http://www.comfortinnles.com/ </string>
     <string name="hotel18_phone_number" translatable="false"> (212) 390-1533   </string>
+    <string name="hotel18_maplink"> https://goo.gl/maps/BkkWJpoNZq42</string>
 
     <string-array name="hotel_names">
         <item>@string/hotel1_name </item>
@@ -499,6 +519,7 @@
     <string name="category3_name">Sweets</string>
 
     <!-- Food Locations and Details -->
+
     <!-- Restaurants -->
     <string name="restaurant1_name">Shanghai Asian Manor</string>
     <string name="restaurant1_address">21 Mott St, New York, NY 10013</string>
@@ -539,6 +560,57 @@
     <string name="restaurant5_phone_number" translatable="false">(212) 791-1817</string>
     <string name="restaurant5_description">Chinese noodles are made by hand and served
         in soups and stir-fries at this bustling, bare-bones spot.</string>
+
+
+
+    <string-array name="restaurant_name_array">
+        <item>@string/restaurant1_name</item>
+        <item>@string/restaurant2_name</item>
+        <item>@string/restaurant3_name</item>
+        <item>@string/restaurant4_name</item>
+        <item>@string/restaurant5_name</item>
+    </string-array>
+
+    <string-array name="restaurant_address_array">
+        <item>@string/restaurant1_address</item>
+        <item>@string/restaurant2_address</item>
+        <item>@string/restaurant3_address</item>
+        <item>@string/restaurant4_address</item>
+        <item>@string/restaurant5_address</item>
+    </string-array>
+
+    <string-array name="restaurant_menu_array">
+        <item>@string/restaurant1_menu</item>
+        <item>@string/restaurant2_menu</item>
+        <item>@string/restaurant3_menu</item>
+        <item>@string/restaurant4_menu</item>
+        <item>@string/restaurant5_menu</item>
+    </string-array>
+
+    <string-array name="restaurant_website_array">
+        <item>@string/restaurant1_website</item>
+        <item>@string/restaurant2_website</item>
+        <item>@string/restaurant3_website</item>
+        <item>@string/restaurant4_website</item>
+        <item>@string/restaurant5_website</item>
+    </string-array>
+
+    <string-array name="restaurant_description_array">
+        <item>@string/restaurant1_description</item>
+        <item>@string/restaurant2_description</item>
+        <item>@string/restaurant3_description</item>
+        <item>@string/restaurant4_description</item>
+        <item>@string/restaurant5_description</item>
+    </string-array>
+
+    <string-array name="restaurant_phone_array">
+        <item>@string/restaurant1_phone_number</item>
+        <item>@string/restaurant2_phone_number</item>
+        <item>@string/restaurant3_phone_number</item>
+        <item>@string/restaurant4_phone_number</item>
+        <item>@string/restaurant5_phone_number</item>
+    </string-array>
+
 
     <!-- Fast Food -->
     <string name="fast_food1_name">McDonald\'s</string>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include
+        android:id="@+id/include2"
+        layout="@layout/custom_main_menu_header"
+        />
+
+
+    <Button
+        android:id="@+id/food_map_icon"
+        android:layout_width="35dp"
+        android:layout_height="32dp"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/map_btn_img"
+        app:layout_constraintTop_toBottomOf="@+id/imageView"
+        tools:layout_editor_absoluteX="74dp" />
+
+    <Button
+        android:id="@+id/food_web_icon"
+        android:layout_width="35dp"
+        android:layout_height="32dp"
+        android:layout_marginStart="62dp"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/website_btn_img"
+        app:layout_constraintStart_toEndOf="@+id/food_map_icon"
+        app:layout_constraintTop_toBottomOf="@+id/imageView" />
+
+    <Button
+        android:id="@+id/food_phone_icon"
+        android:layout_width="35dp"
+        android:layout_height="32dp"
+        android:layout_marginStart="62dp"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/phone_btn_img"
+        app:layout_constraintStart_toEndOf="@+id/food_web_icon"
+        app:layout_constraintTop_toBottomOf="@+id/imageView" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="299dp"
+        android:layout_height="207dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="48dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/include2" />
+
+
+</android.support.constraint.ConstraintLayout>

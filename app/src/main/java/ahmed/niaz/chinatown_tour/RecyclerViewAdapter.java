@@ -7,11 +7,11 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 
 import de.hdodenhof.circleimageview.CircleImageView;
 
@@ -24,11 +24,24 @@ import static android.content.ContentValues.TAG;
 public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapter.ViewHolder>{
 
     //Data Variables
-    private ArrayList<String> restaurantNames = new ArrayList<>();
+    private ArrayList<Integer> restaurantNames = new ArrayList<>();
+    private ArrayList<Integer> matchRestaurant = new ArrayList<Integer>();
+    private ArrayList<Integer> matchFastFood = new ArrayList<Integer>();
+    private ArrayList<Integer> matchSweets = new ArrayList<Integer>();
+
     private ArrayList<Integer> restaurantImages = new ArrayList<>();
     private Context rContext;
 
-    public RecyclerViewAdapter(Context context, ArrayList<String> names, ArrayList<Integer> images){
+    //==== SPECIFIC FOOD VARIABLES ===
+
+    public int spec_img;
+    public int spec_foodname;
+    public int spec_foodmenu_link;
+    public int spec_foodmap_link;
+    public int spec_foodweb_link;
+
+
+    public RecyclerViewAdapter(Context context, ArrayList<Integer> names, ArrayList<Integer> images){
         restaurantNames = names;
         restaurantImages = images;
         rContext = context;
@@ -46,19 +59,47 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
     public void onBindViewHolder(ViewHolder holder, final int position) {
         Log.d(TAG, "onCreateViewHolder: called"); //for debugging
 
+        // === TO MATCH POSITION AND FOOD OPTION
+
+        // === RESTAURANTS
+        matchRestaurant.add(2131624369);
+        matchRestaurant.add(2131624375);
+        matchRestaurant.add(2131624381);
+        matchRestaurant.add(2131624387);
+        matchRestaurant.add( 2131624393);
+        // === FAST FOOD
+       matchFastFood.add(2131624191);
+       matchFastFood.add(2131624173 );
+       matchFastFood.add(2131624179);
+       matchFastFood.add(2131624185);
+       matchFastFood.add(2131624167);
+        // === SWEETS
+        matchSweets.add(2131624403);
+        matchSweets.add(2131624409);
+        matchSweets.add(2131624415);
+        matchSweets.add(2131624421);
+        matchSweets.add(2131624427);
+
+
         Glide.with(rContext)
                 .asBitmap()
                 .load(restaurantImages.get(position))
                 .into(holder.image);
         holder.name.setText(restaurantNames.get(position));
-        
+
+
         //This just prints out a toast when clicking on an image good testing to help setup info page
         holder.image.setOnClickListener(new View.OnClickListener(){
             public void onClick(View view){
-                Log.d(TAG, "onClick: clicked on an image" + restaurantNames.get(position));
-                Toast.makeText(rContext, restaurantNames.get(position), Toast.LENGTH_SHORT).show();
+               // Log.d(TAG, "onClick: clicked on an image" + restaurantNames.get(position));
+               /* Intent intent = new Intent (view.getContext(), SpecificFoodActivity.class);
+                rContext.startActivity(intent);
+                */
+               int matching_var = (restaurantNames.get(position)%10000)/100;
+                Log.i("POSITION", (" " +  matching_var + " "));
+
             }
-            });
+        });
     }
 
     @Override

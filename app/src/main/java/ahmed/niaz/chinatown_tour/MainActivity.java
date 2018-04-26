@@ -1,6 +1,5 @@
 package ahmed.niaz.chinatown_tour;
 
-import android.app.Activity;
 import android.content.Intent;
 import android.graphics.Color;
 import android.support.v7.app.AppCompatActivity;

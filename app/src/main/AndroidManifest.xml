@@ -11,32 +11,43 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name=".MainActivity"
+            android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".HotelActivity" />
-        <activity android:name=".ItineraryActivity" />
-        <activity android:name=".SettingsActivity" />
-        <activity android:name=".ActivitiesActivity" />
+        <activity android:name=".HotelActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".ItineraryActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".SettingsActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".ActivitiesActivity"
+            android:screenOrientation="portrait"/>
         <activity
             android:name=".TransportationActivity"
             android:label="@string/title_activity_transportation"
             android:theme="@style/AppTheme" />
-        <activity android:name=".HistoryActivity" />
-        <activity android:name=".FoodActivity" />
+        <activity android:name=".HistoryActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".FoodActivity"
+            android:screenOrientation="portrait"/>
         <activity
             android:name=".TransportTabsActivity"
             android:label="@string/title_activity_transport_tabs"
-            android:theme="@style/AppTheme" />
+            android:theme="@style/AppTheme"
+            android:screenOrientation="portrait"/>
         <activity
             android:name=".TransportActivity"
             android:label="@string/title_activity_transport"
-            android:theme="@style/AppTheme" />
-        <activity android:name=".CustomListAdapter" />
+            android:theme="@style/AppTheme"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".CustomListAdapter"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".SpecificFoodActivity"/>
     </application>
 
 </manifest>
