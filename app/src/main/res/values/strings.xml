@@ -286,7 +286,7 @@
     <string name="activity9_name" translatable="false">Museum</string>
     <string name="activity9_static">a modern natural history museum located in a
     freight elevator; collection of unique artifacts</string>
-    <string name="activity9_type">N/A</string>
+    <string name="activity9_type" translatable="false">N/A</string>
     <string name="activity9_address">4 Cortlandt Alley</string>
     <string name="activity9_website" translatable="false">mmuseumm.com</string>
     <string name="activity9_phone_number" translatable="false">888-763-8839</string>
@@ -320,7 +320,7 @@
     <string name="activity13_name">Church of the Transfiguration</string>
     <string name="activity13_static">serves the Irish, German, Italian and, most recently, Chinese communities;
      Sunday masses are held in English, Mandarin, and Cantonese; houses a chinese school</string>
-    <string name="activity13_type">N/A</string>
+    <string name="activity13_type" translatable="false">N/A</string>
     <string name="activity13_address">29 Mott Street</string>
     <string name="activity13_website" translatable="false">transfigurationnyc.org</string>
     <string name="activity13_phone_number" translatable="false">212-962-5157</string>
@@ -335,7 +335,7 @@
     <string name="activity15_name">Autumn Mood Parade &amp;amp; Festival</string>
     <string name="activity15_static">an annual celebration of the end of the autumn harvest; held on the
     15th day of the 8th lunar month; features stage performances, cultural arts &amp;amp; crafts, calligraphy, gift booths, moon cake tastings, etc.</string>
-    <string name="activity15_type">N/A</string>
+    <string name="activity15_type" translatable="false">N/A</string>
     <string name="activity15_address">Mott Street; between Canal and Beyard Streets</string>
 
     <!-- Activities Sub-Section: Shopping -->
