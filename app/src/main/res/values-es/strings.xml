@@ -347,4 +347,10 @@
     <string name="title_home">Casa</string>
     <string name="title_dashboard">Tablero</string>
     <string name="title_notifications">Notificaciones</string>
+    <string name="m14a_bus">"Ruta de autobús M14A "</string>
+    <string name="m14a_bus_description">Si usted está en West Village, Flatiron District, Gramercy Park o East Village puede tomar la M14un autobús que le llevará en el Lower East Side en Chinatown.</string>
+    <string name="m21_bus">Ruta de autobús M21</string>
+    <string name="m21_bus_description">Dependiendo de dónde está la Plaza de Hudson en el Lower East Side, usted puede tomar el autobús M21 para obtener a través de Manhattan.</string>
+    <string name="m15_bus">Ruta de autobús M15</string>
+    <string name="m15_bus_description">Usted puede tomar el autobús M15 desde casi cualquier lugar de Manhattan. Si usted se encuentra en el west side de Manhattan, tendrás que caminar medio. Este autobús va de Harlem en el Bajo Manhattan.</string>
 </resources>

@@ -341,4 +341,5 @@
     <string name="m21_bus">21 米的巴士路线</string>
     <string name="m21_bus_description">这取决于您所在的地方，从哈德逊广场，以较低的东侧，您可以采取的21 M 总线以获得整个曼哈顿。</string>
     <string name="m15_bus">15 米的巴士路线</string>
+    <string name="m15_bus_description">您可以采取的15 M 总线从几乎任何地方在曼哈顿。 如果您在曼哈顿的西端，您只能步行东。 这一总线便会从哈林区到曼哈顿下城区。</string>
 </resources>
