@@ -94,14 +94,9 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
                /* Intent intent = new Intent (view.getContext(), SpecificFoodActivity.class);
                 rContext.startActivity(intent);
                 */
-<<<<<<< HEAD
                 Log.i("POSITION", (" " + position + " "));
                 Log.i("ARRAY SIZE", (" " + restaurantNames.size() + " "));
                 Log.i("INDEX", ( " " + restaurantNames.indexOf(restaurantNames.get(position)) + " "));
-=======
-               int matching_var = (restaurantNames.get(position)%10000)/100;
-                Log.i("POSITION", (" " +  matching_var + " "));
->>>>>>> b9ab1e06244196ff346318d956647d5761ea89f2
 
             }
         });
