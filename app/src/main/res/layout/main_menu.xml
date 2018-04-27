@@ -1,106 +1,104 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
+
+
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:minWidth="@dimen/fab_margin"
     tools:context="ahmed.niaz.chinatown_tour.MainActivity">
 
+
     <include
+        android:id="@+id/include3"
         layout="@layout/custom_main_menu_header"
-        app:layout_constraintBottom_toTopOf="@+id/transport_landing_pg"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <Button
-        android:id="@+id/transport_landing_pg"
-        android:layout_width="0dp"
-        android:layout_height="155dp"
-        android:layout_marginEnd="4dp"
-        android:layout_marginLeft="16dp"
-        android:layout_marginStart="12dp"
-        android:layout_marginTop="80dp"
-        android:gravity="bottom|center"
-        android:text="@string/transport_button"
-        android:textAppearance="@style/TextAppearance.AppCompat.Caption"
-        app:layout_constraintEnd_toStartOf="@+id/food_landing_pg"
-        app:layout_constraintHorizontal_bias="0.5"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
-    <Button
-        android:id="@+id/hotel_landing_pg"
-        android:layout_width="0dp"
-        android:layout_height="155dp"
-        android:layout_marginEnd="4dp"
-        android:layout_marginStart="12dp"
-        android:layout_marginTop="4dp"
-        android:gravity="bottom|center"
-        android:text="@string/hotel_button"
-        android:textAppearance="@style/TextAppearance.AppCompat.Caption"
-        app:layout_constraintEnd_toStartOf="@+id/poi_landing_pg"
-        app:layout_constraintHorizontal_bias="0.5"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/transport_landing_pg" />
-
-    <Button
-        android:id="@+id/itinerary_landing_pg"
-        android:layout_width="0dp"
-        android:layout_height="155dp"
-        android:layout_marginEnd="4dp"
-        android:layout_marginStart="12dp"
-        android:layout_marginTop="4dp"
-        android:gravity="bottom|center"
-        android:text="@string/itinerary_button"
-        android:textAppearance="@style/TextAppearance.AppCompat.Caption"
-        app:layout_constraintEnd_toStartOf="@+id/history_landing_pg"
-        app:layout_constraintHorizontal_bias="0.5"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/hotel_landing_pg" />
-
-    <Button
-        android:id="@+id/food_landing_pg"
-        android:layout_width="0dp"
-        android:layout_height="155dp"
-        android:layout_marginEnd="12dp"
-        android:gravity="bottom|center"
-        android:text="@string/food_button"
-        android:textAppearance="@style/TextAppearance.AppCompat.Caption"
-        app:layout_constraintBaseline_toBaselineOf="@+id/transport_landing_pg"
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="72dp"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.5"
-        app:layout_constraintStart_toEndOf="@+id/transport_landing_pg" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
 
-    <Button
-        android:id="@+id/poi_landing_pg"
-        android:layout_width="0dp"
-        android:layout_height="155dp"
-        android:layout_marginEnd="12dp"
-        android:layout_marginTop="4dp"
-        android:gravity="bottom|center"
-        android:text="@string/activities_button"
-        android:textAppearance="@style/TextAppearance.AppCompat.Caption"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.5"
-        app:layout_constraintStart_toEndOf="@+id/hotel_landing_pg"
-        app:layout_constraintTop_toBottomOf="@+id/food_landing_pg" />
+        <Button
+            android:id="@+id/history_landing_pg"
+            android:layout_width="180dp"
+            android:layout_height="152dp"
+            android:layout_marginStart="8dp"
+            android:background="@drawable/mm_history"
+            android:gravity="center"
+            android:text="@string/history_button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Caption"
+            app:layout_constraintStart_toEndOf="@+id/itinerary_landing_pg"
+            app:layout_constraintTop_toTopOf="@+id/itinerary_landing_pg" />
 
-    <Button
-        android:id="@+id/history_landing_pg"
-        android:layout_width="0dp"
-        android:layout_height="155dp"
-        android:layout_marginEnd="12dp"
-        android:layout_marginTop="4dp"
-        android:gravity="bottom|center"
-        android:text="@string/history_button"
-        android:textAppearance="@style/TextAppearance.AppCompat.Caption"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.5"
-        app:layout_constraintStart_toEndOf="@+id/itinerary_landing_pg"
-        app:layout_constraintTop_toBottomOf="@+id/poi_landing_pg" />
+        <Button
+            android:id="@+id/poi_landing_pg"
+            android:layout_width="180dp"
+            android:layout_height="152dp"
+            android:layout_marginStart="8dp"
+            android:background="@drawable/mm_activities"
+            android:gravity="center"
+            android:text="@string/activities_button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Caption"
+            app:layout_constraintStart_toEndOf="@+id/food_landing_pg"
+            app:layout_constraintTop_toTopOf="@+id/food_landing_pg" />
+
+        <Button
+            android:id="@+id/food_landing_pg"
+            android:layout_width="180dp"
+            android:layout_height="152dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/mm_food"
+            android:gravity="center"
+            android:text="@string/food_button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Caption"
+            app:layout_constraintStart_toStartOf="@+id/transport_landing_pg"
+            app:layout_constraintTop_toBottomOf="@+id/transport_landing_pg" />
+
+        <Button
+            android:id="@+id/itinerary_landing_pg"
+            android:layout_width="180dp"
+            android:layout_height="152dp"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/mm_itinerary"
+            android:gravity="center"
+            android:text="@string/itinerary_button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Caption"
+            app:layout_constraintStart_toStartOf="@+id/food_landing_pg"
+            app:layout_constraintTop_toBottomOf="@+id/food_landing_pg" />
+
+        <Button
+            android:id="@+id/transport_landing_pg"
+            android:layout_width="180dp"
+            android:layout_height="152dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="12dp"
+            android:background="@drawable/mm_transport"
+            android:gravity="center"
+            android:text="@string/transport_button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Caption"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <Button
+            android:id="@+id/hotel_landing_pg"
+            android:layout_width="180dp"
+            android:layout_height="152dp"
+            android:layout_marginStart="8dp"
+            android:background="@drawable/mm_hotel"
+            android:gravity="center"
+            android:text="@string/hotel_button"
+            android:textAppearance="@style/TextAppearance.AppCompat.Caption"
+            app:layout_constraintStart_toEndOf="@+id/transport_landing_pg"
+            app:layout_constraintTop_toTopOf="@+id/transport_landing_pg" />
+    </android.support.constraint.ConstraintLayout>
 
 
 </android.support.constraint.ConstraintLayout>
