@@ -28,8 +28,8 @@
 
         <Button
             android:id="@+id/history_landing_pg"
-            android:layout_width="170dp"
-            android:layout_height="150dp"
+            android:layout_width="180dp"
+            android:layout_height="152dp"
             android:layout_marginStart="8dp"
             android:background="@drawable/mm_history"
             android:gravity="center"
@@ -40,8 +40,8 @@
 
         <Button
             android:id="@+id/poi_landing_pg"
-            android:layout_width="170dp"
-            android:layout_height="150dp"
+            android:layout_width="180dp"
+            android:layout_height="152dp"
             android:layout_marginStart="8dp"
             android:background="@drawable/mm_activities"
             android:gravity="center"
@@ -52,8 +52,8 @@
 
         <Button
             android:id="@+id/food_landing_pg"
-            android:layout_width="170dp"
-            android:layout_height="150dp"
+            android:layout_width="180dp"
+            android:layout_height="152dp"
             android:layout_marginTop="8dp"
             android:background="@drawable/mm_food"
             android:gravity="center"
@@ -64,8 +64,8 @@
 
         <Button
             android:id="@+id/itinerary_landing_pg"
-            android:layout_width="170dp"
-            android:layout_height="150dp"
+            android:layout_width="180dp"
+            android:layout_height="152dp"
             android:layout_marginTop="8dp"
             android:background="@drawable/mm_itinerary"
             android:gravity="center"
@@ -76,11 +76,10 @@
 
         <Button
             android:id="@+id/transport_landing_pg"
-            android:layout_width="170dp"
-            android:layout_height="150dp"
-            android:layout_marginStart="16dp"
-
-            android:layout_marginTop="16dp"
+            android:layout_width="180dp"
+            android:layout_height="152dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="12dp"
             android:background="@drawable/mm_transport"
             android:gravity="center"
             android:text="@string/transport_button"
@@ -90,8 +89,8 @@
 
         <Button
             android:id="@+id/hotel_landing_pg"
-            android:layout_width="170dp"
-            android:layout_height="150dp"
+            android:layout_width="180dp"
+            android:layout_height="152dp"
             android:layout_marginStart="8dp"
             android:background="@drawable/mm_hotel"
             android:gravity="center"
