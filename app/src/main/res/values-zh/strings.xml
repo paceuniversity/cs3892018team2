@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">唐人街之旅</string>
     <string name="transport_button">交通运输</string>
@@ -342,4 +342,34 @@
     <string name="m21_bus_description">这取决于您所在的地方，从哈德逊广场，以较低的东侧，您可以采取的21 M 总线以获得整个曼哈顿。</string>
     <string name="m15_bus">15 米的巴士路线</string>
     <string name="m15_bus_description">您可以采取的15 M 总线从几乎任何地方在曼哈顿。 如果您在曼哈顿的西端，您只能步行东。 这一总线便会从哈林区到曼哈顿下城区。</string>
+    <string name="activity9_type">活动类型： N/A</string>
+    <string name="activity13_type">活动类型： N/A</string>
+    <string name="activity15_type">活动类型： N/A</string>
+    
+    <string name="timeline1870sdes">唐人街的创建，经过入境者被赶出了由于西方反华情绪由于担心失业后崩溃的淘金热，并完成了跨大陆铁路。 移民聚集到佩尔、万隆工程、 Doyers 街，这最终将扩大到唐人街，因为它是已知的今天。</string>
+    <string name="timeline1880sdes">「排华法案》成立于 1882 由于反华情绪，这种被禁止的归化，中国已经在美国和中国的移民，任何人如果没有特别的工作许可。 这是允许的商人、学生和商人。 该法还禁止的妻子和儿女的华工，还进入了美国。 一组招商局创办了中国综合慈善协会，作为一个非官方的地方政府。</string>
+    <string name="timeline1890sdes">Pell 和万隆工程街道成为衬中式餐厅。 这吸引了很多的注意从非华裔的纽约人。</string>
+    <string name="timeline1900sdes">该团伙发动了血腥的战役战斗中的唐人街，使居民和游客不敢步行街上。 太多的战争发生在 Doyers 街。 中国团伙控制的某些领土的唐人街。 在梁上和下属的鬼影控制的万隆工程、 Bayard 、运河、和桑的街道。 飞龙和分支机构控制的 Doyers Hip 唱， Pell ， Bowery 、大和海丝特的街道。 该夹钳和梁上的耙串，最频繁的战斗。</string>
+    <string name="timeline1910sdes">孙中山博士发表了讲话， 在1911年 唐人街的居民在中国歌剧院。 孙中山博士是第一个总统的现代的中国和中国的民族主义领导人。 中国歌剧院被买的 CCBA （中国综合慈善协会），成为在香港大会堂的唐人街。</string>
+    <string name="timeline1920sdes">时代，禁止在 1920的开始和结束的 在1933年 。 帮派的战争已经恶化和数十名成员被打死。 唐人街是突击搜查了联邦代理作为一种尝试，以较低的团伙有关的罪行。 数百名居民被带到南斯拉夫联盟的建设和检查。 那些与他们的论文被释放，但是，那些没有被送往埃利斯岛或入狱。</string>
+    <string name="timeline1930sdes">在世界各地，所有国家都受到影响的大萧条。 由 1931 ， 25% 的美国华裔，失业和一些变成了夹钳的财政福利。 备用钱留下被送回中国后，日本的防御入侵。 这一点，以及其他许多因素的影响，导致了一个下降的团伙有关的罪行。</string>
+    <string name="timeline1940sdes">第二次世界大战开始了。 「排华法案终于被废除的 在1942年 allying ，由于中国与美国对日本、中国得到了一个小的配额是 105 移民每年一次。 他们中的许多人从事饮食业、服装业、洗手，营业时间不超过最低工资的可怕的条件。</string>
+    <string name="timeline1950sdes">早在 1950 千年代，一个市区重建项目威胁要删除的唐人街有重大历史意义的核心，并将其替换为商业和住宅的一个大型住宅项目。 如果该项目被称为中国村计划，经历了,它就会被摧毁的中国城的经济。 社会再次主张打过这一项目，直到它被放弃。 唐人街的中心，成为社会的活动，为中国的美国人。 两个社会俱乐部的称为\"玉俱乐部和四洲成立了唐人街。</string>
+    <string name="timeline1960sdes">在1965年 、移民和国籍法》废除了《移民法》， 1924 ，取消配额限制的中国移民。 这导致了一个很好的移民浪潮的唐人街。 人口爆炸，造成了唐人街的增长，并且变得更加以家庭为导向。 居民将接管部分的小意大利通过购买大楼和公寓出售成衣和货物。</string>
+    <string name="timeline1970sdes">粤港两地的移民开始发展较新的部分，唐人街以北的运河街与东的 Bowery 。 但是，东部的 Bowery 是一个非常安静的部分，因为许多纽约市民，特别是对中国的美国人，不敢去那里。 这是由于不断恶化的建筑物和犯罪率高。</string>
+    <string name="timeline1980sdes">银行的开设新的分支机构，经过重新装修现有在唐人街开始采用中国传统风格的建筑外墙。 该博物馆的中国在美利坚合众国成立的 在1980年 记录下的美国华人的经验。</string>
+    <string name="timeline1990sdes">在 1990年代最重要的帮派的有：中国的鬼影、飞龙、东上、福清、绿龙、白虎、洪清、台湾的兄弟情谊，和越南的 Born-To 的杀人团伙。 所有这些团伙被争取的一块城球拍和暴力的东西得到了迅速和频繁。</string>
+    
+    <string name="timeline_button1">过去</string>
+    <string name="timeline_button2">未来</string>
+    <string name="timeline_button3">目前</string>
+    <string name="facts_button1">背面</string>
+    <string name="factsbutton2">下一个</string>
+    <string name="facts_button3">完成</string>
+    <string name="funfact1">一半的唐人街曾是部分的 5 个点，这是一个声名狼藉的贫民窟。 这是坐落在 Bowery 之间、公园、中央大街、行和运河街</string>
+    <string name="funfact2">运河街一度，顾名思义，一条运河。 但是，这种运河基本上是一个开放的排水管道，是一个很严重的问题。 这是填充， 1819 和 1820 中的一个街道。</string>
+    <string name="funfact3">世界上最高的佛像在纽约位于大乘佛教寺庙。 它达 16 英尺。</string>
+    <string name="funfact4">但不包括亚洲、纽约城，中国最大的人口中的一个城市。</string>
+    <string name="funfact5">1965 之前，唐人街的人口的绝大多数是男性。 有大约 4,000 名男子以 20 已婚妇女！ 这是因为进入美国后， 1882 是几乎不可能的非精英。 单个和失业的妇女是不允许进入的，因为他们被视为是妓女，她们是被禁止的， 1875 。</string>
+
 </resources>

@@ -727,8 +727,8 @@
     <string name="timeline1910sdes">Dr. Sun Yat Sen delivered a speech to Chinatown residents in 1911 at the Chinese Opera House. Dr. Sun Yat Sen was the first president of modern China and a Chinese Nationalist leader. The Chinese Opera House was bought by the CCBA (Chinese Consolidated Benevolent Association) and become the city hall of Chinatown.</string>
     <string name="timeline1920sdes">The era of Prohibition began in the 1920s and ended in 1933. Gang wars had worsened and dozens of members were killed. Chinatown was raided by federal agents as an attempt to lower gang related crimes. Hundreds of residents were brought to the Federal Building and inspected. Those with their papers were released but, those without were sent to Ellis Island or to jail.</string>
     <string name="timeline1930sdes">All around the world, countries were affected by the Great Depression. By 1931, 25% of Chinese Americans were unemployed and some turned to tongs for financial welfare. The spare money left over was sent back to China for defense after Japan invaded. This, along with many other factors, led to a decline in gang related crimes.</string>
+    <string name="timeline1950sdes">In the early 1950\'s, an urban renewal project threatened to remove Chinatown\'s historic core and replace it with businesses and residences in a large scale housing project. If the project, known as the China Village Plan, went through, it would have destroyed Chinatown\'s economy. Community advocates fought again this project until it was abandoned. Chinatown become the center of social activities for Chinese Americans. Two social clubs, known as the Jade Club and the Four Seas was formed in Chinatown.</string>
     <string name="timeline1940sdes">World War II began. The Chinese Exclusion act was finally repealed in 1942, due to China allying with the US against Japan, and China was given a small quota of 105 immigrants annually. Many of them worked in restaurants, the garment industry, and hand washing business for less than minimum wage in awful conditions.</string>
-    <string name="timeline1950sdes">In the early 1950\'s, an urban renewal project threatened to remove Chinatown\'s historic core and replace it with businesses and residences in a large scale housing project. If the project, known as the China Village Plan, went through, it would have destoryed Chinatown\'s economy. Community advocates fought again this project until it was abandoned. Chinatown become the center of social activities for Chinese Americans. Two social clubs, known as the Jade Club and the Four Seas was formed in Chinatown.</string>
     <string name="timeline1960sdes">In 1965, the Immigration and Nationality Act abolished the Immigration Act of 1924, lifting the quota for Chinese immigrants. This led to a great immigration wave in Chinatown. The population exploded and caused Chinatown to grow and become more family oriented. Residents would take over parts of Little Italy by buying buildings and apartments to sell garments and goods.</string>
     <string name="timeline1970sdes">Guangdong and Hong Kong immigrants began to develop newer parts of Chinatown north of Canal Street and east of Bowery. However, east of the Bowery was a very quiet section because many New Yorkers, especially Chinese Americans, were afraid to go there. This is due to deteriorating buildings and high crime rates.</string>
     <string name="timeline1980sdes">Banks that opened new branches and renovated current ones in Chinatown began to use Chinese traditional styles for building facades. The Museum of Chinese in America was founded in 1980 to document the Chinese American experience.</string>
@@ -741,5 +741,27 @@
     <string name="factsbutton2">Next</string>
     <string name="timeline_button3">Present</string>
     <string name="facts_button3">Finish</string>
+    <string name="title_activity_transport_tabs">Activity Transport Tabs</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_transportation">Transportation Activity</string>
+    <string name="title_activity_transport">Transport Activity</string>
+    <string name="section_format">Hello World Section:</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="title_activity_trains_transport">Trains Transport Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="funfact1">Half of Chinatown was once part of the Five Points, an infamous slum. It was located between the Bowery, Park Row, Centre Street, and Canal Street</string>
+    <string name="funfact2">Canal Street was once, as the name implies, a canal. However, this canal was basically an open sewer and was a huge problem. It was filled in 1819 and a street in 1820.</string>
+    <string name="funfact3">The tallest Buddha Statue in New York is located at the Mahayana Buddhist Temple. It stands at 16 feet.</string>
+    <string name="funfact4">Excluding Asia, New York City has the largest Chinese population in a city.</string>
+    <string name="funfact5">Before 1965, Chinatown\'s population was overwhelmingly male. There was about 4,000 men to 20 married women! This is because entering the US after 1882 was almost impossible for the non-elite. Single and unemployed women weren\'t allowed to enter because they were viewed as prosititutes, who were banned in 1875.</string>
+    <string name="funfact6">Chinatown was a site of continous gang activity in the early 1800s. A gang called the Tongs controlled underground trades of gambling and drug dealing. Business owners also relied on the Tongs to provide loans, legal aid, and protection from goverment interference. Many business owners lived in their stores, which violated codes.</string>
+    <string name="funfact7">Most of Old Chinatown has closed down due to changing immigration patterns, increased government presence, and relentless market forces. Most of Old Chinatown\'s businesses were closed due to brutal rent prices.</string>
+    <string name="funfact8">Mott Street is the oldest street in Chinatown inhabited by the Chinese people.</string>
+    <string name="funfact9">Doyers Street has appeared in many tv shows and movies, such as Person of Interest and The Amazing Spider-Man 2.</string>
+    <string name="funfact10">Chinatown Fair on Mott Street is one of the last remaining classic arcades in the world.</string>
 
 </resources>
