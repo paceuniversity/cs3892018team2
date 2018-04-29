@@ -9,22 +9,29 @@
 
     <include
         android:id="@+id/include2"
-        android:layout_width="match_parent"
-        android:layout_height="70dp"
         layout="@layout/custom_main_menu_header"
-        android:layout_alignParentTop="true"/>
-
-    <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/include2">
+        android:layout_height="70dp" />
 
-        <ExpandableListView
-            android:id="@+id/_expandable_activities_view"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:paddingLeft="10dp"
-            android:paddingRight="10dp"/>
-    </LinearLayout>
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/include2">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <iammert.com.expandablelib.ExpandableLayout
+                android:id="@+id/activities_expandable_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:childLayout="@layout/activities_child"
+                app:parentLayout="@layout/activities_parent" />
+
+        </RelativeLayout>
+
+    </ScrollView>
+
 
 </RelativeLayout>
