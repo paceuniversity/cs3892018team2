@@ -94,22 +94,18 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
                // Log.d(TAG, "onClick: clicked on an image" + restaurantNames.get(position));
                Intent intent = new Intent(view.getContext(), SpecificFoodActivity.class);
                 rContext.startActivity(intent);
-<<<<<<< HEAD
-                */
-//<<<<<<< HEAD
-                Log.i("POSITION", (" " + position + " "));
-                Log.i("ARRAY SIZE", (" " + restaurantNames.size() + " "));
-                Log.i("INDEX", ( " " + restaurantNames.indexOf(restaurantNames.get(position)) + " "));
-//=======
-               int matching_var = (restaurantNames.get(position)%10000)/100;
-                Log.i("POSITION", (" " +  matching_var + " "));
-//>>>>>>> b9ab1e06244196ff346318d956647d5761ea89f2
-=======
 
                 Log.i("POSITION", (" " + position + " "));
                 Log.i("ARRAY SIZE", (" " + restaurantNames.size() + " "));
                 Log.i("INDEX", ( " " + restaurantNames.indexOf(restaurantNames.get(position)) + " "));
->>>>>>> 7abf19e1f4007cf622a0fa39893f6212fcf8ddd6
+
+               int matching_var = (restaurantNames.get(position)%10000)/100;
+                Log.i("POSITION", (" " +  matching_var + " "));
+
+                Log.i("POSITION", (" " + position + " "));
+                Log.i("ARRAY SIZE", (" " + restaurantNames.size() + " "));
+                Log.i("INDEX", ( " " + restaurantNames.indexOf(restaurantNames.get(position)) + " "));
+
 
             }
         });
