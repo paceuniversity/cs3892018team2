@@ -1,6 +1,7 @@
 package ahmed.niaz.chinatown_tour;
 
 import android.content.Context;
+import android.content.Intent;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 import android.view.LayoutInflater;
@@ -11,7 +12,6 @@ import android.widget.TextView;
 import com.bumptech.glide.Glide;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 import de.hdodenhof.circleimageview.CircleImageView;
 
@@ -92,11 +92,20 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
         holder.image.setOnClickListener(new View.OnClickListener(){
             public void onClick(View view){
                // Log.d(TAG, "onClick: clicked on an image" + restaurantNames.get(position));
-               /* Intent intent = new Intent (view.getContext(), SpecificFoodActivity.class);
+               Intent intent = new Intent(view.getContext(), SpecificFoodActivity.class);
                 rContext.startActivity(intent);
-                */
+
+                Log.i("POSITION", (" " + position + " "));
+                Log.i("ARRAY SIZE", (" " + restaurantNames.size() + " "));
+                Log.i("INDEX", ( " " + restaurantNames.indexOf(restaurantNames.get(position)) + " "));
+
                int matching_var = (restaurantNames.get(position)%10000)/100;
                 Log.i("POSITION", (" " +  matching_var + " "));
+
+                Log.i("POSITION", (" " + position + " "));
+                Log.i("ARRAY SIZE", (" " + restaurantNames.size() + " "));
+                Log.i("INDEX", ( " " + restaurantNames.indexOf(restaurantNames.get(position)) + " "));
+
 
             }
         });
