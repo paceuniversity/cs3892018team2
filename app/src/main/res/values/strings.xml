@@ -21,7 +21,7 @@
     <string name="hotel1_images" translatable="false"> </string>
     <string name="hotel1_website_link" translatable="false">http://www.leonhotelnyc.com/</string>
     <string name="hotel1_phone_number" translatable="false"> (212) 390-8833   </string>
-    <string name="hotel1_maplink">https://goo.gl/maps/BQLSoVjoVpA2 </string>
+    <string name="hotel1_maplink" translatable="false">https://goo.gl/maps/BQLSoVjoVpA2 </string>
 
     <string name="hotel2_name">Hotel Mimosa</string>
     <string name="hotel2_description_preview"> Hotel Mimosa is located in the East Side neighborhood in New York City, just one mile from Ground Zero... </string>
@@ -30,7 +30,7 @@
     <string name="hotel2_images" translatable="false"> </string>
     <string name="hotel2_website_link" translatable="false">https://www.hotelmimosany.com/</string>
     <string name="hotel2_phone_number" translatable="false">  (212) 343-4243  </string>
-    <string name="hotel2_maplink">https://goo.gl/maps/iMHEMe8qv4P2</string>
+    <string name="hotel2_maplink" translatable="false">https://goo.gl/maps/iMHEMe8qv4P2</string>
 
     <string name="hotel3_name">Wyndham Garden Chinatown</string>
     <string name="hotel3_address">93 Bowery, New York, NY 10002</string>
@@ -39,7 +39,7 @@
     <string name="hotel3_images" translatable="false">None</string>
     <string name="hotel3_website_link" translatable="false">http://www.wyndhamgardenchinatownnyc.com/</string>
     <string name="hotel3_phone_number" translatable="false"> (646) 329-3400   </string>
-    <string name="hotel3_maplink">https://goo.gl/maps/zvMyrbDsDqt</string>
+    <string name="hotel3_maplink" translatable="false">https://goo.gl/maps/zvMyrbDsDqt</string>
 
     <string name="hotel4_name">Hotel Mulberry</string>
     <string name="hotel4_address">52 Mulberry St, New York, NY 10013</string>
@@ -48,7 +48,7 @@
     <string name="hotel4_images" translatable="false">None</string>
     <string name="hotel4_website_link" translatable="false">http://www.hotelmulberry.com/</string>
     <string name="hotel4_phone_number" translatable="false"> (212) 385-4633   </string>
-    <string name="hotel4_maplink"> https://goo.gl/maps/V1tHt73LCsR2 </string>
+    <string name="hotel4_maplink" translatable="false"> https://goo.gl/maps/V1tHt73LCsR2 </string>
 
     <string name="hotel5_name">Hotel 50 Bowery NYC</string>
     <string name="hotel5_address">50 Bowery, New York, NY 10013</string>
@@ -57,7 +57,7 @@
     <string name="hotel5_images" translatable="false">None</string>
     <string name="hotel5_website_link" translatable="false">https://www.jdvhotels.com/hotels/new-york/nyc/hotel-50-bowery-nyc</string>
     <string name="hotel5_phone_number" translatable="false"> (212) 508-8000   </string>
-    <string name="hotel5_maplink">https://goo.gl/maps/1NQrfZ6Kntv </string>
+    <string name="hotel5_maplink" translatable="false">https://goo.gl/maps/1NQrfZ6Kntv </string>
 
     <string name="hotel6_name">Best Western Bowery Hanbee Hotel</string>
     <string name="hotel6_address">231 Grand St, New York, NY 10013</string>
@@ -66,7 +66,7 @@
     <string name="hotel6_images" translatable="false">None</string>
     <string name="hotel6_website_link" translatable="false">http://www.bw-boweryhanbeehotel.com/</string>
     <string name="hotel6_phone_number" translatable="false"> (212) 925-1177   </string>
-    <string name="hotel6_maplink"> https://goo.gl/maps/e9N2TbeY6N92 </string>
+    <string name="hotel6_maplink" translatable="false"> https://goo.gl/maps/e9N2TbeY6N92 </string>
 
     <string name="hotel7_name">Hotel 91</string>
     <string name="hotel7_address">91 E Broadway, New York, NY 10002</string>
@@ -76,7 +76,7 @@
     <string name="hotel7_images" translatable="false">None</string>
     <string name="hotel7_website_link" translatable="false">http://www.hotel91.com/</string>
     <string name="hotel7_phone_number" translatable="false"> (212) 266-6800   </string>
-    <string name="hotel7_maplink">https://goo.gl/maps/Yq4ZQci14fC2 </string>
+    <string name="hotel7_maplink" translatable="false">https://goo.gl/maps/Yq4ZQci14fC2 </string>
 
     <string name="hotel8_name">U.S. Pacific Hotel</string>
     <string name="hotel8_address">276 Canal St, New York, NY 10013</string>
@@ -85,7 +85,7 @@
     <string name="hotel8_images" translatable="false">None</string>
     <string name="hotel8_website_link" translatable="false">http://sohogardenhotel.com/</string>
     <string name="hotel8_phone_number" translatable="false"> (212) 226-0300   </string>
-    <string name="hotel8_maplink">https://goo.gl/maps/AbKNTXSW2rw </string>
+    <string name="hotel8_maplink" translatable="false">https://goo.gl/maps/AbKNTXSW2rw </string>
 
     <string name="hotel9_name">Tribeca blu</string>
     <string name="hotel9_address">blu hotel, New York, NY 10013</string>
@@ -94,7 +94,7 @@
     <string name="hotel9_images" translatable="false">None</string>
     <string name="hotel9_website_link" translatable="false">http://tribecabluhotel.com/</string>
     <string name="hotel9_phone_number" translatable="false"> (212) 941-6106 </string>
-    <string name="hotel9_maplink">https://goo.gl/maps/BQLSoVjoVpA2 </string>
+    <string name="hotel9_maplink" translatable="false">https://goo.gl/maps/BQLSoVjoVpA2 </string>
 
     <string name="hotel10_name">Sun Bright Hotel</string>
     <string name="hotel10_address"> 140 Hester St, New York, NY 10013</string>
@@ -103,7 +103,7 @@
     <string name="hotel10_images" translatable="false">None</string>
     <string name="hotel10_website_link" translatable="false">http://sunbrighthotelnyc.com/</string>
     <string name="hotel10_phone_number" translatable="false"> (212) 226-7070   </string>
-    <string name="hotel10_maplink">https://goo.gl/maps/8ZGVYEnrwCn</string>
+    <string name="hotel10_maplink" translatable="false">https://goo.gl/maps/8ZGVYEnrwCn</string>
 
     <string name="hotel11_name">Fairfield Inn &amp;amp; Suites by Marriott New York Manhattan/Downtown</string>
     <string name="hotel11_address">95 Henry St, New York, NY 10002</string>
@@ -112,7 +112,7 @@
     <string name="hotel11_images" translatable="false">None</string>
     <string name="hotel11_website_link" translatable="false">http://www.marriott.com/hotels/travel/nycfm-fairfield-inn-and-suites-new-york-manhattan-downtown-east/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2</string>
     <string name="hotel11_phone_number" translatable="false"> (212) 227-0709   </string>
-    <string name="hotel11_maplink"> https://goo.gl/maps/FsaYYk6TqDs </string>
+    <string name="hotel11_maplink" translatable="false"> https://goo.gl/maps/FsaYYk6TqDs </string>
 
     <string name="hotel12_name">Hotel Richland New York</string>
     <string name="hotel12_address">5 Allen St, New York, NY 10002</string>
@@ -121,7 +121,7 @@
     <string name="hotel12_images" translatable="false">None</string>
     <string name="hotel12_website_link" translatable="false">http://hotelrichlandnewyork.com/contact/</string>
     <string name="hotel12_phone_number" translatable="false"> (212) 219-1018   </string>
-    <string name="hotel12_maplink"> https://goo.gl/maps/oSSxEpFuKbD2 </string>
+    <string name="hotel12_maplink" translatable="false"> https://goo.gl/maps/oSSxEpFuKbD2 </string>
 
     <string name="hotel13_name">New World Hotel</string>
     <string name="hotel13_address">101 Bowery #2, New York, NY 10002</string>
@@ -130,7 +130,7 @@
     <string name="hotel13_images" translatable="false">None</string>
     <string name="hotel13_website_link" translatable="false">http://worldhotelnyc.com/</string>
     <string name="hotel13_phone_number" translatable="false"> (212) 226-5522   </string>
-    <string name="hotel13_maplink"> https://goo.gl/maps/fdnJfSTmTeJ2 </string>
+    <string name="hotel13_maplink" translatable="false"> https://goo.gl/maps/fdnJfSTmTeJ2 </string>
 
     <string name="hotel14_name">Canal Loft Hotel</string>
     <string name="hotel14_address">94 Canal St, New York, NY 10002</string>
@@ -139,7 +139,7 @@
     <string name="hotel14_images" translatable="false">None</string>
     <string name="hotel14_website_link" translatable="false">http://canal-loft-us.book.direct/en-gb</string>
     <string name="hotel14_phone_number" translatable="false"> (646) 882-0428   </string>
-    <string name="hotel14_maplink"> https://goo.gl/maps/bKWBf83AXKy</string>
+    <string name="hotel14_maplink" translatable="false"> https://goo.gl/maps/bKWBf83AXKy</string>
 
 
     <string name="hotel15_name">Windsor Hotel</string>
@@ -149,7 +149,7 @@
     <string name="hotel15_images" translatable="false">None</string>
     <string name="hotel15_website_link" translatable="false">http://windsorhotelnyc.com/?src=%2Findex2.html</string>
     <string name="hotel15_phone_number" translatable="false"> (212) 226-3009  </string>
-    <string name="hotel15_maplink"> https://goo.gl/maps/YRKaAjctjDt </string>
+    <string name="hotel15_maplink" translatable="false"> https://goo.gl/maps/YRKaAjctjDt </string>
 
     <string name="hotel16_name">Manhattan Bowery Lodge</string>
     <string name="hotel16_address">81 Bowery, New York, NY 10002</string>
@@ -158,7 +158,7 @@
     <string name="hotel16_images" translatable="false">None</string>
     <string name="hotel16_website_link" translatable="false">http://manhattanbowerylodgeny.us/</string>
     <string name="hotel16_phone_number" translatable="false"> (917) 353-5617 </string>
-    <string name="hotel16_maplink"> https://goo.gl/maps/RuTDdi7Kwa82</string>
+    <string name="hotel16_maplink" translatable="false"> https://goo.gl/maps/RuTDdi7Kwa82</string>
 
     <string name="hotel17_name">Bowery Grand Hotel</string>
     <string name="hotel17_address">143 Bowery, New York, NY 10002</string>
@@ -167,7 +167,7 @@
     <string name="hotel17_images" translatable="false">None</string>
     <string name="hotel17_website_link" translatable="false">http://bowerygrandhotel.com/</string>
     <string name="hotel17_phone_number" translatable="false">  (212) 226-6655  </string>
-    <string name="hotel17_maplink"> https://goo.gl/maps/S6hwohQNpXD2 </string>
+    <string name="hotel17_maplink" translatable="false"> https://goo.gl/maps/S6hwohQNpXD2 </string>
 
 
     <string name="hotel18_name">Comfort Inn Lower East Side</string>
@@ -177,7 +177,7 @@
     <string name="hotel18_images" translatable="false">None</string>
     <string name="hotel18_website_link" translatable="false"> http://www.comfortinnles.com/ </string>
     <string name="hotel18_phone_number" translatable="false"> (212) 390-1533   </string>
-    <string name="hotel18_maplink"> https://goo.gl/maps/BkkWJpoNZq42</string>
+    <string name="hotel18_maplink" translatable="false"> https://goo.gl/maps/BkkWJpoNZq42</string>
 
     <string-array name="hotel_names">
         <item>@string/hotel1_name </item>
@@ -224,9 +224,9 @@
     <!-- Activities -->
 
     <string name="activity1_name">Museum of Chinese in America</string>
-    <string name="activity1_static">devoted to presenting and preserving
+    <string name="activity1_static">Devoted to presenting and preserving
     the history, heritage, and culture of Chinese immigrants in the US</string>
-    <string name="activity1_type">Museum</string>
+    <string name="activity1_type">Activity Type: Museum</string>
     <string name="activity1_address">215 Centre Street</string>
     <string name="activity1_website" translatable="false">mocanyc.org</string>
     <string name="activity1_phone_number" translatable="false">212-619-4785</string>
@@ -235,7 +235,7 @@
     <string name="activity2_static">NYC\'s largest Buddhist temple; provides services such as
     formal ceremonies on weekends, fortune telling, weddings,
     and areas for friends and families of the deceased to pay their respects</string>
-    <string name="activity2_type">Religious Institution</string>
+    <string name="activity2_type">Activity Type: Religious Institution</string>
     <string name="activity2_address">133 Canal Street</string>
     <string name="activity2_website" translatable="false">mahayana.us</string>
     <string name="activity2_phone_number" translatable="false">212-925-8787</string>
@@ -243,7 +243,7 @@
     <string name="activity3_name" translatable="false">Aji Ichiban</string>
     <string name="activity3_static">an Asian snack paradise for those wishing to satisfy their sweet
     tooth; sells a variety of dried foods, exotic hard-to-find savory treats, and nostalgic Western treats</string>
-    <string name="activity3_type">Confectionery Shop</string>
+    <string name="activity3_type">Activity Type: Confectionery Shop</string>
     <string name="activity3_address">37 Mott Street</string>
     <string name="activity3_phone_number" translatable="false">212-233-7650</string>
 
@@ -255,7 +255,7 @@
     <string name="activity5_name" translatable="false">Apotheke</string>
     <string name="activity5_static">a bar inspired by European apothecaries and resembles
     a chemistry lab; offers over 250 cocktails, referred to as "prescriptions"</string>
-    <string name="activity5_type">Bar</string>
+    <string name="activity5_type">Activity Type: Bar</string>
     <string name="activity5_address">9 Doyers Street</string>
     <string name="activity5_website" translatable="false">apothekenyc.com</string>
     <string name="activity5_phone_number" translatable="false">212-406-0400</string>
@@ -263,7 +263,7 @@
     <string name="activity6_name">Columbus Park</string>
     <string name="activity6_static">at the heart of Chinatown; has a basketball court,
     playground, Astroturf field; The north is an area for mah-jongg and card players</string>
-    <string name="activity6_type">Park</string>
+    <string name="activity6_type">Activity Type: Park</string>
     <string name="activity6_address">66 Mulberry Street</string>
     <string name="activity6_website" translatable="false">nycgovparks.org/parks/columbus-park-m015/</string>
     <string name="activity6_phone_number" translatable="false">212-406-0400</string>
@@ -271,7 +271,7 @@
     <string name="activity7_name">Chinese Consolidated Benevolent Association</string>
     <string name="activity7_static">founded to serve and protect the interests of the Chinese people in
     the New York metropolitan area; provides social services, language classes and cultural preservation activities</string>
-    <string name="activity7_type">Community Center</string>
+    <string name="activity7_type">Activity Type: Community Center</string>
     <string name="activity7_address">62 Mott Street</string>
     <string name="activity7_website" translatable="false">ccbanyc.org</string>
     <string name="activity7_phone_number" translatable="false">212-226-6280</string>
@@ -279,28 +279,28 @@
     <string name="activity8_name">Magic Jewelry</string>
     <string name="activity8_static">an occult shop which specializes in feng shui,
     crystals, and horoscopes; the only place in the city that photographs and reads auras</string>
-    <string name="activity8_type">Shopping</string>
+    <string name="activity8_type">Activity Type: Shopping</string>
     <string name="activity8_address">238 Canal Street</string>
     <string name="activity8_phone_number" translatable="false">212-343-0663</string>
 
     <string name="activity9_name" translatable="false">Museum</string>
     <string name="activity9_static">a modern natural history museum located in a
     freight elevator; collection of unique artifacts</string>
-    <string name="activity9_type">N/A</string>
+    <string name="activity9_type">Activity Type: N/A</string>
     <string name="activity9_address">4 Cortlandt Alley</string>
     <string name="activity9_website" translatable="false">mmuseumm.com</string>
     <string name="activity9_phone_number" translatable="false">888-763-8839</string>
 
     <string name="activity10_name">Up Stairs</string>
     <string name="activity10_static">located on the second floor of an apartment building;     This small but lively bar encourages patrons to belt out to the classics while drinking brews on tap</string>
-    <string name="activity10_type">Karaoke Bar</string>
+    <string name="activity10_type">Activity Type: Karaoke Bar</string>
     <string name="activity10_address">59 Canal Street</string>
     <string name="activity10_phone_number" translatable="false">646-559-0098</string>
 
     <string name="activity11_name">Zu Yuan</string>
     <string name="activity11_static">spend a day of relaxation and unwinding; provides spa
     and beauty services for face and body </string>
-    <string name="activity11_type">Spa</string>
+    <string name="activity11_type">Activity Type: Spa</string>
     <string name="activity11_address">48 Mott Street</string>
     <string name="activity11_phone_number" translatable="false">212-587-8881</string>
 
@@ -312,7 +312,7 @@
         most notorious slum, to the narrow alleys Chinatown’s  “Bloody Angle.” In Little Italy’s Historic District
         we learn the ruthless tactics of the first Mafia bosses of New York, the proud efforts of NYPD Liutenant
         Joe Petrosino’s fight against these thugs. Organized Crime as we know it was born on these streets.</string>
-    <string name="activity12_type">Walking Tour</string>
+    <string name="activity12_type">Activity Type: Walking Tour</string>
     <string name="activity12_address">meets at the corner of Mulberry &amp;amp; Worth streets</string>
     <string name="activity12_website" translatable="false">nycgangstertours.com/</string>
     <string name="activity12_phone_number" translatable="false">516-652-4527</string>
@@ -320,7 +320,7 @@
     <string name="activity13_name">Church of the Transfiguration</string>
     <string name="activity13_static">serves the Irish, German, Italian and, most recently, Chinese communities;
      Sunday masses are held in English, Mandarin, and Cantonese; houses a chinese school</string>
-    <string name="activity13_type">N/A</string>
+    <string name="activity13_type">Activity Type: N/A</string>
     <string name="activity13_address">29 Mott Street</string>
     <string name="activity13_website" translatable="false">transfigurationnyc.org</string>
     <string name="activity13_phone_number" translatable="false">212-962-5157</string>
@@ -328,14 +328,14 @@
     <string name="activity14_name">Lunar New Year Parade &amp;amp; Festival</string>
     <string name="activity14_static">an annual celebration of the beginning of the turn of the
     Chinese lunisolar calendar; features all kinds of vendors, festivities, and food for all ages</string>
-    <string name="activity14_type">Parade</string>
+    <string name="activity14_type">Activity Type: Parade</string>
     <string name="activity14_address">East Houston Street to Canal Street</string>
     <string name="activity14_website" translatable="false">betterchinatown.com/</string>
 
     <string name="activity15_name">Autumn Mood Parade &amp;amp; Festival</string>
     <string name="activity15_static">an annual celebration of the end of the autumn harvest; held on the
     15th day of the 8th lunar month; features stage performances, cultural arts &amp;amp; crafts, calligraphy, gift booths, moon cake tastings, etc.</string>
-    <string name="activity15_type">N/A</string>
+    <string name="activity15_type">Activity Type: N/A</string>
     <string name="activity15_address">Mott Street; between Canal and Beyard Streets</string>
 
     <!-- Activities Sub-Section: Shopping -->
@@ -562,7 +562,6 @@
         in soups and stir-fries at this bustling, bare-bones spot.</string>
 
 
-
     <string-array name="restaurant_name_array">
         <item>@string/restaurant1_name</item>
         <item>@string/restaurant2_name</item>
@@ -712,12 +711,71 @@
     <string name="grand_street_description">During the week ends the B trains do not run. Only the D trains stop at this station.</string>
 
     <string name="m14a_bus">M14A Bus Route</string>
-    <string name="m14a_bus_description">If you are in West Village, Flatiron District, Gramacy Park or East Vilage you can take the M14A bus that will take you into the Lower East Side into Chinatown.</string>
-    
+    <string name="m14a_bus_description">If you are in West Village, Flatiron District, Gramercy Park or East Village you can take the M14A bus that will take you into the Lower East Side into Chinatown.</string>
+
     <string name="m21_bus">M21 Bus Route</string>
     <string name="m21_bus_description">Depending on where you are from Hudson Square to the Lower East Side, you can take the M21 bus to get across Manhattan.</string>
 
     <string name="m15_bus">M15 Bus Route</string>
     <string name="m15_bus_description">You can take the M15 bus almost from anywhere in Manhattan. If you are in the west side of Manhattan you will have to walk east. This bus goes from Harlem to lower Manhattan. </string>
 
-    </resources>
+    <!--Timeline Descriptions-->
+    <string name="timeline1870sdes">Chinatown was created, after immigrants were driven out of the West due to anti-Chinese sentiments due to the fear of unemployment after the collapse of the Gold Rush and completion of the Transcontinental Railroad. Immigrants clustered into Pell, Mott, and Doyers Street and this eventually expanded to Chinatown as it is known today.</string>
+    <string name="timeline1880sdes">The Chinese Exclusion Act was established in 1882 due to anti-Chinese sentiments, which banned naturalization of the Chinese already in the US and the immigration of any Chinese person without a special work permit. This permit were for merchants, students, and merchants. The law also prohibited the wives and children of Chinese laborers from also entering the US. A group of merchants founded the Chinese Consolidated Benevolent Association, which served as an unofficial local government.</string>
+    <string name="timeline1890sdes">Pell and Mott streets become lined with Chinese restaurants. This attracted much attention from non-Chinese New Yorkers.</string>
+    <string name="timeline1900sdes">The gangs waged bloody battles in Chinatown, which made the residents and tourists afraid to walk the streets. Much of the warfare occured on Doyers Street. Chinese gangs controlled certain territories in Chinatown. The On Leong and affiliate Ghost Shadows controlled Mott, Bayard, Canal, and Mulberry streets. The Flying Dragons and affiliates Hip Sing controlled Doyers, Pell, Bowery, Grand, and Hester streets. The Tongs and the On Leong were gangs that most frequently fought.</string>
+    <string name="timeline1910sdes">Dr. Sun Yat Sen delivered a speech to Chinatown residents in 1911 at the Chinese Opera House. Dr. Sun Yat Sen was the first president of modern China and a Chinese Nationalist leader. The Chinese Opera House was bought by the CCBA (Chinese Consolidated Benevolent Association) and become the city hall of Chinatown.</string>
+    <string name="timeline1920sdes">The era of Prohibition began in the 1920s and ended in 1933. Gang wars had worsened and dozens of members were killed. Chinatown was raided by federal agents as an attempt to lower gang related crimes. Hundreds of residents were brought to the Federal Building and inspected. Those with their papers were released but, those without were sent to Ellis Island or to jail.</string>
+    <string name="timeline1930sdes">All around the world, countries were affected by the Great Depression. By 1931, 25% of Chinese Americans were unemployed and some turned to tongs for financial welfare. The spare money left over was sent back to China for defense after Japan invaded. This, along with many other factors, led to a decline in gang related crimes.</string>
+    <string name="timeline1950sdes">In the early 1950\'s, an urban renewal project threatened to remove Chinatown\'s historic core and replace it with businesses and residences in a large scale housing project. If the project, known as the China Village Plan, went through, it would have destroyed Chinatown\'s economy. Community advocates fought again this project until it was abandoned. Chinatown become the center of social activities for Chinese Americans. Two social clubs, known as the Jade Club and the Four Seas was formed in Chinatown.</string>
+    <string name="timeline1940sdes">World War II began. The Chinese Exclusion act was finally repealed in 1942, due to China allying with the US against Japan, and China was given a small quota of 105 immigrants annually. Many of them worked in restaurants, the garment industry, and hand washing business for less than minimum wage in awful conditions.</string>
+    <string name="timeline1960sdes">In 1965, the Immigration and Nationality Act abolished the Immigration Act of 1924, lifting the quota for Chinese immigrants. This led to a great immigration wave in Chinatown. The population exploded and caused Chinatown to grow and become more family oriented. Residents would take over parts of Little Italy by buying buildings and apartments to sell garments and goods.</string>
+    <string name="timeline1970sdes">Guangdong and Hong Kong immigrants began to develop newer parts of Chinatown north of Canal Street and east of Bowery. However, east of the Bowery was a very quiet section because many New Yorkers, especially Chinese Americans, were afraid to go there. This is due to deteriorating buildings and high crime rates.</string>
+    <string name="timeline1980sdes">Banks that opened new branches and renovated current ones in Chinatown began to use Chinese traditional styles for building facades. The Museum of Chinese in America was founded in 1980 to document the Chinese American experience.</string>
+    <string name="timeline1990sdes">During the 1990s the most important gangs were: the Chinese Ghost Shadows, Flying Dragons, Tung On, Fuk Ching, Green Dragons, White Tigers, Hung Ching, the Taiwan Brotherhood, and the Vietnamese Born-To-Kill gang. All these gangs were fighting for their piece of the city rackets and things got violent quickly and often.</string>
+
+    <!--Timeline Buttons-->
+    <string name="timeline_button1">Past</string>
+    <string name="timeline_button2">Future</string>
+    <string name="facts_button1">Back</string>
+    <string name="facts_button2">Next</string>
+    <string name="timeline_button3">Present</string>
+    <string name="facts_button3">Finish</string>
+    <string name="title_activity_transport_tabs">Activity Transport Tabs</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_transportation">Transportation Activity</string>
+    <string name="title_activity_transport">Transport Activity</string>
+    <string name="section_format">Hello World Section:</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="title_activity_trains_transport">Trains Transport Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="funfact1">Half of Chinatown was once part of the Five Points, an infamous slum. It was located between the Bowery, Park Row, Centre Street, and Canal Street</string>
+    <string name="funfact2">Canal Street was once, as the name implies, a canal. However, this canal was basically an open sewer and was a huge problem. It was filled in 1819 and a street in 1820.</string>
+    <string name="funfact3">The tallest Buddha Statue in New York is located at the Mahayana Buddhist Temple. It stands at 16 feet.</string>
+    <string name="funfact4">Excluding Asia, New York City has the largest Chinese population in a city.</string>
+    <string name="funfact5">Before 1965, Chinatown\'s population was overwhelmingly male. There was about 4,000 men to 20 married women! This is because entering the US after 1882 was almost impossible for the non-elite. Single and unemployed women weren\'t allowed to enter because they were viewed as prostititutes, who were banned in 1875.</string>
+    <string name="funfact6">Chinatown was a site of continuous gang activity in the early 1800s. A gang called the Tongs controlled underground trades of gambling and drug dealing. Business owners also relied on the Tongs to provide loans, legal aid, and protection from government interference. Many business owners lived in their stores, which violated codes.</string>
+    <string name="funfact7">Most of Old Chinatown has closed down due to changing immigration patterns, increased government presence, and relentless market forces. Most of Old Chinatown\'s businesses were closed due to brutal rent prices.</string>
+    <string name="funfact8">Mott Street is the oldest street in Chinatown inhabited by the Chinese people.</string>
+    <string name="funfact9">Doyers Street has appeared in many tv shows and movies, such as Person of Interest and The Amazing Spider-Man 2.</string>
+    <string name="funfact10">Chinatown Fair on Mott Street is one of the last remaining classic arcades in the world.</string>
+
+    <string name="timeline1" translatable="false">1870s</string>
+    <string name="timeline2" translatable="false">1880s</string>
+    <string name="timeline3" translatable="false">1890s</string>
+    <string name="timeline4" translatable="false">1900s</string>
+    <string name="timeline5" translatable="false">1910s</string>
+    <string name="timeline6" translatable="false">1920s</string>
+    <string name="timeline7" translatable="false">1930s</string>
+    <string name="timeline8" translatable="false">1940s</string>
+    <string name="timeline9" translatable="false">1950s</string>
+    <string name="timeline10" translatable="false">1960s</string>
+    <string name="timeline11" translatable="false">1970s</string>
+    <string name="timeline12" translatable="false">1980s</string>
+    <string name="timeline13" translatable="false">1990s</string>
+</resources>

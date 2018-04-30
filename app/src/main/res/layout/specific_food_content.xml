@@ -16,10 +16,11 @@
         android:id="@+id/food_map_icon"
         android:layout_width="35dp"
         android:layout_height="32dp"
+        android:layout_marginStart="74dp"
         android:layout_marginTop="40dp"
         android:background="@drawable/map_btn_img"
-        app:layout_constraintTop_toBottomOf="@+id/imageView"
-        tools:layout_editor_absoluteX="74dp" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView" />
 
     <Button
         android:id="@+id/food_web_icon"
