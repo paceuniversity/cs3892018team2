@@ -738,7 +738,7 @@
     <string name="timeline_button1">Past</string>
     <string name="timeline_button2">Future</string>
     <string name="facts_button1">Back</string>
-    <string name="factsbutton2">Next</string>
+    <string name="facts_button2">Next</string>
     <string name="timeline_button3">Present</string>
     <string name="facts_button3">Finish</string>
     <string name="title_activity_transport_tabs">Activity Transport Tabs</string>
@@ -753,15 +753,29 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+
     <string name="funfact1">Half of Chinatown was once part of the Five Points, an infamous slum. It was located between the Bowery, Park Row, Centre Street, and Canal Street</string>
     <string name="funfact2">Canal Street was once, as the name implies, a canal. However, this canal was basically an open sewer and was a huge problem. It was filled in 1819 and a street in 1820.</string>
     <string name="funfact3">The tallest Buddha Statue in New York is located at the Mahayana Buddhist Temple. It stands at 16 feet.</string>
     <string name="funfact4">Excluding Asia, New York City has the largest Chinese population in a city.</string>
     <string name="funfact5">Before 1965, Chinatown\'s population was overwhelmingly male. There was about 4,000 men to 20 married women! This is because entering the US after 1882 was almost impossible for the non-elite. Single and unemployed women weren\'t allowed to enter because they were viewed as prostititutes, who were banned in 1875.</string>
+    <string name="funfact6">Chinatown was a site of continuous gang activity in the early 1800s. A gang called the Tongs controlled underground trades of gambling and drug dealing. Business owners also relied on the Tongs to provide loans, legal aid, and protection from government interference. Many business owners lived in their stores, which violated codes.</string>
     <string name="funfact7">Most of Old Chinatown has closed down due to changing immigration patterns, increased government presence, and relentless market forces. Most of Old Chinatown\'s businesses were closed due to brutal rent prices.</string>
     <string name="funfact8">Mott Street is the oldest street in Chinatown inhabited by the Chinese people.</string>
     <string name="funfact9">Doyers Street has appeared in many tv shows and movies, such as Person of Interest and The Amazing Spider-Man 2.</string>
     <string name="funfact10">Chinatown Fair on Mott Street is one of the last remaining classic arcades in the world.</string>
-    <string name="funfact6">Chinatown was a site of continuous gang activity in the early 1800s. A gang called the Tongs controlled underground trades of gambling and drug dealing. Business owners also relied on the Tongs to provide loans, legal aid, and protection from government interference. Many business owners lived in their stores, which violated codes.</string>
 
+    <string name="timeline1" translatable="false">1870s</string>
+    <string name="timeline2" translatable="false">1880s</string>
+    <string name="timeline3" translatable="false">1890s</string>
+    <string name="timeline4" translatable="false">1900s</string>
+    <string name="timeline5" translatable="false">1910s</string>
+    <string name="timeline6" translatable="false">1920s</string>
+    <string name="timeline7" translatable="false">1930s</string>
+    <string name="timeline8" translatable="false">1940s</string>
+    <string name="timeline9" translatable="false">1950s</string>
+    <string name="timeline10" translatable="false">1960s</string>
+    <string name="timeline11" translatable="false">1970s</string>
+    <string name="timeline12" translatable="false">1980s</string>
+    <string name="timeline13" translatable="false">1990s</string>
 </resources>
