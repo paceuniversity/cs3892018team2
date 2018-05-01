@@ -7,6 +7,8 @@ import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
@@ -32,13 +34,6 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
     private ArrayList<Integer> restaurantImages = new ArrayList<>();
     private Context rContext;
 
-    //==== SPECIFIC FOOD VARIABLES ===
-
-    public int spec_img;
-    public int spec_foodname;
-    public int spec_foodmenu_link;
-    public int spec_foodmap_link;
-    public int spec_foodweb_link;
 
 
     public RecyclerViewAdapter(Context context, ArrayList<Integer> names, ArrayList<Integer> images){
@@ -46,6 +41,7 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
         restaurantImages = images;
         rContext = context;
     }
+
 
     @Override
     //binds the restaurant layout file
@@ -59,28 +55,6 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
     public void onBindViewHolder(ViewHolder holder, final int position) {
         Log.d(TAG, "onCreateViewHolder: called"); //for debugging
 
-        // === TO MATCH POSITION AND FOOD OPTION
-
-        // === RESTAURANTS
-        matchRestaurant.add(2131624369);
-        matchRestaurant.add(2131624375);
-        matchRestaurant.add(2131624381);
-        matchRestaurant.add(2131624387);
-        matchRestaurant.add( 2131624393);
-        // === FAST FOOD
-       matchFastFood.add(2131624191);
-       matchFastFood.add(2131624173 );
-       matchFastFood.add(2131624179);
-       matchFastFood.add(2131624185);
-       matchFastFood.add(2131624167);
-        // === SWEETS
-        matchSweets.add(2131624403);
-        matchSweets.add(2131624409);
-        matchSweets.add(2131624415);
-        matchSweets.add(2131624421);
-        matchSweets.add(2131624427);
-
-
         Glide.with(rContext)
                 .asBitmap()
                 .load(restaurantImages.get(position))
@@ -92,19 +66,8 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
         holder.image.setOnClickListener(new View.OnClickListener(){
             public void onClick(View view){
                // Log.d(TAG, "onClick: clicked on an image" + restaurantNames.get(position));
-               Intent intent = new Intent(view.getContext(), SpecificFoodActivity.class);
+                Intent intent = new Intent(view.getContext(), SpecificFoodActivity.class);
                 rContext.startActivity(intent);
-
-                Log.i("POSITION", (" " + position + " "));
-                Log.i("ARRAY SIZE", (" " + restaurantNames.size() + " "));
-                Log.i("INDEX", ( " " + restaurantNames.indexOf(restaurantNames.get(position)) + " "));
-
-               int matching_var = (restaurantNames.get(position)%10000)/100;
-                Log.i("POSITION", (" " +  matching_var + " "));
-
-                Log.i("POSITION", (" " + position + " "));
-                Log.i("ARRAY SIZE", (" " + restaurantNames.size() + " "));
-                Log.i("INDEX", ( " " + restaurantNames.indexOf(restaurantNames.get(position)) + " "));
 
 
             }
@@ -127,5 +90,7 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
         }
 
     }
+
+
 
 }

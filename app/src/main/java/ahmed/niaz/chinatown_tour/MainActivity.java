@@ -80,7 +80,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        itinerary_lp_btn = (Button) findViewById(R.id.itinerary_landing_pg);
+        /*itinerary_lp_btn = (Button) findViewById(R.id.i);
        // itinerary_lp_btn.setBackgroundColor(0xFFFF0000);
         itinerary_lp_btn.setTextColor(Color.parseColor("#FFFFFF"));
         itinerary_lp_btn.setOnClickListener(new View.OnClickListener() {
@@ -89,7 +89,7 @@ public class MainActivity extends AppCompatActivity {
                 Intent intent = new Intent(MainActivity.this,ItineraryActivity.class);
                 startActivity(intent);
             }
-        });
+        });*/
 
         history_lp_btn = (Button) findViewById(R.id.history_landing_pg);
       //  history_lp_btn.setBackgroundColor(0xFFFF0000);

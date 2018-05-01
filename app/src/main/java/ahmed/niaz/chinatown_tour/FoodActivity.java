@@ -7,8 +7,10 @@ import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 import android.view.View;
+import android.widget.Button;
 import android.widget.ImageButton;
 import android.widget.ImageView;
+import android.widget.TextView;
 
 import java.util.ArrayList;
 
@@ -30,6 +32,7 @@ public class FoodActivity extends AppCompatActivity {
     //App Logo and Settings Variables
     private ImageView app_logo;
     public ImageButton settings_btn;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -61,7 +64,7 @@ public class FoodActivity extends AppCompatActivity {
             }
         });
 
-        // === Calling getRestaurants, getFastFood, and getSweets ===
+        // === Calling getRestaurants, getFastFood, and getSweets ==
         getRestaurants();
         getFastFood();
         getSweets();
