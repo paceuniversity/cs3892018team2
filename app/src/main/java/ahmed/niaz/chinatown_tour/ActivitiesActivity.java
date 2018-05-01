@@ -1,6 +1,7 @@
 package ahmed.niaz.chinatown_tour;
 
 import android.content.Intent;
+import android.graphics.drawable.Drawable;
 import android.net.Uri;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -149,6 +150,7 @@ public class ActivitiesActivity extends AppCompatActivity {
     public int activity_name_int;
     public int activity_phone_int;
     public int activity_website_int;
+    public int activity_image_int;
 
 
 
@@ -163,16 +165,17 @@ public class ActivitiesActivity extends AppCompatActivity {
             @Override
             public void renderParent(View view, ActivitiesHeader activitiesHeader, boolean b, int i) {
                 ((TextView) view.findViewById(R.id.activity_names)).setText(activitiesHeader.activity_name);
+                ((ImageView) view.findViewById(R.id.activity_image)).setImageDrawable(activitiesHeader.activity_image);
             }
 
             @Override
-            public void renderChild(View view, ActivitiesChild activitiesChild, int i, int i1) {
+            public void renderChild(View view, final ActivitiesChild activitiesChild, final int i, int i1) {
 
                 ((TextView) view.findViewById(R.id.textview_website)).setText(activitiesChild.website);
                 ((TextView) view.findViewById(R.id.textview_website)).setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
-                        Toast.makeText(ActivitiesActivity.this,activity_website_int,Toast.LENGTH_SHORT).show();
+                        Toast.makeText(ActivitiesActivity.this,activitiesChild.website,Toast.LENGTH_SHORT).show();
                     }
                 });
 
@@ -180,31 +183,34 @@ public class ActivitiesActivity extends AppCompatActivity {
                 ((TextView) view.findViewById(R.id.textview_phone)).setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
-                        Toast.makeText(ActivitiesActivity.this, activity_phone_int, Toast.LENGTH_SHORT).show();
+
+                        Toast.makeText(ActivitiesActivity.this, activitiesChild.phone, Toast.LENGTH_SHORT).show();
                     }
                 });
             }
         });
 
 
-        layout.addSection(getSection((R.string.activity1_name), (R.string.activity1_website), (R.string.activity1_phone_number)));
-        layout.addSection(getSection((R.string.activity2_name), (R.string.activity2_website), (R.string.activity2_phone_number)));
+        layout.addSection(getSection((R.drawable.activity1_image1),(R.string.activity1_name), (R.string.activity1_website), (R.string.activity1_phone_number)));
+        layout.addSection(getSection((R.drawable.activity2_image),(R.string.activity2_name), (R.string.activity2_website), (R.string.activity2_phone_number)));
     }
 
 
     // === Creates the List of Activities ===
-    private Section<ActivitiesHeader,ActivitiesChild> getSection(int name, int website, int phone) {
+    private Section<ActivitiesHeader,ActivitiesChild> getSection(int image, int name, int website, int phone) {
         activity_name_int = name;
         activity_website_int = website;
         activity_phone_int = phone;
+        activity_image_int = image;
 
         String activity_name = getResources().getString(activity_name_int);
         String activity_website = getResources().getString(activity_website_int);
         String activity_phone = getResources().getString(activity_phone_int);
+        Drawable activity_image = getResources().getDrawable(activity_image_int);
 
 
         Section<ActivitiesHeader, ActivitiesChild> section = new Section<>();
-        ActivitiesHeader activitiesHeader = new ActivitiesHeader(activity_name);
+        ActivitiesHeader activitiesHeader = new ActivitiesHeader(activity_image, activity_name);
 
 
         List<ActivitiesChild> listActivities = new ArrayList<>();

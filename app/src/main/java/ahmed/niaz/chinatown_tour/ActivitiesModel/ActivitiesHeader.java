@@ -23,8 +23,10 @@ import android.widget.ImageView;
 
 public class ActivitiesHeader {
     public String activity_name;
+    public Drawable activity_image;
 
-    public ActivitiesHeader(String activity_name) {
+    public ActivitiesHeader(Drawable activity_image, String activity_name) {
         this.activity_name = activity_name;
+        this.activity_image = activity_image;
     }
 }
