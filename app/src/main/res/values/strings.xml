@@ -228,7 +228,7 @@
     the history, heritage, and culture of Chinese immigrants in the US</string>
     <string name="activity1_type">Activity Type: Museum</string>
     <string name="activity1_address">215 Centre Street</string>
-    <string name="activity1_website" translatable="false">mocanyc.org</string>
+    <string name="activity1_website" translatable="false">http://www.mocanyc.org</string>
     <string name="activity1_phone_number" translatable="false">212-619-4785</string>
 
     <string name="activity2_name">Mayahana Temple Buddhist Association</string>
@@ -237,7 +237,7 @@
     and areas for friends and families of the deceased to pay their respects</string>
     <string name="activity2_type">Activity Type: Religious Institution</string>
     <string name="activity2_address">133 Canal Street</string>
-    <string name="activity2_website" translatable="false">mahayana.us</string>
+    <string name="activity2_website" translatable="false">http://mahayana.us</string>
     <string name="activity2_phone_number" translatable="false">212-925-8787</string>
 
     <string name="activity3_name" translatable="false">Aji Ichiban</string>
@@ -712,12 +712,21 @@
 
     <string name="m14a_bus">M14A Bus Route</string>
     <string name="m14a_bus_description">If you are in West Village, Flatiron District, Gramercy Park or East Village you can take the M14A bus that will take you into the Lower East Side into Chinatown.</string>
+    <string name="m14a_url">https://moveonmap.com/nyc/lnM14A/</string>
 
     <string name="m21_bus">M21 Bus Route</string>
     <string name="m21_bus_description">Depending on where you are from Hudson Square to the Lower East Side, you can take the M21 bus to get across Manhattan.</string>
+    <string name="m21_url">https://moveonmap.com/nyc/lnM21/</string>
 
     <string name="m15_bus">M15 Bus Route</string>
     <string name="m15_bus_description">You can take the M15 bus almost from anywhere in Manhattan. If you are in the west side of Manhattan you will have to walk east. This bus goes from Harlem to lower Manhattan. </string>
+    <string name="m15_url">https://moveonmap.com/nyc/lnM15/</string>
+
+    <string-array name="bus_urls">
+        <item>@string/m21_url</item>
+        <item>@string/m14a_url</item>
+        <item>@string/m15_url</item>
+    </string-array>
 
     <!--Timeline Descriptions-->
     <string name="timeline1870sdes">Chinatown was created, after immigrants were driven out of the West due to anti-Chinese sentiments due to the fear of unemployment after the collapse of the Gold Rush and completion of the Transcontinental Railroad. Immigrants clustered into Pell, Mott, and Doyers Street and this eventually expanded to Chinatown as it is known today.</string>

@@ -20,7 +20,11 @@
         android:layout_marginTop="40dp"
         android:background="@drawable/map_btn_img"
         app:layout_constraintStart_toStartOf="parent"
+<<<<<<< HEAD
         app:layout_constraintTop_toBottomOf="@+id/foodPic" />
+=======
+        app:layout_constraintTop_toBottomOf="@+id/imageView_routes" />
+>>>>>>> 5a7030e3205bf0b96d28c54ce7ebcaf04427651e
 
     <Button
         android:id="@+id/food_web_icon"
@@ -30,7 +34,11 @@
         android:layout_marginTop="40dp"
         android:background="@drawable/website_btn_img"
         app:layout_constraintStart_toEndOf="@+id/food_map_icon"
+<<<<<<< HEAD
         app:layout_constraintTop_toBottomOf="@+id/foodPic" />
+=======
+        app:layout_constraintTop_toBottomOf="@+id/imageView_routes" />
+>>>>>>> 5a7030e3205bf0b96d28c54ce7ebcaf04427651e
 
     <Button
         android:id="@+id/food_menu_icon"
@@ -40,10 +48,17 @@
         android:layout_marginTop="40dp"
         android:background="@drawable/menu_icon"
         app:layout_constraintStart_toEndOf="@+id/food_web_icon"
+<<<<<<< HEAD
         app:layout_constraintTop_toBottomOf="@+id/foodPic" />
 
     <ImageView
         android:id="@+id/foodPic"
+=======
+        app:layout_constraintTop_toBottomOf="@+id/imageView_routes" />
+
+    <ImageView
+        android:id="@+id/imageView_routes"
+>>>>>>> 5a7030e3205bf0b96d28c54ce7ebcaf04427651e
         android:layout_width="299dp"
         android:layout_height="207dp"
         android:layout_marginStart="40dp"
@@ -60,7 +75,11 @@
         android:layout_marginTop="8dp"
         android:gravity="center"
         android:text="Food Name Here"
+<<<<<<< HEAD
         app:layout_constraintBottom_toTopOf="@+id/foodPic"
+=======
+        app:layout_constraintBottom_toTopOf="@+id/imageView_routes"
+>>>>>>> 5a7030e3205bf0b96d28c54ce7ebcaf04427651e
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/include2" />
 
