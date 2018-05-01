@@ -9,7 +9,7 @@ import android.widget.ImageView;
  * Created by WilliamZhong on 4/26/18.
  */
 
-public class ActivitiesHeader {
+/*public class ActivitiesHeader {
     //public Drawable activity_image;
     public String activity_name;
     public String activity_type;
@@ -18,5 +18,13 @@ public class ActivitiesHeader {
         //this.activity_image = activity_image;
         this.activity_name = activity_name;
         this.activity_type = activity_type;
+    }
+}*/
+
+public class ActivitiesHeader {
+    public String activity_name;
+
+    public ActivitiesHeader(String activity_name) {
+        this.activity_name = activity_name;
     }
 }
