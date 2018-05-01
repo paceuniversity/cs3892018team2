@@ -4,8 +4,6 @@ import android.content.Context;
 import android.graphics.drawable.Drawable;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
-import android.support.v4.content.ContextCompat;
-import android.text.Layout;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -19,14 +17,13 @@ import java.util.ArrayList;
  * Created by WilliamZhong on 5/1/18.
  */
 
-public class BusListAdapter extends ArrayAdapter<BusObject> {
+public class TrainsListAdapter extends ArrayAdapter<TrainsObject>{
 
     private Context mContext;
 
     int mResource;
 
-
-    public BusListAdapter(Context context, int resource, ArrayList<BusObject> objects){
+    public TrainsListAdapter(Context context, int resource, ArrayList<TrainsObject> objects){
         super(context,resource,objects);
         mContext = context;
         mResource = resource;
@@ -35,20 +32,23 @@ public class BusListAdapter extends ArrayAdapter<BusObject> {
     @NonNull
     @Override
     public View getView(int position, @Nullable View convertView, @NonNull ViewGroup parent) {
-        String bus = getItem(position).getBus();
-        String description = getItem(position).getDescription();
+        String station = getItem(position).getStation();
+        String trains = getItem(position).getTrains();
+        String description = getItem(position).getDecription();
         Drawable image = getItem(position).getImage();
 
-        BusObject busObject = new BusObject(bus,description,image);
+        TrainsObject trainObject = new TrainsObject(station,trains,description,image);
 
         LayoutInflater inflater = LayoutInflater.from(mContext);
         convertView = inflater.inflate(mResource,parent,false);
 
-        TextView tvBus = (TextView)convertView.findViewById(R.id.textView_bus);
-        TextView tvDescription = (TextView)convertView.findViewById(R.id.textView_description);
-        ImageView ivImage = (ImageView) convertView.findViewById(R.id.imageView_routes);
+        TextView tvStation = (TextView)convertView.findViewById(R.id.train_station);
+        TextView tvTrain = (TextView)convertView.findViewById(R.id.trains);
+        TextView tvDescription = (TextView)convertView.findViewById(R.id.train_description);
+        ImageView ivImage = (ImageView) convertView.findViewById(R.id.train_image);
 
-        tvBus.setText(bus);
+        tvStation.setText(station);
+        tvTrain.setText(trains);
         tvDescription.setText(description);
         ivImage.setImageDrawable(image);
 

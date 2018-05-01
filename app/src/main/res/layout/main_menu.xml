@@ -30,12 +30,14 @@
             android:id="@+id/history_landing_pg"
             android:layout_width="366dp"
             android:layout_height="155dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="5dp"
             android:background="@drawable/mm_history"
             android:gravity="center"
             android:text="@string/history_button"
             android:textAppearance="@style/TextAppearance.AppCompat.Caption"
-            tools:layout_editor_absoluteX="10dp"
-            tools:layout_editor_absoluteY="329dp" />
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/poi_landing_pg" />
 
         <Button
             android:id="@+id/poi_landing_pg"

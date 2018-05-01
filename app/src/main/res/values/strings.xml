@@ -701,14 +701,17 @@
     <string name="canal_street_station">Canal Street Station</string>
     <string name="canal_street_trains" translatable="false">Trains: N, Q, R, W, J, Z, M, 4, 6</string>
     <string name="canal_street_description">There are multiple way to get to the Canal Street subway station. It is a very large station that consists of many trains.</string>
+    <string name="canal_url">https://www.google.com/maps/search/canal+street+train+station+maps/@40.6926789,-73.9890684,14z/data=!3m1!4b1</string>
 
     <string name="east_broadway_station">East Broadway Station</string>
     <string name="east_broadway_trains" translatable="false">Train: F</string>
     <string name="east_broadway_description">The only train that runs to East Broadway is the F train.</string>
+    <string name="eastBWay_url">https://www.google.com/maps/search/east+broadway+train+station+maps/@40.7122848,-74.0093877,14z/data=!3m1!4b1</string>
 
     <string name="grand_street_station">Grand Street Station</string>
     <string name="grand_street_trains" translatable="false">Trains: B, D</string>
     <string name="grand_street_description">During the week ends the B trains do not run. Only the D trains stop at this station.</string>
+    <string name="grand_url">https://www.google.com/maps/search/grand+street+train+station+maps/@40.7185249,-74.0065253,14z</string>
 
     <string name="m14a_bus">M14A Bus Route</string>
     <string name="m14a_bus_description">If you are in West Village, Flatiron District, Gramercy Park or East Village you can take the M14A bus that will take you into the Lower East Side into Chinatown.</string>
@@ -726,6 +729,12 @@
         <item>@string/m21_url</item>
         <item>@string/m14a_url</item>
         <item>@string/m15_url</item>
+    </string-array>
+
+    <string-array name="train_urls">
+        <item>@string/canal_url</item>
+        <item>@string/grand_url</item>
+        <item>@string/eastBWay_url</item>
     </string-array>
 
     <!--Timeline Descriptions-->
