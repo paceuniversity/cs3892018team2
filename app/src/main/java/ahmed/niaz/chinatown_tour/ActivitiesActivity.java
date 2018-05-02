@@ -7,7 +7,6 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
-import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -147,11 +146,12 @@ import iammert.com.expandablelib.Section;
 
 public class ActivitiesActivity extends AppCompatActivity {
 
+    public int activity_image_int;
     public int activity_name_int;
+    public int activity_address_int;
     public int activity_phone_int;
     public int activity_website_int;
-    public int activity_image_int;
-
+    public int activity_description_int;
 
 
     @Override
@@ -164,57 +164,91 @@ public class ActivitiesActivity extends AppCompatActivity {
         layout.setRenderer(new ExpandableLayout.Renderer<ActivitiesHeader, ActivitiesChild>() {
             @Override
             public void renderParent(View view, ActivitiesHeader activitiesHeader, boolean b, int i) {
-                ((TextView) view.findViewById(R.id.activity_names)).setText(activitiesHeader.activity_name);
                 ((ImageView) view.findViewById(R.id.activity_image)).setImageDrawable(activitiesHeader.activity_image);
+                ((TextView) view.findViewById(R.id.activity_names)).setText(activitiesHeader.activity_name);
+                ((TextView) view.findViewById(R.id.activity_address)).setText(activitiesHeader.activity_address);
             }
 
             @Override
             public void renderChild(View view, final ActivitiesChild activitiesChild, final int i, int i1) {
 
-                ((TextView) view.findViewById(R.id.textview_website)).setText(activitiesChild.website);
-                ((TextView) view.findViewById(R.id.textview_website)).setOnClickListener(new View.OnClickListener() {
+                ((TextView) view.findViewById(R.id.textView_web)).setText(activitiesChild.website);
+                ((TextView) view.findViewById(R.id.textView_web)).setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
-                        Toast.makeText(ActivitiesActivity.this,activitiesChild.website,Toast.LENGTH_SHORT).show();
+                        Uri uri = Uri.parse(activitiesChild.website); // missing 'http://' will cause crashed
+                        Intent intent = new Intent(Intent.ACTION_VIEW, uri);
+                        startActivity(intent);
                     }
                 });
 
-                ((TextView) view.findViewById(R.id.textview_phone)).setText(activitiesChild.phone);
-                ((TextView) view.findViewById(R.id.textview_phone)).setOnClickListener(new View.OnClickListener() {
+                ((TextView) view.findViewById(R.id.textView_phone)).setText(activitiesChild.phone);
+                ((TextView) view.findViewById(R.id.textView_phone)).setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
-
-                        Toast.makeText(ActivitiesActivity.this, activitiesChild.phone, Toast.LENGTH_SHORT).show();
+                        Toast.makeText(ActivitiesActivity.this,activitiesChild.phone,Toast.LENGTH_LONG).show();
                     }
                 });
+
+                ((TextView) view.findViewById(R.id.textview_description)).setText(activitiesChild.description);
             }
         });
 
 
-        layout.addSection(getSection((R.drawable.activity1_image1),(R.string.activity1_name), (R.string.activity1_website), (R.string.activity1_phone_number)));
-        layout.addSection(getSection((R.drawable.activity2_image),(R.string.activity2_name), (R.string.activity2_website), (R.string.activity2_phone_number)));
+        layout.addSection(getSection((R.drawable.activity1_image1),(R.string.activity1_name),
+                (R.string.activity1_address), (R.string.activity1_website), (R.string.activity1_phone_number),(R.string.activity1_static)));
+
+        layout.addSection(getSection((R.drawable.activity2_image2),(R.string.activity2_name),
+                (R.string.activity2_address),(R.string.activity2_website),(R.string.activity2_phone_number),(R.string.activity2_static)));
+
+        layout.addSection(getSection((R.drawable.activity5_image),(R.string.activity5_name),
+                (R.string.activity5_address),(R.string.activity5_website),(R.string.activity5_phone_number),(R.string.activity5_static)));
+
+        layout.addSection(getSection((R.drawable.activity6_image1),(R.string.activity6_name),
+                (R.string.activity6_address),(R.string.activity6_website),(R.string.activity6_phone_number),(R.string.activity6_static)));
+
+        layout.addSection(getSection((R.drawable.activity9_image),(R.string.activity9_name),
+                (R.string.activity9_address),(R.string.activity9_website),(R.string.activity9_phone_number),(R.string.activity9_static)));
+
+        layout.addSection(getSection((R.drawable.activity13_image1),(R.string.activity13_name),
+                (R.string.activity13_address),(R.string.activity13_website),(R.string.activity13_phone_number),(R.string.activity13_static)));
+
+        layout.addSection(getSection((R.drawable.activity_shopping_image1),(R.string.Activity1_shopping_name),
+                (R.string.Activity1_shopping_address),(R.string.Activity1_shopping_website_link),(R.string.Activity1_shopping_phone_number),
+                (R.string.Activity1_shopping_description)));
+
+        layout.addSection(getSection((R.drawable.activity_shopping_image2),(R.string.Activity2_shopping_name),
+                (R.string.Activity2_shopping_address),(R.string.Activity2_shopping_website_link),(R.string.Activity2_shopping_phone_number),
+                (R.string.Activity2_shopping_description)));
+
+
+
     }
 
 
     // === Creates the List of Activities ===
-    private Section<ActivitiesHeader,ActivitiesChild> getSection(int image, int name, int website, int phone) {
+    private Section<ActivitiesHeader,ActivitiesChild> getSection(int image, int name, int address, int website, int phone, int description) {
         activity_name_int = name;
+        activity_address_int = address;
+        activity_description_int = description;
         activity_website_int = website;
         activity_phone_int = phone;
         activity_image_int = image;
 
+        Drawable activity_image = getResources().getDrawable(activity_image_int);
         String activity_name = getResources().getString(activity_name_int);
+        String activity_address = getResources().getString(activity_address_int);
+        String activity_description = getResources().getString(activity_description_int);
         String activity_website = getResources().getString(activity_website_int);
         String activity_phone = getResources().getString(activity_phone_int);
-        Drawable activity_image = getResources().getDrawable(activity_image_int);
 
 
         Section<ActivitiesHeader, ActivitiesChild> section = new Section<>();
-        ActivitiesHeader activitiesHeader = new ActivitiesHeader(activity_image, activity_name);
+        ActivitiesHeader activitiesHeader = new ActivitiesHeader(activity_image, activity_name, activity_address);
 
 
         List<ActivitiesChild> listActivities = new ArrayList<>();
-        listActivities.add(new ActivitiesChild(activity_website,activity_phone));
+        listActivities.add(new ActivitiesChild(activity_website, activity_phone, activity_description));
         section.parent = activitiesHeader;
         section.children.addAll(listActivities);
 

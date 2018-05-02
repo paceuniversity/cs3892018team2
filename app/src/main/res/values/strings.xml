@@ -185,16 +185,238 @@
 
     <!-- Activities -->
 
+    <!-- 1 Used -->
     <string name="activity1_name">Museum of Chinese in America</string>
+<<<<<<< HEAD
+    <string name="activity1_static">Devoted to presenting and preserving
+    the history, heritage, and culture of Chinese immigrants in the US</string>
+    <string name="activity1_type">Activity Type: Museum</string>
+    <string name="activity1_address">Address: 215 Centre Street</string>
+=======
+>>>>>>> bf3ef65aefc87a9d6fd31f492339c21c2d87d347
     <string name="activity1_website" translatable="false">http://www.mocanyc.org</string>
     <string name="activity1_phone_number" translatable="false">212-619-4785</string>
 
+    <!-- 2 Used -->
     <string name="activity2_name">Mayahana Temple Buddhist Association</string>
+<<<<<<< HEAD
+    <string name="activity2_static">NYC\'s largest Buddhist temple; provides services such as
+    formal ceremonies on weekends, fortune telling, weddings,
+    and areas for friends and families of the deceased to pay their respects</string>
+    <string name="activity2_type">Activity Type: Religious Institution</string>
+    <string name="activity2_address">Address: 133 Canal Street</string>
+    <string name="activity2_website" translatable="false">http://mahayana.us</string>
+    <string name="activity2_phone_number" translatable="false">212-925-8787</string>
+
+    <string name="activity3_name" translatable="false">Aji Ichiban</string>
+    <string name="activity3_static">an Asian snack paradise for those wishing to satisfy their sweet
+    tooth; sells a variety of dried foods, exotic hard-to-find savory treats, and nostalgic Western treats</string>
+    <string name="activity3_type">Activity Type: Confectionery Shop</string>
+    <string name="activity3_address">37 Mott Street</string>
+    <string name="activity3_website">N/A</string>
+    <string name="activity3_phone_number" translatable="false">212-233-7650</string>
+
+    <!-- 3 Used -->
+    <string name="activity5_name" translatable="false">Apotheke</string>
+    <string name="activity5_static">A bar inspired by European apothecaries and resembles
+    a chemistry lab; offers over 250 cocktails, referred to as "prescriptions"</string>
+    <string name="activity5_type">Activity Type: Bar</string>
+    <string name="activity5_address">Address: 9 Doyers Street</string>
+    <string name="activity5_website" translatable="false">http://apothekenyc.com</string>
+    <string name="activity5_phone_number" translatable="false">212-406-0400</string>
+
+    <!-- 4 Used -->
+    <string name="activity6_name">Columbus Park</string>
+    <string name="activity6_static">At the heart of Chinatown; has a basketball court,
+    playground, Astroturf field; The north is an area for mah-jongg and card players</string>
+    <string name="activity6_type">Activity Type: Park</string>
+    <string name="activity6_address">Address: 66 Mulberry Street</string>
+    <string name="activity6_website" translatable="false">http://nycgovparks.org/parks/columbus-park-m015/</string>
+    <string name="activity6_phone_number" translatable="false">212-406-0400</string>
+
+    <string name="activity7_name">Chinese Consolidated Benevolent Association</string>
+    <string name="activity7_static">Founded to serve and protect the interests of the Chinese people in
+    the New York metropolitan area; provides social services, language classes and cultural preservation activities</string>
+    <string name="activity7_type">Activity Type: Community Center</string>
+    <string name="activity7_address">Address: 62 Mott Street</string>
+    <string name="activity7_website" translatable="false">http://ccbanyc.org</string>
+    <string name="activity7_phone_number" translatable="false">212-226-6280</string>
+
+    <string name="activity8_name">Magic Jewelry</string>
+    <string name="activity8_static">An occult shop which specializes in feng shui,
+    crystals, and horoscopes; the only place in the city that photographs and reads auras</string>
+    <string name="activity8_type">Activity Type: Shopping</string>
+    <string name="activity8_address">Address: 238 Canal Street</string>
+    <string name="activity8_website">N/A</string>
+    <string name="activity8_phone_number" translatable="false">212-343-0663</string>
+
+    <!-- 5 Used -->
+    <string name="activity9_name" translatable="false">Museum</string>
+    <string name="activity9_static">A modern natural history museum located in a
+    freight elevator; collection of unique artifacts</string>
+    <string name="activity9_type">Activity Type: N/A</string>
+    <string name="activity9_address">Address: 4 Cortlandt Alley</string>
+    <string name="activity9_website" translatable="false">http://mmuseumm.com</string>
+    <string name="activity9_phone_number" translatable="false">888-763-8839</string>
+
+    <string name="activity10_name">Up Stairs</string>
+    <string name="activity10_static">Located on the second floor of an apartment building this small but lively bar encourages patrons to belt out to the classics while drinking brews on tap</string>
+    <string name="activity10_type">Activity Type: Karaoke Bar</string>
+    <string name="activity10_address">59 Canal Street</string>
+    <string name="activity10_phone_number" translatable="false">646-559-0098</string>
+
+    <string name="activity11_name">Zu Yuan</string>
+    <string name="activity11_static">spend a day of relaxation and unwinding; provides spa
+    and beauty services for face and body </string>
+    <string name="activity11_type">Activity Type: Spa</string>
+    <string name="activity11_address">48 Mott Street</string>
+    <string name="activity11_website">N/A</string>
+    <string name="activity11_phone_number" translatable="false">212-587-8881</string>
+
+    <string name="activity12_name">NYC Gangster Tours</string>
+    <string name="activity12_static">From the 1840’s through 1920’s, learn about the earlier era of
+        street gangs of NYC and about the evolution from small packs of immigrant thugs with tightly knit
+        loyalties to an evolved, corporate style American  syndicate. Mulberry Street, from Chinatown to Little
+        Italy, is where most of the notorious gangsters in New York rose up. From the former Five Points, New York’s
+        most notorious slum, to the narrow alleys Chinatown’s  “Bloody Angle.” In Little Italy’s Historic District
+        we learn the ruthless tactics of the first Mafia bosses of New York, the proud efforts of NYPD Liutenant
+        Joe Petrosino’s fight against these thugs. Organized Crime as we know it was born on these streets.</string>
+    <string name="activity12_type">Activity Type: Walking Tour</string>
+    <string name="activity12_address">meets at the corner of Mulberry &amp;amp; Worth streets</string>
+    <string name="activity12_website" translatable="false">nycgangstertours.com/</string>
+    <string name="activity12_phone_number" translatable="false">516-652-4527</string>
+
+    <!-- 6 Used -->
+    <string name="activity13_name">Church of the Transfiguration</string>
+    <string name="activity13_static">serves the Irish, German, Italian and, most recently, Chinese communities;
+     Sunday masses are held in English, Mandarin, and Cantonese; houses a chinese school</string>
+    <string name="activity13_type">Activity Type: N/A</string>
+    <string name="activity13_address">Address: 29 Mott Street</string>
+    <string name="activity13_website" translatable="false">http://transfigurationnyc.org</string>
+    <string name="activity13_phone_number" translatable="false">212-962-5157</string>
+
+    <string name="activity14_name">Lunar New Year Parade &amp;amp; Festival</string>
+    <string name="activity14_static">an annual celebration of the beginning of the turn of the
+    Chinese lunisolar calendar; features all kinds of vendors, festivities, and food for all ages</string>
+    <string name="activity14_type">Activity Type: Parade</string>
+    <string name="activity14_address">East Houston Street to Canal Street</string>
+    <string name="activity14_website" translatable="false">betterchinatown.com/</string>
+
+    <string name="activity15_name">Autumn Mood Parade &amp;amp; Festival</string>
+    <string name="activity15_static">an annual celebration of the end of the autumn harvest; held on the
+    15th day of the 8th lunar month; features stage performances, cultural arts &amp;amp; crafts, calligraphy, gift booths, moon cake tastings, etc.</string>
+    <string name="activity15_type">Activity Type: N/A</string>
+    <string name="activity15_address">Mott Street; between Canal and Beyard Streets</string>
+
+    <!-- Activities Sub-Section: Shopping -->
+
+    <!-- 7 Used -->
+    <string name="Activity1_shopping_name">K. K. Discount Store  </string>
+    <string name="Activity1_shopping_description">No-frills stalwart stocking a variety of home goods &amp; Asian decor, from teapots to small furniture.</string>
+    <string name="Activity1_shopping_images" translatable="false">  </string>
+    <string name="Activity1_shopping_address">Address: 78 Mulberry St, New York, NY 10013 </string>
+    <string name="Activity1_shopping_website_link" translatable="false"> http://www.kkdiscount.com/ </string>
+    <string name="Activity1_shopping_phone_number" translatable="false"> (212) 513-7043 </string>
+
+    <!-- 8 Used -->
+    <string name="Activity2_shopping_name" translatable="false">T-Pop Shop NYC  </string>
+    <string name="Activity2_shopping_static">T-Pop Shop is a trendsetting Online Second Hand Clothing Store, offering first-rate products and exceptional customer     service to shoppers from the comfort of their own homes</string>
+    <string name="Activity2_shopping_description">Shopping  </string>
+    <string name="Activity2_shopping_images" translatable="false">  </string>
+    <string name="Activity2_shopping_address">Address: 59 Franklin St, New York, NY 10013  </string>
+    <string name="Activity2_shopping_website_link" translatable="false"> http://www.tpopshop.nyc/ </string>
+    <string name="Activity2_shopping_phone_number" translatable="false">(917)-582-0701 </string>
+
+    <string name="Activity3_shopping_name"> Lun Hong Flower Shop </string>
+    <string name="Activity3_shopping_Static_Info"> If you need flowers arrangements, this is the place to go! Reasonably priced, and beautiful selections to choose from! </string>
+    <string name="Activity3_shopping_description">Shopping  </string>
+    <string name="Activity3_shopping_images" translatable="false">  </string>
+    <string name="Activity3_shopping_address">50 Mulberry St, New York, NY 10013  </string>
+    <string name="Activity3_shopping_website_link" translatable="false"> N/a </string>
+    <string name="Activity3_shopping_phone_number" translatable="false">(212)-233-2950</string>
+
+    <string name="Activity4_shopping_name"> Yùnhóng Chopsticks </string>
+    <string name="Activity4_shopping_Static_Info"> An excellent selection and display of various chopsticks. The selections range from simple children\'s, to elegant formal chopsticks.  </string>
+    <string name="Activity4_shopping_description">Shopping  </string>
+    <string name="Activity4_shopping_images" translatable="false">  </string>
+    <string name="Activity4_shopping_address"> 50 Mott St, New York, NY 10013 </string>
+    <string name="Activity4_shopping_website_link" translatable="false"> N/a </string>
+    <string name="Activity4_shopping_phone_number" translatable="false">(212)-566-8828 </string>
+
+    <string name="Activity5_shopping_name"> Magic Jewelry </string>
+    <string name="Activity5_shopping_Static_Info">An occult shop which specializes in feng shui, crystals, and horoscopes; the only place in the city that photographs and reads auras  </string>
+    <string name="Activity5_shopping_description">Shopping  </string>
+    <string name="Activity5_shopping_images" translatable="false">  </string>
+    <string name="Activity5_shopping_address"> 238 Canal Street New York NY 10013 </string>
+    <string name="Activity5_shopping_website_link" translatable="false"> N/a </string>
+    <string name="Activity5_shopping_phone_number" translatable="false"> (212) 343-0663 </string>
+
+    <string name="Activity6_shopping_name"> Pearl River Mart </string>
+    <string name="Activity6_shopping_description">Eclectic emporium with 3-floors of Chinese apparel, accessories, housewares &amp; furniture.</string>
+    <string name="Activity6_shopping_images" translatable="false">  </string>
+    <string name="Activity6_shopping_address">Address 395 Broadway, New York, NY 10013  </string>
+    <string name="Activity6_shopping_website_link" translatable="false">http://www.pearlriver.com/  </string>
+    <string name="Activity6_shopping_phone_number" translatable="false">(212)-431-4770</string>
+
+    <string name="Activity7_shopping_name">Chinatown Toy Store  </string>
+    <string name="Activity7_shopping_Static_Info">" Come here for cute and cheap toys! So much product and easy to get lost in because of extremely cheap prices. Small stuffed     animals (rilakkuma, doraemon, Totoro, Pokémon, etc) ranging from $3 to $5 "</string>
+    <string name="Activity7_shopping_description"> Shopping </string>
+    <string name="Activity7_shopping_images" translatable="false">  </string>
+    <string name="Activity7_shopping_address"> 83 Bayard St, New York, NY 10013 </string>
+    <string name="Activity7_shopping_website_link" translatable="false"> http://www.facebook.com/chinatowntoystore </string>
+    <string name="Activity7_shopping_phone_number" translatable="false"> N/a </string>
+
+    <string name="Activity8_shopping_name"> Canal Street </string>
+    <string name="Activity8_shopping_Static_Info"> An open-street shopping experience with an open-air bazaar feel, complete with vendors willing to bargain  </string>
+    <string name="Activity8_shopping_description">Shopping  </string>
+    <string name="Activity8_shopping_images" translatable="false">  </string>
+    <string name="Activity8_shopping_address"> Canal Street New York, NY 10013  </string>
+    <string name="Activity8_shopping_website_link" translatable="false"> N/a </string>
+    <string name="Activity_shopping8_phone_number" translatable="false"> N/a </string>
+
+    <string-array name="activities_name">
+        <item>@string/activity1_name</item>
+        <item>@string/activity2_name</item>
+        <item>@string/activity3_name</item>
+        <item>@string/activity4_name</item>
+        <item>@string/activity5_name</item>
+        <item>@string/activity6_name</item>
+        <item>@string/activity7_name</item>
+        <item>@string/activity8_name</item>
+        <item>@string/activity9_name</item>
+        <item>@string/activity10_name</item>
+        <item>@string/activity11_name</item>
+        <item>@string/activity12_name</item>
+        <item>@string/activity13_name</item>
+        <item>@string/activity14_name</item>
+        <item>@string/activity15_name</item>
+    </string-array>
+
+    <string-array name="activities_static_info">
+        <item>@string/activity1_type</item>
+        <item>@string/activity2_type</item>
+        <item>@string/activity3_type</item>
+        <item>@string/activity4_type</item>
+        <item>@string/activity5_type</item>
+        <item>@string/activity6_type</item>
+        <item>@string/activity7_type</item>
+        <item>@string/activity8_type</item>
+        <item>@string/activity9_type</item>
+        <item>@string/activity10_type</item>
+        <item>@string/activity11_type</item>
+        <item>@string/activity12_type</item>
+        <item>@string/activity13_type</item>
+        <item>@string/activity14_type</item>
+        <item>@string/activity15_type</item>
+
+    </string-array>
+=======
     <string name="activity2_website" translatable="false">http://mahayana.us</string>
     <string name="activity2_phone_number" translatable="false">212-925-8787</string>
 
     <!-- Activities Sub-Section: Shopping -->
 
+>>>>>>> bf3ef65aefc87a9d6fd31f492339c21c2d87d347
     <!--  Historical Sights -->
 
 
