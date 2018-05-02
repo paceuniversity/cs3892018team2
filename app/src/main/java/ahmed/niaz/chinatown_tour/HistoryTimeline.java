@@ -20,9 +20,6 @@ public class HistoryTimeline extends AppCompatActivity {
 
     TimelineSliderAdapter sliderAdapter;
 
-    Button mPastBtn;  //back
-    Button mFutureBtn;  //next
-
     int mCurrentPage;
 
 
@@ -34,32 +31,12 @@ public class HistoryTimeline extends AppCompatActivity {
         mSlideViewPager = (ViewPager) findViewById( R.id.slideViewPager);
         mDotLayout = (LinearLayout) findViewById( R.id.dotLayout);
 
-        mPastBtn = (Button) findViewById( R.id.pastBtn);
-        mFutureBtn = (Button) findViewById( R.id.futureBtn);
-
         sliderAdapter = new TimelineSliderAdapter(this);
 
         mSlideViewPager.setAdapter(sliderAdapter);
 
         addDotsIndicator(0);
         mSlideViewPager.addOnPageChangeListener(viewListener);
-
-        //https://www.youtube.com/watch?v=byLKoPgB7yA
-        mFutureBtn.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-
-                mSlideViewPager.setCurrentItem(mCurrentPage + 1);
-            }
-        });
-
-        mPastBtn.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-
-                mSlideViewPager.setCurrentItem(mCurrentPage - 1);
-            }
-        });
     }
 
     public void addDotsIndicator(int position){
@@ -77,7 +54,7 @@ public class HistoryTimeline extends AppCompatActivity {
             mDotLayout.addView(mDots[i]);
         }
 
-        if(mDots.length > 0){
+        if(position < mDots.length){
 
             mDots[position].setTextColor(getResources().getColor( R.color.colorPrimaryDark));
 
@@ -98,32 +75,6 @@ public class HistoryTimeline extends AppCompatActivity {
 
             mCurrentPage = i;
 
-            if(i == 0){
-                mFutureBtn.setEnabled(true);
-                mPastBtn.setEnabled(false);
-                mPastBtn.setVisibility(View.INVISIBLE);
-
-                mFutureBtn.setText(context.getResources().getString( R.string.timeline_button2));
-                mPastBtn.setTag("");
-            }
-
-            else if (i == mDots.length -1){
-                mFutureBtn.setEnabled(true);
-                mPastBtn.setEnabled(true);
-                mPastBtn.setVisibility(View.VISIBLE);
-
-                mFutureBtn.setText(context.getResources().getString( R.string.timeline_button3));
-                mPastBtn.setTag(context.getResources().getString( R.string.timeline_button1));
-            }
-
-            else {
-                mFutureBtn.setEnabled(true);
-                mPastBtn.setEnabled(true);
-                mPastBtn.setVisibility(View.VISIBLE);
-
-                mFutureBtn.setText(context.getResources().getString( R.string.timeline_button3));
-                mPastBtn.setTag(context.getResources().getString( R.string.timeline_button1));
-            }
         }
 
         @Override

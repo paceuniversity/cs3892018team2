@@ -7,6 +7,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
+import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 public class TimelineSliderAdapter extends PagerAdapter {
@@ -83,11 +84,11 @@ public class TimelineSliderAdapter extends PagerAdapter {
     public Object instantiateItem(ViewGroup container, int position) {
 
         layoutInflater = (LayoutInflater) context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
-        View view = layoutInflater.inflate( R.layout.timeline, container, false);
+        View view = layoutInflater.inflate( R.layout.timelineslidelayout, container, false);
 
-        ImageView slideImageView = (ImageView) view.findViewById( R.id.slideImages);
-        TextView slideHeading = view.findViewById( R.id.slideHeadings);
-        TextView slideDescription = view.findViewById( R.id.slideDescriptions);
+        ImageView slideImageView = (ImageView) view.findViewById( R.id.timelineimage);
+        TextView slideHeading = view.findViewById( R.id.timelineheading);
+        TextView slideDescription = view.findViewById( R.id.timelinedescription);
 
         slideImageView.setImageResource(slide_images[position]);
         slideHeading.setText(slide_headings[position]);
@@ -101,6 +102,6 @@ public class TimelineSliderAdapter extends PagerAdapter {
     @Override //stops
     public void destroyItem(ViewGroup container, int position, Object object) {
 
-        container.removeView((ConstraintLayout)object);
+        container.removeView((RelativeLayout)object);
     }
 }

@@ -20,22 +20,16 @@ public class HistoryFacts extends AppCompatActivity {
 
     FactsSliderAdapter sliderAdapter;
 
-    Button mBackBtn;
-    Button mNextBtn;
-
     int mCurrentPage;
 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView( R.layout.fun_facts_layout);
+        setContentView( R.layout.fun_facts);
 
         mSlideViewPager = (ViewPager) findViewById( R.id.slideViewPager);
         mDotLayout = (LinearLayout) findViewById( R.id.dotLayout);
-
-        mBackBtn = (Button) findViewById( R.id.pastBtn);
-        mNextBtn = (Button) findViewById( R.id.futureBtn);
 
         sliderAdapter = new FactsSliderAdapter(this);
 
@@ -43,23 +37,7 @@ public class HistoryFacts extends AppCompatActivity {
 
         addDotsIndicator(0);
         mSlideViewPager.addOnPageChangeListener(viewListener);
-
-        mNextBtn.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-
-                mSlideViewPager.setCurrentItem(mCurrentPage + 1);
-            }
-        });
-
-        mBackBtn.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-
-                mSlideViewPager.setCurrentItem(mCurrentPage - 1);
-            }
-        });
-    }
+     }
 
     public void addDotsIndicator(int position){
 
@@ -76,7 +54,7 @@ public class HistoryFacts extends AppCompatActivity {
             mDotLayout.addView(mDots[i]);
         }
 
-        if(mDots.length > 0){
+        if(position < mDots.length){
 
             mDots[position].setTextColor(getResources().getColor( R.color.colorPrimaryDark));
 
@@ -96,33 +74,6 @@ public class HistoryFacts extends AppCompatActivity {
             addDotsIndicator(i);
 
             mCurrentPage = i;
-
-            if(i == 0){
-                mNextBtn.setEnabled(true);
-                mBackBtn.setEnabled(false);
-                mBackBtn.setVisibility(View.INVISIBLE);
-
-                mNextBtn.setText(context.getResources().getString( R.string.timeline_button2));
-                mBackBtn.setTag("");
-            }
-
-            else if (i == mDots.length -1){
-                mNextBtn.setEnabled(true);
-                mBackBtn.setEnabled(true);
-                mBackBtn.setVisibility(View.VISIBLE);
-
-                mNextBtn.setText(context.getResources().getString( R.string.timeline_button3));
-                mBackBtn.setTag(context.getResources().getString( R.string.timeline_button1));
-            }
-
-            else {
-                mNextBtn.setEnabled(true);
-                mBackBtn.setEnabled(true);
-                mBackBtn.setVisibility(View.VISIBLE);
-
-                mNextBtn.setText(context.getResources().getString( R.string.timeline_button3));
-                mBackBtn.setTag(context.getResources().getString( R.string.timeline_button1));
-            }
         }
 
         @Override
