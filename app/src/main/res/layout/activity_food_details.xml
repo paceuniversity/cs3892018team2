@@ -12,23 +12,27 @@
         layout="@layout/custom_main_menu_header"
         />
 
-    <ImageView
-        android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="50"
-        android:id="@+id/foodPic"
-        android:scaleType="centerCrop"
-        android:src="@mipmap/ic_launcher"/>
-
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/foodName"
         android:layout_marginLeft="10dp"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
         android:text="FOOD NAME HERE"
-        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textSize="16sp"
         android:textColor="#000"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="50"
+        android:layout_marginTop="20dp"
+        android:id="@+id/foodPic"
+        android:scaleType="centerCrop"
+        android:src="@mipmap/ic_launcher"/>
+
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -38,28 +42,30 @@
         android:layout_marginTop="20dp">
 
         <ImageButton
-            android:id="@+id/food_website"
+            android:id="@+id/food_location"
             android:layout_width="63dp"
             android:layout_height="66dp"
             android:layout_marginStart="10dp"
-            android:src="@drawable/website_btn_img"
+            android:src="@drawable/map_btn_img2"
+            android:background="@color/white"/>
+
+        <ImageButton
+            android:id="@+id/food_website"
+            android:layout_width="63dp"
+            android:layout_height="66dp"
+            android:layout_marginStart="80dp"
+            android:src="@drawable/website_btn_img2"
             android:background="@color/white"/>
 
         <ImageButton
             android:id="@+id/food_menu"
             android:layout_width="63dp"
-            android:layout_height="66dp"
-            android:layout_marginStart="80dp"
-            android:src="@drawable/menu_icon"
+            android:layout_height="63dp"
+            android:layout_marginStart="70dp"
+            android:src="@drawable/menu_icon3"
             android:background="@color/white"/>
 
-        <ImageButton
-            android:id="@+id/food_location"
-            android:layout_width="63dp"
-            android:layout_height="66dp"
-            android:layout_marginStart="70dp"
-            android:src="@drawable/map_btn_img"
-            android:background="@color/white"/>
+
 
     </LinearLayout>
 
@@ -71,7 +77,7 @@
         android:text="DESCRIPTION HERE"
         android:layout_marginLeft="10dp"
         android:layout_marginTop="20dp"
-        android:textSize="20sp"
+        android:textSize="17sp"
         android:textColor="#000"/>
 
 
