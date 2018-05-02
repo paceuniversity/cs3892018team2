@@ -141,6 +141,8 @@
     <string name="hotel18_phone_number" translatable="false"> (212) 390-1533   </string>
     <string name="hotel18_maplink" translatable="false"> https://goo.gl/maps/BkkWJpoNZq42</string>
 
+
+
     <string-array name="hotel_names">
         <item>@string/hotel1_name </item>
         <item>@string/hotel2_name </item>
@@ -187,19 +189,15 @@
 
     <!-- 1 Used -->
     <string name="activity1_name">Museum of Chinese in America</string>
-<<<<<<< HEAD
     <string name="activity1_static">Devoted to presenting and preserving
     the history, heritage, and culture of Chinese immigrants in the US</string>
     <string name="activity1_type">Activity Type: Museum</string>
     <string name="activity1_address">Address: 215 Centre Street</string>
-=======
->>>>>>> bf3ef65aefc87a9d6fd31f492339c21c2d87d347
     <string name="activity1_website" translatable="false">http://www.mocanyc.org</string>
     <string name="activity1_phone_number" translatable="false">212-619-4785</string>
 
     <!-- 2 Used -->
     <string name="activity2_name">Mayahana Temple Buddhist Association</string>
-<<<<<<< HEAD
     <string name="activity2_static">NYC\'s largest Buddhist temple; provides services such as
     formal ceremonies on weekends, fortune telling, weddings,
     and areas for friends and families of the deceased to pay their respects</string>
@@ -213,7 +211,7 @@
     tooth; sells a variety of dried foods, exotic hard-to-find savory treats, and nostalgic Western treats</string>
     <string name="activity3_type">Activity Type: Confectionery Shop</string>
     <string name="activity3_address">37 Mott Street</string>
-    <string name="activity3_website">N/A</string>
+    <string name="activity3_website" translatable="false">N/A</string>
     <string name="activity3_phone_number" translatable="false">212-233-7650</string>
 
     <!-- 3 Used -->
@@ -247,7 +245,7 @@
     crystals, and horoscopes; the only place in the city that photographs and reads auras</string>
     <string name="activity8_type">Activity Type: Shopping</string>
     <string name="activity8_address">Address: 238 Canal Street</string>
-    <string name="activity8_website">N/A</string>
+    <string name="activity8_website" translatable="false">N/A</string>
     <string name="activity8_phone_number" translatable="false">212-343-0663</string>
 
     <!-- 5 Used -->
@@ -270,7 +268,7 @@
     and beauty services for face and body </string>
     <string name="activity11_type">Activity Type: Spa</string>
     <string name="activity11_address">48 Mott Street</string>
-    <string name="activity11_website">N/A</string>
+    <string name="activity11_website" translatable="false">N/A</string>
     <string name="activity11_phone_number" translatable="false">212-587-8881</string>
 
     <string name="activity12_name">NYC Gangster Tours</string>
@@ -378,7 +376,6 @@
         <item>@string/activity1_name</item>
         <item>@string/activity2_name</item>
         <item>@string/activity3_name</item>
-        <item>@string/activity4_name</item>
         <item>@string/activity5_name</item>
         <item>@string/activity6_name</item>
         <item>@string/activity7_name</item>
@@ -396,7 +393,6 @@
         <item>@string/activity1_type</item>
         <item>@string/activity2_type</item>
         <item>@string/activity3_type</item>
-        <item>@string/activity4_type</item>
         <item>@string/activity5_type</item>
         <item>@string/activity6_type</item>
         <item>@string/activity7_type</item>
@@ -410,14 +406,9 @@
         <item>@string/activity15_type</item>
 
     </string-array>
-=======
-    <string name="activity2_website" translatable="false">http://mahayana.us</string>
-    <string name="activity2_phone_number" translatable="false">212-925-8787</string>
+ <!-- Activities Sub-Section: Shopping -->
 
-    <!-- Activities Sub-Section: Shopping -->
-
->>>>>>> bf3ef65aefc87a9d6fd31f492339c21c2d87d347
-    <!--  Historical Sights -->
+<!--  Historical Sights -->
 
 
     <string name="Historical_sight1_name">Mahayana Buddhist Temple  </string>
@@ -637,5 +628,13 @@
         <item>@string/Historical_sight9_historical_information</item>
 
     </string-array>
+
+    <string name="historylanding1">TIMELINE OF CHINATOWN</string>
+    <string name="historylanding2">HISTORICAL SIGHTS</string>
+    <string name="historylanding3">FUN FACTS</string>
+
+    <string name="hlandingdes1">Emerge yourself in Chinatown\'s rich historical timeline!</string>
+    <string name="hlandingdes2">List of Historical sights that you can explore!</string>
+    <string name="hlandingdes3">Learn some fun facts about Chinatown!</string>
 
 </resources>

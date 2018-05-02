@@ -29,7 +29,32 @@
 
     <!-- Activity Descriptions -->
 
+    <string name="activity1_static">Dedicado a presentar y la preservación de la historia, el patrimonio y la cultura de los inmigrantes chinos en los EE.UU.</string>
+    <string name="activity2_static">El templo budista más grande del NYC; proporciona servicios tales como ceremonias oficiales durante los fines de semana, adivinación, bodas, y zonas para los amigos y las familias de los fallecidos a sus respetos</string>
+    <string name="activity3_static">Un aperitivo asiático paraíso para quienes desean satisfacer su diente dulce; vende una variedad de alimentos secos, exóticos difíciles de encontrar dulces, salados y nostálgico Western trata</string>
+    <string name="activity4_static">Una experiencia de compra con un bazar al aire libre se sienten, completa con proveedores dispuestos a negociar</string>
+    <string name="activity5_static">Un bar inspirado por boticarios europeos y se asemeja a un laboratorio de química; ofrece más de 250 cócteles, contemplado como prescripciones</string>
+    <string name="activity6_static">En el corazón de Chinatown; tiene una cancha de baloncesto, área de juegos, campo para Astroturf; El norte es una zona de mah-jongg y jugadores de cartas</string>
+    <string name="activity7_static">Fundada para servir y proteger los intereses del pueblo chino en el área metropolitana de Nueva York; proporciona servicios sociales, clases de idiomas y actividades de preservación cultural</string>
+    <string name="activity8_static">una tienda oculta que se especializa en feng shui, cristales, y horóscopos; el único lugar en la ciudad que fotografía y lee auras</string>
+    <string name="activity9_static">Un moderno museo de historia natural ubicado en un ascensor de carga; colección de artefactos únicos</string>
+    <string name="activity10_static">Ubicado en el segundo piso de un edificio de apartamentos; este pequeño pero animado bar alienta a los clientes el cinturón hasta los clásicos bebiendo cervezas de grifo</string>
+    <string name="activity11_static">Pasar un día de relax y relajarse; ofrece servicios de spa y de belleza para el rostro y cuerpo</string>
+    <string name="activity12_static">Desde 1840, a través de la década de 1920, aprender acerca de la era temprana de pandillas de Nueva York y acerca de la evolución de pequeños paquetes de matones de inmigrantes con lealtades estrechamente unida a un evolucionado, estilo corporativo American Syndicate. La calle Mulberry, desde Chinatown hasta Little Italy, es donde la mayoría de los pandilleros notorios que en Nueva York se levantó. Desde la ex cinco puntos, Nueva York, la barriada más notorios, los callejones del barrio chino \"Bloody Ángulo.\" en Little Italy\'s Historic District aprendemos las despiadadas tácticas de los primeros jefes mafiosos de Nueva York, la orgullosa esfuerzos de Joe Petrosino Liutenant NYPD en su lucha contra estos matones. La delincuencia organizada, tal como lo conocemos nació en esas calles.</string>
+    <string name="activity13_static">Sirve a los irlandeses, alemanes, italianos y, más recientemente, las comunidades chinas; misas dominicales se celebran en inglés, mandarín y cantonés; alberga una escuela de chino</string>
+    <string name="activity14_static">Una celebración anual del inicio del giro del calendario lunisolar chino; cuenta con todo tipo de proveedores, festividades, y alimentos para todas las edades.</string>
+    <string name="activity15_static">Una celebración anual de la final de la cosecha del otoño, celebrada el quince día del octavo mes lunar; funciones de espectáculos, artes culturales &amp; artesanía, caligrafía, don moon cake stands, degustaciones, etc.</string>
+
     <!-- Shopping Descriptions -->
+    <string name="Activity1_shopping_Static_Info">Sin lujos en el bastión stocking, una variedad de productos en casa &amp; decoración asiática, de teteras para pequeños muebles.</string>
+    <string name="Activity2_shopping_Static_Info">T-Pop Shop Online de Solac es una tienda de ropa de segunda mano, ofreciendo productos de primera calidad y un excepcional servicio de atención al cliente a los compradores desde la comodidad de su propio hogar</string>
+    <string name="Activity3_shopping_Static_Info">Si necesita arreglos florales, este es el lugar para ir! A un precio razonable, y la hermosa selecciones a elegir!</string>
+    <string name="Activity4_shopping_Static_Info">Una excelente selección y visualización de varios palillos. Las opciones van desde sencillos hijos, elegantes palillos formal.</string>
+    <string name="Activity5_shopping_Static_Info">Una tienda oculta que se especializa en feng shui, los cristales y los horóscopos; el único lugar de la ciudad que las fotografías y lee las auras</string>
+    <string name="Activity6_shopping_Static_Info">Emporio ecléctica con 3 plantas chinas de prendas de vestir, accesorios, electrodomésticos y muebles.</string>
+    <string name="Activity7_shopping_Static_Info">Vienen aquí para lindo y juguetes baratos! Tanto producto y fácil perderse debido a precios extremadamente bajos. Pequeños animales de peluche (rilakkuma, Doraemon, Totoro, Pokémon, etc) que oscila entre 3-5$</string>
+    <string name="Activity8_shopping_Static_Info">Una experiencia de compras calle abierta con un bazar al aire libre se sienten, completa con proveedores dispuestos a negociar</string>
+
 
     <!-- Historical Sights Information -->
     <string name="Historical_sight1_historical_information">El templo budista mahayana es libre, abierto al público y ofrece una gran zona de meditación con un montón de espacio para descansar y reflexionar, bajo la mirada de un 16-pie-alto Buda de oro. No esperes silencio aquí; usualmente hay una pista de sonido festivo jugando (esto es la ciudad de Nueva York, después de todo). Mientras que el Buda gigante es la atracción principal del templo, no se pierda la serie de intrincadas tallas de marfil en exhibición en la tienda de regalos en el segundo piso (no hay ninguno para la venta).</string>
@@ -55,10 +80,25 @@
     <string name="category3_name">Dulces</string>
 
     <!-- Restaurant Descriptions -->
+    <string name="restaurant1_description">Sin lujos en el lugar ofrece un gran menú de \"más allá de la basics platos chinos incluyendo una sopa wonton.</string>
+    <string name="restaurant2_description">Vintage dim sum salón se remontan a 1920, con un menú de bebidas que incluye té, cerveza y vino.</string>
+    <string name="restaurant3_description">Sal de marisco cocido, handmade fideos, sopas y carnes asadas se sirven en un espartano.</string>
+    <string name="restaurant4_description">Los peces son rasgueadas desde tanques frente a este cantonés mariscos también conocido spot para un almuerzo dim sum.</string>
+    <string name="restaurant5_description">Las pastas chinas son hechas a mano y servidas en sopas y fríe y mezcla durante poco tiempo en este alboroto, punto de esencial.</string>
 
     <!-- Fast Food Descriptions -->
+    <string name="fast_food1_description">El clásico, cadena de comida rápida mucho tiempo que corre conocida para sus hamburguesas, fríe y licuados.</string>
+    <string name="fast_food2_description">Un restaurante de comida rápida de Asia que tiene comer barato con almuerzo especiales y pueden entregar convenientemente justo en su puerta</string>
+    <string name="fast_food3_description">Pequeño, modesto contador chino-servir spot especializada en chuletas de cerdo con arroz y bocadillos rápidos.</string>
+    <string name="fast_food4_description">Louisiana acentuados en cadena de comida rápida conocida por su picante pollo frito, galletas y lados.</string>
+    <string name="fast_food5_description">Directamente desde su sitio web puede Wah Fast Food especializado en sopas, platos de arroz \"over\" y sopas de fideos. \"Más Populares\", platos de arroz incluyen su pierna de pollo con arroz y carne de cerdo picar sobre arroz. Las sopas de fideos populares incluyen su carne sopa de fideos y sopa de fideos de Shanghai.</string>
 
     <!-- Sweets Descriptions -->
+    <string name="sweets1_description">La tienda de caramelo acogedora que ofrece a convites dulces clásicos más loco, frutas secas y casa hizo bombones.</string>
+    <string name="sweets2_description">Una tienda de helado japonesa que sirve sabores inventivos en un cono de gofre en forma de pescado.</string>
+    <string name="sweets3_description">la cafetería de postre de funky con mezcolanzas de hielo afeitadas creativas y gofres, más el café de arte bebe y té.</string>
+    <string name="sweets4_description">Los sabores se extienden de familiar a exótico (como el fruto del nefelio) en esta heladería compacta.</string>
+    <string name="sweets5_description">Panadería chino para tartas, galletas y panes también ofrece bebidas frías y calientes.</string>
 
     <!-- Trains Descriptions & Notice -->
     <string name="canal_street_description">Hay varias vías para llegar a la estación de metro de Canal Street. Es una estación muy grande que consta de muchos trenes incluyendo el N, Q, R, W, Z, J, M, 4, y 6 de tren.</string>
@@ -68,16 +108,66 @@
     <!-- Activities -->
 
     <!-- Activity Types -->
+    <string name="activity1_type">Museo</string>
+    <string name="activity2_type">Institución religiosa</string>
+    <string name="activity3_type">Tienda de confitería</string>
+    <string name="activity4_type">Compras</string>
+    <string name="activity5_type">bar</string>
+    <string name="activity6_type">parque</string>
+    <string name="activity7_type">centro comunitario</string>
+    <string name="activity8_type">compras</string>
+    <string name="activity10_type">karaoke bar</string>
+    <string name="activity11_type">spa</string>
+
+    <string name="activity12_type">excursión a pie</string>
+    <string name="activity12_address">Se reúne en la esquina de las calles Mulberry y Worth</string>
+
+    <string name="activity13_name">Iglesia de la Transfiguración</string>
+
+    <string name="activity14_type">desfile</string>
+    <string name="activity14_address">East Houston Street a Canal Street</string>
+
+    <string name="activity15_address">Mott Street; entre las calles Canal y Beyard</string>
 
     <!-- Shopping Description -->
+    <string name="Activity1_shopping_description">Compras</string>
+    <string name="Activity2_shopping_description">Compras</string>
+    <string name="Activity3_shopping_description">Compras</string>
+    <string name="Activity4_shopping_description">Compras</string>
+    <string name="Activity5_shopping_description">Compras</string>
+    <string name="Activity6_shopping_description">Compras</string>
+    <string name="Activity7_shopping_description">Compras</string>
+    <string name="Activity8_shopping_description">Compras</string>
 
     <!-- Restaurant Website -->
+    <string name="restaurant1_website">Ninguno</string>
+    <string name="restaurant3_website">Ninguno</string>
+    <string name="restaurant4_website">Ninguno</string>
+    <string name="restaurant5_website">Ninguno</string>
+    <string name="fast_food2_website">Ninguno</string>
+    <string name="fast_food3_website">Ninguno</string>
+
+    <string name="east_broadway_station">East Broadway</string>
 
     <!-- Activity Names -->
     <string name="activity1_name">Museo de los chinos en América</string>
     <string name="activity2_name">Asociación budista del templo de Mayahana</string>
+    <string name="activity6_name">Parque Columbus</string>
+    <string name="activity7_name">Asociación benéfica consolidada china</string>
+    <string name="activity8_name">Magic Jewelry</string>
+    <string name="activity11_name">Zu Yuan</string>
+    <string name="activity10_name">Up Stairs</string>
+    <string name="activity12_name">NYC Gangster Tours</string>
+    <string name="activity14_name">Desfile y Festival del Año Nuevo Lunar</string>
+    <string name="activity15_name">Desfile y Festival de la Luna de Otoño</string>
 
     <!-- Shopping Names -->
+    <string name="Activity1_shopping_name">Tienda de descuentos K. K.</string>
+    <string name="Activity3_shopping_name">Tienda de flores Lun Hong</string>
+    <string name="Activity4_shopping_name">Yùnhóng Palilos</string>
+    <string name="Activity5_shopping_name">Magic Jewelry</string>
+    <string name="Activity7_shopping_name">Tienda de juguetes de Chinatown</string>
+
 
     <!-- Historical Sights Names -->
     <string name="Historical_sight1_name">Templo budista Mahayana</string>
@@ -220,5 +310,13 @@
     <string name="funfact8">Mott Street es la calle más antigua de Chinatown habitadas por el pueblo chino.</string>
     <string name="funfact9">Doyers Street ha aparecido en numerosos programas de televisión y películas, como persona de interés y Amazing Spider-Man 2.</string>
     <string name="funfact10">Chinatown justo en Mott Street es uno de los últimos remanentes de arcades clásicos en el mundo.</string>
+
+    <string name="historylanding1">Cronología de Chinatown</string>
+    <string name="historylanding2">Lugares de interés histórico</string>
+    <string name="historylanding3">Datos Divertidos</string>
+
+    <string name="hlandingdes1">Emerge ti mismo en Chinatown cronología histórica rica!</string>
+    <string name="hlandingdes2">Lista de monumentos históricos que se pueden explorar!</string>
+    <string name="hlandingdes3">Aprender algunos hechos divertidos de Chinatown!</string>
 
 </resources>

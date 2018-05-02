@@ -34,8 +34,6 @@
     <string name="Historical_sight7_historical_information">派克街的犹太教堂，建于 1903-04 的。 Kalwarie 教会中以色列的儿子，是一个难得的未亡犹太会堂的建筑，从这一时期的纽约的历史记录时。 下东侧担任美利坚合众国的主要门户网站的数以百万计的犹太移民。</string>
     <string name="Historical_sight8_historical_information">哥伦布公园位于唐人街是一个伟大的地方，参观了儿童和有一个美妙的一天。 有的座位和摇摆不定的一个安全区域，让孩子可以玩。 在大多数情况下，您将运行到音乐家演奏的音乐生活。</string>
 
-    <string name="activity2_name">Mayahana 寺佛教协会</string>
-
     <string name="Historical_sight1_name">大乘佛教寺庙</string>
     <string name="Historical_sight2_name">美国华人博物馆</string>
     <string name="Historical_sight3_name">五点 - 点三</string>
@@ -113,7 +111,131 @@
     <string name="hotel18_name">舒适客栈下东区</string>
     <string name="hotel18_description_preview">下东区舒适客栈坐落在曼哈顿的中心地带, 是新建成的酒店之一.....。</string>
 
+    <string name="activity1_static">专门用于展示和保存 的历史、传统和文化的中国移民在美国</string>
+    <string name="activity2_static">纽约市中心最大的佛教寺院；提供服务，如 正式仪式的周末、算命、婚礼、 和领域的朋友和死者家属支付他们的尊重</string>
+    <string name="activity3_static">一个亚洲的小吃天堂，适合那些希望能满足他们的甜食 ；销售各种干制食品、充满异国情调的难以找到的可口美食，和怀旧的西开心的事</string>
+    <string name="activity4_static">一个购物的经验，一个露天集市的感觉， 完成与供应商愿意讨价还价</string>
+    <string name="activity5_static">一个酒吧的灵感来自欧洲的 apothecaries 和就像 一个化学实验；提供超过 250 的鸡尾酒，称为处方</string>
+    <string name="activity6_static">在唐人街；有一个篮球场、 游乐场、 Astroturf 字段；北是一个区域用于麻将和卡的球员</string>
+    <string name="activity7_static">建立以服务和保护的利益，使中国人民在 纽约大都会地区；提供社会服务、语言类和文化的保护活动。</string>
+    <string name="activity8_static">一家专门研究风水，水晶和星座的神秘商店;这是城市中唯一拍摄和读取光环的地方</string>
+    <string name="activity9_static">一个现代的自然历史博物馆，位于一个 货运电梯；收集的独特的伪影。</string>
+    <string name="activity10_static">二楼的一间公寓的建设； 这虽小但充满活力的酒吧，以鼓励顾客带出来的经典酿酒喝的水龙头</string>
+    <string name="activity11_static">花一天的休闲和放松心情；提供水疗 和美容服务的脸部和身体</string>
+    <string name="activity12_static">从 1920 年代的 1840通过’ s ，了解早期时代的 街头帮派的纽约市和约的演变过程，从小型包移民的暴徒，紧密结合在一起的 忠诚的一个演变、企业风格美的集团。 桑街，从唐人街，小 意大利，是其中最臭名昭着的歹徒在纽约起來。 从以前的 5 点，纽约最 声名狼藉的贫民窟，在唐人街的狭窄小巷的\"血腥的角度。\"在小意大利的历史名胜区， 我们了解了冷酷无情的战术的第一个黑手党头目的纽约，纽约警察局的骄傲的努力， Liutenant Petrosino Joe 的打击这些暴徒。 有组织的犯罪，我们知道它是出生在这些街道。</string>
+    <string name="activity13_static">供应的爱尔兰语、德语、意大利语和最近在华人社区的 群众；星期日举行的英语、汉语普通话和广东话；一家中文学校</string>
+    <string name="activity14_static">每年的庆祝活动的开始，又是 中国； lunisolar 日历功能的各类供应商、节日庆祝活动、建立不分年龄人人共享的食物</string>
+    <string name="activity15_static">每年的庆祝活动结束后，秋收； 11 月 15 日第 8 次农历;功能舞台表演、文化艺术、工艺品、书法、礼品展位、月饼品尝，等等。</string>
+
+    <string name="Activity1_shopping_Static_Info">没有虚饰壮汉储存了各种家居用品和亚洲风格的装饰，从 teapots 到小型的家具。</string>
+    <string name="Activity2_shopping_Static_Info">T 型弹出商店是一个 trendsetting 在线二手服装商店，提供一流的产品和一流的客户服务，购物者从舒适的居所</string>
+    <string name="Activity3_shopping_Static_Info">如果您需要花的安排，这是一个地方可去！ 价格合理、美丽的选项供您选择！</string>
+    <string name="Activity4_shopping_Static_Info">各种筷子的优秀选择和展示。选择范围从简单的儿童到优雅的正式筷子。</string>
+    <string name="Activity5_shopping_Static_Info">一家专门研究风水，水晶和星座的神秘商店;这是城市中唯一拍摄和读取光环的地方</string>
+    <string name="Activity6_shopping_Static_Info">拥有3层中国服饰，配饰，家居用品的折衷主义商场。</string>
+    <string name="Activity7_shopping_Static_Info">来这里可爱又便宜的玩具！由于极其便宜的价格，这么多产品和容易迷路。小毛绒动物（rilakkuma，doraemon，龙猫，神奇宝贝等）从3美元到5美元不等</string>
+    <string name="Activity8_shopping_Static_Info">有露天集市的开放式街道购物体验，配有愿意讨价还价的供应商</string>
+
+    <string name="activity1_type">博物馆</string>
+
+    <string name="activity2_name">Mayahana 寺佛教协会</string>
+    <string name="activity2_type">宗教机构</string>
+
+    <string name="activity3_type">糖果店</string>
+    <string name="activity4_type">购物</string>
+    <string name="activity5_type">酒吧</string>
+
+    <string name="activity6_name">哥伦布公园</string>
+    <string name="activity6_type">" 公园 "</string>
+
+    <string name="activity7_name">中国统一福利协会</string>
+    <string name="activity7_type">社区中心</string>
+
+    <string name="activity8_name">魔术珠宝</string>
+    <string name="activity8_type">购物</string>
+
+    <string name="Activity1_shopping_description">购物</string>
+    <string name="Activity2_shopping_description">购物</string>
+    <string name="Activity3_shopping_description">购物</string>
+    <string name="Activity4_shopping_description">购物</string>
+    <string name="Activity5_shopping_description">购物</string>
+    <string name="Activity6_shopping_description">购物</string>
+    <string name="Activity7_shopping_description">购物</string>
+    <string name="Activity8_shopping_description">购物</string>
+
+    <string name="activity10_name">楼梯</string>
+    <string name="activity10_type">卡拉OK酒吧</string>
+
+    <string name="activity11_name">祖元</string>
+    <string name="activity11_type">温泉</string>
+
+    <string name="activity12_name">纽约大佬游览</string>
+    <string name="activity12_type">徒步旅行</string>
+    <string name="activity12_address">在Mulberry Worth街道的角落相遇</string>
+
+    <string name="activity13_name">变形教堂</string>
+
+    <string name="activity14_name">农历新年游行节</string>
+    <string name="activity14_type">游行</string>
+    <string name="activity14_address">东休斯顿街到运河街</string>
+
+    <string name="activity15_name">秋季心情游行节</string>
+    <string name="activity15_address">莫特街;运河和Beyard街之间</string>
+
+    <string name="Activity1_shopping_name">K. K. Discount Store</string>
+    <string name="Activity3_shopping_name">伦虹花店</string>
+    <string name="Activity4_shopping_name">Yùnhóng筷子</string>
+    <string name="Activity5_shopping_name">魔术珠宝</string>
+    <string name="Activity6_shopping_name">珠江玛特</string>
+    <string name="Activity7_shopping_name">唐人街玩具店</string>
+
+    <string name="Activity8_shopping_name">运河街</string>
+    <string name="Activity8_shopping_address">运河街</string>
+
+   <string name="hotel1_address">125运河 St, 纽约, 纽约州10002</string>
+     <string name="hotel2_address">79分部 St, 纽约, 纽约州10002</string>
+    <string name="hotel3_address">93巴利, 纽约, 纽约州10002</string>
+    <string name="hotel4_address">52桑 St, 纽约, 纽约州10013</string>
+    <string name="hotel5_address">50巴利, 纽约, 纽约州10013</string>
+    <string name="hotel6_address">231盛大 St, 纽约, 纽约州10013</string>
+    <string name="hotel7_address">91东百老汇, 纽约, 纽约州10002</string>
+    <string name="hotel8_address">276运河 St, 纽约, 纽约州10013</string>
+    <string name="hotel9_address">蓝光酒店, 纽约, 纽约州10013</string>
+    <string name="hotel10_address">140海丝特 St, 纽约, 纽约州10013</string>
+    <string name="hotel11_address">95亨利 St, 纽约, 纽约州10002</string>
+    <string name="hotel12_address">5艾伦 St, 纽约, 纽约州10002</string>
+    <string name="hotel13_address">101巴利</string>
+    <string name="hotel14_address">94运河 St, 纽约, 纽约州10002</string>
+    <string name="hotel15_address">108圣会 St, 纽约, 纽约州10002</string>
+    <string name="hotel16_address">81巴利, 纽约, 纽约州10002</string>
+    <string name="hotel17_address">143巴利, 纽约, 纽约州10002</string>
+    <string name="hotel18_address">154麦迪逊 St, 纽约, 纽约州10002</string>
+
     <string name="activity1_name">美国华人博物馆</string>
+    <string name="activity1_address">215中心街</string>
+
+    <string name="activity2_address">运河街133号</string>
+    <string name="activity3_address">莫特街37号</string>
+
+    <string name="activity4_name">运河街</string>
+    <string name="activity5_address">9道尔街</string>
+
+    <string name="activity6_address">桑树街66号</string>
+    <string name="activity7_address">莫特街62号</string>
+    <string name="activity8_address">运河街238号</string>
+    <string name="activity9_address">4 Cortlandt胡同</string>
+    <string name="activity10_address">59运河街</string>
+    <string name="activity11_address">莫特街48号</string>
+    <string name="activity13_address">莫特街29号</string>
+
+    <string name="Activity1_shopping_address">" 纽约州纽约10013号桑柏街78号 "</string>
+    <string name="Activity2_shopping_address">59 Franklin St，纽约，NY 10013</string>
+    <string name="Activity3_shopping_address">50 Mulberry St，纽约，NY 10013</string>
+    <string name="Activity4_shopping_address">50 Mott St，纽约，NY 10013</string>
+    <string name="Activity6_shopping_address">395百老汇, 纽约, 纽约州10013</string>
+    <string name="Activity5_shopping_address">238运河街道纽约 NY 10013</string>
+    <string name="Activity7_shopping_address">83, 纽约, 纽约州10013</string>
+
 
     <string name="Historical_sight1_address">133运河 St, 纽约, 纽约州10002</string>
     <string name="Historical_sight2_address">215中心 St, 纽约, 纽约州10013</string>
@@ -200,5 +322,13 @@
     <string name="funfact8">万隆工程街是最古老的街道，唐人街，居住着中国人民。</string>
     <string name="funfact9">Doyers 街头出现了许多电视节目和电影，如人的兴趣和令人惊叹的 Spider-Man 2 。</string>
     <string name="funfact10">唐人街的展览对万隆工程街，是一个最后剩下的经典拱廊中的世界。</string>
+
+    <string name="historylanding1">时间线的唐人街。</string>
+    <string name="historylanding2">历史景点。</string>
+    <string name="historylanding3">有趣的事实</string>
+
+    <string name="hlandingdes1">出现自己在唐人街的丰富历史大事记！</string>
+    <string name="hlandingdes2">列表中的历史景点，您可以游览！</string>
+    <string name="hlandingdes3">了解一些有趣的事实，唐人街！</string>
 
 </resources>
