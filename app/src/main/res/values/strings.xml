@@ -481,7 +481,6 @@
 
     <!-- Restaurants -->
     <string name="restaurant1_name">Shanghai Asian Manor</string>
-<<<<<<< HEAD
     <string name="restaurant1_address">21 Mott St, New York, NY 10013</string>
     <string name="restaurant1_menu" translatable="false">https://www.delivery.com/cities/nyc/categories/restaurant/shanghai-asian-manor?utm_source=google&amp;utm_medium=list&amp;utm_campaign=places_order_now_btn</string>
     <string name="restaurant1_website">None</string>
@@ -521,21 +520,11 @@
     <string name="restaurant5_description">Chinese noodles are made by hand and served
         in soups and stir-fries at this bustling, bare-bones spot. Phone Number: (212) 791-1817</string>
 
-=======
 
-    <string name="restaurant2_name">Nom Wah Tea Parlor</string>
-
-    <string name="restaurant3_name">Great NY Noodletown</string>
-
-    <string name="restaurant4_name">Ping</string>
-
-    <string name="restaurant5_name">Tasty Had-Pulled Noodles</string>
->>>>>>> 2ee67b886a2cc63a3b0dfb2076b2291f9cda103e
 
 
     <!-- Fast Food -->
     <string name="fast_food1_name">McDonald\'s</string>
-<<<<<<< HEAD
     <string name="fast_food1_address">262 Canal St, New York, NY 10013</string>
     <string name="fast_food1_menu" translatable="false">https://www.mcdonalds.com/us/en-us/full-menu.html?cid=RF:YXT_LS:SI::MGBM</string>
     <string name="fast_food1_website" translatable="false">https://www.mcdonalds.com/us/en-us/mobile-order-and-pay.html</string>
@@ -616,27 +605,7 @@
     <string name="sweets5_phone_number" translatable="false">(212) 791-3884</string>
     <string name="sweets5_description">Chinese bakery for cakes, cookies and breads
         also offering hot and cold specialty drinks. Phone Number: (212) 791-3884</string>
-=======
 
-    <string name="fast_food2_name">Wah Fung #1 Fast Food</string>
-
-    <string name="fast_food3_name">Hua Ji Pork Chop Fast Food</string>
-
-    <string name="fast_food4_name">Popeyes Louisiana Kitchen</string>
-
-    <string name="fast_food5_name">May Wah Fast Food</string>
-
-    <!-- Sweets -->
-    <string name="sweets1_name">The Sweet Life</string>
-
-    <string name="sweets2_name" translatable="false">Taiyaki NYC</string>
-
-    <string name="sweets3_name">Sweet Moment</string>
-
-    <string name="sweets4_name">The Original Chinatown Ice Cream Factory</string>
-
-    <string name="sweets5_name">Fay Da Bakery</string>
->>>>>>> 2ee67b886a2cc63a3b0dfb2076b2291f9cda103e
 
     <!-- Transportation -->
     <!-- <string name="mta_weekender"><http://web.mta.info/weekender.html">Check the MTA Weekender</string> -->
