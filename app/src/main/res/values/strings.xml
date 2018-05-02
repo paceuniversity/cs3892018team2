@@ -527,7 +527,7 @@
     <string name="restaurant1_website">None</string>
     <string name="restaurant1_phone_number" translatable="false">(212)766-6311</string>
     <string name="restaurant1_description">No-frills place offering a big menu of beyond-the-basics
-        Chinese dishes including soup dumplings.</string>
+        Chinese dishes including soup dumplings. Phone Number: (212)766-6311</string>
 
     <string name="restaurant2_name">Nom Wah Tea Parlor</string>
     <string name="restaurant2_address">13 Doyers St, New York, NY 10013</string>
@@ -535,7 +535,7 @@
     <string name="restaurant2_website" translatable="false">http://nomwah.com/chinatown</string>
     <string name="restaurant2_phone_number" translatable="false">(212) 962-6047</string>
     <string name="restaurant2_description">Vintage dim sum parlor dating back to 1920
-        with a drink menu that includes tea, beer and wine.</string>
+        with a drink menu that includes tea, beer and wine. Phone Number: (212) 962-6047</string>
 
     <string name="restaurant3_name">Great NY Noodletown</string>
     <string name="restaurant3_address">28 Bowery, New York, NY 10013</string>
@@ -543,7 +543,7 @@
     <string name="restaurant3_website">None</string>
     <string name="restaurant3_phone_number" translatable="false">(212) 349-0923</string>
     <string name="restaurant3_description">Salt-baked seafood, handmade noodles,
-        soups and roast meat are served in a spartan setting.</string>
+        soups and roast meat are served in a spartan setting. Phone Number: (212) 349-0923</string>
 
     <string name="restaurant4_name">Ping</string>
     <string name="restaurant4_address">22 Mott St, New York, NY 10013</string>
@@ -551,64 +551,16 @@
     <string name="restaurant4_website">None</string>
     <string name="restaurant4_phone_number" translatable="false">(212) 602-9988</string>
     <string name="restaurant4_description">Fish are plucked from tanks up front at
-        this Cantonese seafood spot also known for a dim sum lunch.</string>
+        this Cantonese seafood spot also known for a dim sum lunch. Phone Number: (212) 602-9988</string>
 
-    <string name="restaurant5_name">Tasty Had-Pulled Noodles</string>
+    <string name="restaurant5_name">Tasty Hand-Pulled Noodles</string>
     <string name="restaurant5_address">1 Doyers St, New York, NY 10013</string>
     <string name="restaurant5_menu" translatable="false">http://places.singleplatform.com/tasty-hand-pulled-noodles/menu?ref=google</string>
     <string name="restaurant5_website">None</string>
     <string name="restaurant5_phone_number" translatable="false">(212) 791-1817</string>
     <string name="restaurant5_description">Chinese noodles are made by hand and served
-        in soups and stir-fries at this bustling, bare-bones spot.</string>
+        in soups and stir-fries at this bustling, bare-bones spot. Phone Number: (212) 791-1817</string>
 
-
-    <string-array name="restaurant_name_array">
-        <item>@string/restaurant1_name</item>
-        <item>@string/restaurant2_name</item>
-        <item>@string/restaurant3_name</item>
-        <item>@string/restaurant4_name</item>
-        <item>@string/restaurant5_name</item>
-    </string-array>
-
-    <string-array name="restaurant_address_array">
-        <item>@string/restaurant1_address</item>
-        <item>@string/restaurant2_address</item>
-        <item>@string/restaurant3_address</item>
-        <item>@string/restaurant4_address</item>
-        <item>@string/restaurant5_address</item>
-    </string-array>
-
-    <string-array name="restaurant_menu_array">
-        <item>@string/restaurant1_menu</item>
-        <item>@string/restaurant2_menu</item>
-        <item>@string/restaurant3_menu</item>
-        <item>@string/restaurant4_menu</item>
-        <item>@string/restaurant5_menu</item>
-    </string-array>
-
-    <string-array name="restaurant_website_array">
-        <item>@string/restaurant1_website</item>
-        <item>@string/restaurant2_website</item>
-        <item>@string/restaurant3_website</item>
-        <item>@string/restaurant4_website</item>
-        <item>@string/restaurant5_website</item>
-    </string-array>
-
-    <string-array name="restaurant_description_array">
-        <item>@string/restaurant1_description</item>
-        <item>@string/restaurant2_description</item>
-        <item>@string/restaurant3_description</item>
-        <item>@string/restaurant4_description</item>
-        <item>@string/restaurant5_description</item>
-    </string-array>
-
-    <string-array name="restaurant_phone_array">
-        <item>@string/restaurant1_phone_number</item>
-        <item>@string/restaurant2_phone_number</item>
-        <item>@string/restaurant3_phone_number</item>
-        <item>@string/restaurant4_phone_number</item>
-        <item>@string/restaurant5_phone_number</item>
-    </string-array>
 
 
     <!-- Fast Food -->
@@ -618,7 +570,7 @@
     <string name="fast_food1_website" translatable="false">https://www.mcdonalds.com/us/en-us/mobile-order-and-pay.html</string>
     <string name="fast_food1_phone_number" translatable="false">(212) 941- 5823</string>
     <string name="fast_food1_description">Classic, long-running fast-food chain known for its burgers,
-        fries and shakes. </string>
+        fries and shakes. Phone Number: (212) 941- 5823</string>
 
     <string name="fast_food2_name">Wah Fung #1 Fast Food</string>
     <string name="fast_food2_address">79 Chrystie St, New York, NY 10002</string>
@@ -626,7 +578,7 @@
     <string name="fast_food2_website">None</string>
     <string name="fast_food2_phone_number" translatable="false">(212) 925-5175</string>
     <string name="fast_food2_description">An Asian fast food restaurant that has cheap eats
-        with lunch specials and can conveniently deliver right to your doorstep</string>
+        with lunch specials and can conveniently deliver right to your doorstep. Phone Number: (212) 925-5175</string>
 
     <string name="fast_food3_name">Hua Ji Pork Chop Fast Food</string>
     <string name="fast_food3_address">7 Allen St, New York 10002</string>
@@ -634,7 +586,7 @@
     <string name="fast_food3_website">None</string>
     <string name="fast_food3_phone_number" translatable="false">(212) 219-9876</string>
     <string name="fast_food3_description">Tiny, modest Chinese counter-serve spot specializing in
-        pork chops over rice and quick snacks.</string>
+        pork chops over rice and quick snacks. Phone Number: (212) 219-9876</string>
 
     <string name="fast_food4_name">Popeyes Louisiana Kitchen</string>
     <string name="fast_food4_address">125 Canal St, New York, NY 10002</string>
@@ -642,7 +594,7 @@
     <string name="fast_food4_website" translatable="false">https://popeyes.com/</string>
     <string name="fast_food4_phone_number" translatable="false">(212) 966-7077</string>
     <string name="fast_food4_description">Louisiana-accented fast-food chain known for its
-        spicy fried chicken, biscuits and sides.</string>
+        spicy fried chicken, biscuits and sides Phone Number: (212) 966-7077.</string>
 
     <string name="fast_food5_name">May Wah Fast Food</string>
     <string name="fast_food5_address">190 Hester St, New York, NY 10013</string>
@@ -651,7 +603,7 @@
     <string name="fast_food5_phone_number" translatable="false">(212) 925-6428</string>
     <string name="fast_food5_description">Straight from their website May Wah Fast Food specializes in soups, “over rice” dishes and noodle soups.
         Popular “over rice” dishes include their Chicken Leg Over Rice and Pork Chop Over Rice.
-        Popular noodle soups include their Beef Noodle Soup and Shanghai Noodle Soup.</string>
+        Popular noodle soups include their Beef Noodle Soup and Shanghai Noodle Soup. Phone Number: (212) 925-6428</string>
 
     <!-- Sweets -->
     <string name="sweets1_name">The Sweet Life</string>
@@ -660,7 +612,7 @@
     <string name="sweets1_website" translatable="false">http://thesweetlifenyc.com/</string>
     <string name="sweets1_phone_number" translatable="false">(212) 598-0092</string>
     <string name="sweets1_description">Cozy candy shop offering classic sweet treats plus nuts,
-        dried fruit and house made chocolates.</string>
+        dried fruit and house made chocolates. Phone Number: (212) 598-0092</string>
 
     <string name="sweets2_name" translatable="false">Taiyaki NYC</string>
     <string name="sweets2_address">119 Baxter St, New York, NY 10013</string>
@@ -668,7 +620,7 @@
     <string name="sweets2_website" translatable="false"> https://taiyakinyc.com/</string>
     <string name="sweets2_phone_number" translatable="false">(212) 966-2882</string>
     <string name="sweets2_description">A Japanese ice cream shop serving inventive flavors
-        in a fish-shaped waffle cone. </string>
+        in a fish-shaped waffle cone. Phone Number: (212) 966-2882</string>
 
     <string name="sweets3_name">Sweet Moment</string>
     <string name="sweets3_address">106 Mott St, New York, NY 10013</string>
@@ -676,7 +628,7 @@
     <string name="sweets3_website" translatable="false">https://www.sweetmoment.nyc/</string>
     <string name="sweets3_phone_number" translatable="false">(212) 226-8724</string>
     <string name="sweets3_description">Funky dessert cafe with creative shaved ice concoctions and
-        waffles, plus craft coffee drinks and tea.</string>
+        waffles, plus craft coffee drinks and tea. Phone Number: (212) 226-8724</string>
 
     <string name="sweets4_name">The Original Chinatown Ice Cream Factory</string>
     <string name="sweets4_address">65 Bayard Street, New York, NY 10013</string>
@@ -684,7 +636,7 @@
     <string name="sweets4_website" translatable="false">http://www.chinatownicecreamfactory.com/</string>
     <string name="sweets4_phone_number" translatable="false">(212) 608-4170</string>
     <string name="sweets4_description">The flavors range from familiar to exotic
-        (like lychee) at this compact ice-cream shop.</string>
+        (like lychee) at this compact ice-cream shop. Phone Number: (212) 608-4170</string>
 
     <string name="sweets5_name">Fay Da Bakery</string>
     <string name="sweets5_address">83 Mott St, New York, NY 10013</string>
@@ -692,7 +644,7 @@
     <string name="sweets5_website" translatable="false">http://fayda.com/</string>
     <string name="sweets5_phone_number" translatable="false">(212) 791-3884</string>
     <string name="sweets5_description">Chinese bakery for cakes, cookies and breads
-        also offering hot and cold specialty drinks.</string>
+        also offering hot and cold specialty drinks. Phone Number: (212) 791-3884</string>
 
     <!-- Transportation -->
     <string name="train_notice">During weekends, trains may be subjected to change due to construction.</string>

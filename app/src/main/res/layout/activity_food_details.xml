@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="100"
+    android:background="@color/white">
+
+    <include
+        android:id="@+id/include2"
+        layout="@layout/custom_main_menu_header"
+        />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="50"
+        android:id="@+id/foodPic"
+        android:scaleType="centerCrop"
+        android:src="@mipmap/ic_launcher"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/foodName"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="20dp"
+        android:text="FOOD NAME HERE"
+        android:textSize="20sp"
+        android:textColor="#000"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:orientation="horizontal"
+        android:background="@color/white"
+        android:layout_marginTop="20dp">
+
+        <ImageButton
+            android:id="@+id/food_website"
+            android:layout_width="63dp"
+            android:layout_height="66dp"
+            android:layout_marginStart="10dp"
+            android:src="@drawable/website_btn_img"
+            android:background="@color/white"/>
+
+        <ImageButton
+            android:id="@+id/food_menu"
+            android:layout_width="63dp"
+            android:layout_height="66dp"
+            android:layout_marginStart="80dp"
+            android:src="@drawable/menu_icon"
+            android:background="@color/white"/>
+
+        <ImageButton
+            android:id="@+id/food_location"
+            android:layout_width="63dp"
+            android:layout_height="66dp"
+            android:layout_marginStart="70dp"
+            android:src="@drawable/map_btn_img"
+            android:background="@color/white"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/food_description"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="50"
+        android:text="DESCRIPTION HERE"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="20dp"
+        android:textSize="20sp"
+        android:textColor="#000"/>
+
+
+
+</LinearLayout>
