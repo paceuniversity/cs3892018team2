@@ -100,7 +100,7 @@ public class MainActivity extends AppCompatActivity {
         history_lp_btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this,HistoryActivity.class);
+                Intent intent = new Intent(MainActivity.this,HistoryLanding.class);
                 startActivity(intent);
             }
         });

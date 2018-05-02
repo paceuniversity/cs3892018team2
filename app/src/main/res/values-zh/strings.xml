@@ -6,7 +6,6 @@
     <string name="hotel_button">酒店</string>
     <string name="activities_button">活动。</string>
     <string name="history_button">历史记录</string>
-    <string name="itinerary_button">旅行指南</string>
 
     <string name="hotel1_description">设置脚处曼哈顿桥的唐人街，这个时尚的酒店，有一个现代的氛围中的世纪是一个 3 分钟的步行路程，大街地铁站和一个 8 分钟的步行路程，博物馆的中国在美利坚合众国。 时尚、现代的客房提供免费无线网络、 iPod 坞站和平面电视，除了 Keurig 咖啡机。 升级后的客房和 1 间卧室的套房添加网桥或城市景观。 在现场设有停车场（收费）。</string>
     <string name="hotel2_description">酒店 Mimosa 位于东侧居民区的纽约城，仅一英里，距离地面 0 ．所有房间都配有平面电视。 房间有私人浴室配有浴缸或淋浴。 额外功能包括免费洗浴用品和吹风机。 您将会找到一个 24 小时服务的前台，酒店。 一个世界贸易中心是一英里从酒店 Mimosa 、和国家的 9月11日 纪念馆和博物馆是 1.1 英里处，酒店。 最近的机场是 LaGuardia 机场 7 英里，酒店 Mimosa 。</string>
@@ -18,7 +17,6 @@
     <string name="hotel8_description">位于居民区的 Bowery 纽约市、一英里的一个世界贸易中心，美国太平洋酒店的空调客房配有免费无线网络在酒店内。 每间客房均配有平面电视。 地面零是一英里从美国太平洋酒店、和国家的 9月11日 纪念馆和博物馆是一英里远的地方。 LaGuardia 机场仅 7 公里，酒店。</string>
     <string name="hotel10_description">太阳明亮的酒店就在市中心的唐人街和一个街区，大圣地铁站。 酒店提供无线网络连接和一个 24 小时服务的前台。</string>
     <string name="hotel9_description">Tribeca 蓝，坐落在一条繁华的闹市区的路口运河街和百老汇。 该位置不起一个城市的感觉，很近（步行可达），以时尚的街区，如 SoHo 和 Tribeca 。 如果这还不是足够的可供选择的食品和饮料、唐人街、小意大利的易于获得，通过脚踏。 客人还可以步行一位走得更远，进入一个世界贸易中心和 9/11 纪念馆，以及西、格林威治、和东部地区的村庄。</string>
-    <string name="hotel11_description">拥有全新的、宽敞的客房和套房，以及一个方便的位置，靠近纽约证券交易所、 9月11日 纪念碑和一个世界贸易中心、 Fairfield 酒店是您的最佳去处，探讨从曼哈顿。</string>
     <string name="hotel12_description">睡得安心在一个舒适的房间。 您可以享受娱乐，提供免费无线网络连接、 DVD 播放机、 iPod 基座和液晶高清电视，有超过 200 高级频道。 如果您需要将某些工作，充分利用办公桌和灯在房间中。 早晨，使自己的一个分类的咖啡的咖啡机。</string>
     <string name="hotel13_description">无论您是商务出行还是休闲度假，新世界酒店为您提供了多种类型的客房，以确保舒适的适合您的需要以较低的价格。 位于唐人街中心，在 Bowery 之间、海丝特圣和大街。 新世界酒店把宝藏唐人街尽在您的指尖。 特别食品、物品、和商店上可以找到运河街、万隆工程街、和大街。</string>
     <string name="hotel14_description">拥有一个共同的休息室、运河 Loft 酒店坐落在纽约在纽约状态的区域，一个 11 分钟的步行路程， Bloomingdales 。 约 1.2 公里，布鲁克林大桥，属性也是 1.6 公里，距地面零，并为客人提供免费无线网络连接。 这家酒店是一个 20 分钟的步行路程，有一个世界贸易中心。</string>
@@ -26,31 +24,6 @@
     <string name="hotel16_description">Manhattan Bowery 旅馆位于纽约， 400 米远，小意大利和 1.3 公里，从布鲁克林大桥。 Manhattan Bowery 旅馆配备免费无线网络和一个 24 小时服务的前台。 一个世界贸易中心 1.5 公里，而地面零为 1.6 公里，酒店。 最近的机场是 LaGuardia 机场， 12 公里到酒店。</string>
     <string name="hotel17_description">Bowery 格兰德酒店为您提供干净的房间和基本设施，您决定为自己在那里度过的其余部分现金，您保存在华禧酒店。 仅数分钟路程，小意大利、市区购物商场和右边的转角处的威廉斯堡大桥。 纽约市的其余部分是供您使用火车只有几站地，其中两个在路我们获得了如此之近，我们的酒店，因此，必须更加努力地工作，您的鼠标滚动，使他们除了我们在 Google 地图。</string>
     <string name="hotel18_description">Comfort Inn 下东侧，地理位置优越，位于曼哈顿中心，是一家新建的酒店，这一地区。 到地铁站也只有很短的街区，使客人可步行至市中心，华尔街和受欢迎的纽约城的热点地区，如南街海港、世界贸易中心、小意大利和布鲁克林大桥公园等等！</string>
-
-    <string name="activity1_static">专门用于展示和保存 的历史、传统和文化的中国移民在美国</string>
-    <string name="activity2_static">纽约市中心最大的佛教寺院；提供服务，如 正式仪式的周末、算命、婚礼、 和领域的朋友和死者家属支付他们的尊重</string>
-    <string name="activity3_static">一个亚洲的小吃天堂，适合那些希望能满足他们的甜食 ；销售各种干制食品、充满异国情调的难以找到的可口美食，和怀旧的西开心的事</string>
-    <string name="activity4_static">一个购物的经验，一个露天集市的感觉， 完成与供应商愿意讨价还价</string>
-    <string name="activity5_static">一个酒吧的灵感来自欧洲的 apothecaries 和就像 一个化学实验；提供超过 250 的鸡尾酒，称为处方</string>
-    <string name="activity6_static">在唐人街；有一个篮球场、 游乐场、 Astroturf 字段；北是一个区域用于麻将和卡的球员</string>
-    <string name="activity7_static">建立以服务和保护的利益，使中国人民在 纽约大都会地区；提供社会服务、语言类和文化的保护活动。</string>
-    <string name="activity8_static">一家专门研究风水，水晶和星座的神秘商店;这是城市中唯一拍摄和读取光环的地方</string>
-    <string name="activity9_static">一个现代的自然历史博物馆，位于一个 货运电梯；收集的独特的伪影。</string>
-    <string name="activity10_static">二楼的一间公寓的建设； 这虽小但充满活力的酒吧，以鼓励顾客带出来的经典酿酒喝的水龙头</string>
-    <string name="activity11_static">花一天的休闲和放松心情；提供水疗 和美容服务的脸部和身体</string>
-    <string name="activity12_static">从 1920 年代的 1840通过’ s ，了解早期时代的 街头帮派的纽约市和约的演变过程，从小型包移民的暴徒，紧密结合在一起的 忠诚的一个演变、企业风格美的集团。 桑街，从唐人街，小 意大利，是其中最臭名昭着的歹徒在纽约起來。 从以前的 5 点，纽约最 声名狼藉的贫民窟，在唐人街的狭窄小巷的\"血腥的角度。\"在小意大利的历史名胜区， 我们了解了冷酷无情的战术的第一个黑手党头目的纽约，纽约警察局的骄傲的努力， Liutenant Petrosino Joe 的打击这些暴徒。 有组织的犯罪，我们知道它是出生在这些街道。</string>
-    <string name="activity13_static">供应的爱尔兰语、德语、意大利语和最近在华人社区的 群众；星期日举行的英语、汉语普通话和广东话；一家中文学校</string>
-    <string name="activity14_static">每年的庆祝活动的开始，又是 中国； lunisolar 日历功能的各类供应商、节日庆祝活动、建立不分年龄人人共享的食物</string>
-    <string name="activity15_static">每年的庆祝活动结束后，秋收； 11 月 15 日第 8 次农历;功能舞台表演、文化艺术、工艺品、书法、礼品展位、月饼品尝，等等。</string>
-
-    <string name="Activity1_shopping_Static_Info">没有虚饰壮汉储存了各种家居用品和亚洲风格的装饰，从 teapots 到小型的家具。</string>
-    <string name="Activity2_shopping_Static_Info">T 型弹出商店是一个 trendsetting 在线二手服装商店，提供一流的产品和一流的客户服务，购物者从舒适的居所</string>
-    <string name="Activity3_shopping_Static_Info">如果您需要花的安排，这是一个地方可去！ 价格合理、美丽的选项供您选择！</string>
-    <string name="Activity4_shopping_Static_Info">各种筷子的优秀选择和展示。选择范围从简单的儿童到优雅的正式筷子。</string>
-    <string name="Activity5_shopping_Static_Info">一家专门研究风水，水晶和星座的神秘商店;这是城市中唯一拍摄和读取光环的地方</string>
-    <string name="Activity6_shopping_Static_Info">拥有3层中国服饰，配饰，家居用品的折衷主义商场。</string>
-    <string name="Activity7_shopping_Static_Info">来这里可爱又便宜的玩具！由于极其便宜的价格，这么多产品和容易迷路。小毛绒动物（rilakkuma，doraemon，龙猫，神奇宝贝等）从3美元到5美元不等</string>
-    <string name="Activity8_shopping_Static_Info">有露天集市的开放式街道购物体验，配有愿意讨价还价的供应商</string>
 
     <string name="Historical_sight1_historical_information">大乘佛教寺庙是免费的，向公众开放，并提供一个大型的冥想区，有足够的空间在16英尺高的金佛的凝视下休息和反射。只是不要指望在这里沉默;通常会有一个欢乐的音轨播放（毕竟这是纽约市）。虽然巨佛是寺庙的主要景点，但千万不要错过在二楼礼品店展出的一系列错综复杂的象牙雕刻（没有任何出售）。</string>
     <string name="Historical_sight2_historical_information">博物馆促进所有文化背景的人们之间的对话和理解，通过创新的展览，教育和文化活动，为160年的美国华人历史带来生动的生活。</string>
@@ -61,61 +34,7 @@
     <string name="Historical_sight7_historical_information">派克街的犹太教堂，建于 1903-04 的。 Kalwarie 教会中以色列的儿子，是一个难得的未亡犹太会堂的建筑，从这一时期的纽约的历史记录时。 下东侧担任美利坚合众国的主要门户网站的数以百万计的犹太移民。</string>
     <string name="Historical_sight8_historical_information">哥伦布公园位于唐人街是一个伟大的地方，参观了儿童和有一个美妙的一天。 有的座位和摇摆不定的一个安全区域，让孩子可以玩。 在大多数情况下，您将运行到音乐家演奏的音乐生活。</string>
 
-    <string name="activity1_type">博物馆</string>
-
     <string name="activity2_name">Mayahana 寺佛教协会</string>
-    <string name="activity2_type">宗教机构</string>
-
-    <string name="activity3_type">糖果店</string>
-    <string name="activity4_type">购物</string>
-    <string name="activity5_type">酒吧</string>
-
-    <string name="activity6_name">哥伦布公园</string>
-    <string name="activity6_type">" 公园 "</string>
-
-    <string name="activity7_name">中国统一福利协会</string>
-    <string name="activity7_type">社区中心</string>
-
-    <string name="activity8_name">魔术珠宝</string>
-    <string name="activity8_type">购物</string>
-
-    <string name="Activity1_shopping_description">购物</string>
-    <string name="Activity2_shopping_description">购物</string>
-    <string name="Activity3_shopping_description">购物</string>
-    <string name="Activity4_shopping_description">购物</string>
-    <string name="Activity5_shopping_description">购物</string>
-    <string name="Activity6_shopping_description">购物</string>
-    <string name="Activity7_shopping_description">购物</string>
-    <string name="Activity8_shopping_description">购物</string>
-
-    <string name="activity10_name">楼梯</string>
-    <string name="activity10_type">卡拉OK酒吧</string>
-
-    <string name="activity11_name">祖元</string>
-    <string name="activity11_type">温泉</string>
-
-    <string name="activity12_name">纽约大佬游览</string>
-    <string name="activity12_type">徒步旅行</string>
-    <string name="activity12_address">在Mulberry Worth街道的角落相遇</string>
-
-    <string name="activity13_name">变形教堂</string>
-
-    <string name="activity14_name">农历新年游行节</string>
-    <string name="activity14_type">游行</string>
-    <string name="activity14_address">东休斯顿街到运河街</string>
-
-    <string name="activity15_name">秋季心情游行节</string>
-    <string name="activity15_address">莫特街;运河和Beyard街之间</string>
-
-    <string name="Activity1_shopping_name">K. K. Discount Store</string>
-    <string name="Activity3_shopping_name">伦虹花店</string>
-    <string name="Activity4_shopping_name">Yùnhóng筷子</string>
-    <string name="Activity5_shopping_name">魔术珠宝</string>
-    <string name="Activity6_shopping_name">珠江玛特</string>
-    <string name="Activity7_shopping_name">唐人街玩具店</string>
-
-    <string name="Activity8_shopping_name">运河街</string>
-    <string name="Activity8_shopping_address">运河街</string>
 
     <string name="Historical_sight1_name">大乘佛教寺庙</string>
     <string name="Historical_sight2_name">美国华人博物馆</string>
@@ -141,101 +60,60 @@
     <string name="feedback_edittext">请输入您的反馈。</string>
 
     <string name="hotel1_name">里昂酒店</string>
-    <string name="hotel1_address">125运河 St, 纽约, 纽约州10002</string>
     <string name="hotel1_description_preview">位于唐人街的曼哈顿大桥脚下, 这座带有中叶现代气息的时髦酒店.....。</string>
 
     <string name="hotel2_name">含羞草酒店</string>
     <string name="hotel2_description_preview">含羞草酒店坐落在纽约市的东区附近, 离地面只有一英里远.....。</string>
-    <string name="hotel2_address">79分部 St, 纽约, 纽约州10002</string>
 
     <string name="hotel3_name">德姆花园唐人街</string>
-    <string name="hotel3_address">93巴利, 纽约, 纽约州10002</string>
     <string name="hotel3_description_preview">在设计精美的客房和套房设有现代家具、私人阳台和落地窗, 可饱览城市美景.....。</string>
 
     <string name="hotel4_name">桑酒店</string>
-    <string name="hotel4_address">52桑 St, 纽约, 纽约州10013</string>
     <string name="hotel4_description_preview">俯瞰哥伦布公园, 现代唐人街酒店距离小意大利0.3 英里, 从最近的地铁站步行5分钟.....。</string>
 
     <string name="hotel5_name">纽约50酒店</string>
-    <string name="hotel5_address">50巴利, 纽约, 纽约州10013</string>
     <string name="hotel5_description_preview">50酒店位于纽约市唐人街附近, 距地面零点仅0.9 英里.....。</string>
 
     <string name="hotel6_name">最佳西方西方柏威里汉比酒店</string>
-    <string name="hotel6_address">231盛大 St, 纽约, 纽约州10013</string>
     <string name="hotel6_description_preview">这家酒店坐落在曼哈顿市中心, 是从小意大利和400英尺从大街地铁站的步骤.....。</string>
 
     <string name="hotel7_name">91酒店</string>
-    <string name="hotel7_address">91东百老汇, 纽约, 纽约州10002</string>
     <string name="hotel7_description_preview">在曼哈顿的下东区, 酒店91是步行5分钟, 从唐人街和东百老汇地铁站..。</string>
 
     <string name="hotel8_name">美国太平洋酒店</string>
-    <string name="hotel8_address">276运河 St, 纽约, 纽约州10013</string>
     <string name="hotel8_description_preview">坐落在巴厘附近的纽约市, 一英里, 从一个世界贸易中心, 美国太平洋酒店的特色..。</string>
 
     <string name="hotel9_name">特里贝卡蓝光</string>
-    <string name="hotel9_address">蓝光酒店, 纽约, 纽约州10013</string>
     <string name="hotel9_description_preview">特里贝卡蓝光位于运河街和百老汇繁华的市区交汇处。酒店的位置提供了一个城市的感觉与..。</string>
 
     <string name="hotel10_name">阳光灿烂酒店</string>
-    <string name="hotel10_address">140海丝特 St, 纽约, 纽约州10013</string>
     <string name="hotel10_description_preview">阳光明媚的酒店是在唐人街中心和一个街区从大地铁站。酒店提供</string>
 
     <string name="hotel11_name">纽约曼哈顿/市中心万豪酒店套房</string>
-    <string name="hotel11_address">95亨利 St, 纽约, 纽约州10002</string>
     <string name="hotel11_description_preview">拥有崭新的, 宽敞的客房和套房, 以及在纽约证券交易所附近的一个方便的位置, 9月11日纪念..。</string>
 
     <string name="hotel12_name">丽晶酒店纽约</string>
-    <string name="hotel12_address">5艾伦 St, 纽约, 纽约州10002</string>
     <string name="hotel12_description_preview">在舒适的房间里睡觉容易。您可以使用免费无线网络连接、DVD 播放机、iPod 扩充基座和..。</string>
 
     <string name="hotel13_name">新世界酒店</string>
-    <string name="hotel13_address">101巴利</string>
     <string name="hotel13_description_preview">无论您是出差还是旅游, 新世界酒店都提供多种类型的客房, 以确保您在低价位的需求.....。</string>
 
     <string name="hotel14_name">运河阁楼酒店</string>
-    <string name="hotel14_address">94运河 St, 纽约, 纽约州10002</string>
     <string name="hotel14_description_preview">运河阁楼酒店坐落在纽约的纽约州, 距离布卢明代尔11分钟步行路程, 拥有共用休息室。</string>
 
     <string name="hotel15_name">温莎酒店</string>
-    <string name="hotel15_address">108圣会 St, 纽约, 纽约州10002</string>
     <string name="hotel15_description_preview">温莎酒店提供价格实惠和宽敞的客房, 每一间都深受现代设施和装饰的喜爱。小意大利是方便的位置..。</string>
 
     <string name="hotel16_name">曼哈顿小屋酒店</string>
-    <string name="hotel16_address">81巴利, 纽约, 纽约州10002</string>
     <string name="hotel16_description_preview">曼哈顿巴利小屋坐落在纽约, 距离小意大利400米, 从布鲁克林大桥1.3 公里.....。</string>
 
     <string name="hotel17_name">大酒店</string>
-    <string name="hotel17_address">143巴利, 纽约, 纽约州10002</string>
     <string name="hotel17_description_preview">格兰德大酒店为您提供干净的房间和基本的设施, 您自己决定在哪里花其余的现金, 您保存在豪华酒店..。</string>
 
     <string name="hotel18_name">舒适客栈下东区</string>
-    <string name="hotel18_address">154麦迪逊 St, 纽约, 纽约州10002</string>
     <string name="hotel18_description_preview">下东区舒适客栈坐落在曼哈顿的中心地带, 是新建成的酒店之一.....。</string>
 
     <string name="activity1_name">美国华人博物馆</string>
-    <string name="activity1_address">215中心街</string>
-
-    <string name="activity2_address">运河街133号</string>
-    <string name="activity3_address">莫特街37号</string>
-
-    <string name="activity4_name">运河街</string>
-    <string name="activity5_address">9道尔街</string>
-
-    <string name="activity6_address">桑树街66号</string>
-    <string name="activity7_address">莫特街62号</string>
-    <string name="activity8_address">运河街238号</string>
-    <string name="activity9_address">4 Cortlandt胡同</string>
-    <string name="activity10_address">59运河街</string>
-    <string name="activity11_address">莫特街48号</string>
-    <string name="activity13_address">莫特街29号</string>
-
-    <string name="Activity1_shopping_address">" 纽约州纽约10013号桑柏街78号 "</string>
-    <string name="Activity2_shopping_address">59 Franklin St，纽约，NY 10013</string>
-    <string name="Activity3_shopping_address">50 Mulberry St，纽约，NY 10013</string>
-    <string name="Activity4_shopping_address">50 Mott St，纽约，NY 10013</string>
-    <string name="Activity6_shopping_address">395百老汇, 纽约, 纽约州10013</string>
-    <string name="Activity5_shopping_address">238运河街道纽约 NY 10013</string>
-    <string name="Activity7_shopping_address">83, 纽约, 纽约州10013</string>
 
     <string name="Historical_sight1_address">133运河 St, 纽约, 纽约州10002</string>
     <string name="Historical_sight2_address">215中心 St, 纽约, 纽约州10013</string>
@@ -252,100 +130,49 @@
     <string name="category3_name">甜点。</string>
 
     <string name="restaurant1_name">上海亚洲庄园</string>
-    <string name="restaurant1_website">没有</string>
-    <string name="restaurant1_description">提供一个超级基本的中国菜肴，包括汤饺子的大菜单没有多余的地方。</string>
-    <string name="restaurant1_address">21 Mott St，纽约，NY 10013</string>
 
     <string name="restaurant2_name">Nom Wah茶室</string>
-    <string name="restaurant2_description">复古点心店的历史可追溯至1920年，提供包括茶，啤酒和葡萄酒的饮品。</string>
-    <string name="restaurant2_address">13 Doyers St，纽约，NY 10013</string>
 
     <string name="restaurant3_name">伟大的纽约州Noodletown</string>
-    <string name="restaurant3_address">28 Bowery，纽约，NY 10013</string>
-    <string name="restaurant3_website">" 没有 "</string>
-    <string name="restaurant3_description">在斯巴达的环境中供应盐烤海鲜，手工面条，汤和烤肉。</string>
 
     <string name="restaurant4_name">平</string>
-    <string name="restaurant4_address">22 Mott St，纽约，NY 10013</string>
-    <string name="restaurant4_website">没有</string>
-    <string name="restaurant4_description">在这个广东海鲜地点，也就是以点心午餐而闻名的鱼在前面的鱼缸里被拿走。</string>
 
     <string name="restaurant5_name">美味的拉面</string>
-    <string name="restaurant5_address">1 Doyers St，纽约，NY 10013</string>
-    <string name="restaurant5_website">没有</string>
-    <string name="restaurant5_description">中国面条是用手工制作的，在这个繁华的裸露地点供应汤和炸薯条。</string>
 
     <string name="fast_food1_name">麦当劳</string>
-    <string name="fast_food1_address">纽约，纽约10013，纽约，Canal Street</string>
-    <string name="fast_food1_description">以汉堡，薯条和奶昔闻名的经典，长期的快餐连锁店。</string>
 
     <string name="fast_food2_name">华丰</string>
-    <string name="fast_food2_address">79 Chrystie St, 纽约, 纽约州10002</string>
-    <string name="fast_food2_website">没有</string>
-    <string name="fast_food2_description">亚洲快餐店, 便宜的午餐特价食物, 可以方便地送到你家门口。</string>
 
     <string name="fast_food3_name">华吉猪肉扒快餐</string>
-    <string name="fast_food3_address">7艾伦 St, 纽约10002</string>
-    <string name="fast_food3_website">没有</string>
-    <string name="fast_food3_description">小而适中的中国柜台服务点, 专门从事大米和快餐的猪肉排骨。</string>
 
     <string name="fast_food4_name">Popeyes 路易斯安那厨房</string>
-    <string name="fast_food4_address">125运河 St, 纽约, 纽约州10002</string>
-    <string name="fast_food4_description">路易斯安那州的快餐连锁店以其辛辣的炸鸡、饼干和边而闻名。</string>
 
     <string name="fast_food5_name">梅华快餐</string>
-    <string name="fast_food5_address">190海丝特 St, 纽约, 纽约州10013</string>
-    <string name="fast_food5_description">直接从他们的网站上可以华速食品专业的汤, \"过米\" 菜肴和面条汤。流行的 \"过米\" 菜肴包括鸡腿超过大米和猪肉印章超过大米。流行的面条汤包括牛肉面条汤和上海面条汤。</string>
 
     <string name="sweets1_name">甜蜜的生活</string>
-    <string name="sweets1_address">63海丝特 St, 纽约, 纽约州10002</string>
-    <string name="sweets1_description">舒适的糖果店提供经典的甜款待加上坚果, 干果和房子制作的巧克力。</string>
-
-    <string name="sweets2_address">119巴克斯 St, 纽约, 纽约州10013</string>
-    <string name="sweets2_description">一家日本冰淇淋店, 供应一种鱼形的华夫饼锥中的创新风味。</string>
 
     <string name="sweets3_name">甜蜜的时刻</string>
-    <string name="sweets3_address">106莫特 St, 纽约, 纽约州10013</string>
-    <string name="sweets3_description">时髦甜点咖啡馆与创造性的剃掉冰混合物和华夫饼, 加上工艺咖啡饮料和茶。</string>
 
     <string name="sweets4_name">原唐人街冰淇淋厂</string>
-    <string name="sweets4_address">纽约新亚街65号, 纽约州10013</string>
-    <string name="sweets4_description">这种风味从熟悉到异国情调 (如荔枝) 在这个紧凑的冰淇淋店。</string>
 
     <string name="sweets5_name">菲大面包店</string>
-    <string name="sweets5_address">83莫特 St, 纽约, 纽约州10013</string>
-    <string name="sweets5_description">中国面包店的蛋糕, 饼干和面包也提供冷热饮料。</string>
 
-    <string name="train_notice">在周末, 火车可能会因施工而受到改变。</string>
     <string name="canal_street_station">运河街</string>
     <string name="canal_street_description">到运河街地铁站有多种方式。这是一个非常大的车站, 由许多火车组成, 包括 N, Q, R, W, J, Z, M, 4 和6列车。</string>
-    <string name="east_broadway_station">东百老汇</string>
     <string name="east_broadway_description">开往东百老汇的唯一列车是 F 列车。</string>
     <string name="grand_street_station">大街</string>
     <string name="grand_street_description">在这个星期结束 B 火车不跑。只有 D 列车停在这个车站。</string>
 
     <string name="title_activity_transport_tabs">传输选项卡活动</string>
-    <string name="action_settings">设置</string>
-    <string name="section_format">节％1 $ d中的Hello World</string>
     <string name="title_activity_transportation">" 运输活动 "</string>
     <string name="title_activity_transport">运输活动</string>
-    <string name="tab_text_1">选项卡1</string>
-    <string name="tab_text_2">标签2</string>
-    <string name="tab_text_3">标签3</string>
-    <string name="title_activity_trains_transport">火车运输活动</string>
-    <string name="title_home">家</string>
-    <string name="title_dashboard">仪表板</string>
-    <string name="title_notifications">通知</string>
     <string name="m14a_bus">14米的巴士路线</string>
     <string name="m14a_bus_description">如果您在西村、 Flatiron District, Gramercy 公园或东村，您可以采取的14M 的总线，它将带您进入下东侧到唐人街。</string>
     <string name="m21_bus">21 米的巴士路线</string>
     <string name="m21_bus_description">这取决于您所在的地方，从哈德逊广场，以较低的东侧，您可以采取的21 M 总线以获得整个曼哈顿。</string>
     <string name="m15_bus">15 米的巴士路线</string>
     <string name="m15_bus_description">您可以采取的15 M 总线从几乎任何地方在曼哈顿。 如果您在曼哈顿的西端，您只能步行东。 这一总线便会从哈林区到曼哈顿下城区。</string>
-    <string name="activity9_type">活动类型： N/A</string>
-    <string name="activity13_type">活动类型： N/A</string>
-    <string name="activity15_type">活动类型： N/A</string>
-    
+
     <string name="timeline1870sdes">唐人街的创建，经过入境者被赶出了由于西方反华情绪由于担心失业后崩溃的淘金热，并完成了跨大陆铁路。 移民聚集到佩尔、万隆工程、 Doyers 街，这最终将扩大到唐人街，因为它是已知的今天。</string>
     <string name="timeline1880sdes">「排华法案》成立于 1882 由于反华情绪，这种被禁止的归化，中国已经在美国和中国的移民，任何人如果没有特别的工作许可。 这是允许的商人、学生和商人。 该法还禁止的妻子和儿女的华工，还进入了美国。 一组招商局创办了中国综合慈善协会，作为一个非官方的地方政府。</string>
     <string name="timeline1890sdes">Pell 和万隆工程街道成为衬中式餐厅。 这吸引了很多的注意从非华裔的纽约人。</string>
@@ -363,9 +190,6 @@
     <string name="timeline_button1">过去</string>
     <string name="timeline_button2">未来</string>
     <string name="timeline_button3">目前</string>
-    <string name="facts_button1">背面</string>
-    <string name="facts_button2">下一个</string>
-    <string name="facts_button3">完成</string>
     <string name="funfact1">一半的唐人街曾是部分的 5 个点，这是一个声名狼藉的贫民窟。 这是坐落在 Bowery 之间、公园、中央大街、行和运河街</string>
     <string name="funfact2">运河街一度，顾名思义，一条运河。 但是，这种运河基本上是一个开放的排水管道，是一个很严重的问题。 这是填充， 1819 和 1820 中的一个街道。</string>
     <string name="funfact3">世界上最高的佛像在纽约位于大乘佛教寺庙。 它达 16 英尺。</string>
