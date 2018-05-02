@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Chinatown_Tour.iml" filepath="$PROJECT_DIR$/Chinatown_Tour.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pulled_Verson.iml" filepath="$PROJECT_DIR$/Pulled_Verson.iml" />
+=======
+>>>>>>> e9c2e992b8ab02bd6accc3c0e850793ff754c9ef
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cs3892018team2.iml" filepath="$PROJECT_DIR$/cs3892018team2.iml" />
     </modules>
   </component>
 </project>

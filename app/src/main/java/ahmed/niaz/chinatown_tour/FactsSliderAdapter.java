@@ -19,10 +19,9 @@ public class FactsSliderAdapter extends PagerAdapter {
     }
 
     //Arrays
-    public int[] slide_images = new int[]  {
+    public int[] slide_images = {
             R.drawable.funfactim1,
             R.drawable.funfactim2,
-            R.drawable.funfactim3,
             R.drawable.funfactim3,
             R.drawable.funfactim4,
             R.drawable.funfactim5,
@@ -30,7 +29,7 @@ public class FactsSliderAdapter extends PagerAdapter {
             R.drawable.funfactim7,
             R.drawable.funfactim8,
             R.drawable.funfactim9,
-            R.drawable.funfactim9
+            R.drawable.funfactim10
     };
 
     int[] slide_descriptions = new int[] {
@@ -58,10 +57,10 @@ public class FactsSliderAdapter extends PagerAdapter {
     public Object instantiateItem(ViewGroup container, int position) {
 
         layoutInflater = (LayoutInflater) context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
-        View view = layoutInflater.inflate( R.layout.timeline, container, false);
+        View view = layoutInflater.inflate( R.layout.fun_factssliderlayout, container, false);
 
-        ImageView slideImageView = (ImageView) view.findViewById( R.id.slideImages);
-        TextView slideDescription = view.findViewById( R.id.slideDescriptions);
+        ImageView slideImageView = (ImageView) view.findViewById( R.id.funfactsimage);
+        TextView slideDescription = view.findViewById( R.id.funfactsdes);
 
         slideImageView.setImageResource(slide_images[position]);
         slideDescription.setText(slide_descriptions[position]);

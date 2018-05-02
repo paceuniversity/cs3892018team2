@@ -10,6 +10,7 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
 
@@ -27,18 +28,22 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
 
     //Data Variables
     private ArrayList<Integer> restaurantNames = new ArrayList<>();
-    private ArrayList<Integer> matchRestaurant = new ArrayList<Integer>();
-    private ArrayList<Integer> matchFastFood = new ArrayList<Integer>();
-    private ArrayList<Integer> matchSweets = new ArrayList<Integer>();
-
     private ArrayList<Integer> restaurantImages = new ArrayList<>();
+    private ArrayList<Integer> restaurantDescriptions = new ArrayList<>();
+    private ArrayList<String> restaurantMenu = new ArrayList<>();
+    private ArrayList<String> restaurantWebsite = new ArrayList<>();
+    private ArrayList<String> restaurantMap = new ArrayList<>();
     private Context rContext;
 
 
 
-    public RecyclerViewAdapter(Context context, ArrayList<Integer> names, ArrayList<Integer> images){
+    public RecyclerViewAdapter(Context context, ArrayList<Integer> names, ArrayList<Integer> images, ArrayList<Integer> descriptions, ArrayList<String> menus, ArrayList<String> website, ArrayList<String> map){
         restaurantNames = names;
         restaurantImages = images;
+        restaurantDescriptions = descriptions;
+        restaurantMenu = menus;
+        restaurantWebsite = website;
+        restaurantMap = map;
         rContext = context;
     }
 
@@ -62,11 +67,18 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
         holder.name.setText(restaurantNames.get(position));
 
 
-        //This just prints out a toast when clicking on an image good testing to help setup info page
+        //== SETS TOAST NAME FOR IMAGE AND INTENT TO GO TO THEIR RESPECTIVE DETAILED PAGE ==
         holder.image.setOnClickListener(new View.OnClickListener(){
             public void onClick(View view){
-               // Log.d(TAG, "onClick: clicked on an image" + restaurantNames.get(position));
-                Intent intent = new Intent(view.getContext(), SpecificFoodActivity.class);
+               Toast.makeText(rContext, restaurantNames.get(position), Toast.LENGTH_SHORT).show();
+
+                Intent intent = new Intent(rContext, SpecificFoodActivity.class);
+                intent.putExtra("food_Image", restaurantImages.get(position));
+                intent.putExtra("food_Name", restaurantNames.get(position));
+                intent.putExtra("food_Description", restaurantDescriptions.get(position));
+                intent.putExtra("food_Menu", restaurantMenu.get(position));
+                intent.putExtra("food_Website", restaurantWebsite.get(position));
+                intent.putExtra("food_Map", restaurantMap.get(position));
                 rContext.startActivity(intent);
 
 
