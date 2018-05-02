@@ -144,7 +144,7 @@ public class HotelActivity extends AppCompatActivity {
                 map_url = getString(R.string.hotel8_maplink);
                 break;
 
-            case 9:
+           /* case 9:
                 name = R.string.hotel9_name;
                 img_one = R.drawable.hotel9_image1;
                 img_two = R.drawable.hotel9_image2;
@@ -154,8 +154,9 @@ public class HotelActivity extends AppCompatActivity {
                 phone = getString(R.string.hotel9_phone_number);
                 map_url = getString(R.string.hotel9_maplink);
                 break;
+            */
 
-            case 10:
+            case 9:
                 name = R.string.hotel10_name;
                 img_one = R.drawable.hotel10_image1;
                 img_two = R.drawable.hotel10_image2;
@@ -166,6 +167,7 @@ public class HotelActivity extends AppCompatActivity {
                 map_url = getString(R.string.hotel10_maplink);
                 break;
 
+            /*
             case 11:
                 name = R.string.hotel11_name;
                 img_one = R.drawable.hotel1_image1;
@@ -176,8 +178,9 @@ public class HotelActivity extends AppCompatActivity {
                 phone = getString(R.string.hotel11_phone_number);
                 map_url = getString(R.string.hotel11_maplink);
                 break;
+             */
 
-            case 12:
+            case 10:
                 name = R.string.hotel12_name;
                 img_one = R.drawable.hotel12_image1;
                 img_two = R.drawable.hotel12_image2;
@@ -188,7 +191,7 @@ public class HotelActivity extends AppCompatActivity {
                 map_url = getString(R.string.hotel12_maplink);
                 break;
 
-            case 13:
+            case 11:
                 name = R.string.hotel3_name;
                 img_one = R.drawable.hotel13_image1;
                 img_two = R.drawable.hotel13_image2;
@@ -199,7 +202,7 @@ public class HotelActivity extends AppCompatActivity {
                 map_url = getString(R.string.hotel13_maplink);
                 break;
 
-            case 14:
+            case 12:
                 name = R.string.hotel3_name;
                 img_one = R.drawable.hotel14_image1;
                 img_two = R.drawable.hotel14_image2;
@@ -210,7 +213,7 @@ public class HotelActivity extends AppCompatActivity {
                 map_url = getString(R.string.hotel14_maplink);
                 break;
 
-            case 15:
+            case 13:
                 name = R.string.hotel15_name;
                 img_one = R.drawable.hotel15_image1;
                 img_two = R.drawable.hotel15_image2;
@@ -221,7 +224,7 @@ public class HotelActivity extends AppCompatActivity {
                 map_url = getString(R.string.hotel15_maplink);
                 break;
 
-            case 16:
+            case 14:
                 name = R.string.hotel16_name;
                 img_one = R.drawable.hotel16_image1;
                 img_two = R.drawable.hotel16_image2;
@@ -232,7 +235,7 @@ public class HotelActivity extends AppCompatActivity {
                 map_url = getString(R.string.hotel16_maplink);
                 break;
 
-            case 17:
+           /* case 17:
                 name = R.string.hotel17_name;
                 img_one = R.drawable.hotel17_image1;
                 img_two = R.drawable.hotel17_image2;
@@ -242,8 +245,9 @@ public class HotelActivity extends AppCompatActivity {
                 phone = getString(R.string.hotel17_phone_number);
                 map_url = getString(R.string.hotel17_maplink);
                 break;
+              */
 
-            case 18:
+            case 15:
                 name = R.string.hotel18_name;
                 img_one = R.drawable.hotel18_image1;
                 img_two = R.drawable.hotel18_image2;
@@ -288,15 +292,15 @@ public class HotelActivity extends AppCompatActivity {
                 R.drawable.hotel6_image1,
                 R.drawable.hotel7_image1,
                 R.drawable.hotel8_image1,
-                R.drawable.hotel9_image1,
+                //R.drawable.hotel9_image1,
                 R.drawable.hotel10_image1,
-                R.drawable.hotel11_image1,
+                // R.drawable.hotel11_image1,
                 R.drawable.hotel12_image1,
                 R.drawable.hotel13_image1,
                 R.drawable.hotel14_image1,
                 R.drawable.hotel15_image1,
                 R.drawable.hotel16_image1,
-                R.drawable.hotel17_image1,
+                //R.drawable.hotel17_image1,
                 R.drawable.hotel18_image1,
         };
 

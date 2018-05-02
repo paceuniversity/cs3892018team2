@@ -70,12 +70,14 @@
     <string name="hotel8_phone_number" translatable="false"> (212) 226-0300   </string>
     <string name="hotel8_maplink" translatable="false">https://goo.gl/maps/AbKNTXSW2rw </string>
 
+    <!--
     <string name="hotel9_name">Tribeca blu</string>
     <string name="hotel9_description_preview"> Tribeca Blu sits on a busy downtown intersection of Canal Street and Broadway. The location does afford an urban feel with ... </string>
     <string name="hotel9_description">Tribeca Blu sits on a busy downtown intersection of Canal Street and Broadway. The location does afford an urban feel with close proximity (walking distance) to trendy neighborhoods like SoHo and Tribeca. If that\'s not enough choice for food and drink, Chinatown and Little Italy are easy to get to via foot. Guests can also walk a bit farther to get to One World Trade Center and the 9/11 memorial, as well as West, Greenwich, and East Villages.</string>
     <string name="hotel9_website_link" translatable="false">http://tribecabluhotel.com/</string>
     <string name="hotel9_phone_number" translatable="false"> (212) 941-6106 </string>
     <string name="hotel9_maplink" translatable="false">https://goo.gl/maps/BQLSoVjoVpA2 </string>
+    -->
 
     <string name="hotel10_name">Sun Bright Hotel</string>
     <string name="hotel10_description_preview">The Sun Bright hotel is in the center of Chinatown and one block from Grand Subway Station. The hotel offers</string>
@@ -84,11 +86,13 @@
     <string name="hotel10_phone_number" translatable="false"> (212) 226-7070   </string>
     <string name="hotel10_maplink" translatable="false">https://goo.gl/maps/8ZGVYEnrwCn</string>
 
+    <!--
     <string name="hotel11_name">Fairfield Inn &amp;amp; Suites by Marriott New York Manhattan/Downtown</string>
     <string name="hotel11_description_preview">Boasting brand-new, spacious rooms and suites, as well as a convenient location near the New York Stock Exchange, September 11 Memorial...</string>
     <string name="hotel11_website_link" translatable="false">http://www.marriott.com/hotels/travel/nycfm-fairfield-inn-and-suites-new-york-manhattan-downtown-east/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2</string>
     <string name="hotel11_phone_number" translatable="false"> (212) 227-0709   </string>
     <string name="hotel11_maplink" translatable="false"> https://goo.gl/maps/FsaYYk6TqDs </string>
+    -->
 
     <string name="hotel12_name">Hotel Richland New York</string>
     <string name="hotel12_description_preview">Sleep easy in a comfortable room. You can stay entertained with the free Wi-Fi, DVD player, an iPod docking station, and a... </string>
@@ -126,13 +130,14 @@
     <string name="hotel16_phone_number" translatable="false"> (917) 353-5617 </string>
     <string name="hotel16_maplink" translatable="false"> https://goo.gl/maps/RuTDdi7Kwa82</string>
 
+    <!--
     <string name="hotel17_name">Bowery Grand Hotel</string>
     <string name="hotel17_description_preview">Bowery Grand Hotel provides you with clean room and basic amenities and you decide for yourself where to spend the rest of cash that you saved on fancy hotel... </string>
     <string name="hotel17_description">Bowery Grand Hotel provides you with clean room and basic amenities and you decide for yourself where to spend the rest of cash that you saved on fancy hotel. Minutes away from Little Italy, downtown shopping and right around the corner from Williamsburg Bridge. The rest of NYC is at your disposal just few train stops away, two of which by the way we got so close to our hotel so you have to work harder on your mouse scroll to make them apart from us at Google Maps.</string>
     <string name="hotel17_website_link" translatable="false">http://bowerygrandhotel.com/</string>
     <string name="hotel17_phone_number" translatable="false">  (212) 226-6655  </string>
     <string name="hotel17_maplink" translatable="false"> https://goo.gl/maps/S6hwohQNpXD2 </string>
-
+    -->
 
     <string name="hotel18_name">Comfort Inn Lower East Side</string>
     <string name="hotel18_description_preview"> The Comfort Inn Lower East Side is perfectly located in the heart of Manhattan and is one of the newly built hotels in the area...</string>
@@ -150,15 +155,15 @@
         <item>@string/hotel6_name </item>
         <item>@string/hotel7_name </item>
         <item>@string/hotel8_name </item>
-        <item>@string/hotel9_name </item>
+        <!-- <item>@string/hotel9_name </item> -->
         <item>@string/hotel10_name </item>
-        <item>@string/hotel11_name </item>
+        <!-- <item>@string/hotel11_name </item> -->
         <item>@string/hotel12_name </item>
         <item>@string/hotel13_name </item>
         <item>@string/hotel14_name </item>
         <item>@string/hotel15_name </item>
         <item>@string/hotel16_name </item>
-        <item>@string/hotel17_name </item>
+       <!-- <item>@string/hotel17_name </item> -->
         <item>@string/hotel18_name </item>
     </string-array>
 
@@ -171,15 +176,15 @@
         <item>@string/hotel6_description_preview  </item>
         <item>@string/hotel7_description_preview  </item>
         <item>@string/hotel8_description_preview  </item>
-        <item>@string/hotel9_description_preview  </item>
+        <!-- <item>@string/hotel9_description_preview  </item> -->
         <item>@string/hotel10_description_preview  </item>
-        <item>@string/hotel11_description_preview </item>
+       <!--  <item>@string/hotel11_description_preview </item> -->
         <item>@string/hotel12_description_preview  </item>
         <item>@string/hotel13_description_preview </item>
         <item>@string/hotel14_description_preview  </item>
         <item>@string/hotel15_description_preview  </item>
         <item>@string/hotel16_description_preview  </item>
-        <item>@string/hotel17_description_preview </item>
+       <!-- <item>@string/hotel17_description_preview </item> -->
         <item>@string/hotel18_description_preview </item>
     </string-array>
 
