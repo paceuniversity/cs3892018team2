@@ -25,22 +25,32 @@ public class BussesFragment extends Fragment{
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_busses,container,false);
 
-        ListView busListView = (ListView) view.findViewById(R.id.listView);
+        ListView busListView = (ListView) view.findViewById(R.id.listView_busses);
 
-        BusObject m21 = new BusObject(getString(R.string.m21_bus),getString(R.string.m21_bus_description), getResources().getDrawable(R.drawable.m21_bus_route));
-        BusObject m14a = new BusObject(getString(R.string.m14a_bus),getString(R.string.m14a_bus_description), getResources().getDrawable(R.drawable.m14a_bus_route));
-        BusObject m15 = new BusObject(getString(R.string.m15_bus),getString(R.string.m15_bus_description), getResources().getDrawable(R.drawable.m15_bus_route));
+        // === CREATE BUS OBJECTS ===
+        BusObject m21 = new BusObject(getString(R.string.m21_bus),getString(R.string.m21_bus_description),
+                getResources().getDrawable(R.drawable.m21_bus_route));
 
+        BusObject m14a = new BusObject(getString(R.string.m14a_bus),getString(R.string.m14a_bus_description),
+                getResources().getDrawable(R.drawable.m14a_bus_route));
+
+        BusObject m15 = new BusObject(getString(R.string.m15_bus),getString(R.string.m15_bus_description),
+                getResources().getDrawable(R.drawable.m15_bus_route));
+
+
+        // == CREATE ARRAY LIST OF BUSOBJECTS AND ADD OBJECTS ===
         ArrayList<BusObject> busList = new ArrayList<>();
         busList.add(m21);
         busList.add(m14a);
         busList.add(m15);
 
+
+        // === SET ADAPTER ===
         BusListAdapter adapter = new BusListAdapter(getActivity(),R.layout.buss_adapter_view,busList);
         busListView.setAdapter(adapter);
 
 
-        //=== Click listener to go to Maps via URL ===
+        //=== CLICK LISTENER TO GO TO MAPS VIA URL ===
         busListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include
+        android:id="@+id/include2"
+        layout="@layout/custom_main_menu_header"
+        />
+
+
+    <Button
+        android:id="@+id/food_map_icon"
+        android:layout_width="35dp"
+        android:layout_height="32dp"
+        android:layout_marginStart="74dp"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/map_btn_img"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/foodPic" />
+
+    <Button
+        android:id="@+id/food_web_icon"
+        android:layout_width="35dp"
+        android:layout_height="32dp"
+        android:layout_marginStart="62dp"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/website_btn_img"
+        app:layout_constraintStart_toEndOf="@+id/food_map_icon"
+        app:layout_constraintTop_toBottomOf="@+id/foodPic" />
+
+    <Button
+        android:id="@+id/food_menu_icon"
+        android:layout_width="35dp"
+        android:layout_height="32dp"
+        android:layout_marginStart="62dp"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/menu_icon"
+        app:layout_constraintStart_toEndOf="@+id/food_web_icon"
+
+        app:layout_constraintTop_toBottomOf="@+id/foodPic" />
+
+    <ImageView
+        android:id="@+id/foodPic"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        app:layout_constraintTop_toBottomOf="@+id/imageView_routes" />
+
+    <ImageView
+        android:id="@+id/imageView_routes"
+        android:layout_width="299dp"
+        android:layout_height="207dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="48dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/include2" />
+
+    <TextView
+        android:id="@+id/specific_food_name"
+        android:layout_width="wrap_content"
+        android:layout_height="24dp"
+        android:layout_marginBottom="16dp"
+        android:layout_marginStart="128dp"
+        android:layout_marginTop="8dp"
+        android:gravity="center"
+        android:text="Food Name Here"
+
+        app:layout_constraintBottom_toTopOf="@+id/foodPic"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/include2" />
+
+    <TextView
+        android:id="@+id/specific_food_description"
+        android:layout_width="341dp"
+        android:layout_height="160dp"
+        android:layout_marginStart="14dp"
+        android:layout_marginTop="55dp"
+        android:text="Description"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/food_map_icon" />
+
+
+</android.support.constraint.ConstraintLayout>

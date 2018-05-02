@@ -10,6 +10,8 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+        android:largeHeap="true"
+        android:hardwareAccelerated="false"
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity"
             android:screenOrientation="portrait">
@@ -45,9 +47,20 @@
             android:label="@string/title_activity_transport"
             android:theme="@style/AppTheme"
             android:screenOrientation="portrait"/>
-        <activity android:name=".CustomListAdapter"
-            android:screenOrientation="portrait"/>
+
         <activity android:name=".SpecificFoodActivity"/>
+
+
+        <activity
+            android:name=".HistoryTimeline"
+            android:screenOrientation="portrait"/>
+
+        <activity
+            android:name=".HistoryFacts"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".HistoryLanding"
+            android:screenOrientation="portrait"/>
+
     </application>
 
 </manifest>
