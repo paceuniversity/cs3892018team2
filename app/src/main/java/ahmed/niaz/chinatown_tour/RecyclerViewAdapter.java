@@ -70,7 +70,7 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
         //== SETS TOAST NAME FOR IMAGE AND INTENT TO GO TO THEIR RESPECTIVE DETAILED PAGE ==
         holder.image.setOnClickListener(new View.OnClickListener(){
             public void onClick(View view){
-               Toast.makeText(rContext, restaurantNames.get(position), Toast.LENGTH_SHORT).show();
+               //Toast.makeText(rContext, restaurantNames.get(position), Toast.LENGTH_SHORT).show();
 
                 Intent intent = new Intent(rContext, SpecificFoodActivity.class);
                 intent.putExtra("food_Image", restaurantImages.get(position));
