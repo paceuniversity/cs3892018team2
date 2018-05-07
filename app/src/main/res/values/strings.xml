@@ -620,6 +620,7 @@
     <string name="canal_street_description">There are multiple way to get to the Canal Street subway station. It is a very large station that consists of many trains.</string>
     <string name="canal_url" translatable="false">https://www.google.com/maps/search/canal+street+train+station+maps/@40.6926789,-73.9890684,14z/data=!3m1!4b1</string>
 
+    <string name="east_broadway_trains">East Broadway Station</string>
     <string name="east_broadway_trains" translatable="false">Train: F</string>
     <string name="east_broadway_description">The only train that runs to East Broadway is the F train.</string>
     <string name="eastBWay_url" translatable="false">https://www.google.com/maps/search/east+broadway+train+station+maps/@40.7122848,-74.0093877,14z/data=!3m1!4b1</string>
