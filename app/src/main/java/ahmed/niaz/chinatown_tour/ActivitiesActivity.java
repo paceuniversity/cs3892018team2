@@ -7,7 +7,10 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ImageButton;
+import android.widget.ImageSwitcher;
 import android.widget.ImageView;
+import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -146,6 +149,11 @@ import iammert.com.expandablelib.Section;
 
 public class ActivitiesActivity extends AppCompatActivity {
 
+    // === LANDING PAGE WIDGETS ===
+
+    private ImageView app_logo;
+    private ImageButton settings_btn;
+
     public int activity_image_int;
     public int activity_name_int;
     public int activity_address_int;
@@ -158,6 +166,30 @@ public class ActivitiesActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activities);
+
+        app_logo = (ImageView) findViewById(R.id.appIcon);
+
+        // Main Menu Link
+
+        app_logo.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(ActivitiesActivity.this,MainActivity.class);
+                startActivity(intent);
+            }
+        });
+
+
+        // Settings Icon Link
+
+        settings_btn = (ImageButton) findViewById(R.id.setting_image_button);
+        settings_btn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(ActivitiesActivity.this,SettingsActivity.class);
+                startActivity(intent);
+            }
+        });
 
 
         ExpandableLayout layout = (ExpandableLayout) findViewById(R.id.activities_expandable_layout);
