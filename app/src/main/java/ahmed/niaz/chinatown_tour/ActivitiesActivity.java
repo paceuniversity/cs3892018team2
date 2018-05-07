@@ -219,7 +219,7 @@ public class ActivitiesActivity extends AppCompatActivity {
 
         layout.addSection(getSection((R.drawable.activity_shopping_image2),(R.string.Activity2_shopping_name),
                 (R.string.Activity2_shopping_address),(R.string.Activity2_shopping_website_link),(R.string.Activity2_shopping_phone_number),
-                (R.string.Activity2_shopping_description)));
+                (R.string.Activity2_shopping_static)));
 
 
 
