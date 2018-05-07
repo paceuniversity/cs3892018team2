@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main_menu);
 
-        // Settings Icon Link
+        // === SETTINGS ICON LINK  ===
 
         settings_btn = (ImageButton) findViewById(R.id.setting_image_button);
         settings_btn.setOnClickListener(new View.OnClickListener() {
@@ -34,10 +34,9 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        /* Main Menu Variables */
+        // === MAIN MENU VARIABLES ===
 
         transport_lp_btn = (Button) findViewById(R.id.transport_landing_pg);
-      //  transport_lp_btn.setBackgroundColor(0xFFFF0000);
         transport_lp_btn.setTextColor(Color.parseColor("#FFFFFF"));
         transport_lp_btn.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -48,7 +47,6 @@ public class MainActivity extends AppCompatActivity {
         });
 
         food_lp_btn = (Button) findViewById(R.id.food_landing_pg);
-       // food_lp_btn.setBackgroundColor(0xFFFF0000);
         food_lp_btn.setTextColor(Color.parseColor("#FFFFFF"));
         food_lp_btn.setOnClickListener(new View.OnClickListener() {
             @Override
