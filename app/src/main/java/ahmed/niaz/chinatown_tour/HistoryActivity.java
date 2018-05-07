@@ -33,8 +33,8 @@ public class HistoryActivity extends AppCompatActivity {
     private int img_one;
     private int img_two;
     private int img_three;
+    private int description;
     int address;
-    private int information;
     private String url;
     private int img_num;
 
@@ -61,7 +61,7 @@ public class HistoryActivity extends AppCompatActivity {
                 img_two = R.drawable.historical_sights1_image2;
                 img_three = R.drawable.historical_sights1_image3;
                 address = R.string.Historical_sight1_address;
-                information = R.string.Historical_sight1_historical_information;
+                description  = R.string.Historical_sight1_historical_information;
                 url = getString( R.string.Historical_sight1_website);
 
                 break;
@@ -72,7 +72,7 @@ public class HistoryActivity extends AppCompatActivity {
                 img_two = R.drawable.historical_sights2_image2;
                 img_three = R.drawable.historical_sights2_image3;
                 address = R.string.Historical_sight2_address;
-                information = R.string.Historical_sight2_historical_information;
+                description  = R.string.Historical_sight2_historical_information;
                 url = getString( R.string.Historical_sight2_website);
 
                 break;
@@ -83,7 +83,7 @@ public class HistoryActivity extends AppCompatActivity {
                 img_two = R.drawable.historical_sights3_image2;
                 img_three = R.drawable.historical_sights1_image3;
                 address = R.string.Historical_sight3_address;
-                information = R.string.Historical_sight3_historical_information;
+                description = R.string.Historical_sight3_historical_information;
                 url = getString( R.string.Historical_sight3_website);
 
                 break;
@@ -94,7 +94,7 @@ public class HistoryActivity extends AppCompatActivity {
                 img_two = R.drawable.historical_sights4_image2;
                 img_three = R.drawable.historical_sights4_image3;
                 address = R.string.Historical_sight4_address;
-                information = R.string.Historical_sight4_historical_information;
+                description  = R.string.Historical_sight4_historical_information;
                 url = getString( R.string.Historical_sight4_website);
 
                 break;
@@ -105,7 +105,7 @@ public class HistoryActivity extends AppCompatActivity {
                 img_two = R.drawable.historical_sights1_image2;
                 img_three = R.drawable.historical_sights5_image3;
                 address = R.string.Historical_sight5_address;
-                information = R.string.Historical_sight5_historical_information;
+                description  = R.string.Historical_sight5_historical_information;
                 url = getString( R.string.Historical_sight5_website);
 
                 break;
@@ -116,7 +116,7 @@ public class HistoryActivity extends AppCompatActivity {
                 img_two = R.drawable.historical_sights6_image2;
                 img_three = R.drawable.historical_sights6_image3;
                 address = R.string.Historical_sight6_address;
-                information = R.string.Historical_sight6_historical_information;
+                description  = R.string.Historical_sight6_historical_information;
                 url = getString( R.string.Historical_sight6_website);
 
                 break;
@@ -127,7 +127,7 @@ public class HistoryActivity extends AppCompatActivity {
                 img_two = R.drawable.historical_sights7_image2;
                 img_three = R.drawable.historical_sights7_image3;
                 address = R.string.Historical_sight7_address;
-                information = R.string.Historical_sight7_historical_information;
+                description  = R.string.Historical_sight7_historical_information;
                 url = getString( R.string.Historical_sight7_website);
 
                 break;
@@ -138,7 +138,7 @@ public class HistoryActivity extends AppCompatActivity {
                 img_two = R.drawable.historical_sights8_image2;
                 img_three = R.drawable.historical_sights8_image3;
                 address = R.string.Historical_sight8_address;
-                information = R.string.Historical_sight8_historical_information;
+                description  = R.string.Historical_sight8_historical_information;
                 url = getString( R.string.Historical_sight8_website);
 
                 break;
@@ -149,7 +149,7 @@ public class HistoryActivity extends AppCompatActivity {
                 img_two = R.drawable.historical_sights9_image2;
                 img_three = R.drawable.historical_sights9_image3;
                 address = R.string.Historical_sight9_address;
-                information = R.string.Historical_sight9_historical_information;
+                description = R.string.Historical_sight9_historical_information;
                 url = getString( R.string.Historical_sight9_website);
 
                 break;
@@ -275,7 +275,7 @@ public class HistoryActivity extends AppCompatActivity {
                 // === ASSIGN PAGE VARIABLES TO WIDGETS ===
 
                 spec_name.setText(name);
-                spec_description.setText(" ");
+                spec_description.setText(description);
                 img_switcher.setImageDrawable(getResources().getDrawable(img_one));
 
                 // === IMG WHEEL ITERATION VARIABLE ===
