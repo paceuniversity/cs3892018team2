@@ -33,7 +33,7 @@ public class TrainsFragment extends Fragment {
         TrainsObject grand = new TrainsObject(getString(R.string.grand_street_station),getString(R.string.grand_street_trains),
                 getString(R.string.grand_street_description),getResources().getDrawable(R.drawable.grand_street_station));
 
-        TrainsObject eastBWay = new TrainsObject(getString(R.string.east_broadway_description),getString(R.string.east_broadway_trains),
+        TrainsObject eastBWay = new TrainsObject(getString(R.string.east_broadway_station),getString(R.string.east_broadway_trains),
                 getString(R.string.east_broadway_description),getResources().getDrawable(R.drawable.east_broadway_station));
 
 
